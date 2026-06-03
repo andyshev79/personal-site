@@ -1,61 +1,137 @@
-// Щоб додати новий пост — додай об'єкт на початок масиву POSTS.
-// tag: "analytics" | "trading" | "personal" | "tools" | "markets"
+// Автоматично оновлено: 2026-06-03 14:55 UTC
+// Джерело: https://t.me/shevchyshyn_trends
+// НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const POSTS = [
   {
-    id: 1,
-    tag: "analytics",
-    tagLabel: "Аналітика",
-    title: "EUR/USD: три сигнали розвороту, які я бачу прямо зараз",
-    excerpt: "Розбираю поточну ситуацію на валютному ринку — чому чекаю корекцію і на які рівні дивлюся в найближчі два тижні.",
-    date: "28 травня 2026",
-    readTime: "5 хв",
-    featured: true,
-    url: "posts/eurusd-reversal.html"
+    "id": 78,
+    "tag": "telegram",
+    "tagLabel": "Telegram",
+    "title": "ІНФЛЯЦІЯ В ЄС ПРИСКОРИЛАСЬ. ЧОМУ ЦЕ ВПЛИНЕ НА УКРАЇНУ  Інфляція в ЄС у травні 2026 досягла максим...",
+    "excerpt": "",
+    "date": "2 червня 2026",
+    "dateISO": "2026-06-02",
+    "readTime": "1 хв",
+    "featured": true,
+    "url": "https://t.me/shevchyshyn_trends/78",
+    "external": true
   },
   {
-    id: 2,
-    tag: "trading",
-    tagLabel: "Трейдинг",
-    title: "Мій ризик-менеджмент: як я захищаю депозит у волатильний період",
-    excerpt: "Практичні правила, яких дотримуюся незалежно від ринкової ситуації.",
-    date: "20 травня 2026",
-    readTime: "3 хв",
-    featured: false,
-    url: "posts/risk-management.html"
+    "id": 77,
+    "tag": "telegram",
+    "tagLabel": "Telegram",
+    "title": "Міжбанк долар 44.35  - 44.38 Новий історичний максимум",
+    "excerpt": "",
+    "date": "2 червня 2026",
+    "dateISO": "2026-06-02",
+    "readTime": "1 хв",
+    "featured": false,
+    "url": "https://t.me/shevchyshyn_trends/77",
+    "external": true
   },
   {
-    id: 3,
-    tag: "personal",
-    tagLabel: "Особисте",
-    title: "5 книг, які змінили мій погляд на інвестиції",
-    excerpt: "Список із коротким поясненням, що саме я взяв із кожної книги.",
-    date: "15 травня 2026",
-    readTime: "4 хв",
-    featured: false,
-    url: "posts/5-books.html"
+    "id": 76,
+    "tag": "telegram",
+    "tagLabel": "Telegram",
+    "title": "ПОКАЙТИСЯ... ТОМУ ЩО КІНЕЦЬ РАЛІ ФОНДИ ПРИЙДЕ... НАКРИЄ ВСІХ ))) ---  🚀🇺🇸 Разработчик ИИ Anthropi...",
+    "excerpt": "",
+    "date": "1 червня 2026",
+    "dateISO": "2026-06-01",
+    "readTime": "1 хв",
+    "featured": false,
+    "url": "https://t.me/shevchyshyn_trends/76",
+    "external": true
   },
   {
-    id: 4,
-    tag: "tools",
-    tagLabel: "Інструменти",
-    title: "MT5 агенти: як автоматизувати рутину трейдера",
-    excerpt: "Розповідаю про те, як використовую AI-агентів для автоматизації частини аналітики.",
-    date: "10 травня 2026",
-    readTime: "6 хв",
-    featured: false,
-    url: "posts/mt5-agents.html"
+    "id": 75,
+    "tag": "telegram",
+    "tagLabel": "Telegram",
+    "title": "Якось Мінфін по запозиченням зовсім на розслабоні. Залучають через ОВДП грн (чорна замальована зо...",
+    "excerpt": "",
+    "date": "1 червня 2026",
+    "dateISO": "2026-06-01",
+    "readTime": "1 хв",
+    "featured": false,
+    "url": "https://t.me/shevchyshyn_trends/75",
+    "external": true
   },
   {
-    id: 5,
-    tag: "markets",
-    tagLabel: "Ринки",
-    title: "Золото у 2026: тримаю позицію чи фіксую прибуток?",
-    excerpt: "Мої думки щодо золота — фундаментальна картина і техніка.",
-    date: "5 травня 2026",
-    readTime: "4 хв",
-    featured: false,
-    url: "posts/gold-2026.html"
+    "id": 74,
+    "tag": "telegram",
+    "tagLabel": "Telegram",
+    "title": "В травні 2026 українці наростили портфель ОВДП на історично рекордні 10,34 млрд грн до 148,04 млр...",
+    "excerpt": "",
+    "date": "1 червня 2026",
+    "dateISO": "2026-06-01",
+    "readTime": "1 хв",
+    "featured": false,
+    "url": "https://t.me/shevchyshyn_trends/74",
+    "external": true
+  },
+  {
+    "id": 73,
+    "tag": "telegram",
+    "tagLabel": "Telegram",
+    "title": "Вкладення українських банків в депозитні сертифікати залишається на високому рівні.  Середньоміся...",
+    "excerpt": "",
+    "date": "1 червня 2026",
+    "dateISO": "2026-06-01",
+    "readTime": "1 хв",
+    "featured": false,
+    "url": "https://t.me/shevchyshyn_trends/73",
+    "external": true
+  },
+  {
+    "id": 72,
+    "tag": "telegram",
+    "tagLabel": "Telegram",
+    "title": "А от ще рейтинг валют й спотових інструментів з початку війни в Ірані по кінець травня 2026. Найб...",
+    "excerpt": "",
+    "date": "1 червня 2026",
+    "dateISO": "2026-06-01",
+    "readTime": "1 хв",
+    "featured": false,
+    "url": "https://t.me/shevchyshyn_trends/72",
+    "external": true
+  },
+  {
+    "id": 71,
+    "tag": "telegram",
+    "tagLabel": "Telegram",
+    "title": "Рейтинг світових валюти за 5 міс 2025: - Українська гривня в антирейтингу на 11 місці (-4,68%) - ...",
+    "excerpt": "",
+    "date": "1 червня 2026",
+    "dateISO": "2026-06-01",
+    "readTime": "1 хв",
+    "featured": false,
+    "url": "https://t.me/shevchyshyn_trends/71",
+    "external": true
+  },
+  {
+    "id": 70,
+    "tag": "telegram",
+    "tagLabel": "Telegram",
+    "title": "Рейтинг світових валют у травні 2026 📈 №1рубль рф (+5,8% до долару) №2 ізраїльскій шекель (+4,62%...",
+    "excerpt": "",
+    "date": "1 червня 2026",
+    "dateISO": "2026-06-01",
+    "readTime": "1 хв",
+    "featured": false,
+    "url": "https://t.me/shevchyshyn_trends/70",
+    "external": true
+  },
+  {
+    "id": 67,
+    "tag": "telegram",
+    "tagLabel": "Telegram",
+    "title": "Стосовно розрахунків по витратам України на ШІ, трохи пояснень.  1. Використання українцями ШІ на...",
+    "excerpt": "",
+    "date": "1 червня 2026",
+    "dateISO": "2026-06-01",
+    "readTime": "2 хв",
+    "featured": false,
+    "url": "https://t.me/shevchyshyn_trends/67",
+    "external": true
   }
 ];
 
@@ -71,7 +147,7 @@ function renderPosts(filterTag = "all") {
   container.className = "posts-grid" + (hasFeatured ? " has-featured" : "");
 
   container.innerHTML = filtered.map(post => `
-    <a href="${post.url}" class="post-card${post.featured && hasFeatured ? " featured" : ""}">
+    <a href="${post.url}" class="post-card${post.featured && hasFeatured ? " featured" : ""}"${post.external ? ' target="_blank" rel="noopener"' : ''}>
       <div class="post-tag">${post.tagLabel}</div>
       <div class="post-title">${post.title}</div>
       ${post.excerpt ? `<p class="post-excerpt">${post.excerpt}</p>` : ""}
@@ -90,4 +166,3 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 });
-
