@@ -1,147 +1,313 @@
 #!/usr/bin/env python3
 """
-Fetches latest posts from public Telegram channel and updates posts.js
-Channel: https://t.me/s/shevchyshyn_trends
+Збирає контент з трьох джерел і оновлює сайт:
+1. Telegram канал (@shevchyshyn_trends)
+2. Google News RSS (згадки "шевчишин андрій")
+3. YouTube канал (@ShevchishinAndrey)
 """
 
 import urllib.request
+import urllib.parse
 import re
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 from html import unescape
+import xml.etree.ElementTree as ET
 
-CHANNEL = "shevchyshyn_trends"
-CHANNEL_URL = f"https://t.me/s/{CHANNEL}"
+# ── Налаштування ──────────────────────────────────────────────────────────────
+TELEGRAM_CHANNEL  = "shevchyshyn_trends"
+YOUTUBE_HANDLE    = "ShevchishinAndrey"
+GOOGLE_NEWS_QUERY = "шевчишин андрій"
+MAX_ITEMS         = 8   # максимум постів з кожного джерела
+
 POSTS_JS = os.path.join(os.path.dirname(__file__), "..", "posts.js")
-MAX_POSTS = 10  # кількість постів на сайті
 
+HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; site-sync-bot/1.0)"}
 
-def fetch_html(url):
-    req = urllib.request.Request(url, headers={
-        "User-Agent": "Mozilla/5.0 (compatible; site-sync-bot/1.0)"
-    })
-    with urllib.request.urlopen(req, timeout=15) as r:
+# ── Утиліти ───────────────────────────────────────────────────────────────────
+def fetch(url, timeout=20):
+    req = urllib.request.Request(url, headers=HEADERS)
+    with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read().decode("utf-8")
 
 
-def parse_posts(html):
-    posts = []
+def strip_tags(html):
+    html = re.sub(r'<br\s*/?>', ' ', html)
+    html = re.sub(r'<[^>]+>', '', html)
+    return unescape(html).strip()
 
-    # Знаходимо всі блоки повідомлень
-    message_blocks = re.findall(
-        r'<div class="tgme_widget_message_wrap[^"]*"[^>]*>(.*?)</div>\s*</div>\s*</div>',
+
+def estimate_read_time(text):
+    mins = max(1, round(len(text.split()) / 200))
+    return f"{mins} хв"
+
+
+MONTHS_UK = ["", "січня","лютого","березня","квітня","травня","червня",
+             "липня","серпня","вересня","жовтня","листопада","грудня"]
+
+def fmt_date_uk(dt):
+    return f"{dt.day} {MONTHS_UK[dt.month]} {dt.year}"
+
+
+def parse_rfc2822(s):
+    """Parse RSS pubDate like 'Mon, 02 Jun 2025 10:00:00 +0000'"""
+    try:
+        from email.utils import parsedate_to_datetime
+        return parsedate_to_datetime(s).replace(tzinfo=timezone.utc)
+    except Exception:
+        return datetime.now(timezone.utc)
+
+
+def parse_iso(s):
+    try:
+        s = re.sub(r'\.\d+', '', s).replace('Z', '+00:00')
+        return datetime.fromisoformat(s)
+    except Exception:
+        return datetime.now(timezone.utc)
+
+
+# ── 1. TELEGRAM ───────────────────────────────────────────────────────────────
+def fetch_telegram():
+    print(f"\n[Telegram] Fetching t.me/s/{TELEGRAM_CHANNEL} ...")
+    try:
+        html = fetch(f"https://t.me/s/{TELEGRAM_CHANNEL}")
+    except Exception as e:
+        print(f"  ERROR: {e}")
+        return []
+
+    blocks = re.findall(
+        r'<div class="tgme_widget_message_wrap[^"]*".*?(?=<div class="tgme_widget_message_wrap|$)',
         html, re.DOTALL
     )
 
-    for block in message_blocks:
-        # ID повідомлення
-        id_match = re.search(r'data-post="[^/]+/(\d+)"', block)
-        if not id_match:
+    posts = []
+    for block in blocks:
+        id_m = re.search(r'data-post="[^/]+/(\d+)"', block)
+        if not id_m:
             continue
-        msg_id = int(id_match.group(1))
+        msg_id = int(id_m.group(1))
 
-        # Текст повідомлення
-        text_match = re.search(
-            r'<div class="tgme_widget_message_text[^"]*"[^>]*>(.*?)</div>',
-            block, re.DOTALL
-        )
-        if not text_match:
+        text_m = re.search(r'<div class="tgme_widget_message_text[^"]*"[^>]*>(.*?)</div>', block, re.DOTALL)
+        if not text_m:
             continue
 
-        raw_text = text_match.group(1)
-        # Прибираємо HTML теги, залишаємо текст
-        clean_text = re.sub(r'<br\s*/?>', ' ', raw_text)
-        clean_text = re.sub(r'<[^>]+>', '', clean_text)
-        clean_text = unescape(clean_text).strip()
-
-        if len(clean_text) < 20:
+        text = strip_tags(text_m.group(1))
+        if len(text) < 20:
             continue
 
-        # Дата
-        date_match = re.search(r'datetime="([^"]+)"', block)
-        date_str = ""
-        date_iso = ""
-        if date_match:
-            try:
-                dt = datetime.fromisoformat(date_match.group(1).replace("Z", "+00:00"))
-                date_str = format_date_uk(dt)
-                date_iso = dt.strftime("%Y-%m-%d")
-            except Exception:
-                date_str = date_match.group(1)[:10]
-                date_iso = date_str
+        date_m = re.search(r'datetime="([^"]+)"', block)
+        dt = parse_iso(date_m.group(1)) if date_m else datetime.now(timezone.utc)
 
-        # Перший рядок = заголовок, решта = excerpt
-        lines = [l.strip() for l in clean_text.split("\n") if l.strip()]
-        title = lines[0][:120] if lines else clean_text[:120]
+        lines = [l.strip() for l in text.splitlines() if l.strip()]
+        title = (lines[0][:97] + "...") if len(lines[0]) > 100 else lines[0]
         excerpt = " ".join(lines[1:])[:240] if len(lines) > 1 else ""
 
-        # Обрізаємо заголовок якщо занадто довгий
-        if len(title) > 100:
-            title = title[:97] + "..."
-
         posts.append({
-            "id": msg_id,
+            "source": "telegram",
             "tag": "telegram",
             "tagLabel": "Telegram",
             "title": title,
             "excerpt": excerpt,
-            "date": date_str,
-            "dateISO": date_iso,
-            "readTime": estimate_read_time(clean_text),
+            "date": fmt_date_uk(dt),
+            "dateTS": dt.timestamp(),
+            "readTime": estimate_read_time(text),
+            "url": f"https://t.me/{TELEGRAM_CHANNEL}/{msg_id}",
+            "external": True,
             "featured": False,
-            "url": f"https://t.me/{CHANNEL}/{msg_id}",
-            "external": True
         })
 
-    # Сортуємо за ID (новіші першими), беремо MAX_POSTS
-    posts.sort(key=lambda p: p["id"], reverse=True)
-    posts = posts[:MAX_POSTS]
-
-    # Перший пост — featured
-    if posts:
-        posts[0]["featured"] = True
-
+    posts.sort(key=lambda p: p["dateTS"], reverse=True)
+    posts = posts[:MAX_ITEMS]
+    print(f"  Found {len(posts)} posts")
     return posts
 
 
-def format_date_uk(dt):
-    months = [
-        "", "січня", "лютого", "березня", "квітня", "травня", "червня",
-        "липня", "серпня", "вересня", "жовтня", "листопада", "грудня"
-    ]
-    return f"{dt.day} {months[dt.month]} {dt.year}"
+# ── 2. GOOGLE NEWS RSS ────────────────────────────────────────────────────────
+def fetch_google_news():
+    print(f"\n[Google News] Fetching '{GOOGLE_NEWS_QUERY}' ...")
+    q = urllib.parse.quote(GOOGLE_NEWS_QUERY)
+    url = f"https://news.google.com/rss/search?q={q}&hl=uk&gl=UA&ceid=UA:uk"
+    try:
+        xml = fetch(url)
+    except Exception as e:
+        print(f"  ERROR: {e}")
+        return []
+
+    try:
+        root = ET.fromstring(xml)
+    except ET.ParseError as e:
+        print(f"  XML parse error: {e}")
+        return []
+
+    posts = []
+    for item in root.findall(".//item"):
+        title_el   = item.find("title")
+        link_el    = item.find("link")
+        pubdate_el = item.find("pubDate")
+        source_el  = item.find("source")
+
+        if title_el is None or link_el is None:
+            continue
+
+        title = strip_tags(title_el.text or "").strip()
+        url   = (link_el.text or "").strip()
+        dt    = parse_rfc2822(pubdate_el.text) if pubdate_el is not None else datetime.now(timezone.utc)
+        source_name = source_el.text if source_el is not None else "Новини"
+
+        if not title or not url:
+            continue
+
+        posts.append({
+            "source": "news",
+            "tag": "news",
+            "tagLabel": source_name,
+            "title": title,
+            "excerpt": f"Згадка у виданні {source_name}",
+            "date": fmt_date_uk(dt),
+            "dateTS": dt.timestamp(),
+            "readTime": "2 хв",
+            "url": url,
+            "external": True,
+            "featured": False,
+        })
+
+    posts.sort(key=lambda p: p["dateTS"], reverse=True)
+    posts = posts[:MAX_ITEMS]
+    print(f"  Found {len(posts)} articles")
+    return posts
 
 
-def estimate_read_time(text):
-    words = len(text.split())
-    minutes = max(1, round(words / 200))
-    return f"{minutes} хв"
+# ── 3. YOUTUBE ────────────────────────────────────────────────────────────────
+def get_youtube_channel_id():
+    """Отримуємо channel ID з публічної сторінки YouTube-каналу"""
+    url = f"https://www.youtube.com/@{YOUTUBE_HANDLE}"
+    try:
+        html = fetch(url)
+    except Exception as e:
+        print(f"  ERROR fetching channel page: {e}")
+        return None
+
+    # Шукаємо channelId в JSON-даних сторінки
+    for pattern in [
+        r'"channelId":"(UC[^"]{22})"',
+        r'"externalId":"(UC[^"]{22})"',
+        r'channel_id=(UC[^"&]{22})',
+    ]:
+        m = re.search(pattern, html)
+        if m:
+            return m.group(1)
+    return None
 
 
-def build_posts_js(posts):
-    posts_json = json.dumps(posts, ensure_ascii=False, indent=2)
+def fetch_youtube():
+    print(f"\n[YouTube] Fetching @{YOUTUBE_HANDLE} ...")
+
+    channel_id = get_youtube_channel_id()
+    if not channel_id:
+        print("  Could not resolve channel ID")
+        return []
+
+    print(f"  Channel ID: {channel_id}")
+    rss_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
+
+    try:
+        xml = fetch(rss_url)
+    except Exception as e:
+        print(f"  ERROR fetching RSS: {e}")
+        return []
+
+    try:
+        root = ET.fromstring(xml)
+    except ET.ParseError as e:
+        print(f"  XML parse error: {e}")
+        return []
+
+    ns = {
+        "atom": "http://www.w3.org/2005/Atom",
+        "media": "http://search.yahoo.com/mrss/",
+        "yt": "http://www.youtube.com/xml/schemas/2015",
+    }
+
+    posts = []
+    for entry in root.findall("atom:entry", ns):
+        title_el     = entry.find("atom:title", ns)
+        link_el      = entry.find("atom:link", ns)
+        published_el = entry.find("atom:published", ns)
+        thumb_el     = entry.find(".//media:thumbnail", ns)
+        desc_el      = entry.find(".//media:description", ns)
+
+        title = (title_el.text or "").strip() if title_el is not None else ""
+        url   = link_el.get("href", "") if link_el is not None else ""
+        dt    = parse_iso(published_el.text) if published_el is not None else datetime.now(timezone.utc)
+        desc  = (desc_el.text or "")[:200].strip() if desc_el is not None else ""
+
+        if not title or not url:
+            continue
+
+        posts.append({
+            "source": "youtube",
+            "tag": "youtube",
+            "tagLabel": "YouTube",
+            "title": title,
+            "excerpt": desc,
+            "date": fmt_date_uk(dt),
+            "dateTS": dt.timestamp(),
+            "readTime": "відео",
+            "url": url,
+            "external": True,
+            "featured": False,
+        })
+
+    posts.sort(key=lambda p: p["dateTS"], reverse=True)
+    posts = posts[:MAX_ITEMS]
+    print(f"  Found {len(posts)} videos")
+    return posts
+
+
+# ── Генерація posts.js ────────────────────────────────────────────────────────
+def build_posts_js(telegram, news, youtube):
     updated = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
+    # Перший пост кожного джерела — featured
+    if telegram: telegram[0]["featured"] = True
+    if news:     news[0]["featured"]     = True
+    if youtube:  youtube[0]["featured"]  = True
+
+    data = {
+        "telegram": telegram,
+        "news": news,
+        "youtube": youtube,
+    }
+
+    data_json = json.dumps(data, ensure_ascii=False, indent=2)
+
     return f"""// Автоматично оновлено: {updated}
-// Джерело: https://t.me/{CHANNEL}
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
-const POSTS = {posts_json};
+const CONTENT = {data_json};
 
-function renderPosts(filterTag = "all") {{
+// Поточний активний фільтр
+let currentSource = "telegram";
+
+function renderPosts(source) {{
+  currentSource = source;
+  const posts = CONTENT[source] || [];
   const container = document.getElementById("posts-container");
   if (!container) return;
 
-  const filtered = filterTag === "all"
-    ? POSTS
-    : POSTS.filter(p => p.tag === filterTag);
+  if (posts.length === 0) {{
+    container.innerHTML = '<p class="no-posts">Публікацій поки немає</p>';
+    container.className = "posts-grid";
+    return;
+  }}
 
-  const hasFeatured = filterTag === "all" && filtered.some(p => p.featured);
+  const hasFeatured = posts.some(p => p.featured);
   container.className = "posts-grid" + (hasFeatured ? " has-featured" : "");
 
-  container.innerHTML = filtered.map(post => `
-    <a href="${{post.url}}" class="post-card${{post.featured && hasFeatured ? " featured" : ""}}"${{post.external ? ' target="_blank" rel="noopener"' : ''}}>
+  container.innerHTML = posts.map(post => `
+    <a href="${{post.url}}" class="post-card${{post.featured && hasFeatured ? " featured" : ""}}"
+       target="_blank" rel="noopener">
       <div class="post-tag">${{post.tagLabel}}</div>
       <div class="post-title">${{post.title}}</div>
       ${{post.excerpt ? `<p class="post-excerpt">${{post.excerpt}}</p>` : ""}}
@@ -151,12 +317,13 @@ function renderPosts(filterTag = "all") {{
 }}
 
 document.addEventListener("DOMContentLoaded", () => {{
-  renderPosts("all");
-  document.querySelectorAll(".tag-filter").forEach(btn => {{
+  renderPosts("telegram");
+
+  document.querySelectorAll(".tab-btn").forEach(btn => {{
     btn.addEventListener("click", () => {{
-      document.querySelectorAll(".tag-filter").forEach(b => b.classList.remove("active"));
+      document.querySelectorAll(".tab-btn").forEach(b => b.classList.remove("active"));
       btn.classList.add("active");
-      renderPosts(btn.dataset.tag);
+      renderPosts(btn.dataset.source);
     }});
   }});
 }});
@@ -164,28 +331,20 @@ document.addEventListener("DOMContentLoaded", () => {{
 
 
 def main():
-    print(f"Fetching posts from https://t.me/s/{CHANNEL} ...")
-    try:
-        html = fetch_html(CHANNEL_URL)
-    except Exception as e:
-        print(f"ERROR fetching channel: {e}")
-        exit(1)
+    telegram = fetch_telegram()
+    news     = fetch_google_news()
+    youtube  = fetch_youtube()
 
-    posts = parse_posts(html)
-    print(f"Found {len(posts)} posts")
+    total = len(telegram) + len(news) + len(youtube)
+    if total == 0:
+        print("\nNo content found — keeping existing posts.js")
+        return
 
-    if not posts:
-        print("No posts found — keeping existing posts.js")
-        exit(0)
-
-    js_content = build_posts_js(posts)
-
+    js = build_posts_js(telegram, news, youtube)
     with open(POSTS_JS, "w", encoding="utf-8") as f:
-        f.write(js_content)
+        f.write(js)
 
-    print(f"Updated {POSTS_JS} with {len(posts)} posts")
-    for p in posts:
-        print(f"  [{p['date']}] {p['title'][:60]}...")
+    print(f"\n✓ posts.js updated: {len(telegram)} TG + {len(news)} news + {len(youtube)} YT")
 
 
 if __name__ == "__main__":
