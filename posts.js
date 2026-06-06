@@ -1,4 +1,4 @@
-// Автоматично оновлено: 2026-06-05 11:19 UTC
+// Автоматично оновлено: 2026-06-06 09:55 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
@@ -7,12 +7,12 @@ const CONTENT = {
       "source": "telegram",
       "tag": "telegram",
       "tagLabel": "Telegram",
-      "title": "НБУ ЗАКРУЧУЄ ГАЙКИ НА РИНКУ ПЛАТІЖНИХ ТЕРМІНАЛІВ  По факту штрафи EasyPay та City24 це новий етап...",
+      "title": "В базовому сценарії готівковий долар очікую на 44,25-44,75 грн, готівковий євро на 51,25-51,75 грн.",
       "excerpt": "",
-      "date": "5 червня 2026",
-      "dateTS": 1780656679.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/89",
+      "date": "6 червня 2026",
+      "dateTS": 1780738748.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/97",
       "external": true,
       "featured": true
     },
@@ -20,12 +20,77 @@ const CONTENT = {
       "source": "telegram",
       "tag": "telegram",
       "tagLabel": "Telegram",
-      "title": "❗️НБУ подозревает крупнейшие сети платежных терминалов EasyPay и City24 в отмывании денег  По дан...",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ ЗА ТИЖДЕНЬ: ДОЛАР НА РЕКОРДНОМУ РІВНІ Й ГОТОВИЙ РУШИТИ ДАЛІ (частина 2)  Н...",
+      "excerpt": "",
+      "date": "6 червня 2026",
+      "dateTS": 1780738725.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/96",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Дефіцит валюти: МІЖБАНК: Середньодобовий дефіцит валюти на міжбанку зріс на 10% з 109М до 119М до...",
+      "excerpt": "",
+      "date": "6 червня 2026",
+      "dateTS": 1780738573.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/95",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Попит та пропозиція валюти МІЖБАНК: Середньодобова купівля валюти майже без змін - 392М дол. Сере...",
+      "excerpt": "",
+      "date": "6 червня 2026",
+      "dateTS": 1780738447.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/94",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ ЗА ТИЖДЕНЬ: ДОЛАР НА РЕКОРДНОМУ РІВНІ Й ГОТОВИЙ РУШИТИ ДАЛІ (частина 1)   ...",
+      "excerpt": "",
+      "date": "6 червня 2026",
+      "dateTS": 1780738349.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/92",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "НА ЩО ЗВЕРНУВ УВАГУ НА ТИЖНІ   -            У п’ятницю світові ринки пережили крах фондових індек...",
+      "excerpt": "",
+      "date": "6 червня 2026",
+      "dateTS": 1780738349.0,
+      "readTime": "3 хв",
+      "url": "https://t.me/shevchyshyn_trends/93",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "EURUSD таки обвалився нижче — майже до 2-місячного мінімуму, пробивши 1,155, і немає жодних сигна...",
       "excerpt": "",
       "date": "5 червня 2026",
-      "dateTS": 1780654418.0,
+      "dateTS": 1780673708.0,
       "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/88",
+      "url": "https://t.me/shevchyshyn_trends/91",
       "external": true,
       "featured": false
     },
@@ -33,82 +98,30 @@ const CONTENT = {
       "source": "telegram",
       "tag": "telegram",
       "tagLabel": "Telegram",
-      "title": "НБУ опублікував дані по енергокредитуванню (https://bank.gov.ua/ua/news/all/banki-zabezpechili-fi...",
+      "title": "Bitcoin на нових мінімумах з жовтня 2026 року. Ціль падіння 57К. Там концентрація покупців, які в...",
       "excerpt": "",
       "date": "5 червня 2026",
-      "dateTS": 1780653016.0,
+      "dateTS": 1780671727.0,
       "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/87",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ЗВР УКРАЇНИ - ОЧІКУВАНИЙ 10 МІСЯЧНИЙ МІНІМУМ  Золотовалютні резерви України впали до $45,73 млрд....",
-      "excerpt": "",
-      "date": "5 червня 2026",
-      "dateTS": 1780651845.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/85",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "🛢 Нафтогазові доходи РФ падають: високі ціни нафти є, гроші є, але менше очікуваного.  Все завдяк...",
-      "excerpt": "",
-      "date": "4 червня 2026",
-      "dateTS": 1780582804.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/84",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ПРОМИСЛОВІСТЬ.  ВІДОКРЕМЛЕНИЙ РЕЗУТАТ КВІТНЯ КОНТРОВЕРСІЙНИЙ - Падіння промисловості у квітні ста...",
-      "excerpt": "",
-      "date": "4 червня 2026",
-      "dateTS": 1780577016.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/83",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "УКРАЇНСЬКА ПРОМИСЛОВІСТЬ - ЩЕ НЕ ВІДНОВЛЕННЯ, АЛЕ СПОВІЛЬНЕННЯ СПАДУ ДО БІЛЬШЕ НІЖ 1,5 РІЧНИХ МІН...",
-      "excerpt": "",
-      "date": "4 червня 2026",
-      "dateTS": 1780576999.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/82",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжбанк долар 44.38- 44.40 Новий історичний максимум Все через корекцію EURUSD з початку червня, ...",
-      "excerpt": "",
-      "date": "4 червня 2026",
-      "dateTS": 1780563496.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/81",
+      "url": "https://t.me/shevchyshyn_trends/90",
       "external": true,
       "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "MC.today",
+      "title": "Чого очікувати на ринку платіжних терміналів — думка про штрафи для EasyPay і City24 - MC.today",
+      "excerpt": "Згадка у виданні MC.today",
+      "date": "5 червня 2026",
+      "dateTS": 1780675500.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTZISzE1dlZDYWx4c0xCMnpYNDdKQm1sU0NuWkhxTWpITEcza2MxT1NjNGR2RWpYMG82ejFKaEsxXzZGR1puQ1o4b2NweFBoUTZYTFVUYTRJZmN6WW1qXzRENXJyTjN5dmVfTWNkS0RKdnVDRUF6Wkw5a1c2VFBqS3EzN2tOWmRBVEpCZURvb2tuY0N3UjhFcE5rOTRESnNqR1AycUVWMXp2Nkc2OXc?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -120,7 +133,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPRUZJN3Z5LUVVLTlhU0wxQWQ0cERJX1VJOXZkTXY2eDNKX2k4cFdJTWZXTkVRVjcyaGx5NU11S2lnaTBHUWhqY0RJZ1VJa1BJZ2lzLXlUc3RhSFFkZHRiQVhzWlNEbnVpdmg2eG8yWVoyRThaU3U1eXJIMndySWVnazAtRkJlVThhTmZrbmtZQVYzM04wSmR3b3J1WnU4NXlGZ1hqVjYzT0dQYzhFTHQtR3J0dUZ3RmNWOFBlTGlYal96X0ZfcjN2emxiVFVNZG04NzRrSnRsZnNWd1RGamdXUHpRUGRXbDJTcm9XdG9Sbjl5cGwydkxrVlhIeU9obVRFaDQxdHBOQ1lESzhl0gGSAkFVX3lxTE9OaVJFWE5leWtGcDhOZXlwVTZuSHJUWHRseWRaalAtQXFwZWlPc3lSNXF2SGJwMVhlYVRxWnRLektmaGZkLWloZTFCbnZ4QmNXeEZQRFcySXJMeVRkcThZVHVYRWFaYVJzNElPVG5qVDJVQWFnZEhfN3VWM0RqbmlyTDdobEhIR1ROc1EtUURnUDM2S1RoZnZIRWdDVm5zMGx2TUJFaHRoTTBrMjM1alpQUDJaNm9aaTA2eG8yVzI5VG4ybkZwZUM0R3IwZTZGeWk5RzJEejJDYmw1VTZpS2YzNjZqTEJ6RjF4OGVqZ1diOVAySlhiaWZlUjJvdTZ5eTRaZHN5TmpRM2RKQ3d5Z25GdVE?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -197,19 +210,6 @@ const CONTENT = {
       "dateTS": 1777273200.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNelk5YWJqcjBDTzUwVnc4Z1N4MjRUYThRcUl4NW1CdjgzNVM4SmNiUmdtZlVZNWcwRG1OWU5pZGxfOGlDRVMtM2pfcng0SjFfbkVLbUZmSnMwaG5VN0JTdlRON19hSGF5QzlYY0RVcWh4WnZWbEJwVC1NcGR4c0pZLUE3T2ZoVHNlaXZfbVV2TkM5NG9lZTNSWnVTTzhlX0hmRUZMNDduVzBmZlJpcVJscDN4ZXJycmF4RTA0MS1xRdIBxAFBVV95cUxQLUVTQW1FMnBUVHpjX3ZObzA4NjFxT0VyaDJYWERadFJfRHpuQXN6cjdEUzZSVzBKS2VxeURwRmh4RW9xeC10SURuTEFaaHk5TTZIQW4zUDJFcXRnaURWUkdpMVA0LVRQR1pBMTB3alhzazFNVmp5NVRiNVNCQXMyNXhBWjYxN3Z2UzIxM3Y5cEJyWk5RUy1IWW1Idlp6cXNyd2FuVUpJd1JXX0pwaDN2UHQwMER5dUpQbjhrN1JzZVZtUW14?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "MC.today",
-      "title": "Курс стабілізується? Що буде з доларом та євро у найближчі дні та до кінця травня - MC.today",
-      "excerpt": "Згадка у виданні MC.today",
-      "date": "20 квітня 2026",
-      "dateTS": 1776668400.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUW1ic19paGllSE8wWTk4WG9JMlVjcXA2VEY0Mndyd1ZCdGUtYl8zQWtlUGZjcTRxWkNPc1NtWGRtTV96bGdEOE9hSUZXRXktN3N2UkViSTdndzJiaF9iajd2X0xRWXBmSHoxa1NveUVOQ3k4ek1MTG13YlFHX3RidmcyNHFRRkFiYXVTc2lRZ3p6OHdPaUdZNW5XMEppVjNLM19Ja3BScVh4ajBPSmlv0gG0AUFVX3lxTE1zOGdpaHNrVGVGZnRaaGxhS05ERlJKNzY5eTZ4dGZfMGZDREF5YTQ5THM4Rk93RkRkVk45QzJ2TGJCd0xNalBwOUJidllLTXBKLTVoZkFtM0FiNllPSEExdW5LMHBaNDNKblRTMDRLMGpUcTMzSUFlcjZDYi1jMF9HYmQ4WU9EcjJjWDVlcTlYV1ZfbkRFdHNnZHlrZURiN3Jta01ZSXdyOU91WG5QWFhlSlFCdw?oc=5",
       "external": true,
       "featured": false
     }
