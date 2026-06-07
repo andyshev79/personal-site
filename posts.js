@@ -1,8 +1,34 @@
-// Автоматично оновлено: 2026-06-06 09:55 UTC
+// Автоматично оновлено: 2026-06-07 10:22 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Новий відеогляд по валютному ринку за тиждень на каналі, якщо вам біло ліньки читати вчора много ...",
+      "excerpt": "",
+      "date": "7 червня 2026",
+      "dateTS": 1780826089.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/99",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "УКРАЇНЦІ В ТРАВНІ ПРОДОВЖИЛИ НАКОПИЧУВАТИ ЄВРО  - Чиста купівля доларів в травні впала до 62,3 мл...",
+      "excerpt": "",
+      "date": "7 червня 2026",
+      "dateTS": 1780821533.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/98",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +40,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/97",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -80,32 +106,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/93",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "EURUSD таки обвалився нижче — майже до 2-місячного мінімуму, пробивши 1,155, і немає жодних сигна...",
-      "excerpt": "",
-      "date": "5 червня 2026",
-      "dateTS": 1780673708.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/91",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Bitcoin на нових мінімумах з жовтня 2026 року. Ціль падіння 57К. Там концентрація покупців, які в...",
-      "excerpt": "",
-      "date": "5 червня 2026",
-      "dateTS": 1780671727.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/90",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -121,6 +121,19 @@ const CONTENT = {
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTZISzE1dlZDYWx4c0xCMnpYNDdKQm1sU0NuWkhxTWpITEcza2MxT1NjNGR2RWpYMG82ejFKaEsxXzZGR1puQ1o4b2NweFBoUTZYTFVUYTRJZmN6WW1qXzRENXJyTjN5dmVfTWNkS0RKdnVDRUF6Wkw5a1c2VFBqS3EzN2tOWmRBVEpCZURvb2tuY0N3UjhFcE5rOTRESnNqR1AycUVWMXp2Nkc2OXc?oc=5",
       "external": true,
       "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Фінанси 24",
+      "title": "Світові ціни на золото падають, а українці рекордно продають: що відбувається у 2026 році - Фінанси 24",
+      "excerpt": "Згадка у виданні Фінанси 24",
+      "date": "27 травня 2026",
+      "dateTS": 1779865200.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZjBIWFlWOGdxTUVKYXlRV2lzbXhGNXJyQ0lJaklmQVo0UUszejZsQXBySm1WNk16ZTMtQjR0WFBsd3RwaWU2UmdVLVFCZVZzX2I2NDN3ZzVHWHg2c0V6LWhJVXBJNXc2SGZSdTRRWkItV3ZsNDNlQVZNbFEtTXRaRHJnVnYzNkF1eUZ4X21wb0k1dkZpeWNZbjd5ONIBoAFBVV95cUxPS2JpcVBrWVV6UG9qa3U4QndKWktBM1JWZkVGUzJ4TnFmVUxmZnlrWUFxYzBJMVh6Z2EwV3REcWpJN0R6ZnZzVFY5dHdoLW4yc24tamh2Z25pY096QzlvbzAyNU1OTUFTaXRVa1Yxc1hDZFZrN1JTNjhmd3FrSUpxQXdYU01hc2lMM1hMNWtxUEtCWTNCNXJ2RWJsbktMU0Zz?oc=5",
+      "external": true,
+      "featured": false
     },
     {
       "source": "news",
@@ -199,22 +212,22 @@ const CONTENT = {
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdEZUX1Vmalp2eW5CQk43UnNYckpXOFhfYjRKUXFXTlJOZXJwb2gxZ1FVYnRRd3JObUI5ZklGWTdsRDAxeTB4RWJSN3NqOGVEbTA3aG1VTERpcC1aenFna1hoZnc4a0tfQUV2NFRUMFhackZRM21ndmx6Zk1ib3FWd1JJTm5TLXhKbDUyUmp5VDc0VU9vNGxzaGxvQXdNdTlYRnk1dWNBREwwaXR0bW1Nd0tNZ1hEVmls0gG-AUFVX3lxTE80Z0xDdmUzQWg1Q1RMNVNEdUwybU9BbmQtYVIzYTNIajVIWHpEc1pLbWY4V1YwR2JHbnlLUEc4cGlaTGFDVE1oOFFaZjl5bXBldUFMLVVpZUNhTTVuSVk0MUZmcGpaQm1SMEY4QXBmSlZBVG5sTE5VdFJSZFNEVWZuN0RveGdXZmYyWDZCNm4xQjFNaElodGlaMjhvZ09FblNXNjlLLWdENlI2VndvOElZS3hSUjRPQ0VOdTlubXc?oc=5",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "MC.today",
-      "title": "Попереду місяць міжсезоння: що відбувається з доларом і євро та чи варто купувати їх у травні - MC.today",
-      "excerpt": "Згадка у виданні MC.today",
-      "date": "27 квітня 2026",
-      "dateTS": 1777273200.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNelk5YWJqcjBDTzUwVnc4Z1N4MjRUYThRcUl4NW1CdjgzNVM4SmNiUmdtZlVZNWcwRG1OWU5pZGxfOGlDRVMtM2pfcng0SjFfbkVLbUZmSnMwaG5VN0JTdlRON19hSGF5QzlYY0RVcWh4WnZWbEJwVC1NcGR4c0pZLUE3T2ZoVHNlaXZfbVV2TkM5NG9lZTNSWnVTTzhlX0hmRUZMNDduVzBmZlJpcVJscDN4ZXJycmF4RTA0MS1xRdIBxAFBVV95cUxQLUVTQW1FMnBUVHpjX3ZObzA4NjFxT0VyaDJYWERadFJfRHpuQXN6cjdEUzZSVzBKS2VxeURwRmh4RW9xeC10SURuTEFaaHk5TTZIQW4zUDJFcXRnaURWUkdpMVA0LVRQR1pBMTB3alhzazFNVmp5NVRiNVNCQXMyNXhBWjYxN3Z2UzIxM3Y5cEJyWk5RUy1IWW1Idlp6cXNyd2FuVUpJd1JXX0pwaDN2UHQwMER5dUpQbjhrN1JzZVZtUW14?oc=5",
-      "external": true,
-      "featured": false
     }
   ],
   "youtube": [
+    {
+      "source": "youtube",
+      "tag": "youtube",
+      "tagLabel": "YouTube",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ ЗА ТИЖДЕНЬ: ДОЛАР НА РЕКОРДНОМУ РІВНІ Й ГОТОВИЙ РУШИТИ ДАЛІ",
+      "excerpt": "Почитати на FB https://www.facebook.com/AndyShev79 та ТГ каналі https://t.me/shevchyshyn_trends \n\nЗа перший тиждень червня торгівельна активність українського валютного ринку, як й очікувалось, знизил",
+      "date": "7 червня 2026",
+      "dateTS": 1780826000.0,
+      "readTime": "відео",
+      "url": "https://www.youtube.com/watch?v=DUose7Z5PKk",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "youtube",
       "tag": "youtube",
@@ -226,7 +239,7 @@ const CONTENT = {
       "readTime": "відео",
       "url": "https://www.youtube.com/watch?v=P_OpERiOWmY",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "youtube",
@@ -303,19 +316,6 @@ const CONTENT = {
       "dateTS": 1776538342.0,
       "readTime": "відео",
       "url": "https://www.youtube.com/watch?v=qeS133UkPzg",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "youtube",
-      "tag": "youtube",
-      "tagLabel": "YouTube",
-      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ ЗА ТИЖДЕНЬ: НБУ ПРИБОРКАВ КУРС? ВЕЛИКОДНІЙ ЕФЕКТ",
-      "excerpt": "ВАЛЮТНИЙ РИНОК УКРАЇНИ ЗА ТИЖДЕНЬ: НБУ ПРИБОРКАВ КУРС? ТАК ЧИ НІ? ВЕЛИКОДНІЙ ЕФЕКТ\n\nЗа минулий тиждень гривня укріпилась як до долару так й до євро. Зниження попиту на валюту та зростання пропозиції в",
-      "date": "4 квітня 2026",
-      "dateTS": 1775318543.0,
-      "readTime": "відео",
-      "url": "https://www.youtube.com/watch?v=BCYkJCu65-k",
       "external": true,
       "featured": false
     }
