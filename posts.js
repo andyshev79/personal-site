@@ -1,8 +1,86 @@
-// Автоматично оновлено: 2026-06-07 10:22 UTC
+// Автоматично оновлено: 2026-06-08 12:26 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Україна отримала €2,8 млрд у межах Ukraine Facility. Загальний обсяг фінансування за механізмом п...",
+      "excerpt": "",
+      "date": "8 червня 2026",
+      "dateTS": 1780920434.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/105",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ОБМІННИКИ НАРОЩУЮТЬ ДОЛЮ ГОТІВКОВИХ ВАЛЮТНИХ ОПЕРАЦІЙ У травні 2026 за даними НБУ через небанківс...",
+      "excerpt": "",
+      "date": "8 червня 2026",
+      "dateTS": 1780915692.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/104",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Це вже схоже на паніку й гонку за лідером, але з низькими об'ємами торгів.   Євро в світі валитьс...",
+      "excerpt": "",
+      "date": "8 червня 2026",
+      "dateTS": 1780911392.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/103",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Ну що... на міжбанку планка доларом взята 44.50 - 44.55 (при чому по курсу купівлі) Я сподівався ...",
+      "excerpt": "",
+      "date": "8 червня 2026",
+      "dateTS": 1780906617.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/102",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Відкриття торгів на міжбанку веселе. Долар 44.44 - 44.47  Нові максимуми.   Але це очікувано післ...",
+      "excerpt": "",
+      "date": "8 червня 2026",
+      "dateTS": 1780903790.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/101",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "На фондовому ринку Штатів є правило. Якщо СРІ (інфляція) США перевищує 4%, то S&P500 буде падати ...",
+      "excerpt": "",
+      "date": "8 червня 2026",
+      "dateTS": 1780897532.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/100",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +92,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/99",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -26,84 +104,6 @@ const CONTENT = {
       "dateTS": 1780821533.0,
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/98",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "В базовому сценарії готівковий долар очікую на 44,25-44,75 грн, готівковий євро на 51,25-51,75 грн.",
-      "excerpt": "",
-      "date": "6 червня 2026",
-      "dateTS": 1780738748.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/97",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ ЗА ТИЖДЕНЬ: ДОЛАР НА РЕКОРДНОМУ РІВНІ Й ГОТОВИЙ РУШИТИ ДАЛІ (частина 2)  Н...",
-      "excerpt": "",
-      "date": "6 червня 2026",
-      "dateTS": 1780738725.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/96",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Дефіцит валюти: МІЖБАНК: Середньодобовий дефіцит валюти на міжбанку зріс на 10% з 109М до 119М до...",
-      "excerpt": "",
-      "date": "6 червня 2026",
-      "dateTS": 1780738573.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/95",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Попит та пропозиція валюти МІЖБАНК: Середньодобова купівля валюти майже без змін - 392М дол. Сере...",
-      "excerpt": "",
-      "date": "6 червня 2026",
-      "dateTS": 1780738447.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/94",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ ЗА ТИЖДЕНЬ: ДОЛАР НА РЕКОРДНОМУ РІВНІ Й ГОТОВИЙ РУШИТИ ДАЛІ (частина 1)   ...",
-      "excerpt": "",
-      "date": "6 червня 2026",
-      "dateTS": 1780738349.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/92",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "НА ЩО ЗВЕРНУВ УВАГУ НА ТИЖНІ   -            У п’ятницю світові ринки пережили крах фондових індек...",
-      "excerpt": "",
-      "date": "6 червня 2026",
-      "dateTS": 1780738349.0,
-      "readTime": "3 хв",
-      "url": "https://t.me/shevchyshyn_trends/93",
       "external": true,
       "featured": false
     }
@@ -121,6 +121,19 @@ const CONTENT = {
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTZISzE1dlZDYWx4c0xCMnpYNDdKQm1sU0NuWkhxTWpITEcza2MxT1NjNGR2RWpYMG82ejFKaEsxXzZGR1puQ1o4b2NweFBoUTZYTFVUYTRJZmN6WW1qXzRENXJyTjN5dmVfTWNkS0RKdnVDRUF6Wkw5a1c2VFBqS3EzN2tOWmRBVEpCZURvb2tuY0N3UjhFcE5rOTRESnNqR1AycUVWMXp2Nkc2OXc?oc=5",
       "external": true,
       "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "ТСН",
+      "title": "В Україні зміняться ліміти на карткові перекази: кого торкнеться обмеження - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
+      "date": "1 червня 2026",
+      "dateTS": 1780297200.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLTlIVm5pMFUxeUdvQjh4RzZhdWQxMVRPTzQ2OVhsS25KS3FKbTZUSVpBVnBEaXpKSzh1bVhDc3A5dmpLTktsM1hmWDRETVBEMEltSGp6Z3o2TlBNV3NGdkg5eEwwMUEtVFp4d0hBeU9kRjNQenpZcy1zU3RnVkhfMEZFMUxBMEQxdmVOMi0yNmRNem5iWEJmRHo1bjFGZDZtZ2tKUnJnZDNQQzBjYjBfY9IBtgFBVV95cUxOa21IUjhPbVlWUmIzNjNqM1Zja2hHaFkyOUhDWVhKN1ZOSGVyeDNhYjRiQ19XamlWYTV5bEc0X3ctM3R4d19OTkNYOHViMlRZZUZFMnA2LTlGeHpUMkdVNlpxTmdUaXpncGJRdXB4cFRybUoybnFvc0JaY0ZRVG02RXZpV0FTaTI4OEh4YkUzZGFWVnFKUFk2dmVaOGgza2JRZjJwS2kySmI2dEVvN3lVdVR1ZmVOdw?oc=5",
+      "external": true,
+      "featured": false
     },
     {
       "source": "news",
@@ -197,19 +210,6 @@ const CONTENT = {
       "dateTS": 1777532400.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObTlTV1VrX0R1Zm1ZMDNOXzk4UzlZQWZOSjk5OWZTLUk4X2cxd1BqZUh6T3pnNkJ2V2xzdlRDY3VSMTBqZmlKQXNLMm1mcEs5ekF4ZWhOTTgzN3VKT09CbjVSejY4dmF4RF92R0JCaXZHdGEwdUVqV0hraUlOcFdZcVpOUFJfLTlWTnY5Wm10OWFMNnY5WG1Fcmg4aFlxbUdl0gGmAUFVX3lxTE9XUW1mRHNiRVNzcTNnaGxUblVwc2dabU1HUzR2dFFvcWlzZ3lZdDdIRDhLV2pTNFhQUjZPWWc2Y3dva29hY1RHSGJ0SVA0aTFfMVgwNUxPZ3dRQ25qcGRjV0J3WkU4VXctQm12ZTAxMWNndE5xX3J3YkFwRUc0VEtkdTVXVl85dUllTmZmSDVGLWZ6QjI2WGdHUGZRNW9MWXNfMjU5RFE?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "glavred.net",
-      "title": "Гривня зміцнить позиції: українцям сказали, чи варто купувати долари і євро - glavred.net",
-      "excerpt": "Згадка у виданні glavred.net",
-      "date": "27 квітня 2026",
-      "dateTS": 1777273200.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdEZUX1Vmalp2eW5CQk43UnNYckpXOFhfYjRKUXFXTlJOZXJwb2gxZ1FVYnRRd3JObUI5ZklGWTdsRDAxeTB4RWJSN3NqOGVEbTA3aG1VTERpcC1aenFna1hoZnc4a0tfQUV2NFRUMFhackZRM21ndmx6Zk1ib3FWd1JJTm5TLXhKbDUyUmp5VDc0VU9vNGxzaGxvQXdNdTlYRnk1dWNBREwwaXR0bW1Nd0tNZ1hEVmls0gG-AUFVX3lxTE80Z0xDdmUzQWg1Q1RMNVNEdUwybU9BbmQtYVIzYTNIajVIWHpEc1pLbWY4V1YwR2JHbnlLUEc4cGlaTGFDVE1oOFFaZjl5bXBldUFMLVVpZUNhTTVuSVk0MUZmcGpaQm1SMEY4QXBmSlZBVG5sTE5VdFJSZFNEVWZuN0RveGdXZmYyWDZCNm4xQjFNaElodGlaMjhvZ09FblNXNjlLLWdENlI2VndvOElZS3hSUjRPQ0VOdTlubXc?oc=5",
       "external": true,
       "featured": false
     }
