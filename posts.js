@@ -1,8 +1,99 @@
-// Автоматично оновлено: 2026-06-10 11:32 UTC
+// Автоматично оновлено: 2026-06-11 12:04 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Рейтинг банків України за результатами 4міс2026 року  💵НАЙБІЛЬШ ПРИБУТКОВІ БАНКИ (всього чистий п...",
+      "excerpt": "",
+      "date": "11 червня 2026",
+      "dateTS": 1781175299.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/132",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "отяк, мі мозімо, колі хоцімо, а руці та ось вони 🤲 міжбанк долар 44.89 - 44.93",
+      "excerpt": "",
+      "date": "11 червня 2026",
+      "dateTS": 1781172948.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/131",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Я чекав сьогоднішнього ранку, щоб НБУ опублікував статистику по попиту та пропозиції, щоб оцінити...",
+      "excerpt": "",
+      "date": "11 червня 2026",
+      "dateTS": 1781168837.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/129",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Ранок на валютному ринку починається з відкату  Долар занирнув під 44.95 - 44.98",
+      "excerpt": "",
+      "date": "11 червня 2026",
+      "dateTS": 1781167024.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/128",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Металурги в травні пришвидшились після квітневої вимушеної зупинки Запоріжсталі по сталі та прока...",
+      "excerpt": "",
+      "date": "10 червня 2026",
+      "dateTS": 1781105284.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/127",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЩОДО ГРИВНІ Й НОВИХ КУРСІВ. ПОРІВНЯННЯ ДОХОДНОСТІ З ДЕПОЗТАМИ ТА ОВДП.  Чи були сумніви що гривня...",
+      "excerpt": "",
+      "date": "10 червня 2026",
+      "dateTS": 1781098630.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/126",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Річна інфляція в США 4,2% р/р. Це максимум зростання з квітня 2023 року. Але на рівні ринкових оч...",
+      "excerpt": "",
+      "date": "10 червня 2026",
+      "dateTS": 1781095907.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/125",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,101 +105,23 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/124",
       "external": true,
-      "featured": true
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Ціни в будівництві у квітні 2026 зросли на 19,9% р/р.  З початку року вже маємо +16% - це найшвид...",
-      "excerpt": "",
-      "date": "10 червня 2026",
-      "dateTS": 1781085569.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/122",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Вчора якось на фоні обвала гривні до долару, не подивився, а що з офіційним євро.   Так його тако...",
-      "excerpt": "",
-      "date": "10 червня 2026",
-      "dateTS": 1781084411.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/121",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Прикольно. Дуже сильний демпінг на зовнішніх переказах й конкурентна перевага Моно. По факту, це ...",
-      "excerpt": "",
-      "date": "10 червня 2026",
-      "dateTS": 1781083388.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/119",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Тепер усі закордонні SWIFT-платежі без комісії  І вхідні, і вихідні І для звичайних користувачів,...",
-      "excerpt": "",
-      "date": "10 червня 2026",
-      "dateTS": 1781083388.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/120",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Сезонне відновлення будівництва житла у квітні 2026, на жаль, не витягує загальний показник в поз...",
-      "excerpt": "",
-      "date": "9 червня 2026",
-      "dateTS": 1781022913.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/118",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Новий фінансовий показник ))",
-      "excerpt": "",
-      "date": "9 червня 2026",
-      "dateTS": 1781017155.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/117",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Суко... вони таки дотягнули долар на міжбанку до 45,0 Котирування: 44.97 -  45.00  Ну от... тепер...",
-      "excerpt": "",
-      "date": "9 червня 2026",
-      "dateTS": 1781011615.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/116",
-      "external": true,
       "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Фінанси 24",
+      "title": "Долар пробив 45 гривень: чому курс росте та чого чекати далі - Фінанси 24",
+      "excerpt": "Згадка у виданні Фінанси 24",
+      "date": "10 червня 2026",
+      "dateTS": 1781103771.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUEs4Q05lLUpMOTV1ZmRYSXdvcTlKZWF6LTBZM2RPSld5Z0pscHQxaEdiYlk0TjVBWlNqd2ZDMFdNMzZDel9XUHFhRnNxdURweXQtYl9ZOXhCV3ZpNVI5S2xDNjIzYmlIaFRTZGthMXJWdDAyNVZOTktxeVR5clBXLU5jV1pTNEQ3LVU1U3VGa3JBaDQxbGh4VzNHQdIBoAFBVV95cUxON01PWlZpZEF3X2ZjYlJaQnBEZkVDdTJ2WV90bnJHRzBtajRRSDVLVUN3MS0taHgxZGJuRmp2Z0gzVUZvMGpBOUl3SW1COWE3YnE3bU5KRXlxNlllRjl0TFdrTks5YjRtYTJnbExuMXNQNWFlSW0tMnNLTkhJeTEtano2RWxNNmRvdDJGdGZyTDBmaS1IWjd4cURyYWNGWUk4?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -120,7 +133,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZXRNWmVYdGJzZThLQ3VXWERuczRkQjNlN1dGTDhuQWhnbXBlZGcxZzlQUWtYcjRWQWVxaXVONlNaSzhWQjJOVThPVGk5UW5Qd3IxejJkOGxGWjdQSzF2cHpWdTk5RmdFQ05UaGNvNVdqNHhCaGlIc1hXOHV3Qk5PRWdRbThKTXpI?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -197,19 +210,6 @@ const CONTENT = {
       "dateTS": 1778482800.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZlUzYUp2N2R5WVVJSmh3X2JrdkNMODZHNnJwNlNHbXM2VURQc3JKRnF0amIwMzNnb0h2Z2VtVzFHOHBQMFlrYmI5QVQxSTI2R2dwQUtaVTdUTUd4QmFvclZBTE9DM2hLSHZhb09rNjgzTkFVelRTY1NLdmU3bF9HaGZRQTRJX1FHMkM4SGVuazlSMlQxVkhKTkIwbmxYS1dGZ253Vk9INUNlRWZBOUNzStIBtgFBVV95cUxPZFdHd29GeHVNLWpPX0lvdUMybk4tSjNac1RYZjM4ZGFZVTNLZzF6UmoyX2x5Nl9kQ1BfRDNPYlRMQ2RwLXg1MWprNV84ZGNsRE9BY2dVdExUUGMyTDZHQ0lYVHo2UE9oYkdjT1FGV2R0M2VJM3lKZXhka0lmOXNIQktnY243aUk4TjNxc192bGJLQTFzRGVVSk92Y3hMUzJISENNUEFjY19YSFpqU1VzWDBTSURoZw?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "Волинь 24 - новини Волині та Луцька",
-      "title": "Українців закликали продавати долари та євро - Волинь 24 - новини Волині та Луцька",
-      "excerpt": "Згадка у виданні Волинь 24 - новини Волині та Луцька",
-      "date": "11 травня 2026",
-      "dateTS": 1778482800.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdC1abFpER2pOdUIzQVpiSWNRMlE2X1FvV3lYR045QlMyaWNSSWx3Q2xWUHhNWm9vSG5WbjlDam9GcTV4YTVHZUhzaTdQbFVHcW5taUhkWGRGTnBzOHI5VUZrV0RmYm9nckdsWGNNdlM4Q0ZTSTNyTmR2U1FNT2lMU20xYw?oc=5",
       "external": true,
       "featured": false
     }
