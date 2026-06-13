@@ -1,8 +1,60 @@
-// Автоматично оновлено: 2026-06-12 11:37 UTC
+// Автоматично оновлено: 2026-06-13 10:22 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "В структурі прибутків до оподаткування підприємств України за 1кв2026 лідери: - фінансові установ...",
+      "excerpt": "",
+      "date": "12 червня 2026",
+      "dateTS": 1781280046.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/142",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЛИШЕ 4 СЕКТОРА ЕКОНОМІКИ УКРАЇНИ НАРОСТИЛИ ПРИБУТОК В 1кв2026  Якось пропустив ці цифри Держстату...",
+      "excerpt": "",
+      "date": "12 червня 2026",
+      "dateTS": 1781279290.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/141",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Чому дефлятор 7% це не маніпуляція.  Дефлятор ВВП і ІСЦ - це різні речі за визначенням  Індекс сп...",
+      "excerpt": "",
+      "date": "12 червня 2026",
+      "dateTS": 1781277847.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/140",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Трохи нудоти про нацрахунки. Чи обдурюють нас з даними по ВВП?.  Держстат повідомив: ВВП у 1кв202...",
+      "excerpt": "",
+      "date": "12 червня 2026",
+      "dateTS": 1781277194.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/139",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +66,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/138",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -54,61 +106,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/135",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "УКРАЇНСЬКІ БАНКИ ЗА 4м2026 ЗАРОБИЛИ ₴34,77 МЛРД  Це найменший показник за 4 роки. Значним обмежув...",
-      "excerpt": "",
-      "date": "11 червня 2026",
-      "dateTS": 1781184239.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/134",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Європейський центробанк вперше з 2023 року підвищив облікову ставку з 2,15% до 2,40%.  Це було оч...",
-      "excerpt": "",
-      "date": "11 червня 2026",
-      "dateTS": 1781181864.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/133",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Рейтинг банків України за результатами 4міс2026 року  💵НАЙБІЛЬШ ПРИБУТКОВІ БАНКИ (всього чистий п...",
-      "excerpt": "",
-      "date": "11 червня 2026",
-      "dateTS": 1781175299.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/132",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "отяк, мі мозімо, колі хоцімо, а руці та ось вони 🤲 міжбанк долар 44.89 - 44.93",
-      "excerpt": "",
-      "date": "11 червня 2026",
-      "dateTS": 1781172948.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/131",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Obozrevatel",
+      "title": "Як угода Трампа з Іраном змінить ситуацію з курсом євро й навіть гривні - Obozrevatel",
+      "excerpt": "Згадка у виданні Obozrevatel",
+      "date": "12 червня 2026",
+      "dateTS": 1781271540.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRFdSNVJPUVBtZmVoUWppSF95Y0xmTHlwdVMtRFlLZUNsSzZEX0NiaklyODFlSUdaUDdUYVRfN3o1bVN3MjhvY01LX1hmNVhXeUt1MXhzZVQ0ZXZjZXFNT2hmNU5zRnc3cWMyZVMyVkxQYWdNYWhXOHBvNWtFUGRCUDAzTTA3eE9XNmpac1hGUC1tSi1pYUJMaS1maE91cjI3YkgzTThZU01mQU90eENHV3JxeENiaEttSF9jck0xalVKaF9YN19iNllrWdIBywFBVV95cUxNRFdSNVJPUVBtZmVoUWppSF95Y0xmTHlwdVMtRFlLZUNsSzZEX0NiaklyODFlSUdaUDdUYVRfN3o1bVN3MjhvY01LX1hmNVhXeUt1MXhzZVQ0ZXZjZXFNT2hmNU5zRnc3cWMyZVMyVkxQYWdNYWhXOHBvNWtFUGRCUDAzTTA3eE9XNmpac1hGUC1tSi1pYUJMaS1maE91cjI3YkgzTThZU01mQU90eENHV3JxeENiaEttSF9jck0xalVKaF9YN19iNllrWQ?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -120,7 +133,20 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTZISzE1dlZDYWx4c0xCMnpYNDdKQm1sU0NuWkhxTWpITEcza2MxT1NjNGR2RWpYMG82ejFKaEsxXzZGR1puQ1o4b2NweFBoUTZYTFVUYTRJZmN6WW1qXzRENXJyTjN5dmVfTWNkS0RKdnVDRUF6Wkw5a1c2VFBqS3EzN2tOWmRBVEpCZURvb2tuY0N3UjhFcE5rOTRESnNqR1AycUVWMXp2Nkc2OXc?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Фінанси 24",
+      "title": "Світові ціни на золото падають, а українці рекордно продають: що відбувається у 2026 році - Фінанси 24",
+      "excerpt": "Згадка у виданні Фінанси 24",
+      "date": "27 травня 2026",
+      "dateTS": 1779865200.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZjBIWFlWOGdxTUVKYXlRV2lzbXhGNXJyQ0lJaklmQVo0UUszejZsQXBySm1WNk16ZTMtQjR0WFBsd3RwaWU2UmdVLVFCZVZzX2I2NDN3ZzVHWHg2c0V6LWhJVXBJNXc2SGZSdTRRWkItV3ZsNDNlQVZNbFEtTXRaRHJnVnYzNkF1eUZ4X21wb0k1dkZpeWNZbjd5ONIBoAFBVV95cUxPS2JpcVBrWVV6UG9qa3U4QndKWktBM1JWZkVGUzJ4TnFmVUxmZnlrWUFxYzBJMVh6Z2EwV3REcWpJN0R6ZnZzVFY5dHdoLW4yc24tamh2Z25pY096QzlvbzAyNU1OTUFTaXRVa1Yxc1hDZFZrN1JTNjhmd3FrSUpxQXdYU01hc2lMM1hMNWtxUEtCWTNCNXJ2RWJsbktMU0Zz?oc=5",
+      "external": true,
+      "featured": false
     },
     {
       "source": "news",
@@ -184,32 +210,6 @@ const CONTENT = {
       "dateTS": 1777532400.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObTlTV1VrX0R1Zm1ZMDNOXzk4UzlZQWZOSjk5OWZTLUk4X2cxd1BqZUh6T3pnNkJ2V2xzdlRDY3VSMTBqZmlKQXNLMm1mcEs5ekF4ZWhOTTgzN3VKT09CbjVSejY4dmF4RF92R0JCaXZHdGEwdUVqV0hraUlOcFdZcVpOUFJfLTlWTnY5Wm10OWFMNnY5WG1Fcmg4aFlxbUdl0gGmAUFVX3lxTE9XUW1mRHNiRVNzcTNnaGxUblVwc2dabU1HUzR2dFFvcWlzZ3lZdDdIRDhLV2pTNFhQUjZPWWc2Y3dva29hY1RHSGJ0SVA0aTFfMVgwNUxPZ3dRQ25qcGRjV0J3WkU4VXctQm12ZTAxMWNndE5xX3J3YkFwRUc0VEtkdTVXVl85dUllTmZmSDVGLWZ6QjI2WGdHUGZRNW9MWXNfMjU5RFE?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "glavred.net",
-      "title": "Гривня зміцнить позиції: українцям сказали, чи варто купувати долари і євро - glavred.net",
-      "excerpt": "Згадка у виданні glavred.net",
-      "date": "27 квітня 2026",
-      "dateTS": 1777273200.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdEZUX1Vmalp2eW5CQk43UnNYckpXOFhfYjRKUXFXTlJOZXJwb2gxZ1FVYnRRd3JObUI5ZklGWTdsRDAxeTB4RWJSN3NqOGVEbTA3aG1VTERpcC1aenFna1hoZnc4a0tfQUV2NFRUMFhackZRM21ndmx6Zk1ib3FWd1JJTm5TLXhKbDUyUmp5VDc0VU9vNGxzaGxvQXdNdTlYRnk1dWNBREwwaXR0bW1Nd0tNZ1hEVmls0gG-AUFVX3lxTE80Z0xDdmUzQWg1Q1RMNVNEdUwybU9BbmQtYVIzYTNIajVIWHpEc1pLbWY4V1YwR2JHbnlLUEc4cGlaTGFDVE1oOFFaZjl5bXBldUFMLVVpZUNhTTVuSVk0MUZmcGpaQm1SMEY4QXBmSlZBVG5sTE5VdFJSZFNEVWZuN0RveGdXZmYyWDZCNm4xQjFNaElodGlaMjhvZ09FblNXNjlLLWdENlI2VndvOElZS3hSUjRPQ0VOdTlubXc?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "MC.today",
-      "title": "Попереду місяць міжсезоння: що відбувається з доларом і євро та чи варто купувати їх у травні - MC.today",
-      "excerpt": "Згадка у виданні MC.today",
-      "date": "27 квітня 2026",
-      "dateTS": 1777273200.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNelk5YWJqcjBDTzUwVnc4Z1N4MjRUYThRcUl4NW1CdjgzNVM4SmNiUmdtZlVZNWcwRG1OWU5pZGxfOGlDRVMtM2pfcng0SjFfbkVLbUZmSnMwaG5VN0JTdlRON19hSGF5QzlYY0RVcWh4WnZWbEJwVC1NcGR4c0pZLUE3T2ZoVHNlaXZfbVV2TkM5NG9lZTNSWnVTTzhlX0hmRUZMNDduVzBmZlJpcVJscDN4ZXJycmF4RTA0MS1xRdIBxAFBVV95cUxQLUVTQW1FMnBUVHpjX3ZObzA4NjFxT0VyaDJYWERadFJfRHpuQXN6cjdEUzZSVzBKS2VxeURwRmh4RW9xeC10SURuTEFaaHk5TTZIQW4zUDJFcXRnaURWUkdpMVA0LVRQR1pBMTB3alhzazFNVmp5NVRiNVNCQXMyNXhBWjYxN3Z2UzIxM3Y5cEJyWk5RUy1IWW1Idlp6cXNyd2FuVUpJd1JXX0pwaDN2UHQwMER5dUpQbjhrN1JzZVZtUW14?oc=5",
       "external": true,
       "featured": false
     }
