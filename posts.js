@@ -1,4 +1,4 @@
-// Автоматично оновлено: 2026-06-13 10:22 UTC
+// Автоматично оновлено: 2026-06-14 10:44 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
@@ -7,12 +7,12 @@ const CONTENT = {
       "source": "telegram",
       "tag": "telegram",
       "tagLabel": "Telegram",
-      "title": "В структурі прибутків до оподаткування підприємств України за 1кв2026 лідери: - фінансові установ...",
+      "title": "Новий тижневий огляд валютного ринку України вже на каналі. Це якщо, вам ліньки було читати, то в...",
       "excerpt": "",
-      "date": "12 червня 2026",
-      "dateTS": 1781280046.0,
+      "date": "13 червня 2026",
+      "dateTS": 1781382905.0,
       "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/142",
+      "url": "https://t.me/shevchyshyn_trends/153",
       "external": true,
       "featured": true
     },
@@ -20,12 +20,12 @@ const CONTENT = {
       "source": "telegram",
       "tag": "telegram",
       "tagLabel": "Telegram",
-      "title": "ЛИШЕ 4 СЕКТОРА ЕКОНОМІКИ УКРАЇНИ НАРОСТИЛИ ПРИБУТОК В 1кв2026  Якось пропустив ці цифри Держстату...",
+      "title": "-  В базовому сценарії офіційний долар очікую на 44,45-44,95 грн, готівковий долар 44,65-45,25 гр...",
       "excerpt": "",
-      "date": "12 червня 2026",
-      "dateTS": 1781279290.0,
+      "date": "13 червня 2026",
+      "dateTS": 1781348881.0,
       "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/141",
+      "url": "https://t.me/shevchyshyn_trends/152",
       "external": true,
       "featured": false
     },
@@ -33,12 +33,12 @@ const CONTENT = {
       "source": "telegram",
       "tag": "telegram",
       "tagLabel": "Telegram",
-      "title": "Чому дефлятор 7% це не маніпуляція.  Дефлятор ВВП і ІСЦ - це різні речі за визначенням  Індекс сп...",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ ЗА ТИЖДЕНЬ: ЕКСПОРТЕРИ ПРИТРИМУЮТЬ ВАЛЮТУ, ДОЛАР 45 НОВИЙ РЕКОРД, НБУ ЗАПІ...",
       "excerpt": "",
-      "date": "12 червня 2026",
-      "dateTS": 1781277847.0,
+      "date": "13 червня 2026",
+      "dateTS": 1781348103.0,
       "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/140",
+      "url": "https://t.me/shevchyshyn_trends/151",
       "external": true,
       "featured": false
     },
@@ -46,12 +46,12 @@ const CONTENT = {
       "source": "telegram",
       "tag": "telegram",
       "tagLabel": "Telegram",
-      "title": "Трохи нудоти про нацрахунки. Чи обдурюють нас з даними по ВВП?.  Держстат повідомив: ВВП у 1кв202...",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ ЗА ТИЖДЕНЬ: ЕКСПОРТЕРИ ПРИТРИМУЮТЬ ВАЛЮТУ, ДОЛАР 45 НОВИЙ РЕКОРД, НБУ ЗАПІ...",
       "excerpt": "",
-      "date": "12 червня 2026",
-      "dateTS": 1781277194.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/139",
+      "date": "13 червня 2026",
+      "dateTS": 1781348059.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/150",
       "external": true,
       "featured": false
     },
@@ -59,12 +59,12 @@ const CONTENT = {
       "source": "telegram",
       "tag": "telegram",
       "tagLabel": "Telegram",
-      "title": "УГОДОЮ З ІРАНОМ ТРАМП ЗМІНЮЄ СИТУАЦІЮ ПО ЄВРО Й НАВІТЬ ГРИВНІ  Угода з Іраном - поки гіпотетична....",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ ЗА ТИЖДЕНЬ: ЕКСПОРТЕРИ ПРИТРИМУЮТЬ ВАЛЮТУ, ДОЛАР 45 НОВИЙ РЕКОРД, НБУ ЗАПІ...",
       "excerpt": "",
-      "date": "12 червня 2026",
-      "dateTS": 1781252884.0,
+      "date": "13 червня 2026",
+      "dateTS": 1781348031.0,
       "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/138",
+      "url": "https://t.me/shevchyshyn_trends/149",
       "external": true,
       "featured": false
     },
@@ -72,12 +72,12 @@ const CONTENT = {
       "source": "telegram",
       "tag": "telegram",
       "tagLabel": "Telegram",
-      "title": "💰Україна залучила 236 млн євро кредитного фінансування під гарантію Швеції у межах проєкту Світов...",
+      "title": "ГОТІВКОВИЙ РИНОК - Середньодобовий попит на валюту за тиждень зріс на 25% до 91М  дол. - Середньо...",
       "excerpt": "",
-      "date": "11 червня 2026",
-      "dateTS": 1781190761.0,
+      "date": "13 червня 2026",
+      "dateTS": 1781347998.0,
       "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/137",
+      "url": "https://t.me/shevchyshyn_trends/147",
       "external": true,
       "featured": false
     },
@@ -85,12 +85,12 @@ const CONTENT = {
       "source": "telegram",
       "tag": "telegram",
       "tagLabel": "Telegram",
-      "title": "📊Держстат здійснив попередню оцінку ВВП за І квартал 2026 р. У І кварталі 2026р. реальний ВВП: ⬇️...",
+      "title": "МІЖБАНК  - Середньодобова купівля валюти зросла на 3% - 392М дол.   - Середньодобова пропозиції в...",
       "excerpt": "",
-      "date": "11 червня 2026",
-      "dateTS": 1781186973.0,
+      "date": "13 червня 2026",
+      "dateTS": 1781347958.0,
       "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/136",
+      "url": "https://t.me/shevchyshyn_trends/145",
       "external": true,
       "featured": false
     },
@@ -98,17 +98,30 @@ const CONTENT = {
       "source": "telegram",
       "tag": "telegram",
       "tagLabel": "Telegram",
-      "title": "72,7% доходів українських банків - це процентні доходи.   - Більше половини 51,4% з них заробляют...",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ ЗА ТИЖДЕНЬ: ЕКСПОРТЕРИ ПРИТРИМУЮТЬ ВАЛЮТУ, ДОЛАР 45 НОВИЙ РЕКОРД, НБУ ЗАПІ...",
       "excerpt": "",
-      "date": "11 червня 2026",
-      "dateTS": 1781184902.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/135",
+      "date": "13 червня 2026",
+      "dateTS": 1781347855.0,
+      "readTime": "3 хв",
+      "url": "https://t.me/shevchyshyn_trends/143",
       "external": true,
       "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Фінанси 24",
+      "title": "Біткойн втратив половину вартості: чому головна криптовалюта падає та чого чекати далі - Фінанси 24",
+      "excerpt": "Згадка у виданні Фінанси 24",
+      "date": "13 червня 2026",
+      "dateTS": 1781374200.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0xYMm1DMnBXay13SWcwM3luYmhGenN2Nm1hM0tSa0xxejd5dVNfR2lwRVU1bWRBT1lBRnVWNDJuWmhWQW4xdWFFUHJQNzA5cVo2b1RZOEtOV3dkRnlZdWFPRzBncy14enByZk5uVzJmRExTNU52ZHQ0RkJ4em41aUl4cXM2aWlLSzNiLWF5TTNTME9mNTlDVDFEXzM0amvSAaQBQVVfeXFMTjh2T0JKM2VGVnpzUGI5dEVCOHNKa21mYUVudGo3SnB5eEZsLUNqT0JtMWxFTFVKNm03UHA0WUh6dHhfSFRSWVdpYUFrTVp2cUdCWDRaemNLNkk3WEdHTFZQeDBJbHFXQW5NVEZQNDdPamh6aVpuX0JtSEU2RGdRTTVmTHZhREdfa2VWUENKV2ZHMmd3enBvZzBqelVaNGRlUzZCbXI?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -120,7 +133,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRFdSNVJPUVBtZmVoUWppSF95Y0xmTHlwdVMtRFlLZUNsSzZEX0NiaklyODFlSUdaUDdUYVRfN3o1bVN3MjhvY01LX1hmNVhXeUt1MXhzZVQ0ZXZjZXFNT2hmNU5zRnc3cWMyZVMyVkxQYWdNYWhXOHBvNWtFUGRCUDAzTTA3eE9XNmpac1hGUC1tSi1pYUJMaS1maE91cjI3YkgzTThZU01mQU90eENHV3JxeENiaEttSF9jck0xalVKaF9YN19iNllrWdIBywFBVV95cUxNRFdSNVJPUVBtZmVoUWppSF95Y0xmTHlwdVMtRFlLZUNsSzZEX0NiaklyODFlSUdaUDdUYVRfN3o1bVN3MjhvY01LX1hmNVhXeUt1MXhzZVQ0ZXZjZXFNT2hmNU5zRnc3cWMyZVMyVkxQYWdNYWhXOHBvNWtFUGRCUDAzTTA3eE9XNmpac1hGUC1tSi1pYUJMaS1maE91cjI3YkgzTThZU01mQU90eENHV3JxeENiaEttSF9jck0xalVKaF9YN19iNllrWQ?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -199,22 +212,22 @@ const CONTENT = {
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ2tyWTFMWkFoeFNkM1ZNZDh3Ym90ZnY0ZEdtR0pPQnRhMnFHM0VrNFFfMHNodjMwYTBDa3l6VXJybmZGVkJZUDlJN0c5X19WX3UzYzZmZmhqUDEtMjBsVnlxUDZHWWwxUjlUbTdZa24telNaZGdwLXUwVjZWcFc4aTlCS3ZXUnBYVklpNkNYSzBfZFBnaGF1ZEFlUUdnckNSa3fSAacBQVVfeXFMTjVCZUlSTWt0Wkx2RTdRd2FnVVdERDg5Sk1tU2RmZlpVb3hZWnpSWXNWYVlNUWVBWGlWbjRDQlczT21tXzlxQWFUdy1GSFhDODlHaUh5dzY4NTFiUXpvaGgwSzF4b0Fmc19EeTZQcTN6RUIwVzJlbXJucUVEVHB6Q2IxWEQzY2NTYkQtWDFjR3ozbnR3eld0aU9taGRqTDBlVDNhX2gya2s?oc=5",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "MC.today",
-      "title": "Курс валют на початку травня: чого чекати українцям від долара та євро - MC.today",
-      "excerpt": "Згадка у виданні MC.today",
-      "date": "30 квітня 2026",
-      "dateTS": 1777532400.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObTlTV1VrX0R1Zm1ZMDNOXzk4UzlZQWZOSjk5OWZTLUk4X2cxd1BqZUh6T3pnNkJ2V2xzdlRDY3VSMTBqZmlKQXNLMm1mcEs5ekF4ZWhOTTgzN3VKT09CbjVSejY4dmF4RF92R0JCaXZHdGEwdUVqV0hraUlOcFdZcVpOUFJfLTlWTnY5Wm10OWFMNnY5WG1Fcmg4aFlxbUdl0gGmAUFVX3lxTE9XUW1mRHNiRVNzcTNnaGxUblVwc2dabU1HUzR2dFFvcWlzZ3lZdDdIRDhLV2pTNFhQUjZPWWc2Y3dva29hY1RHSGJ0SVA0aTFfMVgwNUxPZ3dRQ25qcGRjV0J3WkU4VXctQm12ZTAxMWNndE5xX3J3YkFwRUc0VEtkdTVXVl85dUllTmZmSDVGLWZ6QjI2WGdHUGZRNW9MWXNfMjU5RFE?oc=5",
-      "external": true,
-      "featured": false
     }
   ],
   "youtube": [
+    {
+      "source": "youtube",
+      "tag": "youtube",
+      "tagLabel": "YouTube",
+      "title": "ДОЛАР ПО 45, ЕКСПОРТЕРИ ПРИТРИМУЮТЬ ВАЛЮТУ, НБУ ЗАЛИВАЄ РИНОК ІНТЕРВЕНЦІЯМИ",
+      "excerpt": "ВАЛЮТНИЙ РИНОК УКРАЇНИ ЗА ТИЖДЕНЬ: ЕКСПОРТЕРИ ПРИТРИМУЮТЬ ВАЛЮТУ, ДОЛАР 45 НОВИЙ РЕКОРД, НБУ ЗАПІЗНО ЗАЛИВАЄ РИНОК ІНТЕРВЕНЦІЯМИ\n---\nПочитати в FB https://www.facebook.com/AndyShev79 або в ТГ https://",
+      "date": "13 червня 2026",
+      "dateTS": 1781383209.0,
+      "readTime": "відео",
+      "url": "https://www.youtube.com/watch?v=qBrlyuvxcoU",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "youtube",
       "tag": "youtube",
@@ -226,7 +239,7 @@ const CONTENT = {
       "readTime": "відео",
       "url": "https://www.youtube.com/watch?v=DUose7Z5PKk",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "youtube",
@@ -303,19 +316,6 @@ const CONTENT = {
       "dateTS": 1777139422.0,
       "readTime": "відео",
       "url": "https://www.youtube.com/watch?v=x5yJlFteOqU",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "youtube",
-      "tag": "youtube",
-      "tagLabel": "YouTube",
-      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ ЗА ТИЖДЕНЬ: НБУ ДЕВАЛЬВУВАВ ГРИВНЮ, ЩОБ ПОТІМ...",
-      "excerpt": "На минулому тижні НБУ девальвував гривню й до євро й до долару, незважаючи на відсутність нових передумов для таких дій. Тобто, зрозуміло, що проблеми є, й гривня залишається під фундаментальним девал",
-      "date": "18 квітня 2026",
-      "dateTS": 1776538342.0,
-      "readTime": "відео",
-      "url": "https://www.youtube.com/watch?v=qeS133UkPzg",
       "external": true,
       "featured": false
     }
