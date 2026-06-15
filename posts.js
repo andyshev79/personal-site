@@ -1,8 +1,21 @@
-// Автоматично оновлено: 2026-06-14 10:44 UTC
+// Автоматично оновлено: 2026-06-15 13:48 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Про галюціногенний ШІ й авторитетні консалтингові компанії.  АБО, хто це  А) перевіряє, Б) платит...",
+      "excerpt": "",
+      "date": "15 червня 2026",
+      "dateTS": 1781515747.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/154",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +27,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/153",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -93,22 +106,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/145",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ ЗА ТИЖДЕНЬ: ЕКСПОРТЕРИ ПРИТРИМУЮТЬ ВАЛЮТУ, ДОЛАР 45 НОВИЙ РЕКОРД, НБУ ЗАПІ...",
-      "excerpt": "",
-      "date": "13 червня 2026",
-      "dateTS": 1781347855.0,
-      "readTime": "3 хв",
-      "url": "https://t.me/shevchyshyn_trends/143",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "focus.ua",
+      "title": "Долар шокував ринок, курс валют пробив психологічну межу — фінаналітик зробив прогноз на тиждень - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "15 червня 2026",
+      "dateTS": 1781514508.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeUpGQVZFaWUwSWk1WnhiZ3hXRGFKeDVKUXlyRERaUXlNZkF6M2U2eldMVXpwVE9naXFHbmR6OFdOLUdnY0FROEF1Y2JBMjRzRGMwNzZKb21mR084TWltWTBzU09hVXMzLTNaclJwaF9hZERXZHRpOUllVUxudUN3dVFLVGllVEZPVXJrNWg0b0pVcm1lUmlTd1VIWUFBTUoyT3BfeGVLdDdNNUplSHp3S0NuSWxGbEZINXRZVlJn0gG-AUFVX3lxTFB5SkZBVkVpZTBJaTVaeGJneFdEYUp4NUpReXJERFpReU1mQXozZTZ6V0xVenBUT2dpcUduZHo4V04tR2djQVE4QXVjYkEyNHNEYzA3NkpvbWZHTzhNaW1ZMHNTT2FVczMtM1pyUnBoX2FkRFdkdGk5SWVVTG51Q3d1UUtUaWVURk9Vcms1aDRvSlVybWVSaVN3VUhZQUFNSjJPcF94ZUt0N001SmVIendLQ25JbEZsRkg1dFlWUmc?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -120,7 +133,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0xYMm1DMnBXay13SWcwM3luYmhGenN2Nm1hM0tSa0xxejd5dVNfR2lwRVU1bWRBT1lBRnVWNDJuWmhWQW4xdWFFUHJQNzA5cVo2b1RZOEtOV3dkRnlZdWFPRzBncy14enByZk5uVzJmRExTNU52ZHQ0RkJ4em41aUl4cXM2aWlLSzNiLWF5TTNTME9mNTlDVDFEXzM0amvSAaQBQVVfeXFMTjh2T0JKM2VGVnpzUGI5dEVCOHNKa21mYUVudGo3SnB5eEZsLUNqT0JtMWxFTFVKNm03UHA0WUh6dHhfSFRSWVdpYUFrTVp2cUdCWDRaemNLNkk3WEdHTFZQeDBJbHFXQW5NVEZQNDdPamh6aVpuX0JtSEU2RGdRTTVmTHZhREdfa2VWUENKV2ZHMmd3enBvZzBqelVaNGRlUzZCbXI?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -131,7 +144,33 @@ const CONTENT = {
       "date": "12 червня 2026",
       "dateTS": 1781271540.0,
       "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRFdSNVJPUVBtZmVoUWppSF95Y0xmTHlwdVMtRFlLZUNsSzZEX0NiaklyODFlSUdaUDdUYVRfN3o1bVN3MjhvY01LX1hmNVhXeUt1MXhzZVQ0ZXZjZXFNT2hmNU5zRnc3cWMyZVMyVkxQYWdNYWhXOHBvNWtFUGRCUDAzTTA3eE9XNmpac1hGUC1tSi1pYUJMaS1maE91cjI3YkgzTThZU01mQU90eENHV3JxeENiaEttSF9jck0xalVKaF9YN19iNllrWdIBywFBVV95cUxNRFdSNVJPUVBtZmVoUWppSF95Y0xmTHlwdVMtRFlLZUNsSzZEX0NiaklyODFlSUdaUDdUYVRfN3o1bVN3MjhvY01LX1hmNVhXeUt1MXhzZVQ0ZXZjZXFNT2hmNU5zRnc3cWMyZVMyVkxQYWdNYWhXOHBvNWtFUGRCUDAzTTA3eE9XNmpac1hGUC1tSi1pYUJMaS1maE91cjI3YkgzTThZU01mQU90eENHV3JxeENiaEttSF9jck0xalVKaF9YN19iNllrWQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV0F5a1IyN3phX3gxZTFaNXc2SDVBSE1YdUtIdTdQOFFOemxObWZ0M2ZzZ2daQjF2UnVFbWpwbUgtQTBaemZHR2dmZVhYTS1lVWNCNEhyTHI0aUVwYkZwbDhIYWZ5LW9XYmRwMkNRRjV2bzYyWFV3M0d0QWZRZm1aWldleHBkRFN4Vnh6UGF1QjgxNTE4NTFpbC1qVGMwdG9mRUhJWmFqSmV1RHdaQ1lFMU9PZGt6MnRKNEpTVzNJcVJvRUF2WkHSAcsBQVVfeXFMTURXUjVST1FQbWZlaFFqaUhfeWNMZkx5cHVTLURZS2VDbEs2RF9DYmpJcjgxZUlHWlA3VGFUXzd6NW1TdzI4b2NNS19YZjVYV3lLdTF4c2VUNGV2Y2VxTU9oZjVOc0Z3N3FjMmVTMlZMUGFnTWFoVzhwbzVrRVBkQlAwM00wN3hPVzZqWnNYRlAtbUotaWFCTGktZmhPdXIyN2JIM004WVNNZkFPdHhDR1dycXhDYmhLbUhfY3JNMWpVSmhfWDdfYjZZa1k?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Фінанси 24",
+      "title": "Долар пробив 45 гривень: чому курс росте та чого чекати далі - Фінанси 24",
+      "excerpt": "Згадка у виданні Фінанси 24",
+      "date": "10 червня 2026",
+      "dateTS": 1781103771.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUEs4Q05lLUpMOTV1ZmRYSXdvcTlKZWF6LTBZM2RPSld5Z0pscHQxaEdiYlk0TjVBWlNqd2ZDMFdNMzZDel9XUHFhRnNxdURweXQtYl9ZOXhCV3ZpNVI5S2xDNjIzYmlIaFRTZGthMXJWdDAyNVZOTktxeVR5clBXLU5jV1pTNEQ3LVU1U3VGa3JBaDQxbGh4VzNHQdIBoAFBVV95cUxON01PWlZpZEF3X2ZjYlJaQnBEZkVDdTJ2WV90bnJHRzBtajRRSDVLVUN3MS0taHgxZGJuRmp2Z0gzVUZvMGpBOUl3SW1COWE3YnE3bU5KRXlxNlllRjl0TFdrTks5YjRtYTJnbExuMXNQNWFlSW0tMnNLTkhJeTEtano2RWxNNmRvdDJGdGZyTDBmaS1IWjd4cURyYWNGWUk4?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Delo.ua",
+      "title": "Долар б’є рекорди: чи здатен НБУ втримати курс гривні - Delo.ua",
+      "excerpt": "Згадка у виданні Delo.ua",
+      "date": "8 червня 2026",
+      "dateTS": 1780901535.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZXRNWmVYdGJzZThLQ3VXWERuczRkQjNlN1dGTDhuQWhnbXBlZGcxZzlQUWtYcjRWQWVxaXVONlNaSzhWQjJOVThPVGk5UW5Qd3IxejJkOGxGWjdQSzF2cHpWdTk5RmdFQ05UaGNvNVdqNHhCaGlIc1hXOHV3Qk5PRWdRbThKTXpI?oc=5",
       "external": true,
       "featured": false
     },
@@ -171,45 +210,6 @@ const CONTENT = {
       "dateTS": 1779174000.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPRUZJN3Z5LUVVLTlhU0wxQWQ0cERJX1VJOXZkTXY2eDNKX2k4cFdJTWZXTkVRVjcyaGx5NU11S2lnaTBHUWhqY0RJZ1VJa1BJZ2lzLXlUc3RhSFFkZHRiQVhzWlNEbnVpdmg2eG8yWVoyRThaU3U1eXJIMndySWVnazAtRkJlVThhTmZrbmtZQVYzM04wSmR3b3J1WnU4NXlGZ1hqVjYzT0dQYzhFTHQtR3J0dUZ3RmNWOFBlTGlYal96X0ZfcjN2emxiVFVNZG04NzRrSnRsZnNWd1RGamdXUHpRUGRXbDJTcm9XdG9Sbjl5cGwydkxrVlhIeU9obVRFaDQxdHBOQ1lESzhl0gGSAkFVX3lxTE9OaVJFWE5leWtGcDhOZXlwVTZuSHJUWHRseWRaalAtQXFwZWlPc3lSNXF2SGJwMVhlYVRxWnRLektmaGZkLWloZTFCbnZ4QmNXeEZQRFcySXJMeVRkcThZVHVYRWFaYVJzNElPVG5qVDJVQWFnZEhfN3VWM0RqbmlyTDdobEhIR1ROc1EtUURnUDM2S1RoZnZIRWdDVm5zMGx2TUJFaHRoTTBrMjM1alpQUDJaNm9aaTA2eG8yVzI5VG4ybkZwZUM0R3IwZTZGeWk5RzJEejJDYmw1VTZpS2YzNjZqTEJ6RjF4OGVqZ1diOVAySlhiaWZlUjJvdTZ5eTRaZHN5TmpRM2RKQ3d5Z25GdVE?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "MC.today",
-      "title": "Експерт пояснив, чому гривня укріпилась, але девальвація нікуди не зникла - MC.today",
-      "excerpt": "Згадка у виданні MC.today",
-      "date": "11 травня 2026",
-      "dateTS": 1778482800.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUXdlZmw3cHpLX3VZSVoxdGJxeWRQWnIxSVlIdy1zUFIzdXQ1YzB6V1FWc0Z3Y2tmOUdqaEhQMWdYdDdzQXNLckd3M3FrTzhlREZFRWt6WHZNYm1xaXI2M3I4TXNxS3dVNDBFNEYydENnczlrc05CbnBXT1hoc00xQUlmRjdoMDEwcjhsbUNqOU9YSk9qMS1KVg?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "MC.today",
-      "title": "«Як перевіряти будете?». Фінансист прокоментував ідею альтернативного податку на електрокари - MC.today",
-      "excerpt": "Згадка у виданні MC.today",
-      "date": "11 травня 2026",
-      "dateTS": 1778482800.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZlUzYUp2N2R5WVVJSmh3X2JrdkNMODZHNnJwNlNHbXM2VURQc3JKRnF0amIwMzNnb0h2Z2VtVzFHOHBQMFlrYmI5QVQxSTI2R2dwQUtaVTdUTUd4QmFvclZBTE9DM2hLSHZhb09rNjgzTkFVelRTY1NLdmU3bF9HaGZRQTRJX1FHMkM4SGVuazlSMlQxVkhKTkIwbmxYS1dGZ253Vk9INUNlRWZBOUNzStIBtgFBVV95cUxPZFdHd29GeHVNLWpPX0lvdUMybk4tSjNac1RYZjM4ZGFZVTNLZzF6UmoyX2x5Nl9kQ1BfRDNPYlRMQ2RwLXg1MWprNV84ZGNsRE9BY2dVdExUUGMyTDZHQ0lYVHo2UE9oYkdjT1FGV2R0M2VJM3lKZXhka0lmOXNIQktnY243aUk4TjNxc192bGJLQTFzRGVVSk92Y3hMUzJISENNUEFjY19YSFpqU1VzWDBTSURoZw?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "MC.today",
-      "title": "Три сценарії для валютного ринку – що буде з курсом долара і євро у травні - MC.today",
-      "excerpt": "Згадка у виданні MC.today",
-      "date": "5 травня 2026",
-      "dateTS": 1777964400.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ2tyWTFMWkFoeFNkM1ZNZDh3Ym90ZnY0ZEdtR0pPQnRhMnFHM0VrNFFfMHNodjMwYTBDa3l6VXJybmZGVkJZUDlJN0c5X19WX3UzYzZmZmhqUDEtMjBsVnlxUDZHWWwxUjlUbTdZa24telNaZGdwLXUwVjZWcFc4aTlCS3ZXUnBYVklpNkNYSzBfZFBnaGF1ZEFlUUdnckNSa3fSAacBQVVfeXFMTjVCZUlSTWt0Wkx2RTdRd2FnVVdERDg5Sk1tU2RmZlpVb3hZWnpSWXNWYVlNUWVBWGlWbjRDQlczT21tXzlxQWFUdy1GSFhDODlHaUh5dzY4NTFiUXpvaGgwSzF4b0Fmc19EeTZQcTN6RUIwVzJlbXJucUVEVHB6Q2IxWEQzY2NTYkQtWDFjR3ozbnR3eld0aU9taGRqTDBlVDNhX2gya2s?oc=5",
       "external": true,
       "featured": false
     }
