@@ -1,8 +1,47 @@
-// Автоматично оновлено: 2026-06-15 13:48 UTC
+// Автоматично оновлено: 2026-06-16 12:47 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "КИТАЙ: ОХОЛОДЖЕННЯ  РОЗДРІБНІ ПРОДАЖІ - ПАДІННЯ 0,6%р/р (вперше з кінця 2022): Свято Дня праці на...",
+      "excerpt": "",
+      "date": "16 червня 2026",
+      "dateTS": 1781613882.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/157",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Міжбанк долар: 44.76 - 44.79  По мірі відновлення євро до долару на світовому ринку (на тлі оптим...",
+      "excerpt": "",
+      "date": "16 червня 2026",
+      "dateTS": 1781606601.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/156",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "МАКРООРІЄНТИРИ ВІД УРЯДУ  З https://t.me/vasylevska96 каналу нардепа СН Ольги Василевської-Смаглю...",
+      "excerpt": "",
+      "date": "16 червня 2026",
+      "dateTS": 1781605073.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/155",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +53,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/154",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -67,48 +106,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/150",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ ЗА ТИЖДЕНЬ: ЕКСПОРТЕРИ ПРИТРИМУЮТЬ ВАЛЮТУ, ДОЛАР 45 НОВИЙ РЕКОРД, НБУ ЗАПІ...",
-      "excerpt": "",
-      "date": "13 червня 2026",
-      "dateTS": 1781348031.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/149",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ГОТІВКОВИЙ РИНОК - Середньодобовий попит на валюту за тиждень зріс на 25% до 91М  дол. - Середньо...",
-      "excerpt": "",
-      "date": "13 червня 2026",
-      "dateTS": 1781347998.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/147",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "МІЖБАНК  - Середньодобова купівля валюти зросла на 3% - 392М дол.   - Середньодобова пропозиції в...",
-      "excerpt": "",
-      "date": "13 червня 2026",
-      "dateTS": 1781347958.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/145",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "ТСН",
+      "title": "Курс валют в Україні: підступний удар долара – уже вище 45 грн, експерти шокували розбіжністю прогнозів - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
+      "date": "16 червня 2026",
+      "dateTS": 1781588478.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUTNfYm1SZUUzbjVKZjRGdHhYRk9fdEJQQ05CLU1CUEwxaWxiMWV6b3NlZWRTbVlWWnpMYlpIWFZBOTVkSTU0NEhIMS1GN2JlLWhRWF90OTBJMGZfYkJuTXQ1Qi1oR1hjYVNJbmNWcjZpQUxmR3ZVcVkyWnBYVEhqeXkteGNpNWhHSGNpNkttb2FKLXhCOElEeThyMG8xLU9RV1VvckV4QzRSVEYzTjRaVVBhZlZqM2hI0gG-AUFVX3lxTE44c1Z3b29Xb0FLMHlGelBDS2FFallLbFNQTWFLeVNsUjByY1paRUxORnJCNUdIOWR5QlFpbGhIb2pJOGVEZVZpbDR1anphdUwzRkNHSDJKSjEyYmwyRG5uNEF3MUl3Uldoc0ExWnJzUDlDUjhPOEpZcXFNSXJWdl9iRkZEUGRQZi05aWIwQTdweHA1VUItcWNlMVJ1M0l2Q0g2MHpsMzVnSHQwbVl1LWZRTlk0MXdhWEhtR1Y0d2c?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -120,7 +133,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeUpGQVZFaWUwSWk1WnhiZ3hXRGFKeDVKUXlyRERaUXlNZkF6M2U2eldMVXpwVE9naXFHbmR6OFdOLUdnY0FROEF1Y2JBMjRzRGMwNzZKb21mR084TWltWTBzU09hVXMzLTNaclJwaF9hZERXZHRpOUllVUxudUN3dVFLVGllVEZPVXJrNWg0b0pVcm1lUmlTd1VIWUFBTUoyT3BfeGVLdDdNNUplSHp3S0NuSWxGbEZINXRZVlJn0gG-AUFVX3lxTFB5SkZBVkVpZTBJaTVaeGJneFdEYUp4NUpReXJERFpReU1mQXozZTZ6V0xVenBUT2dpcUduZHo4V04tR2djQVE4QXVjYkEyNHNEYzA3NkpvbWZHTzhNaW1ZMHNTT2FVczMtM1pyUnBoX2FkRFdkdGk5SWVVTG51Q3d1UUtUaWVURk9Vcms1aDRvSlVybWVSaVN3VUhZQUFNSjJPcF94ZUt0N001SmVIendLQ25JbEZsRkg1dFlWUmc?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -197,19 +210,6 @@ const CONTENT = {
       "dateTS": 1779865200.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZjBIWFlWOGdxTUVKYXlRV2lzbXhGNXJyQ0lJaklmQVo0UUszejZsQXBySm1WNk16ZTMtQjR0WFBsd3RwaWU2UmdVLVFCZVZzX2I2NDN3ZzVHWHg2c0V6LWhJVXBJNXc2SGZSdTRRWkItV3ZsNDNlQVZNbFEtTXRaRHJnVnYzNkF1eUZ4X21wb0k1dkZpeWNZbjd5ONIBoAFBVV95cUxPS2JpcVBrWVV6UG9qa3U4QndKWktBM1JWZkVGUzJ4TnFmVUxmZnlrWUFxYzBJMVh6Z2EwV3REcWpJN0R6ZnZzVFY5dHdoLW4yc24tamh2Z25pY096QzlvbzAyNU1OTUFTaXRVa1Yxc1hDZFZrN1JTNjhmd3FrSUpxQXdYU01hc2lMM1hMNWtxUEtCWTNCNXJ2RWJsbktMU0Zz?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "УНІАН",
-      "title": "Транспорт по 30 грн: аналітик розкрив, скільки поїздок \"з’їдять\" середню зарплату киян - УНІАН",
-      "excerpt": "Згадка у виданні УНІАН",
-      "date": "19 травня 2026",
-      "dateTS": 1779174000.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPRUZJN3Z5LUVVLTlhU0wxQWQ0cERJX1VJOXZkTXY2eDNKX2k4cFdJTWZXTkVRVjcyaGx5NU11S2lnaTBHUWhqY0RJZ1VJa1BJZ2lzLXlUc3RhSFFkZHRiQVhzWlNEbnVpdmg2eG8yWVoyRThaU3U1eXJIMndySWVnazAtRkJlVThhTmZrbmtZQVYzM04wSmR3b3J1WnU4NXlGZ1hqVjYzT0dQYzhFTHQtR3J0dUZ3RmNWOFBlTGlYal96X0ZfcjN2emxiVFVNZG04NzRrSnRsZnNWd1RGamdXUHpRUGRXbDJTcm9XdG9Sbjl5cGwydkxrVlhIeU9obVRFaDQxdHBOQ1lESzhl0gGSAkFVX3lxTE9OaVJFWE5leWtGcDhOZXlwVTZuSHJUWHRseWRaalAtQXFwZWlPc3lSNXF2SGJwMVhlYVRxWnRLektmaGZkLWloZTFCbnZ4QmNXeEZQRFcySXJMeVRkcThZVHVYRWFaYVJzNElPVG5qVDJVQWFnZEhfN3VWM0RqbmlyTDdobEhIR1ROc1EtUURnUDM2S1RoZnZIRWdDVm5zMGx2TUJFaHRoTTBrMjM1alpQUDJaNm9aaTA2eG8yVzI5VG4ybkZwZUM0R3IwZTZGeWk5RzJEejJDYmw1VTZpS2YzNjZqTEJ6RjF4OGVqZ1diOVAySlhiaWZlUjJvdTZ5eTRaZHN5TmpRM2RKQ3d5Z25GdVE?oc=5",
       "external": true,
       "featured": false
     }
