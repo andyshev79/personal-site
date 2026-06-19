@@ -1,8 +1,73 @@
-// Автоматично оновлено: 2026-06-18 11:46 UTC
+// Автоматично оновлено: 2026-06-19 11:59 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "НБУ тримає гривню до долару на фоні вихідного в Штатах Долар на міжбанку 44.90 - 44.93  Зараз це ...",
+      "excerpt": "",
+      "date": "19 червня 2026",
+      "dateTS": 1781859932.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/190",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Порівняння річної доходності депозитів та ОВДП з доходністю купівлі долару та євро в ретроспектив...",
+      "excerpt": "",
+      "date": "18 червня 2026",
+      "dateTS": 1781801251.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/189",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Тим часом за результатами понеділка-вівторка (15-16.06.26) на міжбанку середньодобовий тижневий п...",
+      "excerpt": "",
+      "date": "18 червня 2026",
+      "dateTS": 1781799969.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/188",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Ціни палива падають  (скріни з minfin.com.ua) Найактивніше падають дизель та газ, але це не тренд...",
+      "excerpt": "",
+      "date": "18 червня 2026",
+      "dateTS": 1781786304.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/186",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "В коментарі НБУ по ставці цікаві моменти:  1. Надходження в червні 13 млрд дол --- тобто в базово...",
+      "excerpt": "",
+      "date": "18 червня 2026",
+      "dateTS": 1781785679.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/185",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +79,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/183",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -41,74 +106,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/182",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Другий день поспіль Московський НПЗ.  Це стратегічна зміна.  Саме через системність. Це не разова...",
-      "excerpt": "",
-      "date": "18 червня 2026",
-      "dateTS": 1781768765.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/181",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Початок торгів на міжбанку сьогодні не такий бодьорий як я собі думав Долар 44.87- 44.99 НБУ на р...",
-      "excerpt": "",
-      "date": "18 червня 2026",
-      "dateTS": 1781767468.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/180",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "EURUSD полетів у прірву. Нижче 1.15 Завтра ловимо зеленого на впевнених 45.1+ грн/дол. Можливо но...",
-      "excerpt": "",
-      "date": "17 червня 2026",
-      "dateTS": 1781724570.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/179",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "А вот самый жир: Глава ФРС Кевин Уорш заявил, что  ФРС официально отказалась от практики «forward...",
-      "excerpt": "",
-      "date": "17 червня 2026",
-      "dateTS": 1781722993.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/178",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "МАССИВНАЯ РАСПРОДАЖА НА РЫНКАХ ПОСЛЕ ТОГО РЕШЕНИЯ И КОММЕНТАРИЕВ ФРС   $1.5 ТРИЛЛИОНА БЫЛИ СТЕРТЫ...",
-      "excerpt": "",
-      "date": "17 червня 2026",
-      "dateTS": 1781722776.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/177",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "focus.ua",
+      "title": "Сценарій миру вже у НБУ: експерт звернув увагу на важливий сигнал після рішення про ставку 15% - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "19 червня 2026",
+      "dateTS": 1781856360.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMHN6U3pScGVsQUwwanBkWWF0Y19keGstUlBybGRHa3diRGtBcjduS0YyQU9mSmlCUk4tckczb2RiVy16X0dJYlNHdzhFVjF4VnFtVkd5Wks0dGpxc1hSZFEyUDR3UmdyQWdVODBmczV4UTlYckFxdVlzelZ0ZDFQSW1VMjBaam9maS1YT0thcWJ3UkJycHBDMFlvR2xIQ01ZNlV2ZnNUdGY4aFRBZEVDSE5DRVYxVk1yclZTNG94bEPSAcYBQVVfeXFMTVhYdTV4OWlZVkd4LWt0UXY5RUpheDZkWHJUWU1hNHRDRWx6MHMyUTN3U25RcVlSZkUxcG1fWFBSYTJyM3JvLUxtbk0tUlRyeFlIZ2c4eTM1aUFOWE40a0xqOFRTNWMxMlpETHRKaWFIMWRtTk54WmJCN25DcWN5M0FXR0JZbGE5N3hpNXRUVXhJeDRyMjl0eXFrMWpjZVBTeDJpUUM3YU1BZGM0UFNwMWNyc3ZsNEV2aWRFME02aGtsUm5fQUhR?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -120,7 +133,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUTNfYm1SZUUzbjVKZjRGdHhYRk9fdEJQQ05CLU1CUEwxaWxiMWV6b3NlZWRTbVlWWnpMYlpIWFZBOTVkSTU0NEhIMS1GN2JlLWhRWF90OTBJMGZfYkJuTXQ1Qi1oR1hjYVNJbmNWcjZpQUxmR3ZVcVkyWnBYVEhqeXkteGNpNWhHSGNpNkttb2FKLXhCOElEeThyMG8xLU9RV1VvckV4QzRSVEYzTjRaVVBhZlZqM2hI0gG-AUFVX3lxTE44c1Z3b29Xb0FLMHlGelBDS2FFallLbFNQTWFLeVNsUjByY1paRUxORnJCNUdIOWR5QlFpbGhIb2pJOGVEZVZpbDR1anphdUwzRkNHSDJKSjEyYmwyRG5uNEF3MUl3Uldoc0ExWnJzUDlDUjhPOEpZcXFNSXJWdl9iRkZEUGRQZi05aWIwQTdweHA1VUItcWNlMVJ1M0l2Q0g2MHpsMzVnSHQwbVl1LWZRTlk0MXdhWEhtR1Y0d2c?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -197,19 +210,6 @@ const CONTENT = {
       "dateTS": 1780675500.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTZISzE1dlZDYWx4c0xCMnpYNDdKQm1sU0NuWkhxTWpITEcza2MxT1NjNGR2RWpYMG82ejFKaEsxXzZGR1puQ1o4b2NweFBoUTZYTFVUYTRJZmN6WW1qXzRENXJyTjN5dmVfTWNkS0RKdnVDRUF6Wkw5a1c2VFBqS3EzN2tOWmRBVEpCZURvb2tuY0N3UjhFcE5rOTRESnNqR1AycUVWMXp2Nkc2OXc?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "Фінанси 24",
-      "title": "Світові ціни на золото падають, а українці рекордно продають: що відбувається у 2026 році - Фінанси 24",
-      "excerpt": "Згадка у виданні Фінанси 24",
-      "date": "27 травня 2026",
-      "dateTS": 1779865200.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZjBIWFlWOGdxTUVKYXlRV2lzbXhGNXJyQ0lJaklmQVo0UUszejZsQXBySm1WNk16ZTMtQjR0WFBsd3RwaWU2UmdVLVFCZVZzX2I2NDN3ZzVHWHg2c0V6LWhJVXBJNXc2SGZSdTRRWkItV3ZsNDNlQVZNbFEtTXRaRHJnVnYzNkF1eUZ4X21wb0k1dkZpeWNZbjd5ONIBoAFBVV95cUxPS2JpcVBrWVV6UG9qa3U4QndKWktBM1JWZkVGUzJ4TnFmVUxmZnlrWUFxYzBJMVh6Z2EwV3REcWpJN0R6ZnZzVFY5dHdoLW4yc24tamh2Z25pY096QzlvbzAyNU1OTUFTaXRVa1Yxc1hDZFZrN1JTNjhmd3FrSUpxQXdYU01hc2lMM1hMNWtxUEtCWTNCNXJ2RWJsbktMU0Zz?oc=5",
       "external": true,
       "featured": false
     }
