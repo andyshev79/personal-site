@@ -1,8 +1,34 @@
-// Автоматично оновлено: 2026-06-19 11:59 UTC
+// Автоматично оновлено: 2026-06-20 10:27 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "За тиждень 15-20 червня НБУ влив в ринок ТРЕТІЙ за історію рекордний об'єм валютних інтервенцій $...",
+      "excerpt": "",
+      "date": "20 червня 2026",
+      "dateTS": 1781942313.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/192",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Приріст портфелю гривневих кредитів українському бізнесу (валові, з урахуванням безнадійних, по я...",
+      "excerpt": "",
+      "date": "19 червня 2026",
+      "dateTS": 1781884419.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/191",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +40,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/190",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -78,32 +104,6 @@ const CONTENT = {
       "dateTS": 1781780988.0,
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/183",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "​​⚡️ Облікову ставку збережено на рівні 15%   Це рішення враховує: ▪️достатню жорсткість поточних...",
-      "excerpt": "",
-      "date": "18 червня 2026",
-      "dateTS": 1781780988.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/184",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ІНДЕКС ДОЛАРУ - ВИХІД З ТОРГОВОГО КАНАЛУ  Якщо індекс долару затримається вище каналу другий день...",
-      "excerpt": "",
-      "date": "18 червня 2026",
-      "dateTS": 1781774314.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/182",
       "external": true,
       "featured": false
     }
