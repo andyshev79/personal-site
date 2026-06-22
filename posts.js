@@ -1,8 +1,60 @@
-// Автоматично оновлено: 2026-06-21 11:11 UTC
+// Автоматично оновлено: 2026-06-22 13:28 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Сьогодні, як тільки долар на міжбанку після обіду дійшов до 45 грн, його відкинули.  Якась прям ж...",
+      "excerpt": "",
+      "date": "22 червня 2026",
+      "dateTS": 1782134474.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/204",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "У росіян (та й нас так роблять) запускають якогось неформала з заявою (раніше це був Жиріновський...",
+      "excerpt": "",
+      "date": "22 червня 2026",
+      "dateTS": 1782133050.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/203",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Плавно підповзаємо до 45,0 по долару. Міжбанк: 44.92 - 44.96 Глобальна слабкість євро тисне на до...",
+      "excerpt": "",
+      "date": "22 червня 2026",
+      "dateTS": 1782117991.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/202",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Сьогодні канал отримав першу сотню підписників. Дякую вам!",
+      "excerpt": "",
+      "date": "21 червня 2026",
+      "dateTS": 1782051860.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/201",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +66,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/200",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -52,58 +104,6 @@ const CONTENT = {
       "dateTS": 1781975598.0,
       "readTime": "2 хв",
       "url": "https://t.me/shevchyshyn_trends/197",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжбанк - тижнева середня - історичний рекорд.  Все через результати четверга (перед вихідним в С...",
-      "excerpt": "",
-      "date": "20 червня 2026",
-      "dateTS": 1781975519.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/196",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ДЕФІЦИТ ВАЛЮТНОГО РИНКУ НА ТИЖНІ: - МІЖБАНК: Середньодобовий дефіцит додав ще 20% й сягнув рекорд...",
-      "excerpt": "",
-      "date": "20 червня 2026",
-      "dateTS": 1781975409.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/195",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "МІЖБАНК: Середньодобова купівля валюти зросла на 6% - 420М дол. А от середньодобова пропозиції ва...",
-      "excerpt": "",
-      "date": "20 червня 2026",
-      "dateTS": 1781975280.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/194",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ ЗА ТИЖДЕНЬ: ДЕФІЦИТ УКРАЇНСЬКОГО ВАЛЮТНОГО РИНКУ СТРІМКО ЗРОСТАЄ, А НБУ ТР...",
-      "excerpt": "",
-      "date": "20 червня 2026",
-      "dateTS": 1781975139.0,
-      "readTime": "3 хв",
-      "url": "https://t.me/shevchyshyn_trends/193",
       "external": true,
       "featured": false
     }
