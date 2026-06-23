@@ -1,8 +1,47 @@
-// Автоматично оновлено: 2026-06-22 13:28 UTC
+// Автоматично оновлено: 2026-06-23 10:56 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "💵 Чистий прибуток банків за травень 2026 зріс до 5ти місячного максимуму 10,2 млрд грн  - Зростан...",
+      "excerpt": "",
+      "date": "23 червня 2026",
+      "dateTS": 1782209530.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/207",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Українські банки за 5міс2026 заробили до оподаткування рекордні 89,60 млрд грн (+8,3%) АЛЕ, чисти...",
+      "excerpt": "",
+      "date": "23 червня 2026",
+      "dateTS": 1782209110.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/206",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "НУ ДУЖЕ ГАРЯЧІ ХЛОПЦІ. Й як би всі розуміють, що тут щось особисте, але ніхто не знає звідки воно...",
+      "excerpt": "",
+      "date": "23 червня 2026",
+      "dateTS": 1782202873.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/205",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +53,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/204",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -67,48 +106,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/200",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "-            В базовому сценарії офіційний долар очікую на 44,65-45,10 грн, готівковий долар 44,7...",
-      "excerpt": "",
-      "date": "20 червня 2026",
-      "dateTS": 1781979324.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/199",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ ЗА ТИЖДЕНЬ: ДЕФІЦИТ УКРАЇНСЬКОГО ВАЛЮТНОГО РИНКУ СТРІМКО ЗРОСТАЄ, А НБУ ТР...",
-      "excerpt": "",
-      "date": "20 червня 2026",
-      "dateTS": 1781975678.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/198",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ ЗА ТИЖДЕНЬ: ДЕФІЦИТ УКРАЇНСЬКОГО ВАЛЮТНОГО РИНКУ СТРІМКО ЗРОСТАЄ, А НБУ ТР...",
-      "excerpt": "",
-      "date": "20 червня 2026",
-      "dateTS": 1781975598.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/197",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "focus.ua",
+      "title": "Долар може піти до 47 грн: експерт оцінив перспективи гривні - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "22 червня 2026",
+      "dateTS": 1782144034.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM1ZXZ1R4SmR5b2NvcnBPLS1BMGlnVnB6dDJraHhhek4wX1BkZC1hLXVESEtQOHZBNW9xWlVQdUdHUGRLS0RxbGVwb2FPRG5ITllGajE5UHJhcGM1dkgza3h4WTlCNEJURGRnUkdDdkQwZ1VZOFdNSUx2SWo5cnNxeWJDOVBVMExzMUpPTTFoR3FtbTY0RU1wb2ttdldHcWwtTkdXN09aTTQtaTBadUhFMVI5UFo5SXBVRHg0VERB0gHDAUFVX3lxTE8xOWNlQUM4RkJDQ2hVWl9obE9hUFprWWVBYVBwbkQ4a3h2a195by1NX0RPVWkzbzhaeGVYRV9Lc1ZhaU04bU5YbXNjT1JCcHA4ZG9ObFhkUmE2YnNYUUFOb2NMU3NNQ2dDR0V0X2N4ZFByVjZPMWxfaERhVGt4a25uckI2UnhJSE96TkRBdkE0eEoydEp2TzgxZnV2NXB6X0lUZWdPc2didzVuSGswdEZOcWw1YnJxMzJLQUhzN2RsSzJaVQ?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -120,7 +133,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMHN6U3pScGVsQUwwanBkWWF0Y19keGstUlBybGRHa3diRGtBcjduS0YyQU9mSmlCUk4tckczb2RiVy16X0dJYlNHdzhFVjF4VnFtVkd5Wks0dGpxc1hSZFEyUDR3UmdyQWdVODBmczV4UTlYckFxdVlzelZ0ZDFQSW1VMjBaam9maS1YT0thcWJ3UkJycHBDMFlvR2xIQ01ZNlV2ZnNUdGY4aFRBZEVDSE5DRVYxVk1yclZTNG94bEPSAcYBQVVfeXFMTVhYdTV4OWlZVkd4LWt0UXY5RUpheDZkWHJUWU1hNHRDRWx6MHMyUTN3U25RcVlSZkUxcG1fWFBSYTJyM3JvLUxtbk0tUlRyeFlIZ2c4eTM1aUFOWE40a0xqOFRTNWMxMlpETHRKaWFIMWRtTk54WmJCN25DcWN5M0FXR0JZbGE5N3hpNXRUVXhJeDRyMjl0eXFrMWpjZVBTeDJpUUM3YU1BZGM0UFNwMWNyc3ZsNEV2aWRFME02aGtsUm5fQUhR?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -139,12 +152,12 @@ const CONTENT = {
       "source": "news",
       "tag": "news",
       "tagLabel": "focus.ua",
-      "title": "Долар шокував ринок, курс валют пробив психологічну межу — фінаналітик зробив прогноз на тиждень - focus.ua",
+      "title": "Долар по 45 грн — це ще не межа: новий сигнал для ринку - focus.ua",
       "excerpt": "Згадка у виданні focus.ua",
       "date": "15 червня 2026",
       "dateTS": 1781514508.0,
       "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLUhBbjVXZm95VnVNM3JuYVhOcE42d0p2SkhwRG9FWk1VenhELTBka2ZzMjZEeTlWVkl0XzJEbmU1OFRUYWdOS2k4UGlxdERDUGo2anlqUl9sSlE2VzBfVV9OTmQxSkxoZjRFNklYNUxVMWlTMjByZnJVaTlIWWlOTmY3Y0duLTlPYzhBcVNZclRrRzBUdjBWMU90d3BZdEx5STlwRjZwTHFsdGd1eExPRVJtVUdfMUhE0gG-AUFVX3lxTFB5SkZBVkVpZTBJaTVaeGJneFdEYUp4NUpReXJERFpReU1mQXozZTZ6V0xVenBUT2dpcUduZHo4V04tR2djQVE4QXVjYkEyNHNEYzA3NkpvbWZHTzhNaW1ZMHNTT2FVczMtM1pyUnBoX2FkRFdkdGk5SWVVTG51Q3d1UUtUaWVURk9Vcms1aDRvSlVybWVSaVN3VUhZQUFNSjJPcF94ZUt0N001SmVIendLQ25JbEZsRkg1dFlWUmc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLUhBbjVXZm95VnVNM3JuYVhOcE42d0p2SkhwRG9FWk1VenhELTBka2ZzMjZEeTlWVkl0XzJEbmU1OFRUYWdOS2k4UGlxdERDUGo2anlqUl9sSlE2VzBfVV9OTmQxSkxoZjRFNklYNUxVMWlTMjByZnJVaTlIWWlOTmY3Y0duLTlPYzhBcVNZclRrRzBUdjBWMU90d3BZdEx5STlwRjZwTHFsdGd1eExPRVJtVUdfMUhE?oc=5",
       "external": true,
       "featured": false
     },
@@ -155,22 +168,9 @@ const CONTENT = {
       "title": "Біткойн втратив половину вартості: чому головна криптовалюта падає та чого чекати далі - Фінанси 24",
       "excerpt": "Згадка у виданні Фінанси 24",
       "date": "13 червня 2026",
-      "dateTS": 1781374200.0,
+      "dateTS": 1781334000.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0xYMm1DMnBXay13SWcwM3luYmhGenN2Nm1hM0tSa0xxejd5dVNfR2lwRVU1bWRBT1lBRnVWNDJuWmhWQW4xdWFFUHJQNzA5cVo2b1RZOEtOV3dkRnlZdWFPRzBncy14enByZk5uVzJmRExTNU52ZHQ0RkJ4em41aUl4cXM2aWlLSzNiLWF5TTNTME9mNTlDVDFEXzM0amvSAaQBQVVfeXFMTjh2T0JKM2VGVnpzUGI5dEVCOHNKa21mYUVudGo3SnB5eEZsLUNqT0JtMWxFTFVKNm03UHA0WUh6dHhfSFRSWVdpYUFrTVp2cUdCWDRaemNLNkk3WEdHTFZQeDBJbHFXQW5NVEZQNDdPamh6aVpuX0JtSEU2RGdRTTVmTHZhREdfa2VWUENKV2ZHMmd3enBvZzBqelVaNGRlUzZCbXI?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "Obozrevatel",
-      "title": "Як угода Трампа з Іраном змінить ситуацію з курсом євро й навіть гривні - Obozrevatel",
-      "excerpt": "Згадка у виданні Obozrevatel",
-      "date": "12 червня 2026",
-      "dateTS": 1781271540.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV0F5a1IyN3phX3gxZTFaNXc2SDVBSE1YdUtIdTdQOFFOemxObWZ0M2ZzZ2daQjF2UnVFbWpwbUgtQTBaemZHR2dmZVhYTS1lVWNCNEhyTHI0aUVwYkZwbDhIYWZ5LW9XYmRwMkNRRjV2bzYyWFV3M0d0QWZRZm1aWldleHBkRFN4Vnh6UGF1QjgxNTE4NTFpbC1qVGMwdG9mRUhJWmFqSmV1RHdaQ1lFMU9PZGt6MnRKNEpTVzNJcVJvRUF2WkHSAcsBQVVfeXFMTURXUjVST1FQbWZlaFFqaUhfeWNMZkx5cHVTLURZS2VDbEs2RF9DYmpJcjgxZUlHWlA3VGFUXzd6NW1TdzI4b2NNS19YZjVYV3lLdTF4c2VUNGV2Y2VxTU9oZjVOc0Z3N3FjMmVTMlZMUGFnTWFoVzhwbzVrRVBkQlAwM00wN3hPVzZqWnNYRlAtbUotaWFCTGktZmhPdXIyN2JIM004WVNNZkFPdHhDR1dycXhDYmhLbUhfY3JNMWpVSmhfWDdfYjZZa1k?oc=5",
       "external": true,
       "featured": false
     },
