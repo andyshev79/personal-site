@@ -1,8 +1,73 @@
-// Автоматично оновлено: 2026-06-25 10:36 UTC
+// Автоматично оновлено: 2026-06-26 10:44 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Тиск на крипту зберігається.  Значним фактором тиску є відток грошей з крипто ETF, які вимушені п...",
+      "excerpt": "",
+      "date": "26 червня 2026",
+      "dateTS": 1782467479.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/235",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "РОЗДРІБНІ ПРОДАЖІ УКРАЇНИ У ТРАВНІ 2026. ЗРОСТАННЯ З БАГАТЬМА АЛЕ...  1. В травні торгівля віднов...",
+      "excerpt": "",
+      "date": "26 червня 2026",
+      "dateTS": 1782458980.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/234",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ВВП США в 1кв2026 +2,1%, що вище прогнозу в 1,6%, й суттєво краще показників 4го кварталу.  Але: ...",
+      "excerpt": "",
+      "date": "25 червня 2026",
+      "dateTS": 1782399877.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/233",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Шмигаль каже, що зима буде важкою.  Подивився історію заяв Шмигаля.  З гарного - нічого не міняєт...",
+      "excerpt": "",
+      "date": "25 червня 2026",
+      "dateTS": 1782395680.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/232",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Сьогодні відбудеться відкрита дискусія (круглий стіл) УТФА : «Геополітичний зсув 2026: вплив на в...",
+      "excerpt": "",
+      "date": "25 червня 2026",
+      "dateTS": 1782390321.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/231",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +79,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/230",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -41,74 +106,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/228",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Золото нижче за 4000 дол за унцію.  Сильний долар та очікування підвищення ставок ФРС тисне на ці...",
-      "excerpt": "",
-      "date": "25 червня 2026",
-      "dateTS": 1782370630.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/227",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "З 26 червня поповнення картки через термінал вимагає SMS-підтвердження.   З 26 червня 2026 року б...",
-      "excerpt": "",
-      "date": "25 червня 2026",
-      "dateTS": 1782369888.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/226",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "https://biz.nv.ua/ukr/sviy-biznes/svitoviy-bank-shvaliv-programu-reform-dlya-privatnogo-sektoru-i...",
-      "excerpt": "",
-      "date": "24 червня 2026",
-      "dateTS": 1782322496.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/225",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "До попереднього поста про Крипту ))) Just for fun",
-      "excerpt": "",
-      "date": "24 червня 2026",
-      "dateTS": 1782321881.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/224",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Біткоїн нижче 60К Але мене 60К не сильно бентежить. Воно було видно що йде сюди.  От якщо 57К про...",
-      "excerpt": "",
-      "date": "24 червня 2026",
-      "dateTS": 1782321781.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/223",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "focus.ua",
+      "title": "Долар може піти до 47 грн: експерт оцінив перспективи гривні - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "22 червня 2026",
+      "dateTS": 1782144034.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM1ZXZ1R4SmR5b2NvcnBPLS1BMGlnVnB6dDJraHhhek4wX1BkZC1hLXVESEtQOHZBNW9xWlVQdUdHUGRLS0RxbGVwb2FPRG5ITllGajE5UHJhcGM1dkgza3h4WTlCNEJURGRnUkdDdkQwZ1VZOFdNSUx2SWo5cnNxeWJDOVBVMExzMUpPTTFoR3FtbTY0RU1wb2ttdldHcWwtTkdXN09aTTQtaTBadUhFMVI5UFo5SXBVRHg0VERB0gHDAUFVX3lxTE8xOWNlQUM4RkJDQ2hVWl9obE9hUFprWWVBYVBwbkQ4a3h2a195by1NX0RPVWkzbzhaeGVYRV9Lc1ZhaU04bU5YbXNjT1JCcHA4ZG9ObFhkUmE2YnNYUUFOb2NMU3NNQ2dDR0V0X2N4ZFByVjZPMWxfaERhVGt4a25uckI2UnhJSE96TkRBdkE0eEoydEp2TzgxZnV2NXB6X0lUZWdPc2didzVuSGswdEZOcWw1YnJxMzJLQUhzN2RsSzJaVQ?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -120,7 +133,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMHN6U3pScGVsQUwwanBkWWF0Y19keGstUlBybGRHa3diRGtBcjduS0YyQU9mSmlCUk4tckczb2RiVy16X0dJYlNHdzhFVjF4VnFtVkd5Wks0dGpxc1hSZFEyUDR3UmdyQWdVODBmczV4UTlYckFxdVlzelZ0ZDFQSW1VMjBaam9maS1YT0thcWJ3UkJycHBDMFlvR2xIQ01ZNlV2ZnNUdGY4aFRBZEVDSE5DRVYxVk1yclZTNG94bEPSAcYBQVVfeXFMTVhYdTV4OWlZVkd4LWt0UXY5RUpheDZkWHJUWU1hNHRDRWx6MHMyUTN3U25RcVlSZkUxcG1fWFBSYTJyM3JvLUxtbk0tUlRyeFlIZ2c4eTM1aUFOWE40a0xqOFRTNWMxMlpETHRKaWFIMWRtTk54WmJCN25DcWN5M0FXR0JZbGE5N3hpNXRUVXhJeDRyMjl0eXFrMWpjZVBTeDJpUUM3YU1BZGM0UFNwMWNyc3ZsNEV2aWRFME02aGtsUm5fQUhR?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -197,19 +210,6 @@ const CONTENT = {
       "dateTS": 1778482800.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUXdlZmw3cHpLX3VZSVoxdGJxeWRQWnIxSVlIdy1zUFIzdXQ1YzB6V1FWc0Z3Y2tmOUdqaEhQMWdYdDdzQXNLckd3M3FrTzhlREZFRWt6WHZNYm1xaXI2M3I4TXNxS3dVNDBFNEYydENnczlrc05CbnBXT1hoc00xQUlmRjdoMDEwcjhsbUNqOU9YSk9qMS1KVg?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "MC.today",
-      "title": "Курс долара знову штормить: що робити із заощадженнями у 2026 році - MC.today",
-      "excerpt": "Згадка у виданні MC.today",
-      "date": "7 травня 2026",
-      "dateTS": 1778137200.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbnVTdURnT19yR0hzQW5IMVk5OG44alhtaEFOVzFGcVh5Sm9TU094ZFBmd0lyMldBV1pRU04xWEZEaFBDREE5UWJVSHFQSk92aWY1QV9DbDdfNGJpbGhhZ3I2MVlqa1hYNUZyZXQxSzZzUnVtS0FvcmdJeDQxVURLTl9fQ1BUSjBCREtvMnRqN2t0OHRENV9WOFFB?oc=5",
       "external": true,
       "featured": false
     }
