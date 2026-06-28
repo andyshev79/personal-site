@@ -1,4 +1,4 @@
-// Автоматично оновлено: 2026-06-27 09:57 UTC
+// Автоматично оновлено: 2026-06-28 10:21 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
@@ -7,12 +7,12 @@ const CONTENT = {
       "source": "telegram",
       "tag": "telegram",
       "tagLabel": "Telegram",
-      "title": "НБУ рятує гривню рекордними валютними інтервенціями  За тиждень чергові 1,3 млрд дол. (6й за істо...",
+      "title": "Огляд валютного ринку за червень та прогноз на липень 2026 вже на каналі готовий для перегляду ht...",
       "excerpt": "",
       "date": "27 червня 2026",
-      "dateTS": 1782543224.0,
+      "dateTS": 1782587797.0,
       "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/241",
+      "url": "https://t.me/shevchyshyn_trends/249",
       "external": true,
       "featured": true
     },
@@ -20,12 +20,12 @@ const CONTENT = {
       "source": "telegram",
       "tag": "telegram",
       "tagLabel": "Telegram",
-      "title": "Динаміка роздрібної торгівлі по регіонам України з січня 2022 року  - найбільший приріст західні ...",
+      "title": "БОНУС МІСЯЧНОГО ОГЛЯДУ.   ЗА ЧИМ СЛІДКУЄМО У ЛИПНІ 2026: ·       1 липня Старт реформи мобілізаці...",
       "excerpt": "",
-      "date": "26 червня 2026",
-      "dateTS": 1782487986.0,
+      "date": "27 червня 2026",
+      "dateTS": 1782573330.0,
       "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/240",
+      "url": "https://t.me/shevchyshyn_trends/248",
       "external": true,
       "featured": false
     },
@@ -33,12 +33,12 @@ const CONTENT = {
       "source": "telegram",
       "tag": "telegram",
       "tagLabel": "Telegram",
-      "title": "Цікаве. Чисті торгові операції населення з золотом через банки у травні 2026  Коли золото продовж...",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ПОПЕРЕДНІ ПІДСУМКИ ЧЕРВНЯ – РЕКОРДНИЙ ДОЛАР 45, НБУ ТРИМАЄ РИНОК РЕКОРДНИ...",
       "excerpt": "",
-      "date": "26 червня 2026",
-      "dateTS": 1782483511.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/239",
+      "date": "27 червня 2026",
+      "dateTS": 1782573278.0,
+      "readTime": "3 хв",
+      "url": "https://t.me/shevchyshyn_trends/247",
       "external": true,
       "featured": false
     },
@@ -46,12 +46,12 @@ const CONTENT = {
       "source": "telegram",
       "tag": "telegram",
       "tagLabel": "Telegram",
-      "title": "БАНКИ ЗНИЗИЛИ ЗАВОЗ ГОТІВКОВОЇ ВАЛЮТИ В УКРАЇНУ ДО 33 МІСЯЧНОГО МІНІМУМУ  У травні 2026 банки зав...",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ПОПЕРЕДНІ ПІДСУМКИ ЧЕРВНЯ – РЕКОРДНИЙ ДОЛАР 45, НБУ ТРИМАЄ РИНОК РЕКОРДНИ...",
       "excerpt": "",
-      "date": "26 червня 2026",
-      "dateTS": 1782482238.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/238",
+      "date": "27 червня 2026",
+      "dateTS": 1782573166.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/246",
       "external": true,
       "featured": false
     },
@@ -59,12 +59,12 @@ const CONTENT = {
       "source": "telegram",
       "tag": "telegram",
       "tagLabel": "Telegram",
-      "title": "Тим часом український валютний ринок Долар: 44.78 - 44.84 Це укріплення відбувається через поверн...",
+      "title": "Історично рекордний рівень дефіцита валютного ринку України. Драйвер дефіциту - міжбанк через пад...",
       "excerpt": "",
-      "date": "26 червня 2026",
-      "dateTS": 1782475675.0,
+      "date": "27 червня 2026",
+      "dateTS": 1782573114.0,
       "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/237",
+      "url": "https://t.me/shevchyshyn_trends/245",
       "external": true,
       "featured": false
     },
@@ -72,12 +72,12 @@ const CONTENT = {
       "source": "telegram",
       "tag": "telegram",
       "tagLabel": "Telegram",
-      "title": "рубль падає до долару на 3,9% сьогодні.   Імпорт палива, й накопичені проблеми це не просто так. ...",
+      "title": "Рекордний попит валютного ринку України, при падаючій пропозиції. Готівковий ринко більш-менш ста...",
       "excerpt": "",
-      "date": "26 червня 2026",
-      "dateTS": 1782475450.0,
+      "date": "27 червня 2026",
+      "dateTS": 1782573005.0,
       "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/236",
+      "url": "https://t.me/shevchyshyn_trends/244",
       "external": true,
       "featured": false
     },
@@ -85,12 +85,12 @@ const CONTENT = {
       "source": "telegram",
       "tag": "telegram",
       "tagLabel": "Telegram",
-      "title": "Тиск на крипту зберігається.  Значним фактором тиску є відток грошей з крипто ETF, які вимушені п...",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ПОПЕРЕДНІ ПІДСУМКИ ЧЕРВНЯ – РЕКОРДНИЙ ДОЛАР 45, НБУ ТРИМАЄ РИНОК РЕКОРДНИ...",
       "excerpt": "",
-      "date": "26 червня 2026",
-      "dateTS": 1782467479.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/235",
+      "date": "27 червня 2026",
+      "dateTS": 1782572894.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/243",
       "external": true,
       "featured": false
     },
@@ -98,17 +98,30 @@ const CONTENT = {
       "source": "telegram",
       "tag": "telegram",
       "tagLabel": "Telegram",
-      "title": "РОЗДРІБНІ ПРОДАЖІ УКРАЇНИ У ТРАВНІ 2026. ЗРОСТАННЯ З БАГАТЬМА АЛЕ...  1. В травні торгівля віднов...",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ПОПЕРЕДНІ ПІДСУМКИ ЧЕРВНЯ – РЕКОРДНИЙ ДОЛАР 45, НБУ ТРИМАЄ РИНОК РЕКОРДНИ...",
       "excerpt": "",
-      "date": "26 червня 2026",
-      "dateTS": 1782458980.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/234",
+      "date": "27 червня 2026",
+      "dateTS": 1782572845.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/242",
       "external": true,
       "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "focus.ua",
+      "title": "\"Утримувати 45 грн нескінченно неможливо\": яким буде курс долара у липні — прогноз експерта - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "28 червня 2026",
+      "dateTS": 1782625597.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONVZSOXUwS2Y1UmhldWJkbzlvS0Z3Y2QyTzBSXzN0REZqZi04Z0ZMUGh4ZG5UMjZOODJFVGlGakUzd1NRX1hfXzBsNjJoNlFqVy1XTE1aZG04b2w0c2NIdU4wcUhVRHM3ZGhBY0RGbzdPcUZJTkd0ejRkTFJsS1NmeHROYjJlbzlBTllDbFR1NHdha2lyVkFwME1SYXRJYVJDcU51alljSkHSAagBQVVfeXFMTjVWUjl1MEtmNVJoZXViZG85b0tGd2NkMk8wUl8zdERGamYtOGdGTFBoeGRuVDI2TjgyRVRpRmpFM3dTUV9YX18wbDYyaDZRalctV0xNWmRtOG9sNHNjSHVOMHFIVURzN2RoQWNERm83T3FGSU5HdHo0ZExSbEtTZnh0TmIyZW85QU5ZQ2xUdTR3YWtpclZBcDBNUmF0SWFSQ3FOdWpZY0pB?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -120,7 +133,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMHN6U3pScGVsQUwwanBkWWF0Y19keGstUlBybGRHa3diRGtBcjduS0YyQU9mSmlCUk4tckczb2RiVy16X0dJYlNHdzhFVjF4VnFtVkd5Wks0dGpxc1hSZFEyUDR3UmdyQWdVODBmczV4UTlYckFxdVlzelZ0ZDFQSW1VMjBaam9maS1YT0thcWJ3UkJycHBDMFlvR2xIQ01ZNlV2ZnNUdGY4aFRBZEVDSE5DRVYxVk1yclZTNG94bEPSAcYBQVVfeXFMTVhYdTV4OWlZVkd4LWt0UXY5RUpheDZkWHJUWU1hNHRDRWx6MHMyUTN3U25RcVlSZkUxcG1fWFBSYTJyM3JvLUxtbk0tUlRyeFlIZ2c4eTM1aUFOWE40a0xqOFRTNWMxMlpETHRKaWFIMWRtTk54WmJCN25DcWN5M0FXR0JZbGE5N3hpNXRUVXhJeDRyMjl0eXFrMWpjZVBTeDJpUUM3YU1BZGM0UFNwMWNyc3ZsNEV2aWRFME02aGtsUm5fQUhR?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -199,22 +212,22 @@ const CONTENT = {
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUXdlZmw3cHpLX3VZSVoxdGJxeWRQWnIxSVlIdy1zUFIzdXQ1YzB6V1FWc0Z3Y2tmOUdqaEhQMWdYdDdzQXNLckd3M3FrTzhlREZFRWt6WHZNYm1xaXI2M3I4TXNxS3dVNDBFNEYydENnczlrc05CbnBXT1hoc00xQUlmRjdoMDEwcjhsbUNqOU9YSk9qMS1KVg?oc=5",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "MC.today",
-      "title": "Курс долара знову штормить: що робити із заощадженнями у 2026 році - MC.today",
-      "excerpt": "Згадка у виданні MC.today",
-      "date": "7 травня 2026",
-      "dateTS": 1778137200.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbnVTdURnT19yR0hzQW5IMVk5OG44alhtaEFOVzFGcVh5Sm9TU094ZFBmd0lyMldBV1pRU04xWEZEaFBDREE5UWJVSHFQSk92aWY1QV9DbDdfNGJpbGhhZ3I2MVlqa1hYNUZyZXQxSzZzUnVtS0FvcmdJeDQxVURLTl9fQ1BUSjBCREtvMnRqN2t0OHRENV9WOFFB?oc=5",
-      "external": true,
-      "featured": false
     }
   ],
   "youtube": [
+    {
+      "source": "youtube",
+      "tag": "youtube",
+      "tagLabel": "YouTube",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ. ПОПЕРЕДНІ ПІДСУМКИ ЧЕРВНЯ 2026. ТРИ СЦЕНАРІЇ ДЛЯ КУРСУ НА ЛИПЕНЬ 2026.",
+      "excerpt": "0:00 Результати червня 2026 загальні тренди\n5:01 Ринок в цифрах: попит, пропозиція, дефіцит, інтервенції НБУ\n9:14 Події червня, яки вплинули чи вплинуть на ринок\n14:06 Три сценарії на липень 2026\n19:5",
+      "date": "27 червня 2026",
+      "dateTS": 1782587703.0,
+      "readTime": "відео",
+      "url": "https://www.youtube.com/watch?v=QTtH3tdFvt0",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "youtube",
       "tag": "youtube",
@@ -226,7 +239,7 @@ const CONTENT = {
       "readTime": "відео",
       "url": "https://www.youtube.com/watch?v=k7G6sdoXoNs",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "youtube",
@@ -303,19 +316,6 @@ const CONTENT = {
       "dateTS": 1778350030.0,
       "readTime": "відео",
       "url": "https://www.youtube.com/watch?v=d2E9DOTt0MY",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "youtube",
-      "tag": "youtube",
-      "tagLabel": "YouTube",
-      "title": "ПІДСУМКИ КВІТНЯ: ДЕВАЛЬВАЦІЯ НА ФОНІ ЗНИЖЕННЯ ДЕФІЦИТУ, ТРАВЕНЬ -ПОМІРНИЙ ТИСК В ОЧІКУВАНІ ДОПОМОГИ",
-      "excerpt": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ПІДСУМКИ КВІТНЯ – ДЕВАЛЬВАЦІЯ НА ФОНІ ЗНИЖЕННЯ ДЕФІЦИТУ. ОЧІКУВАННЯ НА ТРАВЕНЬ – ПОМІРНИЙ ТИСК В ОЧІКУВАННІ ДОПОМОГИ.\n\nВАЛЮТНИЙ РИНОК ЗА КВІТЕНЬ В ЦИФРАХ: \n• ДОЛАР: Долар на мі",
-      "date": "2 травня 2026",
-      "dateTS": 1777724765.0,
-      "readTime": "відео",
-      "url": "https://www.youtube.com/watch?v=b9Dh48iFmmQ",
       "external": true,
       "featured": false
     }
