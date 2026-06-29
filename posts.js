@@ -1,8 +1,60 @@
-// Автоматично оновлено: 2026-06-28 10:21 UTC
+// Автоматично оновлено: 2026-06-29 12:24 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "USDT НОВИЙ ЗОЛОТИЙ БАРОН ))) Попались цікаві картинки.  У 1Q2026 Tether купив 6 тон  золота, й об...",
+      "excerpt": "",
+      "date": "29 червня 2026",
+      "dateTS": 1782728742.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/253",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "НБУ ТА РІШЕННЯ ПО СТАВЦІ У ЧЕРВНІ Були четверо хто готові йти на підвищення ставки вже наступні м...",
+      "excerpt": "",
+      "date": "29 червня 2026",
+      "dateTS": 1782725283.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/252",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Біткоїн - найгірший цикл після халвінгу за історію (жовта лінія).  Бачив дуже жахливі прогнози дл...",
+      "excerpt": "",
+      "date": "29 червня 2026",
+      "dateTS": 1782722227.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/251",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Книги згенеровані ШІ випускають та продають, пише the Economist.   Вони вже досягли й перевищили ...",
+      "excerpt": "",
+      "date": "29 червня 2026",
+      "dateTS": 1782721503.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/250",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +66,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/249",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -54,58 +106,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/246",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Історично рекордний рівень дефіцита валютного ринку України. Драйвер дефіциту - міжбанк через пад...",
-      "excerpt": "",
-      "date": "27 червня 2026",
-      "dateTS": 1782573114.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/245",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Рекордний попит валютного ринку України, при падаючій пропозиції. Готівковий ринко більш-менш ста...",
-      "excerpt": "",
-      "date": "27 червня 2026",
-      "dateTS": 1782573005.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/244",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ПОПЕРЕДНІ ПІДСУМКИ ЧЕРВНЯ – РЕКОРДНИЙ ДОЛАР 45, НБУ ТРИМАЄ РИНОК РЕКОРДНИ...",
-      "excerpt": "",
-      "date": "27 червня 2026",
-      "dateTS": 1782572894.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/243",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ПОПЕРЕДНІ ПІДСУМКИ ЧЕРВНЯ – РЕКОРДНИЙ ДОЛАР 45, НБУ ТРИМАЄ РИНОК РЕКОРДНИ...",
-      "excerpt": "",
-      "date": "27 червня 2026",
-      "dateTS": 1782572845.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/242",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -121,6 +121,19 @@ const CONTENT = {
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONVZSOXUwS2Y1UmhldWJkbzlvS0Z3Y2QyTzBSXzN0REZqZi04Z0ZMUGh4ZG5UMjZOODJFVGlGakUzd1NRX1hfXzBsNjJoNlFqVy1XTE1aZG04b2w0c2NIdU4wcUhVRHM3ZGhBY0RGbzdPcUZJTkd0ejRkTFJsS1NmeHROYjJlbzlBTllDbFR1NHdha2lyVkFwME1SYXRJYVJDcU51alljSkHSAagBQVVfeXFMTjVWUjl1MEtmNVJoZXViZG85b0tGd2NkMk8wUl8zdERGamYtOGdGTFBoeGRuVDI2TjgyRVRpRmpFM3dTUV9YX18wbDYyaDZRalctV0xNWmRtOG9sNHNjSHVOMHFIVURzN2RoQWNERm83T3FGSU5HdHo0ZExSbEtTZnh0TmIyZW85QU5ZQ2xUdTR3YWtpclZBcDBNUmF0SWFSQ3FOdWpZY0pB?oc=5",
       "external": true,
       "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "focus.ua",
+      "title": "Долар може піти до 47 грн: експерт оцінив перспективи гривні - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "22 червня 2026",
+      "dateTS": 1782144034.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM1ZXZ1R4SmR5b2NvcnBPLS1BMGlnVnB6dDJraHhhek4wX1BkZC1hLXVESEtQOHZBNW9xWlVQdUdHUGRLS0RxbGVwb2FPRG5ITllGajE5UHJhcGM1dkgza3h4WTlCNEJURGRnUkdDdkQwZ1VZOFdNSUx2SWo5cnNxeWJDOVBVMExzMUpPTTFoR3FtbTY0RU1wb2ttdldHcWwtTkdXN09aTTQtaTBadUhFMVI5UFo5SXBVRHg0VERB0gHDAUFVX3lxTE8xOWNlQUM4RkJDQ2hVWl9obE9hUFprWWVBYVBwbkQ4a3h2a195by1NX0RPVWkzbzhaeGVYRV9Lc1ZhaU04bU5YbXNjT1JCcHA4ZG9ObFhkUmE2YnNYUUFOb2NMU3NNQ2dDR0V0X2N4ZFByVjZPMWxfaERhVGt4a25uckI2UnhJSE96TkRBdkE0eEoydEp2TzgxZnV2NXB6X0lUZWdPc2didzVuSGswdEZOcWw1YnJxMzJLQUhzN2RsSzJaVQ?oc=5",
+      "external": true,
+      "featured": false
     },
     {
       "source": "news",
@@ -197,19 +210,6 @@ const CONTENT = {
       "dateTS": 1779865200.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZjBIWFlWOGdxTUVKYXlRV2lzbXhGNXJyQ0lJaklmQVo0UUszejZsQXBySm1WNk16ZTMtQjR0WFBsd3RwaWU2UmdVLVFCZVZzX2I2NDN3ZzVHWHg2c0V6LWhJVXBJNXc2SGZSdTRRWkItV3ZsNDNlQVZNbFEtTXRaRHJnVnYzNkF1eUZ4X21wb0k1dkZpeWNZbjd5ONIBoAFBVV95cUxPS2JpcVBrWVV6UG9qa3U4QndKWktBM1JWZkVGUzJ4TnFmVUxmZnlrWUFxYzBJMVh6Z2EwV3REcWpJN0R6ZnZzVFY5dHdoLW4yc24tamh2Z25pY096QzlvbzAyNU1OTUFTaXRVa1Yxc1hDZFZrN1JTNjhmd3FrSUpxQXdYU01hc2lMM1hMNWtxUEtCWTNCNXJ2RWJsbktMU0Zz?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "MC.today",
-      "title": "Експерт пояснив, чому гривня укріпилась, але девальвація нікуди не зникла - MC.today",
-      "excerpt": "Згадка у виданні MC.today",
-      "date": "11 травня 2026",
-      "dateTS": 1778482800.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUXdlZmw3cHpLX3VZSVoxdGJxeWRQWnIxSVlIdy1zUFIzdXQ1YzB6V1FWc0Z3Y2tmOUdqaEhQMWdYdDdzQXNLckd3M3FrTzhlREZFRWt6WHZNYm1xaXI2M3I4TXNxS3dVNDBFNEYydENnczlrc05CbnBXT1hoc00xQUlmRjdoMDEwcjhsbUNqOU9YSk9qMS1KVg?oc=5",
       "external": true,
       "featured": false
     }
