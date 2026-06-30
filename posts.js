@@ -1,8 +1,60 @@
-// Автоматично оновлено: 2026-06-29 12:24 UTC
+// Автоматично оновлено: 2026-06-30 10:49 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "⚡️Китай призывает как можно скорее прекратить войну в Украине, возобновить переговоры, проявить п...",
+      "excerpt": "",
+      "date": "30 червня 2026",
+      "dateTS": 1782812255.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/259",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Японська іена - на мінімумах з 1986 року  Жорсткий керрі-трейд: Інвестори масово беруть дешеві кр...",
+      "excerpt": "",
+      "date": "30 червня 2026",
+      "dateTS": 1782805983.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/258",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Міжбанк стабільно, навіть трохи долар укріпився, завдяки мінімальному зростанню євро/дол долар 44...",
+      "excerpt": "",
+      "date": "29 червня 2026",
+      "dateTS": 1782738474.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/257",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Стейблкоїни становляться новою регулівною силою та амортизатором для американського боргу. Це нов...",
+      "excerpt": "",
+      "date": "29 червня 2026",
+      "dateTS": 1782737600.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/255",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +66,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/253",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -54,61 +106,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/250",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Огляд валютного ринку за червень та прогноз на липень 2026 вже на каналі готовий для перегляду ht...",
-      "excerpt": "",
-      "date": "27 червня 2026",
-      "dateTS": 1782587797.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/249",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "БОНУС МІСЯЧНОГО ОГЛЯДУ.   ЗА ЧИМ СЛІДКУЄМО У ЛИПНІ 2026: ·       1 липня Старт реформи мобілізаці...",
-      "excerpt": "",
-      "date": "27 червня 2026",
-      "dateTS": 1782573330.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/248",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ПОПЕРЕДНІ ПІДСУМКИ ЧЕРВНЯ – РЕКОРДНИЙ ДОЛАР 45, НБУ ТРИМАЄ РИНОК РЕКОРДНИ...",
-      "excerpt": "",
-      "date": "27 червня 2026",
-      "dateTS": 1782573278.0,
-      "readTime": "3 хв",
-      "url": "https://t.me/shevchyshyn_trends/247",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ПОПЕРЕДНІ ПІДСУМКИ ЧЕРВНЯ – РЕКОРДНИЙ ДОЛАР 45, НБУ ТРИМАЄ РИНОК РЕКОРДНИ...",
-      "excerpt": "",
-      "date": "27 червня 2026",
-      "dateTS": 1782573166.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/246",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "ТСН",
+      "title": "Економічний прогноз на липень: на скільки зростуть долар, зарплати, пенсії і куди \"котяться\" ціни на пальне - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
+      "date": "30 червня 2026",
+      "dateTS": 1782804662.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVkFfNEV4a2RxbUlXQ2hFQ2piU3gyaFRVd0lESWJVRmN2aGx1UGh5OTVzNTFTQXFpLW5HWkl3aGhaZVhaUVdYR3dHLUdlNGpqc2RZR3lOVnhyOGw4MG8yVEphSEpIbHBnUTFGMkpuekdOUnV5WnU1cEVGRzhCZkdTcUNQcFFmSmJEeEx1cTdTNm12YkhSZkxLTDZVdVVNQmFxaEJCMF9uX25yN01WYlNHclJrdzNtN1AtZjdoeG5nazVCWTVmN1hFaUpiSUl1S0RBNGtKRUV2cktaMW95V1RYMWh6OHJjTExySUlQVG9oUdIB9AFBVV95cUxQZkoycTRPWkJCdTRUVzZtTjdLS2ZaZEdTcFEtNl92dnR0T2VUbXR5YWpIOGZFOG9JS3Jyd3B4c1VISm1zYkxFRjdKdVJEUzl4TGRjU2lHSFE4LWc4cFJ0TUJKVlUyZTBvY3dfQ191SzBlNTl4Uk9JeDk3V3dFV2Frb0tYeWtwcFBCV29iVnZrYU54a1BLY3NzdU1FRkNuRFBubUs2NEVIV2RybWRYQy1ZaWh5UjhKeUphMU1SRG0xNXpXdWFxblVDRkFRZGVhUGlTX1ZtVkVLUU9HZGQxc1ZXaFhwVTJtc29EUkk0Tk9IbDQyQU1f?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -119,19 +132,6 @@ const CONTENT = {
       "dateTS": 1782625597.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONVZSOXUwS2Y1UmhldWJkbzlvS0Z3Y2QyTzBSXzN0REZqZi04Z0ZMUGh4ZG5UMjZOODJFVGlGakUzd1NRX1hfXzBsNjJoNlFqVy1XTE1aZG04b2w0c2NIdU4wcUhVRHM3ZGhBY0RGbzdPcUZJTkd0ejRkTFJsS1NmeHROYjJlbzlBTllDbFR1NHdha2lyVkFwME1SYXRJYVJDcU51alljSkHSAagBQVVfeXFMTjVWUjl1MEtmNVJoZXViZG85b0tGd2NkMk8wUl8zdERGamYtOGdGTFBoeGRuVDI2TjgyRVRpRmpFM3dTUV9YX18wbDYyaDZRalctV0xNWmRtOG9sNHNjSHVOMHFIVURzN2RoQWNERm83T3FGSU5HdHo0ZExSbEtTZnh0TmIyZW85QU5ZQ2xUdTR3YWtpclZBcDBNUmF0SWFSQ3FOdWpZY0pB?oc=5",
-      "external": true,
-      "featured": true
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "focus.ua",
-      "title": "Долар може піти до 47 грн: експерт оцінив перспективи гривні - focus.ua",
-      "excerpt": "Згадка у виданні focus.ua",
-      "date": "22 червня 2026",
-      "dateTS": 1782144034.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM1ZXZ1R4SmR5b2NvcnBPLS1BMGlnVnB6dDJraHhhek4wX1BkZC1hLXVESEtQOHZBNW9xWlVQdUdHUGRLS0RxbGVwb2FPRG5ITllGajE5UHJhcGM1dkgza3h4WTlCNEJURGRnUkdDdkQwZ1VZOFdNSUx2SWo5cnNxeWJDOVBVMExzMUpPTTFoR3FtbTY0RU1wb2ttdldHcWwtTkdXN09aTTQtaTBadUhFMVI5UFo5SXBVRHg0VERB0gHDAUFVX3lxTE8xOWNlQUM4RkJDQ2hVWl9obE9hUFprWWVBYVBwbkQ4a3h2a195by1NX0RPVWkzbzhaeGVYRV9Lc1ZhaU04bU5YbXNjT1JCcHA4ZG9ObFhkUmE2YnNYUUFOb2NMU3NNQ2dDR0V0X2N4ZFByVjZPMWxfaERhVGt4a25uckI2UnhJSE96TkRBdkE0eEoydEp2TzgxZnV2NXB6X0lUZWdPc2didzVuSGswdEZOcWw1YnJxMzJLQUhzN2RsSzJaVQ?oc=5",
       "external": true,
       "featured": false
     },
