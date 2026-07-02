@@ -1,8 +1,73 @@
-// Автоматично оновлено: 2026-07-01 11:18 UTC
+// Автоматично оновлено: 2026-07-02 10:30 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ОФІЦІЙНІ ДАНІ НБУ ПО БАЛАНСУ ВАЛЮТНОГО РИНКУ ЗА ТРАВЕНЬ 2026:  💵Міжбанк: - Попит на валюту: 8,759...",
+      "excerpt": "",
+      "date": "2 липня 2026",
+      "dateTS": 1782986274.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/289",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "❗️Виконання Бюджету 2026 за перше півріччя   Вже маємо оперативну інформацію про виконання бюджет...",
+      "excerpt": "",
+      "date": "2 липня 2026",
+      "dateTS": 1782984324.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/288",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Тут голова ФРС Кевін Уорш каже що фіксують зниження інфляційного ризику.   Реакція ринку зрозуміл...",
+      "excerpt": "",
+      "date": "1 липня 2026",
+      "dateTS": 1782915932.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/287",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "СЕРЕДНЯ ЗАРПЛАТА В УКРАЇНІ (БРУТТО) 30'961 грн По Києву 47'115 грн Найбільша в телекомах - 76'997...",
+      "excerpt": "",
+      "date": "1 липня 2026",
+      "dateTS": 1782908897.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/286",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Митниця звітує про рекордні митні платежі направлені в бюджету у червні 2026 - 78,1млрд грн. Й ту...",
+      "excerpt": "",
+      "date": "1 липня 2026",
+      "dateTS": 1782908197.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/285",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +79,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/284",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -41,74 +106,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/282",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Щось всі війни останнім часом починаються як триденна війна, але переходять в фазу затяжних. А по...",
-      "excerpt": "",
-      "date": "1 липня 2026",
-      "dateTS": 1782895588.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/281",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Стратегічний нафтовий резерв США (SPR) впав до мінімального рівня з 1983 року, досягнувши показни...",
-      "excerpt": "",
-      "date": "1 липня 2026",
-      "dateTS": 1782892679.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/280",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Щойно дропнули вниз на котировках на міжбанку долар 44.56 - 44.60 Й зверніть увагу, сьогодні оста...",
-      "excerpt": "",
-      "date": "1 липня 2026",
-      "dateTS": 1782890506.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/279",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "У червні рубль в лідерах падіння до долару в світі, ну й авжеж в Європі (на скріні). Білоруський ...",
-      "excerpt": "",
-      "date": "30 червня 2026",
-      "dateTS": 1782836840.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/278",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ІТ експорт - повземо по дну - за 5міс - 2,7 млрд дол (+3,7% АППР) - за травень 560 млн дол (-3,1%...",
-      "excerpt": "",
-      "date": "30 червня 2026",
-      "dateTS": 1782835272.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/277",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "focus.ua",
+      "title": "Лише одна валюта гірша: гривня опинилася майже на дні рейтингу валют Європи від початку року - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "2 липня 2026",
+      "dateTS": 1782984442.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdW5ZN0pVaEJzU1FBVDdGUGExWURNUnZGU2F6ZjRDNXJSMFF4SW5GTUQwZ04yMkVEdGt5elRLNDZIWkx5ZjFYcHp5QTNmNFQwdmpNY1VBeHBzd1o1Tk5kNGs3bldmQ1VTMVZ0a3ZpdjlESnhYdW1CYjVVLURBSXE5c3ctWHpBX0YtR1lwYXF4MnMxSVdYbHNQZy0yNVRrdFEtMnEwZWYyREs4cWRyUlVaUlNCSzHSAboBQVVfeXFMUEMxTTV3Y3gtX3hGNHVQWlNzVDF5OWEtaWFfamZ3U09ha3RRT1JTV21Oam9nbWZCZlU2SGROTUU1ck9reFZQZDNOdE44VHF5UHg2MldFS0RfbzNLS3JERXJyd25fa2JZWTREdnZFeEN4Rk53R1h2dTB5amQ4SmhSUkF3TVB4WkJkbkNPdHNINEJZQ0VKUnQ1emJSQnRMZGFMQkxBbkM1SVBLUWxZa2pzdXZidU9MZlNVaXB3?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -120,7 +133,20 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVkFfNEV4a2RxbUlXQ2hFQ2piU3gyaFRVd0lESWJVRmN2aGx1UGh5OTVzNTFTQXFpLW5HWkl3aGhaZVhaUVdYR3dHLUdlNGpqc2RZR3lOVnhyOGw4MG8yVEphSEpIbHBnUTFGMkpuekdOUnV5WnU1cEVGRzhCZkdTcUNQcFFmSmJEeEx1cTdTNm12YkhSZkxLTDZVdVVNQmFxaEJCMF9uX25yN01WYlNHclJrdzNtN1AtZjdoeG5nazVCWTVmN1hFaUpiSUl1S0RBNGtKRUV2cktaMW95V1RYMWh6OHJjTExySUlQVG9oUdIB9AFBVV95cUxQZkoycTRPWkJCdTRUVzZtTjdLS2ZaZEdTcFEtNl92dnR0T2VUbXR5YWpIOGZFOG9JS3Jyd3B4c1VISm1zYkxFRjdKdVJEUzl4TGRjU2lHSFE4LWc4cFJ0TUJKVlUyZTBvY3dfQ191SzBlNTl4Uk9JeDk3V3dFV2Frb0tYeWtwcFBCV29iVnZrYU54a1BLY3NzdU1FRkNuRFBubUs2NEVIV2RybWRYQy1ZaWh5UjhKeUphMU1SRG0xNXpXdWFxblVDRkFRZGVhUGlTX1ZtVkVLUU9HZGQxc1ZXaFhwVTJtc29EUkk0Tk9IbDQyQU1f?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "my.ua",
+      "title": "Експерти шокували прогнозом про ціни в України: це станеться вперше за тривалий час - my.ua",
+      "excerpt": "Згадка у виданні my.ua",
+      "date": "30 червня 2026",
+      "dateTS": 1782849976.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTDVudEdkcnEyYjBLeVVzSjZqLUY0ZWlkeDc3X19nUWtJSmdnRi15cUtXdGpyaVFKdWtEZjI1YjYxVkVONUswYUFCeUlFbzlLUzdHbzRWVVYyZHl2a1hkc24wUExWZHVGZ1RReGFfdVRjeEI5ZXRLRzBBWktBN2lJcWY4QVlmZzgwVlA1cDdxcFRSZ3BKLUhjSUVnQWpxV1FuR1JmUzNSSnp5WFdqR0pXZWVEZmZ6NjJ2NFBPMVZtSTZHOGxkVXBzY9IBygFBVV95cUxNc0JQOTdoSHFFbGkweXZkSFZHUDY2ampFWkRaY0hyOUhJSHRhY3RZalRuX3NyV3Y3a19FeFNwMlVQbzZRWC1YRkhLYVFjZzhCVVZqUXBna0YtV2o1QjQyUE1PNk04bWNuUktJRDg3cmFOengwQWFhRDlESWItN0h1SDVudVVJR0xic2FoeDJoMUFCVWxZTTdOLTdLSHBrMG1YMXpjMWpHMDBYcGY2RTlpb01vZjRTTUo1YWdGQW1RVTd6NHNMNkxYRWhB?oc=5",
+      "external": true,
+      "featured": false
     },
     {
       "source": "news",
@@ -184,32 +210,6 @@ const CONTENT = {
       "dateTS": 1780642800.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTZISzE1dlZDYWx4c0xCMnpYNDdKQm1sU0NuWkhxTWpITEcza2MxT1NjNGR2RWpYMG82ejFKaEsxXzZGR1puQ1o4b2NweFBoUTZYTFVUYTRJZmN6WW1qXzRENXJyTjN5dmVfTWNkS0RKdnVDRUF6Wkw5a1c2VFBqS3EzN2tOWmRBVEpCZURvb2tuY0N3UjhFcE5rOTRESnNqR1AycUVWMXp2Nkc2OXc?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "Фінанси 24",
-      "title": "Світові ціни на золото падають, а українці рекордно продають: що відбувається у 2026 році - Фінанси 24",
-      "excerpt": "Згадка у виданні Фінанси 24",
-      "date": "27 травня 2026",
-      "dateTS": 1779865200.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZjBIWFlWOGdxTUVKYXlRV2lzbXhGNXJyQ0lJaklmQVo0UUszejZsQXBySm1WNk16ZTMtQjR0WFBsd3RwaWU2UmdVLVFCZVZzX2I2NDN3ZzVHWHg2c0V6LWhJVXBJNXc2SGZSdTRRWkItV3ZsNDNlQVZNbFEtTXRaRHJnVnYzNkF1eUZ4X21wb0k1dkZpeWNZbjd5ONIBoAFBVV95cUxPS2JpcVBrWVV6UG9qa3U4QndKWktBM1JWZkVGUzJ4TnFmVUxmZnlrWUFxYzBJMVh6Z2EwV3REcWpJN0R6ZnZzVFY5dHdoLW4yc24tamh2Z25pY096QzlvbzAyNU1OTUFTaXRVa1Yxc1hDZFZrN1JTNjhmd3FrSUpxQXdYU01hc2lMM1hMNWtxUEtCWTNCNXJ2RWJsbktMU0Zz?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "MC.today",
-      "title": "Експерт пояснив, чому гривня укріпилась, але девальвація нікуди не зникла - MC.today",
-      "excerpt": "Згадка у виданні MC.today",
-      "date": "11 травня 2026",
-      "dateTS": 1778482800.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUXdlZmw3cHpLX3VZSVoxdGJxeWRQWnIxSVlIdy1zUFIzdXQ1YzB6V1FWc0Z3Y2tmOUdqaEhQMWdYdDdzQXNLckd3M3FrTzhlREZFRWt6WHZNYm1xaXI2M3I4TXNxS3dVNDBFNEYydENnczlrc05CbnBXT1hoc00xQUlmRjdoMDEwcjhsbUNqOU9YSk9qMS1KVg?oc=5",
       "external": true,
       "featured": false
     }
