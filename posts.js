@@ -1,8 +1,21 @@
-// Автоматично оновлено: 2026-07-02 10:30 UTC
+// Автоматично оновлено: 2026-07-03 10:27 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Средняя цена российской нефти для расчета налогов снизилась в июне на $23, ‌или почти на 27% к ма...",
+      "excerpt": "",
+      "date": "2 липня 2026",
+      "dateTS": 1783009847.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/290",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +27,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/289",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -93,32 +106,19 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/283",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "За результатами червня 2026 портфель ОВДП фізичних осіб:   📈 портфель гривневих ОВДП українців зн...",
-      "excerpt": "",
-      "date": "1 липня 2026",
-      "dateTS": 1782899454.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/282",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "focus.ua",
-      "title": "Лише одна валюта гірша: гривня опинилася майже на дні рейтингу валют Європи від початку року - focus.ua",
-      "excerpt": "Згадка у виданні focus.ua",
+      "tagLabel": "ТСН",
+      "title": "Курс валют в Україні: експерт ошелешив прогнозом, скільки може коштувати долар - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
       "date": "2 липня 2026",
-      "dateTS": 1782984442.0,
+      "dateTS": 1782991971.0,
       "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdW5ZN0pVaEJzU1FBVDdGUGExWURNUnZGU2F6ZjRDNXJSMFF4SW5GTUQwZ04yMkVEdGt5elRLNDZIWkx5ZjFYcHp5QTNmNFQwdmpNY1VBeHBzd1o1Tk5kNGs3bldmQ1VTMVZ0a3ZpdjlESnhYdW1CYjVVLURBSXE5c3ctWHpBX0YtR1lwYXF4MnMxSVdYbHNQZy0yNVRrdFEtMnEwZWYyREs4cWRyUlVaUlNCSzHSAboBQVVfeXFMUEMxTTV3Y3gtX3hGNHVQWlNzVDF5OWEtaWFfamZ3U09ha3RRT1JTV21Oam9nbWZCZlU2SGROTUU1ck9reFZQZDNOdE44VHF5UHg2MldFS0RfbzNLS3JERXJyd25fa2JZWTREdnZFeEN4Rk53R1h2dTB5amQ4SmhSUkF3TVB4WkJkbkNPdHNINEJZQ0VKUnQ1emJSQnRMZGFMQkxBbkM1SVBLUWxZa2pzdXZidU9MZlNVaXB3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYmcwU09NWEJzYi14Nkl6dzMyazJwbjlDdk1RTmJhdTJuVkJ2WXpWVy1uWWR3dWNEcEFmbF9ub3ctbXh6YXVHVzhZSDFBSzdrNm1uUVpLUC1ZQkJUczhPVDRiTDBkNUxESnYxRk1GU3JhRmh3SVZvaXRDMGF1enJsNVRJVDRTemFxbF91QmJleUVLTEpWVkpYR1RsS0VuTXdScVJjQmZCNlhsZTR2N2JKT1cxZkFMS2ZDSlHSAb8BQVVfeXFMUE1Pc3dlMjZhTlU3WkExaFdSUWRBQ2hPanBwaXZBNGx2aVgxTzVCSE5NYXg4WDVGNnBDNFlHdjlwM1NlSHBjeHhRbm9SUk1uWlhNNDQycW5razlxOUpXZ1U3WDVMem95SkdybVNwRjNDVlFvSTNrZWNHZzItSklfbFRPSjQyeU9QVFZzbGwzUXQyREhfcWJudURvVFV0WF9iN3lkY0x6dzliRnNSQWxfUWVaeENka2NDTDRSTi1TUjA?oc=5",
       "external": true,
       "featured": true
     },
