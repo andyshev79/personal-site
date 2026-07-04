@@ -1,8 +1,86 @@
-// Автоматично оновлено: 2026-07-03 10:27 UTC
+// Автоматично оновлено: 2026-07-04 10:01 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "🏭 Промисловість України: підсумки травня та 5 місяців 2026 року  📅Травень став місяцем наздоганяю...",
+      "excerpt": "",
+      "date": "3 липня 2026",
+      "dateTS": 1783090794.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/297",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Вторинні кинетичні санкції для країн партнерів рф ——— Киргизия, Таджикистан и Монголия импортирую...",
+      "excerpt": "",
+      "date": "3 липня 2026",
+      "dateTS": 1783087774.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/296",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Вау... п`ятниця вечір.   Міжбанк закинули на 44.45 - 44.54  Це вже сильна технічна підтримка. Якщ...",
+      "excerpt": "",
+      "date": "3 липня 2026",
+      "dateTS": 1783082652.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/294",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Державний та гарантований борг України на кінець травня знизився майже на 20 млрд грн (0,2%м/м) т...",
+      "excerpt": "",
+      "date": "3 липня 2026",
+      "dateTS": 1783077139.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/293",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Ось така  зараз картинка по дефіциту на українському міжбанку.  Відійшли від рекордних максимумів...",
+      "excerpt": "",
+      "date": "3 липня 2026",
+      "dateTS": 1783074875.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/292",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Долар на міжбанку знов добре відкотився 44.57 - 44.64  По оперативним даним дефіцит залишається н...",
+      "excerpt": "",
+      "date": "3 липня 2026",
+      "dateTS": 1783074485.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/291",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +92,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/290",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -26,84 +104,6 @@ const CONTENT = {
       "dateTS": 1782986274.0,
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/289",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "❗️Виконання Бюджету 2026 за перше півріччя   Вже маємо оперативну інформацію про виконання бюджет...",
-      "excerpt": "",
-      "date": "2 липня 2026",
-      "dateTS": 1782984324.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/288",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Тут голова ФРС Кевін Уорш каже що фіксують зниження інфляційного ризику.   Реакція ринку зрозуміл...",
-      "excerpt": "",
-      "date": "1 липня 2026",
-      "dateTS": 1782915932.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/287",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "СЕРЕДНЯ ЗАРПЛАТА В УКРАЇНІ (БРУТТО) 30'961 грн По Києву 47'115 грн Найбільша в телекомах - 76'997...",
-      "excerpt": "",
-      "date": "1 липня 2026",
-      "dateTS": 1782908897.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/286",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Митниця звітує про рекордні митні платежі направлені в бюджету у червні 2026 - 78,1млрд грн. Й ту...",
-      "excerpt": "",
-      "date": "1 липня 2026",
-      "dateTS": 1782908197.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/285",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Валютні інтервенції НБУ за червень 2026р - 5'087 млн дол   В останньому валютному огляді я оцінив...",
-      "excerpt": "",
-      "date": "1 липня 2026",
-      "dateTS": 1782904395.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/284",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "З результатами червня 2026 Мінфін залучив через ОВДП 25 млрд грн та 200,7 млн євро.  При цьому, з...",
-      "excerpt": "",
-      "date": "1 липня 2026",
-      "dateTS": 1782900138.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/283",
       "external": true,
       "featured": false
     }
@@ -132,19 +132,6 @@ const CONTENT = {
       "dateTS": 1782888653.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVkFfNEV4a2RxbUlXQ2hFQ2piU3gyaFRVd0lESWJVRmN2aGx1UGh5OTVzNTFTQXFpLW5HWkl3aGhaZVhaUVdYR3dHLUdlNGpqc2RZR3lOVnhyOGw4MG8yVEphSEpIbHBnUTFGMkpuekdOUnV5WnU1cEVGRzhCZkdTcUNQcFFmSmJEeEx1cTdTNm12YkhSZkxLTDZVdVVNQmFxaEJCMF9uX25yN01WYlNHclJrdzNtN1AtZjdoeG5nazVCWTVmN1hFaUpiSUl1S0RBNGtKRUV2cktaMW95V1RYMWh6OHJjTExySUlQVG9oUdIB9AFBVV95cUxQZkoycTRPWkJCdTRUVzZtTjdLS2ZaZEdTcFEtNl92dnR0T2VUbXR5YWpIOGZFOG9JS3Jyd3B4c1VISm1zYkxFRjdKdVJEUzl4TGRjU2lHSFE4LWc4cFJ0TUJKVlUyZTBvY3dfQ191SzBlNTl4Uk9JeDk3V3dFV2Frb0tYeWtwcFBCV29iVnZrYU54a1BLY3NzdU1FRkNuRFBubUs2NEVIV2RybWRYQy1ZaWh5UjhKeUphMU1SRG0xNXpXdWFxblVDRkFRZGVhUGlTX1ZtVkVLUU9HZGQxc1ZXaFhwVTJtc29EUkk0Tk9IbDQyQU1f?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "my.ua",
-      "title": "Експерти шокували прогнозом про ціни в України: це станеться вперше за тривалий час - my.ua",
-      "excerpt": "Згадка у виданні my.ua",
-      "date": "30 червня 2026",
-      "dateTS": 1782849976.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTDVudEdkcnEyYjBLeVVzSjZqLUY0ZWlkeDc3X19nUWtJSmdnRi15cUtXdGpyaVFKdWtEZjI1YjYxVkVONUswYUFCeUlFbzlLUzdHbzRWVVYyZHl2a1hkc24wUExWZHVGZ1RReGFfdVRjeEI5ZXRLRzBBWktBN2lJcWY4QVlmZzgwVlA1cDdxcFRSZ3BKLUhjSUVnQWpxV1FuR1JmUzNSSnp5WFdqR0pXZWVEZmZ6NjJ2NFBPMVZtSTZHOGxkVXBzY9IBygFBVV95cUxNc0JQOTdoSHFFbGkweXZkSFZHUDY2ampFWkRaY0hyOUhJSHRhY3RZalRuX3NyV3Y3a19FeFNwMlVQbzZRWC1YRkhLYVFjZzhCVVZqUXBna0YtV2o1QjQyUE1PNk04bWNuUktJRDg3cmFOengwQWFhRDlESWItN0h1SDVudVVJR0xic2FoeDJoMUFCVWxZTTdOLTdLSHBrMG1YMXpjMWpHMDBYcGY2RTlpb01vZjRTTUo1YWdGQW1RVTd6NHNMNkxYRWhB?oc=5",
       "external": true,
       "featured": false
     },
@@ -190,19 +177,6 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "Delo.ua",
-      "title": "Долар б’є рекорди: чи здатен НБУ втримати курс гривні - Delo.ua",
-      "excerpt": "Згадка у виданні Delo.ua",
-      "date": "8 червня 2026",
-      "dateTS": 1780902000.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZXRNWmVYdGJzZThLQ3VXWERuczRkQjNlN1dGTDhuQWhnbXBlZGcxZzlQUWtYcjRWQWVxaXVONlNaSzhWQjJOVThPVGk5UW5Qd3IxejJkOGxGWjdQSzF2cHpWdTk5RmdFQ05UaGNvNVdqNHhCaGlIc1hXOHV3Qk5PRWdRbThKTXpI?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
       "tagLabel": "MC.today",
       "title": "Чого очікувати на ринку платіжних терміналів — думка про штрафи для EasyPay і City24 - MC.today",
       "excerpt": "Згадка у виданні MC.today",
@@ -210,6 +184,32 @@ const CONTENT = {
       "dateTS": 1780642800.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTZISzE1dlZDYWx4c0xCMnpYNDdKQm1sU0NuWkhxTWpITEcza2MxT1NjNGR2RWpYMG82ejFKaEsxXzZGR1puQ1o4b2NweFBoUTZYTFVUYTRJZmN6WW1qXzRENXJyTjN5dmVfTWNkS0RKdnVDRUF6Wkw5a1c2VFBqS3EzN2tOWmRBVEpCZURvb2tuY0N3UjhFcE5rOTRESnNqR1AycUVWMXp2Nkc2OXc?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "ТСН",
+      "title": "В Україні зміняться ліміти на карткові перекази: кого торкнеться обмеження - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
+      "date": "1 червня 2026",
+      "dateTS": 1780297200.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLTlIVm5pMFUxeUdvQjh4RzZhdWQxMVRPTzQ2OVhsS25KS3FKbTZUSVpBVnBEaXpKSzh1bVhDc3A5dmpLTktsM1hmWDRETVBEMEltSGp6Z3o2TlBNV3NGdkg5eEwwMUEtVFp4d0hBeU9kRjNQenpZcy1zU3RnVkhfMEZFMUxBMEQxdmVOMi0yNmRNem5iWEJmRHo1bjFGZDZtZ2tKUnJnZDNQQzBjYjBfY9IBtgFBVV95cUxOa21IUjhPbVlWUmIzNjNqM1Zja2hHaFkyOUhDWVhKN1ZOSGVyeDNhYjRiQ19XamlWYTV5bEc0X3ctM3R4d19OTkNYOHViMlRZZUZFMnA2LTlGeHpUMkdVNlpxTmdUaXpncGJRdXB4cFRybUoybnFvc0JaY0ZRVG02RXZpV0FTaTI4OEh4YkUzZGFWVnFKUFk2dmVaOGgza2JRZjJwS2kySmI2dEVvN3lVdVR1ZmVOdw?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Фінанси 24",
+      "title": "Світові ціни на золото падають, а українці рекордно продають: що відбувається у 2026 році - Фінанси 24",
+      "excerpt": "Згадка у виданні Фінанси 24",
+      "date": "27 травня 2026",
+      "dateTS": 1779865200.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZjBIWFlWOGdxTUVKYXlRV2lzbXhGNXJyQ0lJaklmQVo0UUszejZsQXBySm1WNk16ZTMtQjR0WFBsd3RwaWU2UmdVLVFCZVZzX2I2NDN3ZzVHWHg2c0V6LWhJVXBJNXc2SGZSdTRRWkItV3ZsNDNlQVZNbFEtTXRaRHJnVnYzNkF1eUZ4X21wb0k1dkZpeWNZbjd5ONIBoAFBVV95cUxPS2JpcVBrWVV6UG9qa3U4QndKWktBM1JWZkVGUzJ4TnFmVUxmZnlrWUFxYzBJMVh6Z2EwV3REcWpJN0R6ZnZzVFY5dHdoLW4yc24tamh2Z25pY096QzlvbzAyNU1OTUFTaXRVa1Yxc1hDZFZrN1JTNjhmd3FrSUpxQXdYU01hc2lMM1hMNWtxUEtCWTNCNXJ2RWJsbktMU0Zz?oc=5",
       "external": true,
       "featured": false
     }
