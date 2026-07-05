@@ -1,8 +1,99 @@
-// Автоматично оновлено: 2026-07-04 10:01 UTC
+// Автоматично оновлено: 2026-07-05 10:03 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "https://youtu.be/a1mVO9GBCd0?si=9AQbcFd96G9wqnCn",
+      "excerpt": "",
+      "date": "5 липня 2026",
+      "dateTS": 1783232386.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/305",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: НБУ ТРАМБУЄ ДОЛАР РЕКОРДНИМИ ІНТЕРВЕНЦІЯМИ. (частина 3)  ...",
+      "excerpt": "",
+      "date": "4 липня 2026",
+      "dateTS": 1783177454.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/304",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "В базовому сценарії офіційний долар очікую на 44,40-44,90 грн, готівковий долар 44,70-45,20 грн. ...",
+      "excerpt": "",
+      "date": "4 липня 2026",
+      "dateTS": 1783177351.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/303",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: НБУ ТРАМБУЄ ДОЛАР РЕКОРДНИМИ ІНТЕРВЕНЦІЯМИ. (частина 2)  ...",
+      "excerpt": "",
+      "date": "4 липня 2026",
+      "dateTS": 1783177333.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/302",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "МІЖБАНК  - Середньодобова купівля валюти зросла на 1% - 411М дол. А от середньодобова пропозиції ...",
+      "excerpt": "",
+      "date": "4 липня 2026",
+      "dateTS": 1783177265.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/300",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: НБУ ТРАМБУЄ ДОЛАР РЕКОРДНИМИ ІНТЕРВЕНЦІЯМИ. (частина1)   ...",
+      "excerpt": "",
+      "date": "4 липня 2026",
+      "dateTS": 1783177115.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/298",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "РИНОК В ЦИФРАХ Примітка: дані по попиту-пропозиції за 29червня – 2липня, валютні інтервенції за п...",
+      "excerpt": "",
+      "date": "4 липня 2026",
+      "dateTS": 1783177115.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/299",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -13,97 +104,6 @@ const CONTENT = {
       "dateTS": 1783090794.0,
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/297",
-      "external": true,
-      "featured": true
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Вторинні кинетичні санкції для країн партнерів рф ——— Киргизия, Таджикистан и Монголия импортирую...",
-      "excerpt": "",
-      "date": "3 липня 2026",
-      "dateTS": 1783087774.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/296",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Вау... п`ятниця вечір.   Міжбанк закинули на 44.45 - 44.54  Це вже сильна технічна підтримка. Якщ...",
-      "excerpt": "",
-      "date": "3 липня 2026",
-      "dateTS": 1783082652.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/294",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Державний та гарантований борг України на кінець травня знизився майже на 20 млрд грн (0,2%м/м) т...",
-      "excerpt": "",
-      "date": "3 липня 2026",
-      "dateTS": 1783077139.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/293",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Ось така  зараз картинка по дефіциту на українському міжбанку.  Відійшли від рекордних максимумів...",
-      "excerpt": "",
-      "date": "3 липня 2026",
-      "dateTS": 1783074875.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/292",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Долар на міжбанку знов добре відкотився 44.57 - 44.64  По оперативним даним дефіцит залишається н...",
-      "excerpt": "",
-      "date": "3 липня 2026",
-      "dateTS": 1783074485.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/291",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Средняя цена российской нефти для расчета налогов снизилась в июне на $23, ‌или почти на 27% к ма...",
-      "excerpt": "",
-      "date": "2 липня 2026",
-      "dateTS": 1783009847.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/290",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ОФІЦІЙНІ ДАНІ НБУ ПО БАЛАНСУ ВАЛЮТНОГО РИНКУ ЗА ТРАВЕНЬ 2026:  💵Міжбанк: - Попит на валюту: 8,759...",
-      "excerpt": "",
-      "date": "2 липня 2026",
-      "dateTS": 1782986274.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/289",
       "external": true,
       "featured": false
     }
@@ -125,6 +125,19 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
+      "tagLabel": "focus.ua",
+      "title": "Лише одна валюта гірша: гривня опинилася майже на дні рейтингу валют Європи від початку року - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "2 липня 2026",
+      "dateTS": 1782984442.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdW5ZN0pVaEJzU1FBVDdGUGExWURNUnZGU2F6ZjRDNXJSMFF4SW5GTUQwZ04yMkVEdGt5elRLNDZIWkx5ZjFYcHp5QTNmNFQwdmpNY1VBeHBzd1o1Tk5kNGs3bldmQ1VTMVZ0a3ZpdjlESnhYdW1CYjVVLURBSXE5c3ctWHpBX0YtR1lwYXF4MnMxSVdYbHNQZy0yNVRrdFEtMnEwZWYyREs4cWRyUlVaUlNCSzHSAboBQVVfeXFMUEMxTTV3Y3gtX3hGNHVQWlNzVDF5OWEtaWFfamZ3U09ha3RRT1JTV21Oam9nbWZCZlU2SGROTUU1ck9reFZQZDNOdE44VHF5UHg2MldFS0RfbzNLS3JERXJyd25fa2JZWTREdnZFeEN4Rk53R1h2dTB5amQ4SmhSUkF3TVB4WkJkbkNPdHNINEJZQ0VKUnQ1emJSQnRMZGFMQkxBbkM1SVBLUWxZa2pzdXZidU9MZlNVaXB3?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
       "tagLabel": "ТСН",
       "title": "Економічний прогноз на липень: наскільки зростуть долар, зарплати, пенсії і куди \"котяться\" ціни на пальне - ТСН",
       "excerpt": "Згадка у виданні ТСН",
@@ -138,11 +151,37 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
+      "tagLabel": "my.ua",
+      "title": "Експерти шокували прогнозом про ціни в України: це станеться вперше за тривалий час - my.ua",
+      "excerpt": "Згадка у виданні my.ua",
+      "date": "30 червня 2026",
+      "dateTS": 1782849976.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTDVudEdkcnEyYjBLeVVzSjZqLUY0ZWlkeDc3X19nUWtJSmdnRi15cUtXdGpyaVFKdWtEZjI1YjYxVkVONUswYUFCeUlFbzlLUzdHbzRWVVYyZHl2a1hkc24wUExWZHVGZ1RReGFfdVRjeEI5ZXRLRzBBWktBN2lJcWY4QVlmZzgwVlA1cDdxcFRSZ3BKLUhjSUVnQWpxV1FuR1JmUzNSSnp5WFdqR0pXZWVEZmZ6NjJ2NFBPMVZtSTZHOGxkVXBzY9IBygFBVV95cUxNc0JQOTdoSHFFbGkweXZkSFZHUDY2ampFWkRaY0hyOUhJSHRhY3RZalRuX3NyV3Y3a19FeFNwMlVQbzZRWC1YRkhLYVFjZzhCVVZqUXBna0YtV2o1QjQyUE1PNk04bWNuUktJRDg3cmFOengwQWFhRDlESWItN0h1SDVudVVJR0xic2FoeDJoMUFCVWxZTTdOLTdLSHBrMG1YMXpjMWpHMDBYcGY2RTlpb01vZjRTTUo1YWdGQW1RVTd6NHNMNkxYRWhB?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "focus.ua",
+      "title": "\"Утримувати 45 грн нескінченно неможливо\": яким буде курс долара у липні — прогноз експерта - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "28 червня 2026",
+      "dateTS": 1782625597.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM0o5UlUtcEZPSkgtaWtrTFBoMUdRN09LR2FpMXJnSkRGTHVSb3lsTHNjZm1lQ3pEamRKUDF1Z2hNX1M5UmNJQkltMGZkZTNPMWJ3cVB3X0M2S1hPZUZmc3A5TXo2VHdWOFFLaXY2X0tEaE1LNWt3Q1BBMGw2TmQtSDNjdUhBeWxLS0k5WTR0TG1Ua1RNX3o3S1JTa1BQSmEyejBr0gGoAUFVX3lxTE41VlI5dTBLZjVSaGV1YmRvOW9LRndjZDJPMFJfM3RERmpmLThnRkxQaHhkblQyNk44MkVUaUZqRTN3U1FfWF9fMGw2Mmg2UWpXLVdMTVpkbThvbDRzY0h1TjBxSFVEczdkaEFjREZvN09xRklOR3R6NGRMUmxLU2Z4dE5iMmVvOUFOWUNsVHU0d2FraXJWQXAwTVJhdElhUkNxTnVqWWNKQQ?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
       "tagLabel": "focus.ua",
       "title": "Сценарій миру вже у НБУ: експерт звернув увагу на важливий сигнал після рішення про ставку 15% - focus.ua",
       "excerpt": "Згадка у виданні focus.ua",
       "date": "19 червня 2026",
-      "dateTS": 1781856360.0,
+      "dateTS": 1781852400.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMHN6U3pScGVsQUwwanBkWWF0Y19keGstUlBybGRHa3diRGtBcjduS0YyQU9mSmlCUk4tckczb2RiVy16X0dJYlNHdzhFVjF4VnFtVkd5Wks0dGpxc1hSZFEyUDR3UmdyQWdVODBmczV4UTlYckFxdVlzelZ0ZDFQSW1VMjBaam9maS1YT0thcWJ3UkJycHBDMFlvR2xIQ01ZNlV2ZnNUdGY4aFRBZEVDSE5DRVYxVk1yclZTNG94bEPSAcYBQVVfeXFMTVhYdTV4OWlZVkd4LWt0UXY5RUpheDZkWHJUWU1hNHRDRWx6MHMyUTN3U25RcVlSZkUxcG1fWFBSYTJyM3JvLUxtbk0tUlRyeFlIZ2c4eTM1aUFOWE40a0xqOFRTNWMxMlpETHRKaWFIMWRtTk54WmJCN25DcWN5M0FXR0JZbGE5N3hpNXRUVXhJeDRyMjl0eXFrMWpjZVBTeDJpUUM3YU1BZGM0UFNwMWNyc3ZsNEV2aWRFME02aGtsUm5fQUhR?oc=5",
       "external": true,
@@ -173,48 +212,22 @@ const CONTENT = {
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0xYMm1DMnBXay13SWcwM3luYmhGenN2Nm1hM0tSa0xxejd5dVNfR2lwRVU1bWRBT1lBRnVWNDJuWmhWQW4xdWFFUHJQNzA5cVo2b1RZOEtOV3dkRnlZdWFPRzBncy14enByZk5uVzJmRExTNU52ZHQ0RkJ4em41aUl4cXM2aWlLSzNiLWF5TTNTME9mNTlDVDFEXzM0amvSAaQBQVVfeXFMTjh2T0JKM2VGVnpzUGI5dEVCOHNKa21mYUVudGo3SnB5eEZsLUNqT0JtMWxFTFVKNm03UHA0WUh6dHhfSFRSWVdpYUFrTVp2cUdCWDRaemNLNkk3WEdHTFZQeDBJbHFXQW5NVEZQNDdPamh6aVpuX0JtSEU2RGdRTTVmTHZhREdfa2VWUENKV2ZHMmd3enBvZzBqelVaNGRlUzZCbXI?oc=5",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "MC.today",
-      "title": "Чого очікувати на ринку платіжних терміналів — думка про штрафи для EasyPay і City24 - MC.today",
-      "excerpt": "Згадка у виданні MC.today",
-      "date": "5 червня 2026",
-      "dateTS": 1780642800.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTZISzE1dlZDYWx4c0xCMnpYNDdKQm1sU0NuWkhxTWpITEcza2MxT1NjNGR2RWpYMG82ejFKaEsxXzZGR1puQ1o4b2NweFBoUTZYTFVUYTRJZmN6WW1qXzRENXJyTjN5dmVfTWNkS0RKdnVDRUF6Wkw5a1c2VFBqS3EzN2tOWmRBVEpCZURvb2tuY0N3UjhFcE5rOTRESnNqR1AycUVWMXp2Nkc2OXc?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "ТСН",
-      "title": "В Україні зміняться ліміти на карткові перекази: кого торкнеться обмеження - ТСН",
-      "excerpt": "Згадка у виданні ТСН",
-      "date": "1 червня 2026",
-      "dateTS": 1780297200.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLTlIVm5pMFUxeUdvQjh4RzZhdWQxMVRPTzQ2OVhsS25KS3FKbTZUSVpBVnBEaXpKSzh1bVhDc3A5dmpLTktsM1hmWDRETVBEMEltSGp6Z3o2TlBNV3NGdkg5eEwwMUEtVFp4d0hBeU9kRjNQenpZcy1zU3RnVkhfMEZFMUxBMEQxdmVOMi0yNmRNem5iWEJmRHo1bjFGZDZtZ2tKUnJnZDNQQzBjYjBfY9IBtgFBVV95cUxOa21IUjhPbVlWUmIzNjNqM1Zja2hHaFkyOUhDWVhKN1ZOSGVyeDNhYjRiQ19XamlWYTV5bEc0X3ctM3R4d19OTkNYOHViMlRZZUZFMnA2LTlGeHpUMkdVNlpxTmdUaXpncGJRdXB4cFRybUoybnFvc0JaY0ZRVG02RXZpV0FTaTI4OEh4YkUzZGFWVnFKUFk2dmVaOGgza2JRZjJwS2kySmI2dEVvN3lVdVR1ZmVOdw?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "Фінанси 24",
-      "title": "Світові ціни на золото падають, а українці рекордно продають: що відбувається у 2026 році - Фінанси 24",
-      "excerpt": "Згадка у виданні Фінанси 24",
-      "date": "27 травня 2026",
-      "dateTS": 1779865200.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZjBIWFlWOGdxTUVKYXlRV2lzbXhGNXJyQ0lJaklmQVo0UUszejZsQXBySm1WNk16ZTMtQjR0WFBsd3RwaWU2UmdVLVFCZVZzX2I2NDN3ZzVHWHg2c0V6LWhJVXBJNXc2SGZSdTRRWkItV3ZsNDNlQVZNbFEtTXRaRHJnVnYzNkF1eUZ4X21wb0k1dkZpeWNZbjd5ONIBoAFBVV95cUxPS2JpcVBrWVV6UG9qa3U4QndKWktBM1JWZkVGUzJ4TnFmVUxmZnlrWUFxYzBJMVh6Z2EwV3REcWpJN0R6ZnZzVFY5dHdoLW4yc24tamh2Z25pY096QzlvbzAyNU1OTUFTaXRVa1Yxc1hDZFZrN1JTNjhmd3FrSUpxQXdYU01hc2lMM1hMNWtxUEtCWTNCNXJ2RWJsbktMU0Zz?oc=5",
-      "external": true,
-      "featured": false
     }
   ],
   "youtube": [
+    {
+      "source": "youtube",
+      "tag": "youtube",
+      "tagLabel": "YouTube",
+      "title": "НБУ ТРОМБУЄ ДОЛАР РЕКОРДНИМИ ІНТЕРВЕНЦІЯМИ. ПОЛІТИКА ЧИ ІНФЛЯЦІЯ? ПЕРЕХОДИМО В БОКОВИК",
+      "excerpt": "00:00 вступ\n00:38 що відбувається на валютному ринку\n02:05 чому? політика чи інфляція?\n04:50 баланс ринку, попит та пропозиція, валютні інтервенції\n07:15 на що звернув увагу цього тижня\n10:55 очікуван",
+      "date": "4 липня 2026",
+      "dateTS": 1783195212.0,
+      "readTime": "відео",
+      "url": "https://www.youtube.com/watch?v=a1mVO9GBCd0",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "youtube",
       "tag": "youtube",
@@ -226,7 +239,7 @@ const CONTENT = {
       "readTime": "відео",
       "url": "https://www.youtube.com/watch?v=QTtH3tdFvt0",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "youtube",
@@ -303,19 +316,6 @@ const CONTENT = {
       "dateTS": 1778951517.0,
       "readTime": "відео",
       "url": "https://www.youtube.com/watch?v=zTeqoKqZiTo",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "youtube",
-      "tag": "youtube",
-      "tagLabel": "YouTube",
-      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ ЗА ТИЖДЕНЬ: НБУ ОПУСТИВ ЩОБ ПОТІМ УКРІПИТИ",
-      "excerpt": "З початку травня офіційна гривня укріпилась й до долару й до євро. Чарівна палочка НБУ у вигляді посилених інтервенцій зробила своє діло, посиливши котирування гривні. \n\nЄдине питання залишається, а ч",
-      "date": "9 травня 2026",
-      "dateTS": 1778350030.0,
-      "readTime": "відео",
-      "url": "https://www.youtube.com/watch?v=d2E9DOTt0MY",
       "external": true,
       "featured": false
     }
