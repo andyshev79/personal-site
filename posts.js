@@ -1,8 +1,60 @@
-// Автоматично оновлено: 2026-07-06 11:56 UTC
+// Автоматично оновлено: 2026-07-07 10:48 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Дуже мило дивитись як тримають ринок  Міжбанк долар 44.56 - 44.59  Це найдовша серія торгових дні...",
+      "excerpt": "",
+      "date": "7 липня 2026",
+      "dateTS": 1783417283.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/311",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "За оцінками Мінекономіки, у квітні 2026 року реальний ВВП зріс на 0,9%, що дало змогу за підсумка...",
+      "excerpt": "",
+      "date": "6 липня 2026",
+      "dateTS": 1783344399.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/310",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Дуже гарні показники врожайності врожайності в цьому році.  Але не поспішайте радуватись, бо це з...",
+      "excerpt": "",
+      "date": "6 липня 2026",
+      "dateTS": 1783342921.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/309",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Омский НПЗ - таки да. Найбільший російський НПЗ.  Він закривав 11.5% всього російського ринку бен...",
+      "excerpt": "",
+      "date": "6 липня 2026",
+      "dateTS": 1783339356.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/308",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +66,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/307",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -52,58 +104,6 @@ const CONTENT = {
       "dateTS": 1783177454.0,
       "readTime": "2 хв",
       "url": "https://t.me/shevchyshyn_trends/304",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "В базовому сценарії офіційний долар очікую на 44,40-44,90 грн, готівковий долар 44,70-45,20 грн. ...",
-      "excerpt": "",
-      "date": "4 липня 2026",
-      "dateTS": 1783177351.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/303",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: НБУ ТРАМБУЄ ДОЛАР РЕКОРДНИМИ ІНТЕРВЕНЦІЯМИ. (частина 2)  ...",
-      "excerpt": "",
-      "date": "4 липня 2026",
-      "dateTS": 1783177333.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/302",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "МІЖБАНК  - Середньодобова купівля валюти зросла на 1% - 411М дол. А от середньодобова пропозиції ...",
-      "excerpt": "",
-      "date": "4 липня 2026",
-      "dateTS": 1783177265.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/300",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: НБУ ТРАМБУЄ ДОЛАР РЕКОРДНИМИ ІНТЕРВЕНЦІЯМИ. (частина1)   ...",
-      "excerpt": "",
-      "date": "4 липня 2026",
-      "dateTS": 1783177115.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/298",
       "external": true,
       "featured": false
     }
