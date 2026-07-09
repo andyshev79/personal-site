@@ -1,8 +1,34 @@
-// Автоматично оновлено: 2026-07-08 10:09 UTC
+// Автоматично оновлено: 2026-07-09 10:47 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Поясню про цифры. ( для гуманитариев ) 😁  2 июля Генштаб заявил что выбито 42,74% установленных м...",
+      "excerpt": "",
+      "date": "8 липня 2026",
+      "dateTS": 1783527437.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/328",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Мінфін напередодні залучив найбільший об'єм коштів на внутрішньому ринку - 19,05 млрд грн.  Це ма...",
+      "excerpt": "",
+      "date": "8 липня 2026",
+      "dateTS": 1783519710.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/326",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +40,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/325",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -80,35 +106,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/320",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Яка прикра несподіванка )  Омский НПЗ, самый крупный в России нефтеперерабатывающий завод, остано...",
-      "excerpt": "",
-      "date": "7 липня 2026",
-      "dateTS": 1783438422.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/319",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ПРИБУТКИ УКРАЇНСЬКИХ БАНКІВ ЗА 5м2026 Серед ТОПових банків за 5 місяців2026 всі показали зниження...",
-      "excerpt": "",
-      "date": "7 липня 2026",
-      "dateTS": 1783437478.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/318",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "UKR.NET",
+      "title": "Попит на євро серед українців побив історичний рекорд - UKR.NET",
+      "excerpt": "Згадка у виданні UKR.NET",
+      "date": "7 липня 2026",
+      "dateTS": 1783450266.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3S0o4UDdYUlNDSTUzVDR5NkIzbTV3T3RaY1ZkbE1QbkdiYzNJSFhLcHNwcG5hNnFmYW4zMG9tZnpZbGVoa21aSDE2R3c3a21GdWdXV1BNQnI1SW1VUV9rd2NlSlM3dUJl?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -120,31 +133,18 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYmcwU09NWEJzYi14Nkl6dzMyazJwbjlDdk1RTmJhdTJuVkJ2WXpWVy1uWWR3dWNEcEFmbF9ub3ctbXh6YXVHVzhZSDFBSzdrNm1uUVpLUC1ZQkJUczhPVDRiTDBkNUxESnYxRk1GU3JhRmh3SVZvaXRDMGF1enJsNVRJVDRTemFxbF91QmJleUVLTEpWVkpYR1RsS0VuTXdScVJjQmZCNlhsZTR2N2JKT1cxZkFMS2ZDSlHSAb8BQVVfeXFMUE1Pc3dlMjZhTlU3WkExaFdSUWRBQ2hPanBwaXZBNGx2aVgxTzVCSE5NYXg4WDVGNnBDNFlHdjlwM1NlSHBjeHhRbm9SUk1uWlhNNDQycW5razlxOUpXZ1U3WDVMem95SkdybVNwRjNDVlFvSTNrZWNHZzItSklfbFRPSjQyeU9QVFZzbGwzUXQyREhfcWJudURvVFV0WF9iN3lkY0x6dzliRnNSQWxfUWVaeENka2NDTDRSTi1TUjA?oc=5",
       "external": true,
-      "featured": true
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "focus.ua",
-      "title": "\"Утримувати 45 грн нескінченно неможливо\": яким буде курс долара у липні — прогноз експерта - focus.ua",
-      "excerpt": "Згадка у виданні focus.ua",
-      "date": "28 червня 2026",
-      "dateTS": 1782630000.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM0o5UlUtcEZPSkgtaWtrTFBoMUdRN09LR2FpMXJnSkRGTHVSb3lsTHNjZm1lQ3pEamRKUDF1Z2hNX1M5UmNJQkltMGZkZTNPMWJ3cVB3X0M2S1hPZUZmc3A5TXo2VHdWOFFLaXY2X0tEaE1LNWt3Q1BBMGw2TmQtSDNjdUhBeWxLS0k5WTR0TG1Ua1RNX3o3S1JTa1BQSmEyejBr0gGoAUFVX3lxTE41VlI5dTBLZjVSaGV1YmRvOW9LRndjZDJPMFJfM3RERmpmLThnRkxQaHhkblQyNk44MkVUaUZqRTN3U1FfWF9fMGw2Mmg2UWpXLVdMTVpkbThvbDRzY0h1TjBxSFVEczdkaEFjREZvN09xRklOR3R6NGRMUmxLU2Z4dE5iMmVvOUFOWUNsVHU0d2FraXJWQXAwTVJhdElhUkNxTnVqWWNKQQ?oc=5",
-      "external": true,
       "featured": false
     },
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "focus.ua",
-      "title": "Долар може піти до 47 грн: експерт оцінив перспективи гривні - focus.ua",
-      "excerpt": "Згадка у виданні focus.ua",
-      "date": "22 червня 2026",
-      "dateTS": 1782111600.0,
+      "tagLabel": "ТСН",
+      "title": "Економічний прогноз на липень: наскільки зростуть долар, зарплати, пенсії і куди \"котяться\" ціни на пальне - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
+      "date": "1 липня 2026",
+      "dateTS": 1782888653.0,
       "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM1ZXZ1R4SmR5b2NvcnBPLS1BMGlnVnB6dDJraHhhek4wX1BkZC1hLXVESEtQOHZBNW9xWlVQdUdHUGRLS0RxbGVwb2FPRG5ITllGajE5UHJhcGM1dkgza3h4WTlCNEJURGRnUkdDdkQwZ1VZOFdNSUx2SWo5cnNxeWJDOVBVMExzMUpPTTFoR3FtbTY0RU1wb2ttdldHcWwtTkdXN09aTTQtaTBadUhFMVI5UFo5SXBVRHg0VERB0gHDAUFVX3lxTE8xOWNlQUM4RkJDQ2hVWl9obE9hUFprWWVBYVBwbkQ4a3h2a195by1NX0RPVWkzbzhaeGVYRV9Lc1ZhaU04bU5YbXNjT1JCcHA4ZG9ObFhkUmE2YnNYUUFOb2NMU3NNQ2dDR0V0X2N4ZFByVjZPMWxfaERhVGt4a25uckI2UnhJSE96TkRBdkE0eEoydEp2TzgxZnV2NXB6X0lUZWdPc2didzVuSGswdEZOcWw1YnJxMzJLQUhzN2RsSzJaVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVkFfNEV4a2RxbUlXQ2hFQ2piU3gyaFRVd0lESWJVRmN2aGx1UGh5OTVzNTFTQXFpLW5HWkl3aGhaZVhaUVdYR3dHLUdlNGpqc2RZR3lOVnhyOGw4MG8yVEphSEpIbHBnUTFGMkpuekdOUnV5WnU1cEVGRzhCZkdTcUNQcFFmSmJEeEx1cTdTNm12YkhSZkxLTDZVdVVNQmFxaEJCMF9uX25yN01WYlNHclJrdzNtN1AtZjdoeG5nazVCWTVmN1hFaUpiSUl1S0RBNGtKRUV2cktaMW95V1RYMWh6OHJjTExySUlQVG9oUdIB9AFBVV95cUxQZkoycTRPWkJCdTRUVzZtTjdLS2ZaZEdTcFEtNl92dnR0T2VUbXR5YWpIOGZFOG9JS3Jyd3B4c1VISm1zYkxFRjdKdVJEUzl4TGRjU2lHSFE4LWc4cFJ0TUJKVlUyZTBvY3dfQ191SzBlNTl4Uk9JeDk3V3dFV2Frb0tYeWtwcFBCV29iVnZrYU54a1BLY3NzdU1FRkNuRFBubUs2NEVIV2RybWRYQy1ZaWh5UjhKeUphMU1SRG0xNXpXdWFxblVDRkFRZGVhUGlTX1ZtVkVLUU9HZGQxc1ZXaFhwVTJtc29EUkk0Tk9IbDQyQU1f?oc=5",
       "external": true,
       "featured": false
     },
@@ -190,13 +190,13 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "Obozrevatel",
-      "title": "Як угода Трампа з Іраном змінить ситуацію з курсом євро й навіть гривні - Obozrevatel",
-      "excerpt": "Згадка у виданні Obozrevatel",
-      "date": "12 червня 2026",
-      "dateTS": 1781247600.0,
+      "tagLabel": "Delo.ua",
+      "title": "Долар б’є рекорди: чи здатен НБУ втримати курс гривні - Delo.ua",
+      "excerpt": "Згадка у виданні Delo.ua",
+      "date": "8 червня 2026",
+      "dateTS": 1780902000.0,
       "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV0F5a1IyN3phX3gxZTFaNXc2SDVBSE1YdUtIdTdQOFFOemxObWZ0M2ZzZ2daQjF2UnVFbWpwbUgtQTBaemZHR2dmZVhYTS1lVWNCNEhyTHI0aUVwYkZwbDhIYWZ5LW9XYmRwMkNRRjV2bzYyWFV3M0d0QWZRZm1aWldleHBkRFN4Vnh6UGF1QjgxNTE4NTFpbC1qVGMwdG9mRUhJWmFqSmV1RHdaQ1lFMU9PZGt6MnRKNEpTVzNJcVJvRUF2WkHSAcsBQVVfeXFMTURXUjVST1FQbWZlaFFqaUhfeWNMZkx5cHVTLURZS2VDbEs2RF9DYmpJcjgxZUlHWlA3VGFUXzd6NW1TdzI4b2NNS19YZjVYV3lLdTF4c2VUNGV2Y2VxTU9oZjVOc0Z3N3FjMmVTMlZMUGFnTWFoVzhwbzVrRVBkQlAwM00wN3hPVzZqWnNYRlAtbUotaWFCTGktZmhPdXIyN2JIM004WVNNZkFPdHhDR1dycXhDYmhLbUhfY3JNMWpVSmhfWDdfYjZZa1k?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZXRNWmVYdGJzZThLQ3VXWERuczRkQjNlN1dGTDhuQWhnbXBlZGcxZzlQUWtYcjRWQWVxaXVONlNaSzhWQjJOVThPVGk5UW5Qd3IxejJkOGxGWjdQSzF2cHpWdTk5RmdFQ05UaGNvNVdqNHhCaGlIc1hXOHV3Qk5PRWdRbThKTXpI?oc=5",
       "external": true,
       "featured": false
     },
