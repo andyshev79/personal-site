@@ -1,8 +1,86 @@
-// Автоматично оновлено: 2026-07-09 10:47 UTC
+// Автоматично оновлено: 2026-07-10 10:45 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Купюра 2000 грн - це відображення реальної інфляції й потреби в більших купюрах.  Копійки виводят...",
+      "excerpt": "",
+      "date": "10 липня 2026",
+      "dateTS": 1783678763.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/334",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "❗️В шести регионах РФ не осталось ни одной заправки, где есть бензин  Это следует из данных серви...",
+      "excerpt": "",
+      "date": "10 липня 2026",
+      "dateTS": 1783671654.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/333",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "🇺🇦Металургійні підприємства України за підсумками січня–червня 2026 року скоротили виробництво то...",
+      "excerpt": "",
+      "date": "9 липня 2026",
+      "dateTS": 1783618645.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/332",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Будівництво ссуко тормозить ((  Але... є нестача кадрів, проблеми в прифронтових зонах, та значна...",
+      "excerpt": "",
+      "date": "9 липня 2026",
+      "dateTS": 1783611812.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/331",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Неочікувано дуже  офіційна інфляція в червні -0,1% (мої очікування були +0,4%м/м) деталі згодом",
+      "excerpt": "",
+      "date": "9 липня 2026",
+      "dateTS": 1783601675.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/330",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Митниця - оперативні дані по зовнішній торгівлі товарами за червень та 6міс2026 (на картинці лише...",
+      "excerpt": "",
+      "date": "9 липня 2026",
+      "dateTS": 1783601285.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/329",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +92,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/328",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -28,87 +106,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/326",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Незважаючи на загальний негатив, я поки зберігаю оптимізм відносно Біткоїну  - всіх панікерів вже...",
-      "excerpt": "",
-      "date": "8 липня 2026",
-      "dateTS": 1783504516.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/325",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "За 6 міс 2026 року торгівельна активність населення з готівковою валютою мінімально знизилась, де...",
-      "excerpt": "",
-      "date": "8 липня 2026",
-      "dateTS": 1783500923.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/324",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Трамп задовбався, й це одна з причин його поганого настрою на зустрічі в Анкарі. Трампу потрібна ...",
-      "excerpt": "",
-      "date": "8 липня 2026",
-      "dateTS": 1783500409.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/323",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Нафта Бренд зростає Я б сказав, що це ідеальне відпрацювання по графічному аналізу. Й іноді здаєт...",
-      "excerpt": "",
-      "date": "8 липня 2026",
-      "dateTS": 1783496824.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/322",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Трейдери демонструють найбільш оптимістичний настрій та очікування у відношенні до долару майже з...",
-      "excerpt": "",
-      "date": "8 липня 2026",
-      "dateTS": 1783495915.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/321",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "КРЕДИТУВАННЯ БАНКАМИ ЗА 5М2026  📈Лідери зростання кредитного портфелю серед банків за 5міс2026:  ...",
-      "excerpt": "",
-      "date": "7 липня 2026",
-      "dateTS": 1783440519.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/320",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "focus.ua",
+      "title": "Це історичний рекорд: митниця показала, звідки Україна найбільше завозить техніку і транспорт - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "9 липня 2026",
+      "dateTS": 1783603325.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ0x1Ty1NZEw0U1RlcElzWEV6WGx2c1BCOHA1RmxIQjRjaWpncmlCMl9vczQ0bkNIcGxpRFAyakpJampvbDVZeThLNTJuZWcwXzdyVDZzXzhKRzRWSmc5NWZvNWlTNzN1b1ZxZXV6Njl3djl5VWl0NnRrRE50SUZHY3Rrc0JDZVd5YkNUTDNpdGc5VDdtRXpIM2gxRTFYY3BCR2g3NnhJVXRPX01wVTdtMmZaZlhvQzJk0gG4AUFVX3lxTFBnTHVPLU1kTDRTVGVwSXNYRXpYbHZzUEI4cDVGbEhCNGNpamdyaUIyX29zNDRuQ0hwbGlEUDJqSklqam9sNVl5OEs1Mm5lZzBfN3JUNnNfOEpHNFZKZzk1Zm81aVM3M3VvVnFldXo2OXd2OXlVaXQ2dGtETnRJRkdjdGtzQkNlV3liQ1RMM2l0ZzlUN21FekgzaDFFMVhjcEJHaDc2eElVdE9fTXBVN20yZlpmWG9DMmQ?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -120,7 +133,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3S0o4UDdYUlNDSTUzVDR5NkIzbTV3T3RaY1ZkbE1QbkdiYzNJSFhLcHNwcG5hNnFmYW4zMG9tZnpZbGVoa21aSDE2R3c3a21GdWdXV1BNQnI1SW1VUV9rd2NlSlM3dUJl?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -138,13 +151,13 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "ТСН",
-      "title": "Економічний прогноз на липень: наскільки зростуть долар, зарплати, пенсії і куди \"котяться\" ціни на пальне - ТСН",
-      "excerpt": "Згадка у виданні ТСН",
-      "date": "1 липня 2026",
-      "dateTS": 1782888653.0,
+      "tagLabel": "Волинь 24 - новини Волині та Луцька",
+      "title": "Зарплати, пенсії, долар і ціни на пальне: що зміниться для українців з 1 липня - Волинь 24 - новини Волині та Луцька",
+      "excerpt": "Згадка у виданні Волинь 24 - новини Волині та Луцька",
+      "date": "30 червня 2026",
+      "dateTS": 1782808680.0,
       "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVkFfNEV4a2RxbUlXQ2hFQ2piU3gyaFRVd0lESWJVRmN2aGx1UGh5OTVzNTFTQXFpLW5HWkl3aGhaZVhaUVdYR3dHLUdlNGpqc2RZR3lOVnhyOGw4MG8yVEphSEpIbHBnUTFGMkpuekdOUnV5WnU1cEVGRzhCZkdTcUNQcFFmSmJEeEx1cTdTNm12YkhSZkxLTDZVdVVNQmFxaEJCMF9uX25yN01WYlNHclJrdzNtN1AtZjdoeG5nazVCWTVmN1hFaUpiSUl1S0RBNGtKRUV2cktaMW95V1RYMWh6OHJjTExySUlQVG9oUdIB9AFBVV95cUxQZkoycTRPWkJCdTRUVzZtTjdLS2ZaZEdTcFEtNl92dnR0T2VUbXR5YWpIOGZFOG9JS3Jyd3B4c1VISm1zYkxFRjdKdVJEUzl4TGRjU2lHSFE4LWc4cFJ0TUJKVlUyZTBvY3dfQ191SzBlNTl4Uk9JeDk3V3dFV2Frb0tYeWtwcFBCV29iVnZrYU54a1BLY3NzdU1FRkNuRFBubUs2NEVIV2RybWRYQy1ZaWh5UjhKeUphMU1SRG0xNXpXdWFxblVDRkFRZGVhUGlTX1ZtVkVLUU9HZGQxc1ZXaFhwVTJtc29EUkk0Tk9IbDQyQU1f?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUxjUkhXVnBKdW5IY0hWWGdrbFZldEd4Z0NsUlhKSEE4b3ZzaTNoTndSdkItbVN1bzJZRS1EZ2FOZTJvUnJPaGp2a01mYXo2b01ZNEZ5eW9UdGNMdjZUVDJJb3FMLThITjFBNWJKeGs0TUxCdFRPWWJPeUZZUUt4TndmWTZsVzJGcENfQ1UwNmRzeDFERWZxNE9venRFRjhtTjZ0Wld1b1VJMlNSRjI0?oc=5",
       "external": true,
       "featured": false
     },
@@ -197,19 +210,6 @@ const CONTENT = {
       "dateTS": 1780902000.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZXRNWmVYdGJzZThLQ3VXWERuczRkQjNlN1dGTDhuQWhnbXBlZGcxZzlQUWtYcjRWQWVxaXVONlNaSzhWQjJOVThPVGk5UW5Qd3IxejJkOGxGWjdQSzF2cHpWdTk5RmdFQ05UaGNvNVdqNHhCaGlIc1hXOHV3Qk5PRWdRbThKTXpI?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "MC.today",
-      "title": "Чого очікувати на ринку платіжних терміналів — думка про штрафи для EasyPay і City24 - MC.today",
-      "excerpt": "Згадка у виданні MC.today",
-      "date": "5 червня 2026",
-      "dateTS": 1780642800.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTZISzE1dlZDYWx4c0xCMnpYNDdKQm1sU0NuWkhxTWpITEcza2MxT1NjNGR2RWpYMG82ejFKaEsxXzZGR1puQ1o4b2NweFBoUTZYTFVUYTRJZmN6WW1qXzRENXJyTjN5dmVfTWNkS0RKdnVDRUF6Wkw5a1c2VFBqS3EzN2tOWmRBVEpCZURvb2tuY0N3UjhFcE5rOTRESnNqR1AycUVWMXp2Nkc2OXc?oc=5",
       "external": true,
       "featured": false
     }
