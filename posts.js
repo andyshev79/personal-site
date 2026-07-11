@@ -1,8 +1,60 @@
-// Автоматично оновлено: 2026-07-10 10:45 UTC
+// Автоматично оновлено: 2026-07-11 09:19 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Тільки сьогодні писав в коментарі по інфляції, що питання тарифу ще не визначено. А от ввечірі но...",
+      "excerpt": "",
+      "date": "10 липня 2026",
+      "dateTS": 1783702663.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/339",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Ціни імпорту у травні -0,9%м/м  Драйвером зниження стало паливо -11,2%м/м, що ми й відчули по цін...",
+      "excerpt": "",
+      "date": "10 липня 2026",
+      "dateTS": 1783689787.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/337",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Цифра дня: частка тисячогривневих купюр в обігу сягнула критичних 55%.",
+      "excerpt": "",
+      "date": "10 липня 2026",
+      "dateTS": 1783681829.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/336",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ІНФЛЯЦІЯ ЧЕРВЕНЬ: НЕСПОДІВАНА ДЕФЛЯЦІЯ (ДЛЯ МЕНЕ НЕСПОДІВАНА). ЛИПЕНЬ — ПРОДОВЖУЄМО, АЛЕ РИЗИКИ Н...",
+      "excerpt": "",
+      "date": "10 липня 2026",
+      "dateTS": 1783680845.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/335",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +66,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/334",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -54,61 +106,35 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/331",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Неочікувано дуже  офіційна інфляція в червні -0,1% (мої очікування були +0,4%м/м) деталі згодом",
-      "excerpt": "",
-      "date": "9 липня 2026",
-      "dateTS": 1783601675.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/330",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Митниця - оперативні дані по зовнішній торгівлі товарами за червень та 6міс2026 (на картинці лише...",
-      "excerpt": "",
-      "date": "9 липня 2026",
-      "dateTS": 1783601285.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/329",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Поясню про цифры. ( для гуманитариев ) 😁  2 июля Генштаб заявил что выбито 42,74% установленных м...",
-      "excerpt": "",
-      "date": "8 липня 2026",
-      "dateTS": 1783527437.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/328",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Мінфін напередодні залучив найбільший об'єм коштів на внутрішньому ринку - 19,05 млрд грн.  Це ма...",
-      "excerpt": "",
-      "date": "8 липня 2026",
-      "dateTS": 1783519710.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/326",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "my.ua",
+      "title": "Нова банкнота 2000 грн: що насправді означає поява купюри найбільшого номіналу для економіки України - my.ua",
+      "excerpt": "Згадка у виданні my.ua",
+      "date": "10 липня 2026",
+      "dateTS": 1783694182.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWml1bnhKVnlldTMtSFAtbjNyQldrSEphS3FTdkZjNWNJRnhibUpOLXNLcmw5V1FnaW9odTNsY0hHZWNXQkpqdW90RWktQ3JPSEtteWZIZ1FDdkZBbVphZUNJMWV1ZE5IOGlsLUl6SjZVR0FIRjVYVGFMclBYYS16QmJfRFBfYjZhazE5RUwtdk5IYTUwZW9OSDJKM0VkSGN1eWhSY1ZQSmhuN21ybGNmYXNlRkR2OEJSU1R1WlRuSDROei1HS2UxZ25IT1hmN0pZeFFsbnAtSm9tRG1zLUZQdzczUdIB5AFBVV95cUxNN2dPYTZjbGh5Z1pxci1VUUZKcVM5eFAtSFI3cWRMaHJzemNHcFNTRTgxSXZzUWpocW8tMHd1cFFIN3ItcnpULUdZcWkwQ3ROQTg0cFZTa1Q2RVNieHlJOGU0WW1XMXhyZ0w5QTE3eWY2VXpNSE5XSkZheWdPc0VNU3NDRnhyZDUyR1B0aEduMWNLN2UxSkZzTHhrVjhCeW9wNGpZdV9MSHpGeDFFZFkyTnBiU08wcG84SW5HUVlDeWRrOEpEU1hreWlsd3hIcEpuNjB0aUxSc0ltemUzX3FFYUZ0OG0?oc=5",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Мінфін",
+      "title": "Інфляція у червні несподівано впала до 7,2%, але липень може це змінити — Андрій Шевчишин - Мінфін",
+      "excerpt": "Згадка у виданні Мінфін",
+      "date": "10 липня 2026",
+      "dateTS": 1783685400.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85T0F5RXFBS1B1eEpoeWFCTzQ0MG1sSkxBV2N6MFBpR0E2MjE3VlcwSXVUbjdGM0lZS1N0Qmd1LU1tWXE5b3BRZjI3a1JUUTlaR0RGcXhfUVNPdw?oc=5",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "news",
       "tag": "news",
@@ -120,7 +146,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ0x1Ty1NZEw0U1RlcElzWEV6WGx2c1BCOHA1RmxIQjRjaWpncmlCMl9vczQ0bkNIcGxpRFAyakpJampvbDVZeThLNTJuZWcwXzdyVDZzXzhKRzRWSmc5NWZvNWlTNzN1b1ZxZXV6Njl3djl5VWl0NnRrRE50SUZHY3Rrc0JDZVd5YkNUTDNpdGc5VDdtRXpIM2gxRTFYY3BCR2g3NnhJVXRPX01wVTdtMmZaZlhvQzJk0gG4AUFVX3lxTFBnTHVPLU1kTDRTVGVwSXNYRXpYbHZzUEI4cDVGbEhCNGNpamdyaUIyX29zNDRuQ0hwbGlEUDJqSklqam9sNVl5OEs1Mm5lZzBfN3JUNnNfOEpHNFZKZzk1Zm81aVM3M3VvVnFldXo2OXd2OXlVaXQ2dGtETnRJRkdjdGtzQkNlV3liQ1RMM2l0ZzlUN21FekgzaDFFMVhjcEJHaDc2eElVdE9fTXBVN20yZlpmWG9DMmQ?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -142,7 +168,7 @@ const CONTENT = {
       "title": "Курс валют в Україні: експерт ошелешив прогнозом, скільки може коштувати долар - ТСН",
       "excerpt": "Згадка у виданні ТСН",
       "date": "2 липня 2026",
-      "dateTS": 1782991971.0,
+      "dateTS": 1782975600.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYmcwU09NWEJzYi14Nkl6dzMyazJwbjlDdk1RTmJhdTJuVkJ2WXpWVy1uWWR3dWNEcEFmbF9ub3ctbXh6YXVHVzhZSDFBSzdrNm1uUVpLUC1ZQkJUczhPVDRiTDBkNUxESnYxRk1GU3JhRmh3SVZvaXRDMGF1enJsNVRJVDRTemFxbF91QmJleUVLTEpWVkpYR1RsS0VuTXdScVJjQmZCNlhsZTR2N2JKT1cxZkFMS2ZDSlHSAb8BQVVfeXFMUE1Pc3dlMjZhTlU3WkExaFdSUWRBQ2hPanBwaXZBNGx2aVgxTzVCSE5NYXg4WDVGNnBDNFlHdjlwM1NlSHBjeHhRbm9SUk1uWlhNNDQycW5razlxOUpXZ1U3WDVMem95SkdybVNwRjNDVlFvSTNrZWNHZzItSklfbFRPSjQyeU9QVFZzbGwzUXQyREhfcWJudURvVFV0WF9iN3lkY0x6dzliRnNSQWxfUWVaeENka2NDTDRSTi1TUjA?oc=5",
       "external": true,
@@ -184,32 +210,6 @@ const CONTENT = {
       "dateTS": 1781506800.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLUhBbjVXZm95VnVNM3JuYVhOcE42d0p2SkhwRG9FWk1VenhELTBka2ZzMjZEeTlWVkl0XzJEbmU1OFRUYWdOS2k4UGlxdERDUGo2anlqUl9sSlE2VzBfVV9OTmQxSkxoZjRFNklYNUxVMWlTMjByZnJVaTlIWWlOTmY3Y0duLTlPYzhBcVNZclRrRzBUdjBWMU90d3BZdEx5STlwRjZwTHFsdGd1eExPRVJtVUdfMUhE0gG-AUFVX3lxTFB5SkZBVkVpZTBJaTVaeGJneFdEYUp4NUpReXJERFpReU1mQXozZTZ6V0xVenBUT2dpcUduZHo4V04tR2djQVE4QXVjYkEyNHNEYzA3NkpvbWZHTzhNaW1ZMHNTT2FVczMtM1pyUnBoX2FkRFdkdGk5SWVVTG51Q3d1UUtUaWVURk9Vcms1aDRvSlVybWVSaVN3VUhZQUFNSjJPcF94ZUt0N001SmVIendLQ25JbEZsRkg1dFlWUmc?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "Фінанси 24",
-      "title": "Біткойн втратив половину вартості: чому головна криптовалюта падає та чого чекати далі - Фінанси 24",
-      "excerpt": "Згадка у виданні Фінанси 24",
-      "date": "13 червня 2026",
-      "dateTS": 1781334000.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0xYMm1DMnBXay13SWcwM3luYmhGenN2Nm1hM0tSa0xxejd5dVNfR2lwRVU1bWRBT1lBRnVWNDJuWmhWQW4xdWFFUHJQNzA5cVo2b1RZOEtOV3dkRnlZdWFPRzBncy14enByZk5uVzJmRExTNU52ZHQ0RkJ4em41aUl4cXM2aWlLSzNiLWF5TTNTME9mNTlDVDFEXzM0amvSAaQBQVVfeXFMTjh2T0JKM2VGVnpzUGI5dEVCOHNKa21mYUVudGo3SnB5eEZsLUNqT0JtMWxFTFVKNm03UHA0WUh6dHhfSFRSWVdpYUFrTVp2cUdCWDRaemNLNkk3WEdHTFZQeDBJbHFXQW5NVEZQNDdPamh6aVpuX0JtSEU2RGdRTTVmTHZhREdfa2VWUENKV2ZHMmd3enBvZzBqelVaNGRlUzZCbXI?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "Delo.ua",
-      "title": "Долар б’є рекорди: чи здатен НБУ втримати курс гривні - Delo.ua",
-      "excerpt": "Згадка у виданні Delo.ua",
-      "date": "8 червня 2026",
-      "dateTS": 1780902000.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZXRNWmVYdGJzZThLQ3VXWERuczRkQjNlN1dGTDhuQWhnbXBlZGcxZzlQUWtYcjRWQWVxaXVONlNaSzhWQjJOVThPVGk5UW5Qd3IxejJkOGxGWjdQSzF2cHpWdTk5RmdFQ05UaGNvNVdqNHhCaGlIc1hXOHV3Qk5PRWdRbThKTXpI?oc=5",
       "external": true,
       "featured": false
     }
