@@ -1,8 +1,73 @@
-// Автоматично оновлено: 2026-07-11 09:19 UTC
+// Автоматично оновлено: 2026-07-12 09:44 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Тижневий огляд валютного ринку України вже на каналі https://youtu.be/UADE6-VOSfg  Для візуалів т...",
+      "excerpt": "",
+      "date": "12 липня 2026",
+      "dateTS": 1783843798.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/346",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: НБУ ПОКАЗАВ ДІАПАЗОН КОЛИВАНЬ КУРСУ НА НАЙБЛИЖЧИЙ ЧАС. (ч...",
+      "excerpt": "",
+      "date": "11 липня 2026",
+      "dateTS": 1783784588.0,
+      "readTime": "3 хв",
+      "url": "https://t.me/shevchyshyn_trends/345",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: НБУ ПОКАЗАВ ДІАПАЗОН КОЛИВАНЬ КУРСУ НА НАЙБЛИЖЧИЙ ЧАС. (ч...",
+      "excerpt": "",
+      "date": "11 липня 2026",
+      "dateTS": 1783784410.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/344",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: НБУ ПОКАЗАВ ДІАПАЗОН КОЛИВАНЬ КУРСУ НА НАЙБЛИЖЧИЙ ЧАС. (ч...",
+      "excerpt": "",
+      "date": "11 липня 2026",
+      "dateTS": 1783784309.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/341",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: НБУ ПОКАЗАВ ДІАПАЗОН КОЛИВАНЬ КУРСУ НА НАЙБЛИЖЧИЙ ЧАС. (ч...",
+      "excerpt": "",
+      "date": "11 липня 2026",
+      "dateTS": 1783784167.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/340",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +79,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/339",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -41,87 +106,9 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/336",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ІНФЛЯЦІЯ ЧЕРВЕНЬ: НЕСПОДІВАНА ДЕФЛЯЦІЯ (ДЛЯ МЕНЕ НЕСПОДІВАНА). ЛИПЕНЬ — ПРОДОВЖУЄМО, АЛЕ РИЗИКИ Н...",
-      "excerpt": "",
-      "date": "10 липня 2026",
-      "dateTS": 1783680845.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/335",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Купюра 2000 грн - це відображення реальної інфляції й потреби в більших купюрах.  Копійки виводят...",
-      "excerpt": "",
-      "date": "10 липня 2026",
-      "dateTS": 1783678763.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/334",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "❗️В шести регионах РФ не осталось ни одной заправки, где есть бензин  Это следует из данных серви...",
-      "excerpt": "",
-      "date": "10 липня 2026",
-      "dateTS": 1783671654.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/333",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "🇺🇦Металургійні підприємства України за підсумками січня–червня 2026 року скоротили виробництво то...",
-      "excerpt": "",
-      "date": "9 липня 2026",
-      "dateTS": 1783618645.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/332",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Будівництво ссуко тормозить ((  Але... є нестача кадрів, проблеми в прифронтових зонах, та значна...",
-      "excerpt": "",
-      "date": "9 липня 2026",
-      "dateTS": 1783611812.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/331",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "my.ua",
-      "title": "Нова банкнота 2000 грн: що насправді означає поява купюри найбільшого номіналу для економіки України - my.ua",
-      "excerpt": "Згадка у виданні my.ua",
-      "date": "10 липня 2026",
-      "dateTS": 1783694182.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWml1bnhKVnlldTMtSFAtbjNyQldrSEphS3FTdkZjNWNJRnhibUpOLXNLcmw5V1FnaW9odTNsY0hHZWNXQkpqdW90RWktQ3JPSEtteWZIZ1FDdkZBbVphZUNJMWV1ZE5IOGlsLUl6SjZVR0FIRjVYVGFMclBYYS16QmJfRFBfYjZhazE5RUwtdk5IYTUwZW9OSDJKM0VkSGN1eWhSY1ZQSmhuN21ybGNmYXNlRkR2OEJSU1R1WlRuSDROei1HS2UxZ25IT1hmN0pZeFFsbnAtSm9tRG1zLUZQdzczUdIB5AFBVV95cUxNN2dPYTZjbGh5Z1pxci1VUUZKcVM5eFAtSFI3cWRMaHJzemNHcFNTRTgxSXZzUWpocW8tMHd1cFFIN3ItcnpULUdZcWkwQ3ROQTg0cFZTa1Q2RVNieHlJOGU0WW1XMXhyZ0w5QTE3eWY2VXpNSE5XSkZheWdPc0VNU3NDRnhyZDUyR1B0aEduMWNLN2UxSkZzTHhrVjhCeW9wNGpZdV9MSHpGeDFFZFkyTnBiU08wcG84SW5HUVlDeWRrOEpEU1hreWlsd3hIcEpuNjB0aUxSc0ltemUzX3FFYUZ0OG0?oc=5",
-      "external": true,
-      "featured": true
-    },
     {
       "source": "news",
       "tag": "news",
@@ -131,35 +118,9 @@ const CONTENT = {
       "date": "10 липня 2026",
       "dateTS": 1783685400.0,
       "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85T0F5RXFBS1B1eEpoeWFCTzQ0MG1sSkxBV2N6MFBpR0E2MjE3VlcwSXVUbjdGM0lZS1N0Qmd1LU1tWXE5b3BRZjI3a1JUUTlaR0RGcXhfUVNPdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sRXZhLWstUzN3cWlwQWgwOURUbXc4Q0NmZnJVV1JzX2pvNjBvQlBSNVk4TjBJWlV4VjNEQWJsU29JVENwSzd6Z1FscG5kcDltRW1oenVqYWJPbXZsNHk4?oc=5",
       "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "focus.ua",
-      "title": "Це історичний рекорд: митниця показала, звідки Україна найбільше завозить техніку і транспорт - focus.ua",
-      "excerpt": "Згадка у виданні focus.ua",
-      "date": "9 липня 2026",
-      "dateTS": 1783603325.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ0x1Ty1NZEw0U1RlcElzWEV6WGx2c1BCOHA1RmxIQjRjaWpncmlCMl9vczQ0bkNIcGxpRFAyakpJampvbDVZeThLNTJuZWcwXzdyVDZzXzhKRzRWSmc5NWZvNWlTNzN1b1ZxZXV6Njl3djl5VWl0NnRrRE50SUZHY3Rrc0JDZVd5YkNUTDNpdGc5VDdtRXpIM2gxRTFYY3BCR2g3NnhJVXRPX01wVTdtMmZaZlhvQzJk0gG4AUFVX3lxTFBnTHVPLU1kTDRTVGVwSXNYRXpYbHZzUEI4cDVGbEhCNGNpamdyaUIyX29zNDRuQ0hwbGlEUDJqSklqam9sNVl5OEs1Mm5lZzBfN3JUNnNfOEpHNFZKZzk1Zm81aVM3M3VvVnFldXo2OXd2OXlVaXQ2dGtETnRJRkdjdGtzQkNlV3liQ1RMM2l0ZzlUN21FekgzaDFFMVhjcEJHaDc2eElVdE9fTXBVN20yZlpmWG9DMmQ?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "UKR.NET",
-      "title": "Попит на євро серед українців побив історичний рекорд - UKR.NET",
-      "excerpt": "Згадка у виданні UKR.NET",
-      "date": "7 липня 2026",
-      "dateTS": 1783450266.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3S0o4UDdYUlNDSTUzVDR5NkIzbTV3T3RaY1ZkbE1QbkdiYzNJSFhLcHNwcG5hNnFmYW4zMG9tZnpZbGVoa21aSDE2R3c3a21GdWdXV1BNQnI1SW1VUV9rd2NlSlM3dUJl?oc=5",
-      "external": true,
-      "featured": false
+      "featured": true
     },
     {
       "source": "news",
@@ -177,13 +138,13 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "Волинь 24 - новини Волині та Луцька",
-      "title": "Зарплати, пенсії, долар і ціни на пальне: що зміниться для українців з 1 липня - Волинь 24 - новини Волині та Луцька",
-      "excerpt": "Згадка у виданні Волинь 24 - новини Волині та Луцька",
-      "date": "30 червня 2026",
-      "dateTS": 1782808680.0,
+      "tagLabel": "focus.ua",
+      "title": "Долар може піти до 47 грн: експерт оцінив перспективи гривні - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "22 червня 2026",
+      "dateTS": 1782111600.0,
       "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUxjUkhXVnBKdW5IY0hWWGdrbFZldEd4Z0NsUlhKSEE4b3ZzaTNoTndSdkItbVN1bzJZRS1EZ2FOZTJvUnJPaGp2a01mYXo2b01ZNEZ5eW9UdGNMdjZUVDJJb3FMLThITjFBNWJKeGs0TUxCdFRPWWJPeUZZUUt4TndmWTZsVzJGcENfQ1UwNmRzeDFERWZxNE9venRFRjhtTjZ0Wld1b1VJMlNSRjI0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM1ZXZ1R4SmR5b2NvcnBPLS1BMGlnVnB6dDJraHhhek4wX1BkZC1hLXVESEtQOHZBNW9xWlVQdUdHUGRLS0RxbGVwb2FPRG5ITllGajE5UHJhcGM1dkgza3h4WTlCNEJURGRnUkdDdkQwZ1VZOFdNSUx2SWo5cnNxeWJDOVBVMExzMUpPTTFoR3FtbTY0RU1wb2ttdldHcWwtTkdXN09aTTQtaTBadUhFMVI5UFo5SXBVRHg0VERB0gHDAUFVX3lxTE8xOWNlQUM4RkJDQ2hVWl9obE9hUFprWWVBYVBwbkQ4a3h2a195by1NX0RPVWkzbzhaeGVYRV9Lc1ZhaU04bU5YbXNjT1JCcHA4ZG9ObFhkUmE2YnNYUUFOb2NMU3NNQ2dDR0V0X2N4ZFByVjZPMWxfaERhVGt4a25uckI2UnhJSE96TkRBdkE0eEoydEp2TzgxZnV2NXB6X0lUZWdPc2didzVuSGswdEZOcWw1YnJxMzJLQUhzN2RsSzJaVQ?oc=5",
       "external": true,
       "featured": false
     },
@@ -212,9 +173,61 @@ const CONTENT = {
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLUhBbjVXZm95VnVNM3JuYVhOcE42d0p2SkhwRG9FWk1VenhELTBka2ZzMjZEeTlWVkl0XzJEbmU1OFRUYWdOS2k4UGlxdERDUGo2anlqUl9sSlE2VzBfVV9OTmQxSkxoZjRFNklYNUxVMWlTMjByZnJVaTlIWWlOTmY3Y0duLTlPYzhBcVNZclRrRzBUdjBWMU90d3BZdEx5STlwRjZwTHFsdGd1eExPRVJtVUdfMUhE0gG-AUFVX3lxTFB5SkZBVkVpZTBJaTVaeGJneFdEYUp4NUpReXJERFpReU1mQXozZTZ6V0xVenBUT2dpcUduZHo4V04tR2djQVE4QXVjYkEyNHNEYzA3NkpvbWZHTzhNaW1ZMHNTT2FVczMtM1pyUnBoX2FkRFdkdGk5SWVVTG51Q3d1UUtUaWVURk9Vcms1aDRvSlVybWVSaVN3VUhZQUFNSjJPcF94ZUt0N001SmVIendLQ25JbEZsRkg1dFlWUmc?oc=5",
       "external": true,
       "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Фінанси 24",
+      "title": "Біткойн втратив половину вартості: чому головна криптовалюта падає та чого чекати далі - Фінанси 24",
+      "excerpt": "Згадка у виданні Фінанси 24",
+      "date": "13 червня 2026",
+      "dateTS": 1781334000.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0xYMm1DMnBXay13SWcwM3luYmhGenN2Nm1hM0tSa0xxejd5dVNfR2lwRVU1bWRBT1lBRnVWNDJuWmhWQW4xdWFFUHJQNzA5cVo2b1RZOEtOV3dkRnlZdWFPRzBncy14enByZk5uVzJmRExTNU52ZHQ0RkJ4em41aUl4cXM2aWlLSzNiLWF5TTNTME9mNTlDVDFEXzM0amvSAaQBQVVfeXFMTjh2T0JKM2VGVnpzUGI5dEVCOHNKa21mYUVudGo3SnB5eEZsLUNqT0JtMWxFTFVKNm03UHA0WUh6dHhfSFRSWVdpYUFrTVp2cUdCWDRaemNLNkk3WEdHTFZQeDBJbHFXQW5NVEZQNDdPamh6aVpuX0JtSEU2RGdRTTVmTHZhREdfa2VWUENKV2ZHMmd3enBvZzBqelVaNGRlUzZCbXI?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Obozrevatel",
+      "title": "Як угода Трампа з Іраном змінить ситуацію з курсом євро й навіть гривні - Obozrevatel",
+      "excerpt": "Згадка у виданні Obozrevatel",
+      "date": "12 червня 2026",
+      "dateTS": 1781247600.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV0F5a1IyN3phX3gxZTFaNXc2SDVBSE1YdUtIdTdQOFFOemxObWZ0M2ZzZ2daQjF2UnVFbWpwbUgtQTBaemZHR2dmZVhYTS1lVWNCNEhyTHI0aUVwYkZwbDhIYWZ5LW9XYmRwMkNRRjV2bzYyWFV3M0d0QWZRZm1aWldleHBkRFN4Vnh6UGF1QjgxNTE4NTFpbC1qVGMwdG9mRUhJWmFqSmV1RHdaQ1lFMU9PZGt6MnRKNEpTVzNJcVJvRUF2WkHSAcsBQVVfeXFMTURXUjVST1FQbWZlaFFqaUhfeWNMZkx5cHVTLURZS2VDbEs2RF9DYmpJcjgxZUlHWlA3VGFUXzd6NW1TdzI4b2NNS19YZjVYV3lLdTF4c2VUNGV2Y2VxTU9oZjVOc0Z3N3FjMmVTMlZMUGFnTWFoVzhwbzVrRVBkQlAwM00wN3hPVzZqWnNYRlAtbUotaWFCTGktZmhPdXIyN2JIM004WVNNZkFPdHhDR1dycXhDYmhLbUhfY3JNMWpVSmhfWDdfYjZZa1k?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "MC.today",
+      "title": "Чого очікувати на ринку платіжних терміналів — думка про штрафи для EasyPay і City24 - MC.today",
+      "excerpt": "Згадка у виданні MC.today",
+      "date": "5 червня 2026",
+      "dateTS": 1780642800.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTZISzE1dlZDYWx4c0xCMnpYNDdKQm1sU0NuWkhxTWpITEcza2MxT1NjNGR2RWpYMG82ejFKaEsxXzZGR1puQ1o4b2NweFBoUTZYTFVUYTRJZmN6WW1qXzRENXJyTjN5dmVfTWNkS0RKdnVDRUF6Wkw5a1c2VFBqS3EzN2tOWmRBVEpCZURvb2tuY0N3UjhFcE5rOTRESnNqR1AycUVWMXp2Nkc2OXc?oc=5",
+      "external": true,
+      "featured": false
     }
   ],
   "youtube": [
+    {
+      "source": "youtube",
+      "tag": "youtube",
+      "tagLabel": "YouTube",
+      "title": "НБУ ПОКАЗАВ ДІАПАЗОН КОЛИВАНЬ КУРСУ НА НАЙБЛИЖЧИЙ ЧАС",
+      "excerpt": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ\n\n00:38 Що відбулось на тижні 6-10 липня 2026\n02:37 Баланс ринку\n05:40 На що звернув увагу на тижні\n09:45 Очікування на 13-19 липня\n10:57 За чим слідкуємо на тижн",
+      "date": "11 липня 2026",
+      "dateTS": 1783800069.0,
+      "readTime": "відео",
+      "url": "https://www.youtube.com/watch?v=UADE6-VOSfg",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "youtube",
       "tag": "youtube",
@@ -226,7 +239,7 @@ const CONTENT = {
       "readTime": "відео",
       "url": "https://www.youtube.com/watch?v=a1mVO9GBCd0",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "youtube",
@@ -303,19 +316,6 @@ const CONTENT = {
       "dateTS": 1779543917.0,
       "readTime": "відео",
       "url": "https://www.youtube.com/watch?v=NmzJtCKbqo0",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "youtube",
-      "tag": "youtube",
-      "tagLabel": "YouTube",
-      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ ЗА ТИЖДЕНЬ: АКТИВНІСТЬ РИНКУ Й ДЕФІЦИТ ВАЛЮТИ ПАДАЄ, ДОЛАР НА ХВИЛІ",
-      "excerpt": "ВАЛЮТНИЙ РИНОК УКРАЇНИ ЗА ТИЖДЕНЬ: АКТИВНІСТЬ РИНКУ Й ДЕФІЦИТ ВАЛЮТИ ПАДАЄ, ДОЛАР НА ХВИЛІ\n\nЯк й очікувалось, валютний ринок України провів тиждень у відносно спокійному русі. Незважаючи на внутрішні",
-      "date": "16 травня 2026",
-      "dateTS": 1778951517.0,
-      "readTime": "відео",
-      "url": "https://www.youtube.com/watch?v=zTeqoKqZiTo",
       "external": true,
       "featured": false
     }
