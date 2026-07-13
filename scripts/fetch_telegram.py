@@ -19,7 +19,8 @@ import xml.etree.ElementTree as ET
 TELEGRAM_CHANNEL  = "shevchyshyn_trends"
 YOUTUBE_HANDLE    = "ShevchishinAndrey"
 GOOGLE_NEWS_QUERY = "шевчишин андрій"
-MAX_ITEMS         = 8   # максимум постів з кожного джерела
+MAX_FETCH         = 8   # скільки беремо за один запит
+MAX_STORED        = 100  # скільки зберігаємо на джерело (ротація)
 
 POSTS_JS = os.path.join(os.path.dirname(__file__), "..", "posts.js")
 
@@ -118,7 +119,7 @@ def fetch_telegram():
         })
 
     posts.sort(key=lambda p: p["dateTS"], reverse=True)
-    posts = posts[:MAX_ITEMS]
+    posts = posts[:MAX_FETCH]
     print(f"  Found {len(posts)} posts")
     return posts
 
@@ -173,7 +174,7 @@ def fetch_google_news():
         })
 
     posts.sort(key=lambda p: p["dateTS"], reverse=True)
-    posts = posts[:MAX_ITEMS]
+    posts = posts[:MAX_FETCH]
     print(f"  Found {len(posts)} articles")
     return posts
 
@@ -260,9 +261,38 @@ def fetch_youtube():
         })
 
     posts.sort(key=lambda p: p["dateTS"], reverse=True)
-    posts = posts[:MAX_ITEMS]
+    posts = posts[:MAX_FETCH]
     print(f"  Found {len(posts)} videos")
     return posts
+
+
+# ── Злиття з архівом ─────────────────────────────────────────────────────────
+def load_existing():
+    """Читає поточний posts.js і повертає словник {source: [posts]}"""
+    empty = {"telegram": [], "news": [], "youtube": []}
+    try:
+        with open(POSTS_JS, encoding="utf-8") as f:
+            text = f.read()
+        # Шукаємо JSON-блок між першим { і останнім }
+        m = re.search(r'const CONTENT\s*=\s*(\{.*\});', text, re.DOTALL)
+        if not m:
+            return empty
+        return json.loads(m.group(1))
+    except Exception:
+        return empty
+
+
+def merge(new_posts, old_posts):
+    """Додає нові пости до старих, дедуплікує по URL, зберігає MAX_STORED"""
+    seen = set()
+    merged = []
+    for p in new_posts + old_posts:
+        url = p.get("url", "")
+        if url and url not in seen:
+            seen.add(url)
+            merged.append(p)
+    merged.sort(key=lambda p: p.get("dateTS", 0), reverse=True)
+    return merged[:MAX_STORED]
 
 
 # ── Генерація posts.js ────────────────────────────────────────────────────────
@@ -331,20 +361,26 @@ document.addEventListener("DOMContentLoaded", () => {{
 
 
 def main():
-    telegram = fetch_telegram()
-    news     = fetch_google_news()
-    youtube  = fetch_youtube()
+    new_tg   = fetch_telegram()
+    new_news = fetch_google_news()
+    new_yt   = fetch_youtube()
 
-    total = len(telegram) + len(news) + len(youtube)
-    if total == 0:
-        print("\nNo content found — keeping existing posts.js")
+    total_new = len(new_tg) + len(new_news) + len(new_yt)
+    if total_new == 0:
+        print("\nNo new content — keeping existing posts.js")
         return
+
+    existing = load_existing()
+
+    telegram = merge(new_tg,   existing.get("telegram", []))
+    news     = merge(new_news, existing.get("news",     []))
+    youtube  = merge(new_yt,   existing.get("youtube",  []))
 
     js = build_posts_js(telegram, news, youtube)
     with open(POSTS_JS, "w", encoding="utf-8") as f:
         f.write(js)
 
-    print(f"\n✓ posts.js updated: {len(telegram)} TG + {len(news)} news + {len(youtube)} YT")
+    print(f"\n✓ posts.js updated: {len(telegram)} TG + {len(news)} news + {len(youtube)} YT (max {MAX_STORED} each)")
 
 
 if __name__ == "__main__":
