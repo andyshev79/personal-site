@@ -377,6 +377,96 @@ body {
   background: var(--muted2);
 }
 
+/* ───── NAV SIMULATOR LINK ───── */
+.nav-simulator {
+  display: inline-flex; align-items: center; gap: 5px;
+  background: rgba(245,158,11,0.1) !important;
+  border: 1px solid rgba(245,158,11,0.3);
+  border-radius: 6px; color: var(--gold) !important;
+  padding: 5px 12px !important;
+  transition: all 0.2s;
+}
+.nav-simulator:hover {
+  background: rgba(245,158,11,0.18) !important;
+  border-color: var(--gold); color: var(--gold) !important;
+}
+
+/* ───── SIMULATOR BANNER ───── */
+.simulator-section { padding: 0 0 96px; }
+.simulator-banner {
+  display: grid; grid-template-columns: 1fr 1fr;
+  gap: 64px; align-items: center;
+  background: var(--bg2); border: 1px solid var(--border2);
+  border-radius: 20px; padding: 52px;
+  position: relative; overflow: hidden;
+}
+.simulator-banner::before {
+  content: '';
+  position: absolute; top: 0; left: 0; right: 0; height: 2px;
+  background: linear-gradient(90deg, var(--gold), transparent);
+}
+.sim-left h2 {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 36px; font-weight: 700;
+  letter-spacing: -1.5px; line-height: 1.1; margin-bottom: 16px;
+}
+.sim-left p { color: var(--muted); font-size: 15px; line-height: 1.7; margin-bottom: 24px; }
+.sim-features { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 28px; }
+.sim-feat {
+  background: var(--bg3, #1A1A1A); border: 1px solid var(--border2);
+  border-radius: 6px; padding: 5px 12px;
+  font-size: 13px; color: var(--muted); font-weight: 500;
+}
+.sim-cta { font-size: 15px; }
+
+/* Fake simulator preview */
+.sim-right { display: flex; justify-content: center; }
+.sim-preview {
+  width: 100%; max-width: 340px;
+  border-radius: 12px; overflow: hidden;
+  border: 1px solid var(--border2);
+  box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+}
+.sim-bar {
+  display: flex; align-items: center; gap: 6px;
+  background: #1A1A1A; padding: 10px 14px;
+  border-bottom: 1px solid var(--border);
+}
+.sim-dot { width: 10px; height: 10px; border-radius: 50%; }
+.sim-url { font-size: 11px; color: var(--muted); margin-left: 8px; font-family: monospace; }
+.sim-content { background: #111; padding: 20px; }
+.sim-event-label {
+  font-size: 10px; font-weight: 700; letter-spacing: 1px;
+  color: var(--gold); text-transform: uppercase; margin-bottom: 8px;
+}
+.sim-event-title {
+  font-size: 13px; font-weight: 600; line-height: 1.4;
+  color: var(--text); margin-bottom: 16px;
+}
+.sim-instruments { display: flex; flex-direction: column; gap: 6px; margin-bottom: 16px; }
+.sim-inst {
+  display: flex; justify-content: space-between; align-items: center;
+  background: #1A1A1A; border-radius: 6px; padding: 6px 10px;
+  font-size: 12px; color: var(--muted);
+}
+.sim-val { font-weight: 600; font-family: monospace; }
+.sim-val.down { color: #EF4444; }
+.sim-val.up { color: #10B981; }
+.sim-btns { display: flex; gap: 6px; }
+.sim-btn {
+  flex: 1; text-align: center; padding: 8px;
+  border-radius: 6px; font-size: 12px; font-weight: 700;
+  cursor: pointer;
+}
+.sim-btn.buy { background: rgba(16,185,129,0.15); color: #10B981; border: 1px solid rgba(16,185,129,0.3); }
+.sim-btn.sell { background: rgba(239,68,68,0.15); color: #EF4444; border: 1px solid rgba(239,68,68,0.3); }
+.sim-btn.skip { background: var(--bg3, #1A1A1A); color: var(--muted); border: 1px solid var(--border2); }
+
+@media (max-width: 900px) {
+  .simulator-banner { grid-template-columns: 1fr; gap: 40px; padding: 32px; }
+  .sim-right { display: none; }
+}
+
 /* ───── CONTACTS ───── */
 .contacts-section {
   padding: 96px 0;

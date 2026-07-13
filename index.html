@@ -3,8 +3,10 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Андрій Шевчишин — Аналітик & Продакт-менеджер & </title>
+<title>Андрій Шевчишин — Фінансовий аналітик</title>
 <meta name="description" content="Персональний сайт Андрія Шевчишина — фінансовий аналітик, трейдер, контент-мейкер, продакт-менеджер">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="alternate icon" href="favicon.ico">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
@@ -19,6 +21,10 @@
     <div class="nav-links">
       <a href="#about">Про мене</a>
       <a href="#blog">Блог</a>
+      <a href="simulator.html" class="nav-simulator">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+        Симулятор
+      </a>
       <a href="#contacts">Контакти</a>
     </div>
     <button class="nav-burger" id="burger">
@@ -173,6 +179,61 @@
       </button>
     </div>
     <div class="posts-grid" id="posts-container"></div>
+  </div>
+</section>
+
+<!-- SIMULATOR BANNER -->
+<section class="simulator-section">
+  <div class="container">
+    <div class="simulator-banner">
+      <div class="sim-left">
+        <div class="section-label">Інструмент</div>
+        <h2>Симулятор трейдингу</h2>
+        <p>Торгуй на реальних макро-подіях 2008–2025 з Gold, Brent, Nasdaq, EUR/USD та Bitcoin — без ризику, з повним розбором кожного рішення.</p>
+        <div class="sim-features">
+          <span class="sim-feat">📰 99 реальних подій</span>
+          <span class="sim-feat">📊 5 інструментів</span>
+          <span class="sim-feat">🎓 Режим PRO</span>
+          <span class="sim-feat">🆓 Безкоштовно</span>
+        </div>
+        <a href="simulator.html" class="btn-primary sim-cta">Спробувати симулятор</a>
+      </div>
+      <div class="sim-right">
+        <div class="sim-preview">
+          <div class="sim-screen">
+            <div class="sim-bar">
+              <span class="sim-dot" style="background:#EF4444"></span>
+              <span class="sim-dot" style="background:#F59E0B"></span>
+              <span class="sim-dot" style="background:#10B981"></span>
+              <span class="sim-url">macro-news-trading-simulator.vercel.app</span>
+            </div>
+            <div class="sim-content">
+              <div class="sim-event-label">ПОДІЯ #42 · ФРС</div>
+              <div class="sim-event-title">ФРС підвищує ставку на 75 б.п. — максимум з 1994 року</div>
+              <div class="sim-instruments">
+                <div class="sim-inst">
+                  <span>Gold</span>
+                  <span class="sim-val down">−1.8%</span>
+                </div>
+                <div class="sim-inst">
+                  <span>Nasdaq</span>
+                  <span class="sim-val down">−3.2%</span>
+                </div>
+                <div class="sim-inst">
+                  <span>EUR/USD</span>
+                  <span class="sim-val down">−0.9%</span>
+                </div>
+              </div>
+              <div class="sim-btns">
+                <div class="sim-btn buy">Buy</div>
+                <div class="sim-btn skip">Skip</div>
+                <div class="sim-btn sell">Sell</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
 
