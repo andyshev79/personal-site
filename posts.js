@@ -1,4 +1,4 @@
-// Автоматично оновлено: 2026-07-13 09:11 UTC
+// Автоматично оновлено: 2026-07-13 10:51 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
@@ -181,7 +181,7 @@ const CONTENT = {
       "title": "НБУ почав не лише продавати, а й купувати валюту: що буде з курсом долара - focus.ua",
       "excerpt": "Згадка у виданні focus.ua",
       "date": "13 липня 2026",
-      "dateTS": 1783930963.0,
+      "dateTS": 1783935824.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcGx1OVBValhjNzZrYWRpS0k3ZmdzSi1reHl6ZmVUTWhzTnZmSThTcmRLTTRQWFBzRXY5bzlvWkNNejNIVmlQVTZnNlhxWi1tWFlZNWFUNWtSREJBUEpzUmtJSWw5cEx2LWlkZ3M1SVM2dWdaRllsUFNhZ2d4T2VKaFNfRm5xNHkyNTVhSzg2Qk5sRzA4YXhxeE55eUp4dUQ2MU51OC1SUWJxRTVPaGpnbG16QUVLNTjSAbwBQVVfeXFMTTNFZFNqZ2d0S0hjNVFTcm92dm53ZGNneWFUUFhISW9mU0tsV3dDRkZPSm1vSEFNdktaYVA2Zjhzc0I4dkhoVVJmWkhTRTNIV1BPc3drY1JnWk1HbVdRblJTMWlDdnR0anRGbmlNcS1YX0pEOExlWWVyMGxjaTBFbHI4d0k3ODdreTdjRHYzZkhvbWdaYWR5RTIwb2FzRTJPYVg5RjNfZXdub2FHN3RST2pVcGIyQ3pzMlpsM20?oc=5",
       "external": true,
@@ -229,6 +229,19 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
+      "tagLabel": "focus.ua",
+      "title": "Це історичний рекорд: митниця показала, звідки Україна найбільше завозить техніку і транспорт - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "9 липня 2026",
+      "dateTS": 1783603325.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX1BqS0NQNTVBUnRGaHV5VHhlZEg3UExrUUxpcVdyZi0td1ZNdTFBZTl5R3ZodjFDdW02YnZqZWNpbldzSXZjTFJDaHdaV0pFclhTV0hwS3hUNEpzU1l4Tm91QkxuYm9nT2ExVWhMQS1ZaDBKbUVJSW5VU3dqem1GbTF5U2s5V0tBbWdsckZkcVVQekQwZ01WYVh4Q05FR1pzLUF4TjduS2tYQ0lHWldxcG9ub9IBuAFBVV95cUxQZ0x1Ty1NZEw0U1RlcElzWEV6WGx2c1BCOHA1RmxIQjRjaWpncmlCMl9vczQ0bkNIcGxpRFAyakpJampvbDVZeThLNTJuZWcwXzdyVDZzXzhKRzRWSmc5NWZvNWlTNzN1b1ZxZXV6Njl3djl5VWl0NnRrRE50SUZHY3Rrc0JDZVd5YkNUTDNpdGc5VDdtRXpIM2gxRTFYY3BCR2g3NnhJVXRPX01wVTdtMmZaZlhvQzJk?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
       "tagLabel": "UKR.NET",
       "title": "Попит на євро серед українців побив історичний рекорд - UKR.NET",
       "excerpt": "Згадка у виданні UKR.NET",
@@ -242,19 +255,6 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "ТСН",
-      "title": "Курс валют в Україні: експерт ошелешив прогнозом, скільки може коштувати долар - ТСН",
-      "excerpt": "Згадка у виданні ТСН",
-      "date": "2 липня 2026",
-      "dateTS": 1782975600.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYmcwU09NWEJzYi14Nkl6dzMyazJwbjlDdk1RTmJhdTJuVkJ2WXpWVy1uWWR3dWNEcEFmbF9ub3ctbXh6YXVHVzhZSDFBSzdrNm1uUVpLUC1ZQkJUczhPVDRiTDBkNUxESnYxRk1GU3JhRmh3SVZvaXRDMGF1enJsNVRJVDRTemFxbF91QmJleUVLTEpWVkpYR1RsS0VuTXdScVJjQmZCNlhsZTR2N2JKT1cxZkFMS2ZDSlHSAb8BQVVfeXFMUE1Pc3dlMjZhTlU3WkExaFdSUWRBQ2hPanBwaXZBNGx2aVgxTzVCSE5NYXg4WDVGNnBDNFlHdjlwM1NlSHBjeHhRbm9SUk1uWlhNNDQycW5razlxOUpXZ1U3WDVMem95SkdybVNwRjNDVlFvSTNrZWNHZzItSklfbFRPSjQyeU9QVFZzbGwzUXQyREhfcWJudURvVFV0WF9iN3lkY0x6dzliRnNSQWxfUWVaeENka2NDTDRSTi1TUjA?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
       "tagLabel": "focus.ua",
       "title": "Лише одна валюта гірша: гривня опинилася майже на дні рейтингу валют Європи від початку року - focus.ua",
       "excerpt": "Згадка у виданні focus.ua",
@@ -262,6 +262,19 @@ const CONTENT = {
       "dateTS": 1782975600.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdW5ZN0pVaEJzU1FBVDdGUGExWURNUnZGU2F6ZjRDNXJSMFF4SW5GTUQwZ04yMkVEdGt5elRLNDZIWkx5ZjFYcHp5QTNmNFQwdmpNY1VBeHBzd1o1Tk5kNGs3bldmQ1VTMVZ0a3ZpdjlESnhYdW1CYjVVLURBSXE5c3ctWHpBX0YtR1lwYXF4MnMxSVdYbHNQZy0yNVRrdFEtMnEwZWYyREs4cWRyUlVaUlNCSzHSAboBQVVfeXFMUEMxTTV3Y3gtX3hGNHVQWlNzVDF5OWEtaWFfamZ3U09ha3RRT1JTV21Oam9nbWZCZlU2SGROTUU1ck9reFZQZDNOdE44VHF5UHg2MldFS0RfbzNLS3JERXJyd25fa2JZWTREdnZFeEN4Rk53R1h2dTB5amQ4SmhSUkF3TVB4WkJkbkNPdHNINEJZQ0VKUnQ1emJSQnRMZGFMQkxBbkM1SVBLUWxZa2pzdXZidU9MZlNVaXB3?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "ТСН",
+      "title": "Курс валют в Україні: експерт ошелешив прогнозом, скільки може коштувати долар - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
+      "date": "2 липня 2026",
+      "dateTS": 1782975600.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYmcwU09NWEJzYi14Nkl6dzMyazJwbjlDdk1RTmJhdTJuVkJ2WXpWVy1uWWR3dWNEcEFmbF9ub3ctbXh6YXVHVzhZSDFBSzdrNm1uUVpLUC1ZQkJUczhPVDRiTDBkNUxESnYxRk1GU3JhRmh3SVZvaXRDMGF1enJsNVRJVDRTemFxbF91QmJleUVLTEpWVkpYR1RsS0VuTXdScVJjQmZCNlhsZTR2N2JKT1cxZkFMS2ZDSlHSAb8BQVVfeXFMUE1Pc3dlMjZhTlU3WkExaFdSUWRBQ2hPanBwaXZBNGx2aVgxTzVCSE5NYXg4WDVGNnBDNFlHdjlwM1NlSHBjeHhRbm9SUk1uWlhNNDQycW5razlxOUpXZ1U3WDVMem95SkdybVNwRjNDVlFvSTNrZWNHZzItSklfbFRPSjQyeU9QVFZzbGwzUXQyREhfcWJudURvVFV0WF9iN3lkY0x6dzliRnNSQWxfUWVaeENka2NDTDRSTi1TUjA?oc=5",
       "external": true,
       "featured": false
     },
