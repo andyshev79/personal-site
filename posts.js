@@ -1,8 +1,73 @@
-// Автоматично оновлено: 2026-07-12 09:44 UTC
+// Автоматично оновлено: 2026-07-13 09:11 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Динаміка ф'ючерсів на кукурузу та пшеницю. Виражений тренд на зростання з початку липня. Чисто мі...",
+      "excerpt": "",
+      "date": "13 липня 2026",
+      "dateTS": 1783933295.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/351",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Зранку міжбанк по долару трохи качнуло вгору долар 44.66 - 44.69 імхо, це може бути спекулятивна ...",
+      "excerpt": "",
+      "date": "13 липня 2026",
+      "dateTS": 1783931725.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/350",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Кажен кандидат це як гра вгадайка. Під яку подію чи очікування підбирають?  Досвід Харькова це на...",
+      "excerpt": "",
+      "date": "12 липня 2026",
+      "dateTS": 1783863848.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/349",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Понеслось. Цікаво почути причини ціх перестанов, кажуть там прям неочікувано для влади й вимушено...",
+      "excerpt": "",
+      "date": "12 липня 2026",
+      "dateTS": 1783858473.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/347",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "🔁👥 З деталей по замінам:  1) Головний кандидат на Премʼєра Сергій Корецький. Зараз це на 95% вже ...",
+      "excerpt": "",
+      "date": "12 липня 2026",
+      "dateTS": 1783858473.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/348",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +79,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/346",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -112,6 +177,45 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
+      "tagLabel": "focus.ua",
+      "title": "НБУ почав не лише продавати, а й купувати валюту: що буде з курсом долара - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "13 липня 2026",
+      "dateTS": 1783930963.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcGx1OVBValhjNzZrYWRpS0k3ZmdzSi1reHl6ZmVUTWhzTnZmSThTcmRLTTRQWFBzRXY5bzlvWkNNejNIVmlQVTZnNlhxWi1tWFlZNWFUNWtSREJBUEpzUmtJSWw5cEx2LWlkZ3M1SVM2dWdaRllsUFNhZ2d4T2VKaFNfRm5xNHkyNTVhSzg2Qk5sRzA4YXhxeE55eUp4dUQ2MU51OC1SUWJxRTVPaGpnbG16QUVLNTjSAbwBQVVfeXFMTTNFZFNqZ2d0S0hjNVFTcm92dm53ZGNneWFUUFhISW9mU0tsV3dDRkZPSm1vSEFNdktaYVA2Zjhzc0I4dkhoVVJmWkhTRTNIV1BPc3drY1JnWk1HbVdRblJTMWlDdnR0anRGbmlNcS1YX0pEOExlWWVyMGxjaTBFbHI4d0k3ODdreTdjRHYzZkhvbWdaYWR5RTIwb2FzRTJPYVg5RjNfZXdub2FHN3RST2pVcGIyQ3pzMlpsM20?oc=5",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "my.ua",
+      "title": "Нова банкнота 2000 грн: що насправді означає поява купюри найбільшого номіналу для економіки України - my.ua",
+      "excerpt": "Згадка у виданні my.ua",
+      "date": "10 липня 2026",
+      "dateTS": 1783694182.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWml1bnhKVnlldTMtSFAtbjNyQldrSEphS3FTdkZjNWNJRnhibUpOLXNLcmw5V1FnaW9odTNsY0hHZWNXQkpqdW90RWktQ3JPSEtteWZIZ1FDdkZBbVphZUNJMWV1ZE5IOGlsLUl6SjZVR0FIRjVYVGFMclBYYS16QmJfRFBfYjZhazE5RUwtdk5IYTUwZW9OSDJKM0VkSGN1eWhSY1ZQSmhuN21ybGNmYXNlRkR2OEJSU1R1WlRuSDROei1HS2UxZ25IT1hmN0pZeFFsbnAtSm9tRG1zLUZQdzczUdIB5AFBVV95cUxNN2dPYTZjbGh5Z1pxci1VUUZKcVM5eFAtSFI3cWRMaHJzemNHcFNTRTgxSXZzUWpocW8tMHd1cFFIN3ItcnpULUdZcWkwQ3ROQTg0cFZTa1Q2RVNieHlJOGU0WW1XMXhyZ0w5QTE3eWY2VXpNSE5XSkZheWdPc0VNU3NDRnhyZDUyR1B0aEduMWNLN2UxSkZzTHhrVjhCeW9wNGpZdV9MSHpGeDFFZFkyTnBiU08wcG84SW5HUVlDeWRrOEpEU1hreWlsd3hIcEpuNjB0aUxSc0ltemUzX3FFYUZ0OG0?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Мінфін",
+      "title": "Інфляція у червні несподівано впала до 7,2%, але липень може це змінити — Андрій Шевчишин - Мінфін",
+      "excerpt": "Згадка у виданні Мінфін",
+      "date": "10 липня 2026",
+      "dateTS": 1783685400.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85T0F5RXFBS1B1eEpoeWFCTzQ0MG1sSkxBV2N6MFBpR0E2MjE3VlcwSXVUbjdGM0lZS1N0Qmd1LU1tWXE5b3BRZjI3a1JUUTlaR0RGcXhfUVNPdw?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
       "tagLabel": "Мінфін",
       "title": "Інфляція у червні несподівано впала до 7,2%, але липень може це змінити — Андрій Шевчишин - Мінфін",
       "excerpt": "Згадка у виданні Мінфін",
@@ -125,6 +229,19 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
+      "tagLabel": "UKR.NET",
+      "title": "Попит на євро серед українців побив історичний рекорд - UKR.NET",
+      "excerpt": "Згадка у виданні UKR.NET",
+      "date": "7 липня 2026",
+      "dateTS": 1783450266.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3S0o4UDdYUlNDSTUzVDR5NkIzbTV3T3RaY1ZkbE1QbkdiYzNJSFhLcHNwcG5hNnFmYW4zMG9tZnpZbGVoa21aSDE2R3c3a21GdWdXV1BNQnI1SW1VUV9rd2NlSlM3dUJl?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
       "tagLabel": "ТСН",
       "title": "Курс валют в Україні: експерт ошелешив прогнозом, скільки може коштувати долар - ТСН",
       "excerpt": "Згадка у виданні ТСН",
@@ -132,6 +249,19 @@ const CONTENT = {
       "dateTS": 1782975600.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYmcwU09NWEJzYi14Nkl6dzMyazJwbjlDdk1RTmJhdTJuVkJ2WXpWVy1uWWR3dWNEcEFmbF9ub3ctbXh6YXVHVzhZSDFBSzdrNm1uUVpLUC1ZQkJUczhPVDRiTDBkNUxESnYxRk1GU3JhRmh3SVZvaXRDMGF1enJsNVRJVDRTemFxbF91QmJleUVLTEpWVkpYR1RsS0VuTXdScVJjQmZCNlhsZTR2N2JKT1cxZkFMS2ZDSlHSAb8BQVVfeXFMUE1Pc3dlMjZhTlU3WkExaFdSUWRBQ2hPanBwaXZBNGx2aVgxTzVCSE5NYXg4WDVGNnBDNFlHdjlwM1NlSHBjeHhRbm9SUk1uWlhNNDQycW5razlxOUpXZ1U3WDVMem95SkdybVNwRjNDVlFvSTNrZWNHZzItSklfbFRPSjQyeU9QVFZzbGwzUXQyREhfcWJudURvVFV0WF9iN3lkY0x6dzliRnNSQWxfUWVaeENka2NDTDRSTi1TUjA?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "focus.ua",
+      "title": "Лише одна валюта гірша: гривня опинилася майже на дні рейтингу валют Європи від початку року - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "2 липня 2026",
+      "dateTS": 1782975600.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdW5ZN0pVaEJzU1FBVDdGUGExWURNUnZGU2F6ZjRDNXJSMFF4SW5GTUQwZ04yMkVEdGt5elRLNDZIWkx5ZjFYcHp5QTNmNFQwdmpNY1VBeHBzd1o1Tk5kNGs3bldmQ1VTMVZ0a3ZpdjlESnhYdW1CYjVVLURBSXE5c3ctWHpBX0YtR1lwYXF4MnMxSVdYbHNQZy0yNVRrdFEtMnEwZWYyREs4cWRyUlVaUlNCSzHSAboBQVVfeXFMUEMxTTV3Y3gtX3hGNHVQWlNzVDF5OWEtaWFfamZ3U09ha3RRT1JTV21Oam9nbWZCZlU2SGROTUU1ck9reFZQZDNOdE44VHF5UHg2MldFS0RfbzNLS3JERXJyd25fa2JZWTREdnZFeEN4Rk53R1h2dTB5amQ4SmhSUkF3TVB4WkJkbkNPdHNINEJZQ0VKUnQ1emJSQnRMZGFMQkxBbkM1SVBLUWxZa2pzdXZidU9MZlNVaXB3?oc=5",
       "external": true,
       "featured": false
     },
