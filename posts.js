@@ -1,4 +1,4 @@
-// Автоматично оновлено: 2026-07-13 10:51 UTC
+// Автоматично оновлено: 2026-07-14 09:48 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
@@ -186,6 +186,19 @@ const CONTENT = {
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcGx1OVBValhjNzZrYWRpS0k3ZmdzSi1reHl6ZmVUTWhzTnZmSThTcmRLTTRQWFBzRXY5bzlvWkNNejNIVmlQVTZnNlhxWi1tWFlZNWFUNWtSREJBUEpzUmtJSWw5cEx2LWlkZ3M1SVM2dWdaRllsUFNhZ2d4T2VKaFNfRm5xNHkyNTVhSzg2Qk5sRzA4YXhxeE55eUp4dUQ2MU51OC1SUWJxRTVPaGpnbG16QUVLNTjSAbwBQVVfeXFMTTNFZFNqZ2d0S0hjNVFTcm92dm53ZGNneWFUUFhISW9mU0tsV3dDRkZPSm1vSEFNdktaYVA2Zjhzc0I4dkhoVVJmWkhTRTNIV1BPc3drY1JnWk1HbVdRblJTMWlDdnR0anRGbmlNcS1YX0pEOExlWWVyMGxjaTBFbHI4d0k3ODdreTdjRHYzZkhvbWdaYWR5RTIwb2FzRTJPYVg5RjNfZXdub2FHN3RST2pVcGIyQ3pzMlpsM20?oc=5",
       "external": true,
       "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "my.ua",
+      "title": "НБУ почав не лише продавати, а й купувати валюту: що буде з курсом долара - my.ua",
+      "excerpt": "Згадка у виданні my.ua",
+      "date": "13 липня 2026",
+      "dateTS": 1783931237.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUwxanl3U0xMN2p2ZVZJVlN4X3FkaTNRV2lrOVZWbVF1bDBkeDVXZVdpZHhKU3BlbHNxZHpJNVA2SEtiNXM3LUhTbkF2S1drYTN6YnVWeXdNOTJncTlpUTAxSjQyeHVfT2RYcS1sazNpRmdhQ2lubk9CQy1odFR5M3BsNnRKZ0t6TmhDZVoyYVMtTnBjZnVnbllxQTB1S3ExaHBoNFJYTTYzUkUxS19nMEtFSVA2ZmdMcXfSAbsBQVVfeXFMTy14Y09CVFZRQmtvdFZ1aWx4V3NlUTJnOVdpZFVTekZDTkxkWHdqTDVZQkVSOFd5WkpzZXRHcTB1aTlRVUJCOVZjWXlZYWJtU0R4SU53Ni1JZDFSY1hOclBTS0MxRHc0QnFiZGJMSlhUWTk1NUI2UThpRUVPQXJjZUMyNFA2MWl2ejl6NHlJX2Y0RklGUUkyaHVuQXM2SkgtR1lTY0g0cDNVb3dnRFBUZ0U5YmtIdmhrTHpicw?oc=5",
+      "external": true,
+      "featured": false
     },
     {
       "source": "news",
