@@ -327,7 +327,7 @@ function renderPosts(source) {{
   if (!container) return;
 
   if (posts.length === 0) {{
-    container.innerHTML = '<p class="no-posts">Публікацій поки немає</p>';
+    container.innerHTML = `<p class="no-posts">${{typeof t === "function" ? t("posts.empty") : "Публікацій поки немає"}}</p>`;
     container.className = "posts-grid";
     return;
   }}
