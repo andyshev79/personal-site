@@ -19,17 +19,21 @@
   <div class="nav-container">
     <div class="nav-logo">AndreyShevchishin</div>
     <div class="nav-links">
-      <a href="#about">Про мене</a>
-      <a href="#blog">Блог</a>
+      <a href="#about" data-i18n="nav.about">Про мене</a>
+      <a href="#blog" data-i18n="nav.blog">Блог</a>
       <a href="simulator.html" class="nav-simulator">
         <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"/></svg>
-        Симулятор
+        <span data-i18n="nav.simulator">Симулятор</span>
       </a>
       <a href="chart-simulator.html" class="nav-simulator">
         <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
-        Тренажер
+        <span data-i18n="nav.trainer">Тренажер</span>
       </a>
-      <a href="#contacts">Контакти</a>
+      <a href="#contacts" data-i18n="nav.contacts">Контакти</a>
+    </div>
+    <div class="lang-switcher">
+      <button class="lang-btn active" data-lang="uk">UA</button>
+      <button class="lang-btn" data-lang="en">EN</button>
     </div>
     <button class="nav-burger" id="burger">
       <span></span><span></span><span></span>
@@ -71,15 +75,15 @@
     <div class="hero-content">
       <div class="hero-badge">
         <span class="badge-dot"></span>
-        Трейдер · Аналітик · Контент-мейкер
+        <span data-i18n="hero.badge">Трейдер · Аналітик · Контент-мейкер</span>
       </div>
       <h1>Андрій<br><span class="gold">Шевчишин</span></h1>
-      <p class="hero-bio">
+      <p class="hero-bio" data-i18n="hero.bio">
         Фінансовий аналітик і трейдер з багаторічним досвідом на Forex та фондових ринках. Ділюся інсайтами про ринки, стратегії та те, що реально працює.
       </p>
       <div class="hero-cta">
-        <a href="#blog" class="btn-primary">Читати блог</a>
-        <a href="#about" class="btn-ghost">Про мене</a>
+        <a href="#blog" class="btn-primary" data-i18n="hero.cta1">Читати блог</a>
+        <a href="#about" class="btn-ghost" data-i18n="hero.cta2">Про мене</a>
       </div>
     </div>
   </div>
@@ -87,7 +91,7 @@
 
 <!-- SOCIAL BAR -->
 <div class="social-bar">
-  <span class="social-label">Мої соцмережі</span>
+  <span class="social-label" data-i18n="social.label">Мої соцмережі</span>
   <div class="social-links" id="social-links">
     <a href="https://www.youtube.com/channel/UCLNHlZolCyjNAuhFwSVcicA" class="social-link" data-platform="youtube">
       <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2 31 31 0 0 0 0 12a31 31 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1A31 31 0 0 0 24 12a31 31 0 0 0-.5-5.8zM9.7 15.5V8.5l6.3 3.5-6.3 3.5z"/></svg>
@@ -121,13 +125,13 @@
   <div class="container">
     <div class="about-grid">
       <div class="about-text">
-        <div class="section-label">Про мене</div>
-         <h2>Фінансовий аналітик<br>Продуктовий менеджер<br>Трейдер</h2>
-        <p>Я — продуктовий менеджер, фінансовий аналітик та спеціаліст у сфері бізнесу й даних із досвідом роботи у сферах фінтеху, економіки, аналітики та розробки цифрових продуктів. Член Українського товариства фінансових аналітиків.</p>
-        <p>Мій аналітичний бекграунд охоплює макроекономіку, економетричне моделювання, прогнозування, а також дослідження активів, компаній, секторів та економіки в цілому.</p>
-        <p>Що стосується продуктового напрямку, я керую командами, створюю та запускаю нові рішення, а також фокусуюся на перетворенні ідей у вимірювані результати.</p>
-        <p>Крім того, я проводжу аналітичні дослідження та публікую свої інсайти в межах медійної діяльності. </p>
-        <p>Поза роботою я захоплююся грою на гітарі, співом, бойовими мистецтвами, верховою їздою та катанням на лижах.</p>
+        <div class="section-label" data-i18n="about.label">Про мене</div>
+        <h2 data-i18n="about.h2">Фінансовий аналітик<br>Продуктовий менеджер<br>Трейдер</h2>
+        <p data-i18n="about.p1">Я — продуктовий менеджер, фінансовий аналітик та спеціаліст у сфері бізнесу й даних із досвідом роботи у сферах фінтеху, економіки, аналітики та розробки цифрових продуктів. Член Українського товариства фінансових аналітиків.</p>
+        <p data-i18n="about.p2">Мій аналітичний бекграунд охоплює макроекономіку, економетричне моделювання, прогнозування, а також дослідження активів, компаній, секторів та економіки в цілому.</p>
+        <p data-i18n="about.p3">Що стосується продуктового напрямку, я керую командами, створюю та запускаю нові рішення, а також фокусуюся на перетворенні ідей у вимірювані результати.</p>
+        <p data-i18n="about.p4">Крім того, я проводжу аналітичні дослідження та публікую свої інсайти в межах медійної діяльності.</p>
+        <p data-i18n="about.p5">Поза роботою я захоплююся грою на гітарі, співом, бойовими мистецтвами, верховою їздою та катанням на лижах.</p>
         <div class="about-tags">
           <span class="tag">Forex</span>
           <span class="tag">Фондовий ринок</span>
@@ -140,19 +144,19 @@
       <div class="about-stats">
         <div class="stat-card">
           <div class="stat-num">20<span>+</span></div>
-          <div class="stat-label">років у трейдингу</div>
+          <div class="stat-label" data-i18n="stat.trading">років у трейдингу</div>
         </div>
         <div class="stat-card">
           <div class="stat-num">26<span>+</span></div>
-          <div class="stat-label">роки в аналітиці</div>
+          <div class="stat-label" data-i18n="stat.analytics">роки в аналітиці</div>
         </div>
         <div class="stat-card">
           <div class="stat-num">2К<span>+</span></div>
-          <div class="stat-label">публікацій</div>
+          <div class="stat-label" data-i18n="stat.posts">публікацій</div>
         </div>
         <div class="stat-card">
           <div class="stat-num">2K<span>+</span></div>
-          <div class="stat-label">підписників</div>
+          <div class="stat-label" data-i18n="stat.followers">підписників</div>
         </div>
       </div>
     </div>
@@ -164,22 +168,22 @@
   <div class="container">
     <div class="section-header">
       <div>
-        <div class="section-label">Контент</div>
-        <h2>Мої публікації</h2>
+        <div class="section-label" data-i18n="blog.label">Контент</div>
+        <h2 data-i18n="blog.h2">Мої публікації</h2>
       </div>
     </div>
     <div class="tab-bar">
       <button class="tab-btn active" data-source="telegram">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.6 0 12 0zm5.9 8.2-2 9.5c-.1.6-.5.8-1 .5l-2.8-2-1.3 1.3c-.2.2-.3.3-.6.3l.2-2.8 4.9-4.4c.2-.2 0-.3-.3-.1L6.3 14.5l-2.7-.8c-.6-.2-.6-.6.1-.8l10.5-4c.5-.2 1 .1.7.8-.1 0-.1 0 0 .5z"/></svg>
-        Telegram
+        <span data-i18n="tab.telegram">Telegram</span>
       </button>
       <button class="tab-btn" data-source="youtube">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2 31 31 0 0 0 0 12a31 31 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1A31 31 0 0 0 24 12a31 31 0 0 0-.5-5.8zM9.7 15.5V8.5l6.3 3.5-6.3 3.5z"/></svg>
-        YouTube
+        <span data-i18n="tab.youtube">YouTube</span>
       </button>
       <button class="tab-btn" data-source="news">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M20 3H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2zm0 16H4V5h16v14zM6 7h12v2H6zm0 4h12v2H6zm0 4h8v2H6z"/></svg>
-        Згадки в медіа
+        <span data-i18n="tab.news">Згадки в медіа</span>
       </button>
     </div>
     <div class="posts-grid" id="posts-container"></div>
@@ -191,16 +195,16 @@
   <div class="container">
     <div class="simulator-banner">
       <div class="sim-left">
-        <div class="section-label">Інструмент</div>
-        <h2>Симулятор трейдингу</h2>
-        <p>Торгуй на реальних макро-подіях 2008–2025 з Gold, Brent, Nasdaq, EUR/USD та Bitcoin — без ризику, з повним розбором кожного рішення.</p>
+        <div class="section-label" data-i18n="sim1.label">Інструмент</div>
+        <h2 data-i18n="sim1.h2">Симулятор трейдингу</h2>
+        <p data-i18n="sim1.desc">Торгуй на реальних макро-подіях 2008–2025 з Gold, Brent, Nasdaq, EUR/USD та Bitcoin — без ризику, з повним розбором кожного рішення.</p>
         <div class="sim-features">
-          <span class="sim-feat">📰 99 реальних подій</span>
-          <span class="sim-feat">📊 5 інструментів</span>
-          <span class="sim-feat">🎓 Режим PRO</span>
-          <span class="sim-feat">🆓 Безкоштовно</span>
+          <span class="sim-feat" data-i18n="sim1.f1">📰 99 реальних подій</span>
+          <span class="sim-feat" data-i18n="sim1.f2">📊 5 інструментів</span>
+          <span class="sim-feat" data-i18n="sim1.f3">🎓 Режим PRO</span>
+          <span class="sim-feat" data-i18n="sim1.f4">🆓 Безкоштовно</span>
         </div>
-        <a href="simulator.html" class="btn-primary sim-cta">Спробувати симулятор</a>
+        <a href="simulator.html" class="btn-primary sim-cta" data-i18n="sim1.cta">Спробувати симулятор</a>
       </div>
       <div class="sim-right">
         <div class="sim-preview">
@@ -212,21 +216,12 @@
               <span class="sim-url">macro-news-trading-simulator.vercel.app</span>
             </div>
             <div class="sim-content">
-              <div class="sim-event-label">ПОДІЯ #42 · ФРС</div>
-              <div class="sim-event-title">ФРС підвищує ставку на 75 б.п. — максимум з 1994 року</div>
+              <div class="sim-event-label" data-i18n="sim1.event">ПОДІЯ #42 · ФРС</div>
+              <div class="sim-event-title" data-i18n="sim1.title">ФРС підвищує ставку на 75 б.п. — максимум з 1994 року</div>
               <div class="sim-instruments">
-                <div class="sim-inst">
-                  <span>Gold</span>
-                  <span class="sim-val down">−1.8%</span>
-                </div>
-                <div class="sim-inst">
-                  <span>Nasdaq</span>
-                  <span class="sim-val down">−3.2%</span>
-                </div>
-                <div class="sim-inst">
-                  <span>EUR/USD</span>
-                  <span class="sim-val down">−0.9%</span>
-                </div>
+                <div class="sim-inst"><span>Gold</span><span class="sim-val down">−1.8%</span></div>
+                <div class="sim-inst"><span>Nasdaq</span><span class="sim-val down">−3.2%</span></div>
+                <div class="sim-inst"><span>EUR/USD</span><span class="sim-val down">−0.9%</span></div>
               </div>
               <div class="sim-btns">
                 <div class="sim-btn buy">Buy</div>
@@ -246,16 +241,16 @@
   <div class="container">
     <div class="simulator-banner">
       <div class="sim-left">
-        <div class="section-label">Інструмент</div>
-        <h2>Тренажер читання графіків</h2>
-        <p>Навчись читати свічкові графіки на реальних історичних даних. Визнач патерн, зроби ставку — і дізнайся, що сталось далі.</p>
+        <div class="section-label" data-i18n="sim2.label">Інструмент</div>
+        <h2 data-i18n="sim2.h2">Тренажер читання графіків</h2>
+        <p data-i18n="sim2.desc">Навчись читати свічкові графіки на реальних історичних даних. Визнач патерн, зроби ставку — і дізнайся, що сталось далі.</p>
         <div class="sim-features">
-          <span class="sim-feat">🕯️ Реальні свічки</span>
-          <span class="sim-feat">📈 Різні таймфрейми</span>
-          <span class="sim-feat">🎯 Миттєвий зворотній зв'язок</span>
-          <span class="sim-feat">🆓 Безкоштовно</span>
+          <span class="sim-feat" data-i18n="sim2.f1">🕯️ Реальні свічки</span>
+          <span class="sim-feat" data-i18n="sim2.f2">📈 Різні таймфрейми</span>
+          <span class="sim-feat" data-i18n="sim2.f3">🎯 Миттєвий зворотній зв'язок</span>
+          <span class="sim-feat" data-i18n="sim2.f4">🆓 Безкоштовно</span>
         </div>
-        <a href="chart-simulator.html" class="btn-primary sim-cta">Спробувати тренажер</a>
+        <a href="chart-simulator.html" class="btn-primary sim-cta" data-i18n="sim2.cta">Спробувати тренажер</a>
       </div>
       <div class="sim-right">
         <div class="sim-preview">
@@ -267,21 +262,12 @@
               <span class="sim-url">chart-reading-simulator.vercel.app</span>
             </div>
             <div class="sim-content">
-              <div class="sim-event-label">BTCUSDT · 4H</div>
-              <div class="sim-event-title">Визнач наступний рух: бичачий чи ведмежий патерн?</div>
+              <div class="sim-event-label" data-i18n="sim2.event">BTCUSDT · 4H</div>
+              <div class="sim-event-title" data-i18n="sim2.title">Визнач наступний рух: бичачий чи ведмежий патерн?</div>
               <div class="sim-instruments">
-                <div class="sim-inst">
-                  <span>Open</span>
-                  <span class="sim-val">42 310</span>
-                </div>
-                <div class="sim-inst">
-                  <span>Close</span>
-                  <span class="sim-val up">43 180</span>
-                </div>
-                <div class="sim-inst">
-                  <span>Volume</span>
-                  <span class="sim-val">1.2M</span>
-                </div>
+                <div class="sim-inst"><span>Open</span><span class="sim-val">42 310</span></div>
+                <div class="sim-inst"><span>Close</span><span class="sim-val up">43 180</span></div>
+                <div class="sim-inst"><span>Volume</span><span class="sim-val">1.2M</span></div>
               </div>
               <div class="sim-btns">
                 <div class="sim-btn buy">Bull</div>
@@ -300,13 +286,13 @@
 <section class="contacts-section" id="contacts">
   <div class="container">
     <div class="contacts-inner">
-      <div class="section-label">Контакти</div>
-      <h2>На зв'язку</h2>
-      <p class="contacts-desc">Пишіть з будь-яких питань — співпраця, запитання про трейдинг або просто поспілкуватися.</p>
+      <div class="section-label" data-i18n="contacts.label">Контакти</div>
+      <h2 data-i18n="contacts.h2">На зв'язку</h2>
+      <p class="contacts-desc" data-i18n="contacts.desc">Пишіть з будь-яких питань — співпраця, запитання про трейдинг або просто поспілкуватися.</p>
       <div class="contacts-social">
         <a href="https://www.facebook.com/AndyShev79" class="contact-btn" target="_blank" rel="noopener">Facebook</a>
         <a href="https://www.instagram.com/andreyshevchishin/" class="contact-btn" target="_blank" rel="noopener">Instagram</a>
-        <a href="#" class="contact-btn">Telegram</a>
+        <a href="https://t.me/shevchyshyn_trends" class="contact-btn" target="_blank" rel="noopener">Telegram</a>
       </div>
     </div>
   </div>
@@ -317,7 +303,7 @@
   <div class="container">
     <div class="footer-inner">
       <div class="footer-logo">AndreyShevchishin</div>
-      <div class="footer-copy">© 2026 Андрій Шевчишин</div>
+      <div class="footer-copy" data-i18n="footer.copy">© 2026 Андрій Шевчишин</div>
       <div class="footer-links">
         <a href="https://www.facebook.com/AndyShev79" target="_blank" rel="noopener">FB</a>
         <a href="https://www.instagram.com/andreyshevchishin/" target="_blank" rel="noopener">IG</a>
@@ -326,6 +312,7 @@
   </div>
 </footer>
 
+<script src="i18n.js"></script>
 <script src="posts.js"></script>
 <script src="main.js"></script>
 </body>
