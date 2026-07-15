@@ -1,4 +1,4 @@
-// Автоматично оновлено: 2026-07-15 12:35 UTC
+// Автоматично оновлено: 2026-07-15 13:00 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
@@ -610,31 +610,50 @@ const CONTENT = {
 
 // Поточний активний фільтр
 let currentSource = "telegram";
+const PAGE_SIZE = 8;
+const shownCount = {};
 
-function renderPosts(source) {
+function postCard(post, hasFeatured) {
+  return `<a href="${post.url}" class="post-card${post.featured && hasFeatured ? " featured" : ""}"
+     target="_blank" rel="noopener">
+    <div class="post-tag">${post.tagLabel}</div>
+    <div class="post-title">${post.title}</div>
+    ${post.excerpt ? `<p class="post-excerpt">${post.excerpt}</p>` : ""}
+    <div class="post-meta">${post.date} · ${post.readTime}</div>
+  </a>`;
+}
+
+function renderPosts(source, reset) {
   currentSource = source;
+  if (reset !== false) shownCount[source] = PAGE_SIZE;
   const posts = CONTENT[source] || [];
   const container = document.getElementById("posts-container");
+  const moreBtn = document.getElementById("load-more-btn");
   if (!container) return;
 
   if (posts.length === 0) {
     container.innerHTML = `<p class="no-posts">${typeof t === "function" ? t("posts.empty") : "Публікацій поки немає"}</p>`;
     container.className = "posts-grid";
+    if (moreBtn) moreBtn.style.display = "none";
     return;
   }
 
-  const hasFeatured = posts.some(p => p.featured);
+  const count = shownCount[source] || PAGE_SIZE;
+  const visible = posts.slice(0, count);
+  const hasFeatured = visible.some(p => p.featured);
   container.className = "posts-grid" + (hasFeatured ? " has-featured" : "");
+  container.innerHTML = visible.map(p => postCard(p, hasFeatured)).join("");
 
-  container.innerHTML = posts.map(post => `
-    <a href="${post.url}" class="post-card${post.featured && hasFeatured ? " featured" : ""}"
-       target="_blank" rel="noopener">
-      <div class="post-tag">${post.tagLabel}</div>
-      <div class="post-title">${post.title}</div>
-      ${post.excerpt ? `<p class="post-excerpt">${post.excerpt}</p>` : ""}
-      <div class="post-meta">${post.date} · ${post.readTime}</div>
-    </a>
-  `).join("");
+  if (moreBtn) {
+    const remaining = posts.length - count;
+    if (remaining > 0) {
+      moreBtn.style.display = "flex";
+      const label = typeof t === "function" ? t("posts.more") : "Більше";
+      moreBtn.textContent = `${label} (${remaining})`;
+    } else {
+      moreBtn.style.display = "none";
+    }
+  }
 }
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -647,4 +666,12 @@ document.addEventListener("DOMContentLoaded", () => {
       renderPosts(btn.dataset.source);
     });
   });
+
+  const moreBtn = document.getElementById("load-more-btn");
+  if (moreBtn) {
+    moreBtn.addEventListener("click", () => {
+      shownCount[currentSource] = (shownCount[currentSource] || PAGE_SIZE) + PAGE_SIZE;
+      renderPosts(currentSource, false);
+    });
+  }
 });
