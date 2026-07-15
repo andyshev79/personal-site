@@ -1,8 +1,112 @@
-// Автоматично оновлено: 2026-07-14 09:48 UTC
+// Автоматично оновлено: 2026-07-15 09:52 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Штати - історичний максимум статків  0,00001 % найбільш багатих американців в порівнянні з рівнем...",
+      "excerpt": "",
+      "date": "15 липня 2026",
+      "dateTS": 1784106497.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/371",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "КИТАЙСЬКА ЕКОНОМІКА: ПРОМИСЛОВІСТЬ ДОСИТЬ УПЕВНЕНА, РІЗНИЦЯ НАМАГАЄТЬСЯ ОЧУХАННЯ (червень 2026)  ...",
+      "excerpt": "",
+      "date": "15 липня 2026",
+      "dateTS": 1784105215.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/370",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ВВП Китаю за 2кв2026 +4,3% - мінімальний приріст з 2022 року, й значно менше очікувань 4,5%.  Cла...",
+      "excerpt": "",
+      "date": "15 липня 2026",
+      "dateTS": 1784104815.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/369",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Ранок починається з продовження відкату ринку долар/гривня на міжбанку 44.77 - 44.80 Коротше, три...",
+      "excerpt": "",
+      "date": "15 липня 2026",
+      "dateTS": 1784103464.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/368",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Україна отримала $3,35 млрд ще 10 липня Я впустив цей момент, надолужив.  Мінфін",
+      "excerpt": "",
+      "date": "14 липня 2026",
+      "dateTS": 1784042516.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/367",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "В тижневому валютному огляді писав що 14 липня буду слідкувати за публікацією даних базової інфля...",
+      "excerpt": "",
+      "date": "14 липня 2026",
+      "dateTS": 1784040972.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/365",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "АМЕРИКАНСЬКИЙ РИНОК - ГРА ЗАКІНЧУЄТЬСЯ?  Ось кілька цікавих графіків.  Графік №1. Чиста емісія ак...",
+      "excerpt": "",
+      "date": "14 липня 2026",
+      "dateTS": 1784038641.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/362",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Ось що значить ринок одного покупця. Монопольне становище КНР зараз це зашморг для рф. Й рф це ро...",
+      "excerpt": "",
+      "date": "14 липня 2026",
+      "dateTS": 1784035315.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/361",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -177,6 +281,19 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
+      "tagLabel": "my.ua",
+      "title": "Які наслідки для українців матиме підвищення тарифів на проїзд у Києві — експерт попередив - my.ua",
+      "excerpt": "Згадка у виданні my.ua",
+      "date": "14 липня 2026",
+      "dateTS": 1784050572.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWUhneEQ2Y2d4ZExqeTZiWndhbGk0YUhNWF9uQ2prdjZVM2tMeEtueFNrZGNvQm9rYUpJNkgzQVpNR2lMZTI1MGJtY2ZqVHBLTTJrR1VLeHNzcDhYRWN6MndiZGZpeldnak5yZkdxOTN4VHlqSE9RUDRVanhiWXZSYnlfLW5BMmVnX2VXN2k2RGZFdC1NVmdaNTMtb1B6VGExWUhkZFpNc1VHenl4UUFTMmRzendBdllVU2lXdkttTEhDdEJMUDJvQm15ZTVncEtHdHM1emJlUk5fRm_SAY4CQVVfeXFMTW1XT0FvWDlFYmxKRUUzMkI4LWFoS3pQZFVRSEFlMEd6cDJ2LWhiaFlkNjZDZE9RYzBabEo2Wk5hZGFUb1N4M2ZYdXhJdy1vNmFfZjc4MkpELThaNk9USHVXZmdsRnhOSVgzM3NwQmV6ZWE4NGNNVC15TlBxb3JEMFpFM2VuUXc2U29BczY3dU8xNlRXUHRCT3VYdTZYanNYeFhPVWZDelJYdmNsbEJ2cWo3WG1sRm0zT2hPYnZnb0hsRDFQb0JKSzVPeXBpWVZDcjZ0cUpzRkk1Mll6bmdXREZ0SGZzbWZlbWNrT190V2M1VUYydFR6WlJvWEtqdDBOMEhmbmtuU1BwSDdCaFNn?oc=5",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
       "tagLabel": "focus.ua",
       "title": "НБУ почав не лише продавати, а й купувати валюту: що буде з курсом долара - focus.ua",
       "excerpt": "Згадка у виданні focus.ua",
@@ -249,6 +366,19 @@ const CONTENT = {
       "dateTS": 1783603325.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX1BqS0NQNTVBUnRGaHV5VHhlZEg3UExrUUxpcVdyZi0td1ZNdTFBZTl5R3ZodjFDdW02YnZqZWNpbldzSXZjTFJDaHdaV0pFclhTV0hwS3hUNEpzU1l4Tm91QkxuYm9nT2ExVWhMQS1ZaDBKbUVJSW5VU3dqem1GbTF5U2s5V0tBbWdsckZkcVVQekQwZ01WYVh4Q05FR1pzLUF4TjduS2tYQ0lHWldxcG9ub9IBuAFBVV95cUxQZ0x1Ty1NZEw0U1RlcElzWEV6WGx2c1BCOHA1RmxIQjRjaWpncmlCMl9vczQ0bkNIcGxpRFAyakpJampvbDVZeThLNTJuZWcwXzdyVDZzXzhKRzRWSmc5NWZvNWlTNzN1b1ZxZXV6Njl3djl5VWl0NnRrRE50SUZHY3Rrc0JDZVd5YkNUTDNpdGc5VDdtRXpIM2gxRTFYY3BCR2g3NnhJVXRPX01wVTdtMmZaZlhvQzJk?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "my.ua",
+      "title": "Курс валют на 9 липня: скільки коштують долар, євро та злотий - my.ua",
+      "excerpt": "Згадка у виданні my.ua",
+      "date": "9 липня 2026",
+      "dateTS": 1783569976.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNck5FZkRTSm5RSEFIaTN1TW5ucGoxSTZRTGRfaDdkdy12dmljVV9PWmpQd05wSTJvQnlEOFlvSWM0TWUwTk5pRHdrWWl6eS1YcUZyNDJZSGdKM1RERThuTUR5bUdIX0Z4OXdGRll2U0dScWpwQnMydzRIWWZwWXhkQ1gtQlY1SHFJVDZEMlI0RUlaYmVFX0hYM2ZIT05DNHp1M3lxck5yd2FydEtWNl9YTGtmY2RRc3Y4OWVzZVhWYWpZbE9KNFpGdjNDMFZZMjdiSFHSAdMBQVVfeXFMUGdSbGUzYjQ2RjBQSF9aRndjTEFEbDJiT3ZBVEJSRUhxZGV0X2F4TF9ucnlwLVpRZWxjb2djYVdoQlpCT0JMMC1nMHNnaERsdEltR0VtMzNWSnZXZUZMODNSWl9CX0ZFZUJZc3lFaXdxV0ppbDg0UExIUmFJTUh2RVA5U0lUV0Q2emFNQWVVU2VYbnFTOVRIQU90ZzB1M0lSRHNFdWxBTmVlOXNjaF94Q2JrcGdGNTNpZ3MwaG9wYzBmUmJ6WWswcTh4RlZSXzhOUFc4UQ?oc=5",
       "external": true,
       "featured": false
     },
@@ -488,7 +618,7 @@ function renderPosts(source) {
   if (!container) return;
 
   if (posts.length === 0) {
-    container.innerHTML = '<p class="no-posts">Публікацій поки немає</p>';
+    container.innerHTML = `<p class="no-posts">${typeof t === "function" ? t("posts.empty") : "Публікацій поки немає"}</p>`;
     container.className = "posts-grid";
     return;
   }
