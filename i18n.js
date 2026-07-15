@@ -68,8 +68,9 @@ const TRANSLATIONS = {
     // Footer
     "footer.copy":   "© 2026 Андрій Шевчишин",
 
-    // Posts empty state
+    // Posts
     "posts.empty":   "Публікацій поки немає",
+    "posts.more":    "Більше",
   },
 
   en: {
@@ -141,8 +142,9 @@ const TRANSLATIONS = {
     // Footer
     "footer.copy":   "© 2026 Andrii Shevchyshyn",
 
-    // Posts empty state
+    // Posts
     "posts.empty":   "No posts yet",
+    "posts.more":    "Load more",
   }
 };
 
