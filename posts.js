@@ -1,8 +1,34 @@
-// Автоматично оновлено: 2026-07-17 09:49 UTC
+// Автоматично оновлено: 2026-07-18 09:16 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Законопроєкт Ліндсі Грема про мита для покупців російської нафти отримав достатню підтримку в Сен...",
+      "excerpt": "",
+      "date": "17 липня 2026",
+      "dateTS": 1784286289.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/387",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "🚨 Банки в червні рекордно кредитнули державу: +1 млрд грн напряму, і це не ОВДП, й не місцеві обл...",
+      "excerpt": "",
+      "date": "17 липня 2026",
+      "dateTS": 1784286241.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/386",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +40,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/385",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -80,35 +106,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/378",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ИРАН ПРИЗВАЛ ХУСИТОВ ЗАКРЫТЬ ПРОХОД ЧЕРЕЗ КРАСНОЕ МОРЕ, ЕСЛИ США НАНЕСУТ УДАР ПО ЭНЕРГОСИСТЕМЕ --...",
-      "excerpt": "",
-      "date": "16 липня 2026",
-      "dateTS": 1784207071.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/377",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "За результатами 1піврічча2026 в банківській системі нові абсолютні максимуми: 👉 депозити та кошти...",
-      "excerpt": "",
-      "date": "16 липня 2026",
-      "dateTS": 1784199414.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/376",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "ТСН",
+      "title": "Українці відмовляються від долара: економіст дав пораду, яку валюту краще купувати, а яку — продавати - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
+      "date": "18 липня 2026",
+      "dateTS": 1784343600.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM3lieGx2ci04QXl6VzVaSEtaTVdBb0NVOWRKcE9ScDdyZmh4VkstQmY0dlJWVDEtVkU5Ty1tM0lldkctV0RuUzBIMl9VSkdlYjlNY2hMVnJEZGh4aXptLUR4Mm5Md05hS25pdXhWTXZqeFFLbmgyQV9ueXVpcTZES1hwWmZKbWptUFlMY0t0cU5ScWhjc0ctNDIwWktmZzhwY1M0OFlEN0tpOG5mQXV2N2R1Z1RQaU1MZzZfUThYWk1vdGp6VHBRZTBlbm5rSm1vcWdYQkJLMTdtWHFC0gHiAUFVX3lxTE9ac0hYb2NfUW0xS0VrVW1ZTllUQU9mbDkwcV9oaDRKcFBNb0UyUXFYTUZIN0V5ZkhVS21VUU9zUUhfUTRRNWZhRXAzU2oxcVFURnZPLXdFaE5lOUVPUEk2c01vcklpS0xjRzJhLVBUdExGU1NVeFFDTVJxVkRGdFhYZnhMcVl6VHRIYTNSTWFzcVpoeXFINDluS3V2Vlp4MlFBMkQ3NEhDVWp6QzRIUFQwV0p3ZklOam5wU0lmaUl4M0xBTDdKU3hxR0ItNzJ5UEdkZDYxTTgwRUR6Slk5OV9tUXc?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -120,7 +133,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3BvVmZHd18xYVZlVllkR21mSWxwczZpWjVwYXlpNTNnVDJudWdDWDBnR1puODNGaVEwQWpjYTd1Y1JGX2ZUdi1SRmVvWk9naUJNNnl4dmRrb0FOWmFadTVoaVhVbUJxTjkxdDhoQjd6OF9vSVgzbFdKVUluTXFnYmxUd0NvRFloOTNMV3hTcFl0NW1DbGN6V0QtVm1RYTBwNF91X2dPQnRVd9IBrwFBVV95cUxOUXVaSlRvSDgxZklXN0ljM3BiNExUeFk1dlBkREJWZ204MTJkSnJmLUJTcnZfVTVaMUhCUUxNSFhzOG9qQ1IxX0tIRXkxejBWeFdZUloyRW1jQVZidS1VSFlRYWd2MWFnS1BwblVfLUNwZ192c25LYzNHbEYzc3BEZkl3Z09wQkRSQkx0VHBYRzBsNllmQ2kzd2NYSUNjaGVuTXhEcU9ZSTc1dDVTb2NB?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -151,19 +164,6 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "focus.ua",
-      "title": "НБУ почав не лише продавати, а й купувати валюту: що буде з курсом долара - focus.ua",
-      "excerpt": "Згадка у виданні focus.ua",
-      "date": "13 липня 2026",
-      "dateTS": 1783930963.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcGx1OVBValhjNzZrYWRpS0k3ZmdzSi1reHl6ZmVUTWhzTnZmSThTcmRLTTRQWFBzRXY5bzlvWkNNejNIVmlQVTZnNlhxWi1tWFlZNWFUNWtSREJBUEpzUmtJSWw5cEx2LWlkZ3M1SVM2dWdaRllsUFNhZ2d4T2VKaFNfRm5xNHkyNTVhSzg2Qk5sRzA4YXhxeE55eUp4dUQ2MU51OC1SUWJxRTVPaGpnbG16QUVLNTjSAbwBQVVfeXFMTTNFZFNqZ2d0S0hjNVFTcm92dm53ZGNneWFUUFhISW9mU0tsV3dDRkZPSm1vSEFNdktaYVA2Zjhzc0I4dkhoVVJmWkhTRTNIV1BPc3drY1JnWk1HbVdRblJTMWlDdnR0anRGbmlNcS1YX0pEOExlWWVyMGxjaTBFbHI4d0k3ODdreTdjRHYzZkhvbWdaYWR5RTIwb2FzRTJPYVg5RjNfZXdub2FHN3RST2pVcGIyQ3pzMlpsM20?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
       "tagLabel": "my.ua",
       "title": "Нова банкнота 2000 грн: що насправді означає поява купюри найбільшого номіналу для економіки України - my.ua",
       "excerpt": "Згадка у виданні my.ua",
@@ -177,13 +177,13 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "Мінфін",
-      "title": "Інфляція у червні несподівано впала до 7,2%, але липень може це змінити — Андрій Шевчишин - Мінфін",
-      "excerpt": "Згадка у виданні Мінфін",
-      "date": "10 липня 2026",
-      "dateTS": 1783685400.0,
+      "tagLabel": "focus.ua",
+      "title": "Це історичний рекорд: митниця показала, звідки Україна найбільше завозить техніку і транспорт - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "9 липня 2026",
+      "dateTS": 1783603325.0,
       "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85T0F5RXFBS1B1eEpoeWFCTzQ0MG1sSkxBV2N6MFBpR0E2MjE3VlcwSXVUbjdGM0lZS1N0Qmd1LU1tWXE5b3BRZjI3a1JUUTlaR0RGcXhfUVNPdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX1BqS0NQNTVBUnRGaHV5VHhlZEg3UExrUUxpcVdyZi0td1ZNdTFBZTl5R3ZodjFDdW02YnZqZWNpbldzSXZjTFJDaHdaV0pFclhTV0hwS3hUNEpzU1l4Tm91QkxuYm9nT2ExVWhMQS1ZaDBKbUVJSW5VU3dqem1GbTF5U2s5V0tBbWdsckZkcVVQekQwZ01WYVh4Q05FR1pzLUF4TjduS2tYQ0lHWldxcG9ub9IBuAFBVV95cUxQZ0x1Ty1NZEw0U1RlcElzWEV6WGx2c1BCOHA1RmxIQjRjaWpncmlCMl9vczQ0bkNIcGxpRFAyakpJampvbDVZeThLNTJuZWcwXzdyVDZzXzhKRzRWSmc5NWZvNWlTNzN1b1ZxZXV6Njl3djl5VWl0NnRrRE50SUZHY3Rrc0JDZVd5YkNUTDNpdGc5VDdtRXpIM2gxRTFYY3BCR2g3NnhJVXRPX01wVTdtMmZaZlhvQzJk?oc=5",
       "external": true,
       "featured": false
     },
