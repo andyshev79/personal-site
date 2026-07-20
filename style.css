@@ -258,6 +258,7 @@ body {
 .social-link svg { flex-shrink: 0; }
 
 /* Platform colors on hover */
+.social-link[data-platform="linkedin"]:hover { color: #0A66C2; border-color: #0A66C2; background: rgba(10,102,194,0.06); }
 .social-link[data-platform="youtube"]:hover { color: #FF4444; border-color: #FF4444; background: rgba(255,68,68,0.06); }
 .social-link[data-platform="tiktok"]:hover { color: #69C9D0; border-color: #69C9D0; background: rgba(105,201,208,0.06); }
 .social-link[data-platform="telegram"]:hover { color: #2AABEE; border-color: #2AABEE; background: rgba(42,171,238,0.06); }
