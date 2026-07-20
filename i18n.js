@@ -83,7 +83,7 @@ const TRANSLATIONS = {
     "nav.contacts":  "Contacts",
 
     // Hero
-    "hero.name":     "Andrew<br><span class=\"gold\">Shevchishin</span>",
+    "hero.name":     "Andrey<br><span class=\"gold\">Shevchishin</span>",
     "hero.badge":    "Trader · Analyst · Content Creator",
     "hero.bio":      "Financial analyst and trader with years of experience in Forex and equity markets. I share insights on markets, strategies, and what actually works.",
     "hero.cta1":     "Read blog",
