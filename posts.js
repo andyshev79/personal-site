@@ -1,8 +1,86 @@
-// Автоматично оновлено: 2026-07-19 09:45 UTC
+// Автоматично оновлено: 2026-07-20 10:43 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЦИФРА ДНЯ Запасів нафти в США вистачить на 43 дні. Це найменший рівень за останні 45 років.  P.S....",
+      "excerpt": "",
+      "date": "20 липня 2026",
+      "dateTS": 1784540711.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/404",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Всі вже побачили на стелі (( Більше у Сергія Куюна  Сьогодні відбулося масове підвищення цін на А...",
+      "excerpt": "",
+      "date": "20 липня 2026",
+      "dateTS": 1784539261.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/403",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Хедж-фонди останній тиждень продавали технологічні акції найбільшими історичними темпами.  Тим ча...",
+      "excerpt": "",
+      "date": "20 липня 2026",
+      "dateTS": 1784537692.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/402",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "За оцінками Мінекономіки, реальний ВВП у травні 2026 зріс на 0,8%р/р  (+0,9% у квітні 2026 року),...",
+      "excerpt": "",
+      "date": "20 липня 2026",
+      "dateTS": 1784536694.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/401",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Вибори восени в рф, це фактично вибори ЗА чи ПРОТИ війни.  Якщо росіянє проголосують за діючу пар...",
+      "excerpt": "",
+      "date": "20 липня 2026",
+      "dateTS": 1784532477.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/400",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Не фіксований курс, але й не вільне ціноутворення. Це керована гнучкість.",
+      "excerpt": "",
+      "date": "19 липня 2026",
+      "dateTS": 1784475278.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/399",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +92,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/398",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -28,192 +106,9 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/397",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ЦИФРА ДНЯ: Операції з віртуальними активами дали найбільшу суму підозр ДПС у легалізації: 9,3 млр...",
-      "excerpt": "",
-      "date": "18 липня 2026",
-      "dateTS": 1784391736.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/396",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Регуляції проти тіньового ринку посилюються. Може зачепити й білий ринок, якщо будуть перегибати....",
-      "excerpt": "",
-      "date": "18 липня 2026",
-      "dateTS": 1784380609.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/395",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: ЗНОВ УДАРИ ПО УКРАЇНСЬКИМ ПОРТАМ ТА СУДАМ, ЗНОВ ІРАН. ФЛЕ...",
-      "excerpt": "",
-      "date": "18 липня 2026",
-      "dateTS": 1784373067.0,
-      "readTime": "3 хв",
-      "url": "https://t.me/shevchyshyn_trends/393",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "За чим слідкуємо на тижні : ·       20 липня - Рада директорів МВФ та транш $690 млн. Позитивне р...",
-      "excerpt": "",
-      "date": "18 липня 2026",
-      "dateTS": 1784373067.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/394",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: ЗНОВ УДАРИ ПО УКРАЇНСЬКИМ ПОРТАМ ТА СУДАМ, ЗНОВ ІРАН. ФЛЕ...",
-      "excerpt": "",
-      "date": "18 липня 2026",
-      "dateTS": 1784372963.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/392",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "МІЖБАНК Середньодобова купівля зросла на 15% до 392 млн дол. Продаж впав на 5% до 221 млн дол.  С...",
-      "excerpt": "",
-      "date": "18 липня 2026",
-      "dateTS": 1784372740.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/390",
-      "external": true,
-      "featured": false
     }
   ],
-  "news": [
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "ТСН",
-      "title": "Українці відмовляються від долара: економіст дав пораду, яку валюту краще купувати, а яку — продавати - ТСН",
-      "excerpt": "Згадка у виданні ТСН",
-      "date": "18 липня 2026",
-      "dateTS": 1784343600.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM3lieGx2ci04QXl6VzVaSEtaTVdBb0NVOWRKcE9ScDdyZmh4VkstQmY0dlJWVDEtVkU5Ty1tM0lldkctV0RuUzBIMl9VSkdlYjlNY2hMVnJEZGh4aXptLUR4Mm5Md05hS25pdXhWTXZqeFFLbmgyQV9ueXVpcTZES1hwWmZKbWptUFlMY0t0cU5ScWhjc0ctNDIwWktmZzhwY1M0OFlEN0tpOG5mQXV2N2R1Z1RQaU1MZzZfUThYWk1vdGp6VHBRZTBlbm5rSm1vcWdYQkJLMTdtWHFC0gHiAUFVX3lxTE9ac0hYb2NfUW0xS0VrVW1ZTllUQU9mbDkwcV9oaDRKcFBNb0UyUXFYTUZIN0V5ZkhVS21VUU9zUUhfUTRRNWZhRXAzU2oxcVFURnZPLXdFaE5lOUVPUEk2c01vcklpS0xjRzJhLVBUdExGU1NVeFFDTVJxVkRGdFhYZnhMcVl6VHRIYTNSTWFzcVpoeXFINDluS3V2Vlp4MlFBMkQ3NEhDVWp6QzRIUFQwV0p3ZklOam5wU0lmaUl4M0xBTDdKU3hxR0ItNzJ5UEdkZDYxTTgwRUR6Slk5OV9tUXc?oc=5",
-      "external": true,
-      "featured": true
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "ТСН",
-      "title": "Курс валют в Україні: реванш долара та \"пастка\" для покупців євро - ТСН",
-      "excerpt": "Згадка у виданні ТСН",
-      "date": "16 липня 2026",
-      "dateTS": 1784170800.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3BvVmZHd18xYVZlVllkR21mSWxwczZpWjVwYXlpNTNnVDJudWdDWDBnR1puODNGaVEwQWpjYTd1Y1JGX2ZUdi1SRmVvWk9naUJNNnl4dmRrb0FOWmFadTVoaVhVbUJxTjkxdDhoQjd6OF9vSVgzbFdKVUluTXFnYmxUd0NvRFloOTNMV3hTcFl0NW1DbGN6V0QtVm1RYTBwNF91X2dPQnRVd9IBrwFBVV95cUxOUXVaSlRvSDgxZklXN0ljM3BiNExUeFk1dlBkREJWZ204MTJkSnJmLUJTcnZfVTVaMUhCUUxNSFhzOG9qQ1IxX0tIRXkxejBWeFdZUloyRW1jQVZidS1VSFlRYWd2MWFnS1BwblVfLUNwZ192c25LYzNHbEYzc3BEZkl3Z09wQkRSQkx0VHBYRzBsNllmQ2kzd2NYSUNjaGVuTXhEcU9ZSTc1dDVTb2NB?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "my.ua",
-      "title": "Які наслідки для українців матиме підвищення тарифів на проїзд у Києві — експерт попередив - my.ua",
-      "excerpt": "Згадка у виданні my.ua",
-      "date": "14 липня 2026",
-      "dateTS": 1784050572.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWUhneEQ2Y2d4ZExqeTZiWndhbGk0YUhNWF9uQ2prdjZVM2tMeEtueFNrZGNvQm9rYUpJNkgzQVpNR2lMZTI1MGJtY2ZqVHBLTTJrR1VLeHNzcDhYRWN6MndiZGZpeldnak5yZkdxOTN4VHlqSE9RUDRVanhiWXZSYnlfLW5BMmVnX2VXN2k2RGZFdC1NVmdaNTMtb1B6VGExWUhkZFpNc1VHenl4UUFTMmRzendBdllVU2lXdkttTEhDdEJMUDJvQm15ZTVncEtHdHM1emJlUk5fRm_SAY4CQVVfeXFMTW1XT0FvWDlFYmxKRUUzMkI4LWFoS3pQZFVRSEFlMEd6cDJ2LWhiaFlkNjZDZE9RYzBabEo2Wk5hZGFUb1N4M2ZYdXhJdy1vNmFfZjc4MkpELThaNk9USHVXZmdsRnhOSVgzM3NwQmV6ZWE4NGNNVC15TlBxb3JEMFpFM2VuUXc2U29BczY3dU8xNlRXUHRCT3VYdTZYanNYeFhPVWZDelJYdmNsbEJ2cWo3WG1sRm0zT2hPYnZnb0hsRDFQb0JKSzVPeXBpWVZDcjZ0cUpzRkk1Mll6bmdXREZ0SGZzbWZlbWNrT190V2M1VUYydFR6WlJvWEtqdDBOMEhmbmtuU1BwSDdCaFNn?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "my.ua",
-      "title": "НБУ почав не лише продавати, а й купувати валюту: що буде з курсом долара - my.ua",
-      "excerpt": "Згадка у виданні my.ua",
-      "date": "13 липня 2026",
-      "dateTS": 1783931237.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUwxanl3U0xMN2p2ZVZJVlN4X3FkaTNRV2lrOVZWbVF1bDBkeDVXZVdpZHhKU3BlbHNxZHpJNVA2SEtiNXM3LUhTbkF2S1drYTN6YnVWeXdNOTJncTlpUTAxSjQyeHVfT2RYcS1sazNpRmdhQ2lubk9CQy1odFR5M3BsNnRKZ0t6TmhDZVoyYVMtTnBjZnVnbllxQTB1S3ExaHBoNFJYTTYzUkUxS19nMEtFSVA2ZmdMcXfSAbsBQVVfeXFMTy14Y09CVFZRQmtvdFZ1aWx4V3NlUTJnOVdpZFVTekZDTkxkWHdqTDVZQkVSOFd5WkpzZXRHcTB1aTlRVUJCOVZjWXlZYWJtU0R4SU53Ni1JZDFSY1hOclBTS0MxRHc0QnFiZGJMSlhUWTk1NUI2UThpRUVPQXJjZUMyNFA2MWl2ejl6NHlJX2Y0RklGUUkyaHVuQXM2SkgtR1lTY0g0cDNVb3dnRFBUZ0U5YmtIdmhrTHpicw?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "my.ua",
-      "title": "Курс валют на 9 липня: скільки коштують долар, євро та злотий - my.ua",
-      "excerpt": "Згадка у виданні my.ua",
-      "date": "9 липня 2026",
-      "dateTS": 1783569976.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNck5FZkRTSm5RSEFIaTN1TW5ucGoxSTZRTGRfaDdkdy12dmljVV9PWmpQd05wSTJvQnlEOFlvSWM0TWUwTk5pRHdrWWl6eS1YcUZyNDJZSGdKM1RERThuTUR5bUdIX0Z4OXdGRll2U0dScWpwQnMydzRIWWZwWXhkQ1gtQlY1SHFJVDZEMlI0RUlaYmVFX0hYM2ZIT05DNHp1M3lxck5yd2FydEtWNl9YTGtmY2RRc3Y4OWVzZVhWYWpZbE9KNFpGdjNDMFZZMjdiSFHSAdMBQVVfeXFMUGdSbGUzYjQ2RjBQSF9aRndjTEFEbDJiT3ZBVEJSRUhxZGV0X2F4TF9ucnlwLVpRZWxjb2djYVdoQlpCT0JMMC1nMHNnaERsdEltR0VtMzNWSnZXZUZMODNSWl9CX0ZFZUJZc3lFaXdxV0ppbDg0UExIUmFJTUh2RVA5U0lUV0Q2emFNQWVVU2VYbnFTOVRIQU90ZzB1M0lSRHNFdWxBTmVlOXNjaF94Q2JrcGdGNTNpZ3MwaG9wYzBmUmJ6WWswcTh4RlZSXzhOUFc4UQ?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "UKR.NET",
-      "title": "Попит на євро серед українців побив історичний рекорд - UKR.NET",
-      "excerpt": "Згадка у виданні UKR.NET",
-      "date": "7 липня 2026",
-      "dateTS": 1783450266.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3S0o4UDdYUlNDSTUzVDR5NkIzbTV3T3RaY1ZkbE1QbkdiYzNJSFhLcHNwcG5hNnFmYW4zMG9tZnpZbGVoa21aSDE2R3c3a21GdWdXV1BNQnI1SW1VUV9rd2NlSlM3dUJl?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "my.ua",
-      "title": "Кому підвищать зарплати і пенсії у липні: експерти ошелешили прогнозом - my.ua",
-      "excerpt": "Згадка у виданні my.ua",
-      "date": "30 червня 2026",
-      "dateTS": 1782802800.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPekc0M2pINnlzeGxZbkYyMEx4MUdBYklVUWhJcndyTllOOUdrMGQwd0dmNnN6UGFiNU1FLXVIdjR3WHZ5eUN4RDlEeVNxazRBb2dZNm5rbkRKZ1lpckdkeWdGRDFxYWxvejQwWm4zMmdHcWlZTXAtU0Y4UXFnelZRcDVoNXNlM2V6M1hCOXQ4SGNRa0NDLVNiY2dyak5HZVBsaGNpX2hKUnJIaVh2NGZDa1NRZnMtZU9iQndxa3MxS18xdlU3ZnJ5MjNBUHBFVGtIZ2Uwa1RwMFFHZ1RkN0t3cjdmMUJtTHo50gHqAUFVX3lxTE5KMUtrcHNtTEJCdHlpNzcxUFZJUDlTVkNTUmdCVUhMeDlTbVdNN0dsczlSZjVuckQ3SFNNdUpuWks3eHRZMVhPOElhWnphMkl0RFVNQlpJd0NCNXp2M28tXzFIeFdVOHF3QUxoZkJlWkFSeHhRVnR6TkdUY1RIX1BHcGhqV3plQ3NqalNVcmZNSVRhYWZUdnNJeFZrMVBhLWFUelRyRS04SnNDSkk0SkdnLWhfZUxXNmRuaUM2eDEyTFRVcW1oY2VkMEpQWkdqczVITlZ3YTFoYlpreTFCWFI3QVVRSnpxcVJvZw?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "focus.ua",
-      "title": "Сценарій миру вже у НБУ: експерт звернув увагу на важливий сигнал після рішення про ставку 15% - focus.ua",
-      "excerpt": "Згадка у виданні focus.ua",
-      "date": "19 червня 2026",
-      "dateTS": 1781852400.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMHN6U3pScGVsQUwwanBkWWF0Y19keGstUlBybGRHa3diRGtBcjduS0YyQU9mSmlCUk4tckczb2RiVy16X0dJYlNHdzhFVjF4VnFtVkd5Wks0dGpxc1hSZFEyUDR3UmdyQWdVODBmczV4UTlYckFxdVlzelZ0ZDFQSW1VMjBaam9maS1YT0thcWJ3UkJycHBDMFlvR2xIQ01ZNlV2ZnNUdGY4aFRBZEVDSE5DRVYxVk1yclZTNG94bEPSAcYBQVVfeXFMTVhYdTV4OWlZVkd4LWt0UXY5RUpheDZkWHJUWU1hNHRDRWx6MHMyUTN3U25RcVlSZkUxcG1fWFBSYTJyM3JvLUxtbk0tUlRyeFlIZ2c4eTM1aUFOWE40a0xqOFRTNWMxMlpETHRKaWFIMWRtTk54WmJCN25DcWN5M0FXR0JZbGE5N3hpNXRUVXhJeDRyMjl0eXFrMWpjZVBTeDJpUUM3YU1BZGM0UFNwMWNyc3ZsNEV2aWRFME02aGtsUm5fQUhR?oc=5",
-      "external": true,
-      "featured": false
-    }
-  ],
+  "news": [],
   "youtube": [
     {
       "source": "youtube",
