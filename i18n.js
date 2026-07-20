@@ -8,6 +8,7 @@ const TRANSLATIONS = {
     "nav.contacts":  "Контакти",
 
     // Hero
+    "hero.name":     "Андрій<br><span class=\"gold\">Шевчишин</span>",
     "hero.badge":    "Трейдер · Аналітик · Контент-мейкер",
     "hero.bio":      "Фінансовий аналітик і трейдер з багаторічним досвідом на Forex та фондових ринках. Ділюся інсайтами про ринки, стратегії та те, що реально працює.",
     "hero.cta1":     "Читати блог",
@@ -82,6 +83,7 @@ const TRANSLATIONS = {
     "nav.contacts":  "Contacts",
 
     // Hero
+    "hero.name":     "Andrew<br><span class=\"gold\">Shevchishin</span>",
     "hero.badge":    "Trader · Analyst · Content Creator",
     "hero.bio":      "Financial analyst and trader with years of experience in Forex and equity markets. I share insights on markets, strategies, and what actually works.",
     "hero.cta1":     "Read blog",
@@ -140,7 +142,7 @@ const TRANSLATIONS = {
     "contacts.desc": "Feel free to reach out — collaboration, trading questions, or just to chat.",
 
     // Footer
-    "footer.copy":   "© 2026 Andrii Shevchyshyn",
+    "footer.copy":   "© 2026 Andrew Shevchishin",
 
     // Posts
     "posts.empty":   "No posts yet",
@@ -172,7 +174,7 @@ function applyLang(lang) {
                  (TRANSLATIONS[DEFAULT_LANG] && TRANSLATIONS[DEFAULT_LANG][key]) ||
                  key;
     // Use innerHTML for keys that contain HTML tags
-    if (key === "about.h2") {
+    if (key === "about.h2" || key === "hero.name") {
       el.innerHTML = text;
     } else {
       el.textContent = text;
