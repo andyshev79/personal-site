@@ -273,11 +273,15 @@ def load_existing():
     try:
         with open(POSTS_JS, encoding="utf-8") as f:
             text = f.read()
-        # Шукаємо JSON-блок між першим { і останнім }
-        m = re.search(r'const CONTENT\s*=\s*(\{.*\});', text, re.DOTALL)
-        if not m:
+        # Розбираємо лише перший JSON-об'єкт після "const CONTENT =": решта
+        # файлу (функції рендера тощо) теж містить "};", тож жадібний regex
+        # захоплював зайве і json.loads падав, обнуляючи історію щодня.
+        i = text.find("const CONTENT =")
+        if i == -1:
             return empty
-        return json.loads(m.group(1))
+        start = text.index("{", i)
+        data, _ = json.JSONDecoder().raw_decode(text, start)
+        return data
     except Exception:
         return empty
 
