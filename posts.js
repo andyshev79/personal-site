@@ -1,8 +1,73 @@
-// Автоматично оновлено: 2026-07-20 19:50 UTC
+// Автоматично оновлено: 2026-07-21 10:17 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Дассс.... немає чого й додати...  А ні... русня ще херячить   Взагалі ситуація залишається важкою...",
+      "excerpt": "",
+      "date": "21 липня 2026",
+      "dateTS": 1784627344.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/411",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Незважаючи на загальний негатив, я поки зберігаю оптимізм відносно Біткоїну  - всіх панікерів вже...",
+      "excerpt": "",
+      "date": "21 липня 2026",
+      "dateTS": 1784626784.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/410",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЦИФРА ДНЯ SpaceX втратили вартості 1 трлн дол від пікової вартості 16 червня.  Ціна акцій впала н...",
+      "excerpt": "",
+      "date": "21 липня 2026",
+      "dateTS": 1784626152.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/409",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "МВФ прогнозує:  🔻уповільнення зростання ВВП України з 1,8% у 2025 році до 1−1,6% у 2026-му (у лют...",
+      "excerpt": "",
+      "date": "21 липня 2026",
+      "dateTS": 1784622225.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/408",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "МВФ виділив Україні транш $690 млн Рада МВФ завершила перший перегляд програми EFF для України та...",
+      "excerpt": "",
+      "date": "21 липня 2026",
+      "dateTS": 1784617231.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/407",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +79,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/406",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -210,6 +275,19 @@ const CONTENT = {
       "dateTS": 1782630000.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM0o5UlUtcEZPSkgtaWtrTFBoMUdRN09LR2FpMXJnSkRGTHVSb3lsTHNjZm1lQ3pEamRKUDF1Z2hNX1M5UmNJQkltMGZkZTNPMWJ3cVB3X0M2S1hPZUZmc3A5TXo2VHdWOFFLaXY2X0tEaE1LNWt3Q1BBMGw2TmQtSDNjdUhBeWxLS0k5WTR0TG1Ua1RNX3o3S1JTa1BQSmEyejBr0gGoAUFVX3lxTE41VlI5dTBLZjVSaGV1YmRvOW9LRndjZDJPMFJfM3RERmpmLThnRkxQaHhkblQyNk44MkVUaUZqRTN3U1FfWF9fMGw2Mmg2UWpXLVdMTVpkbThvbDRzY0h1TjBxSFVEczdkaEFjREZvN09xRklOR3R6NGRMUmxLU2Z4dE5iMmVvOUFOWUNsVHU0d2FraXJWQXAwTVJhdElhUkNxTnVqWWNKQQ?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "focus.ua",
+      "title": "Сценарій миру вже у НБУ: експерт звернув увагу на важливий сигнал після рішення про ставку 15% - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "19 червня 2026",
+      "dateTS": 1781852400.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMHN6U3pScGVsQUwwanBkWWF0Y19keGstUlBybGRHa3diRGtBcjduS0YyQU9mSmlCUk4tckczb2RiVy16X0dJYlNHdzhFVjF4VnFtVkd5Wks0dGpxc1hSZFEyUDR3UmdyQWdVODBmczV4UTlYckFxdVlzelZ0ZDFQSW1VMjBaam9maS1YT0thcWJ3UkJycHBDMFlvR2xIQ01ZNlV2ZnNUdGY4aFRBZEVDSE5DRVYxVk1yclZTNG94bEPSAcYBQVVfeXFMTVhYdTV4OWlZVkd4LWt0UXY5RUpheDZkWHJUWU1hNHRDRWx6MHMyUTN3U25RcVlSZkUxcG1fWFBSYTJyM3JvLUxtbk0tUlRyeFlIZ2c4eTM1aUFOWE40a0xqOFRTNWMxMlpETHRKaWFIMWRtTk54WmJCN25DcWN5M0FXR0JZbGE5N3hpNXRUVXhJeDRyMjl0eXFrMWpjZVBTeDJpUUM3YU1BZGM0UFNwMWNyc3ZsNEV2aWRFME02aGtsUm5fQUhR?oc=5",
       "external": true,
       "featured": false
     }
