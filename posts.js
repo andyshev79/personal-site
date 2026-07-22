@@ -1,8 +1,112 @@
-// Автоматично оновлено: 2026-07-21 10:17 UTC
+// Автоматично оновлено: 2026-07-22 10:16 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Брент повернувся до коридору $90-$115 Зараз на $95+ Українські заправки - вже в тренді, а населен...",
+      "excerpt": "",
+      "date": "22 липня 2026",
+      "dateTS": 1784714026.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/423",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Якщо ви пропустили НБУ планує посилити вимоги до аналізу платіжних операцій https://minfin.com.ua...",
+      "excerpt": "",
+      "date": "22 липня 2026",
+      "dateTS": 1784713527.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/422",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Замість тисячі слів про перспективи України.   Спочатку Ковід, потім війна. Й війна продовжується...",
+      "excerpt": "",
+      "date": "22 липня 2026",
+      "dateTS": 1784707402.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/421",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Я вчора це написав по мотивам заяви російських ЗМІ  Російські маніпуляції.  Виходить в російських...",
+      "excerpt": "",
+      "date": "22 липня 2026",
+      "dateTS": 1784704823.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/420",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "10 річні бонди рф - майже історичний максимум  - 16,86% (якщо прибрати виброс у лютому 2022, й де...",
+      "excerpt": "",
+      "date": "21 липня 2026",
+      "dateTS": 1784650641.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/419",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "В продовження цін нафти Ціни бензина в Україні обновили історичні максимуми  За пару днів А-95 та...",
+      "excerpt": "",
+      "date": "21 липня 2026",
+      "dateTS": 1784647070.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/418",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Brent 91.6 дол Трамп відмовив Ірану у 10 денному перемир'ї.  Іран відповідає асиметрично, б'є по ...",
+      "excerpt": "",
+      "date": "21 липня 2026",
+      "dateTS": 1784644276.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/416",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Номинал та частка в загальному обігу готівки купюрами в Україні (959,1 млрд грн):  1000 грн - 55,...",
+      "excerpt": "",
+      "date": "21 липня 2026",
+      "dateTS": 1784640081.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/415",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
