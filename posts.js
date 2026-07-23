@@ -1,8 +1,60 @@
-// Автоматично оновлено: 2026-07-22 10:16 UTC
+// Автоматично оновлено: 2026-07-23 10:12 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ПОПИТ НА ФІЗИЧНЕ ЗОЛОТО ВІД УКРАЇНЦІВ ВПАВ В ДВІЧІ, СРІБЛО РОЗПРОДАЛИ  🟠 ЗОЛОТО За 6міс2026 украї...",
+      "excerpt": "",
+      "date": "23 липня 2026",
+      "dateTS": 1784799547.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/428",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЦИФРА ДНЯ Українські банки знизили завезення готівкової валюти у першому півріччі 2026 на 18%, до...",
+      "excerpt": "",
+      "date": "22 липня 2026",
+      "dateTS": 1784736181.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/426",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЛАЙФХАК (промт Chat GPT)  Перетвори це селфі на професійний студійний бізнес-портрет преміумкласу...",
+      "excerpt": "",
+      "date": "22 липня 2026",
+      "dateTS": 1784726617.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/425",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "❗️Крупнейший мировой оператор контейнерных перевозок Maersk приостанавливает работу в черноморски...",
+      "excerpt": "",
+      "date": "22 липня 2026",
+      "dateTS": 1784723596.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/424",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +66,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/423",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -392,6 +444,19 @@ const CONTENT = {
       "dateTS": 1781852400.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMHN6U3pScGVsQUwwanBkWWF0Y19keGstUlBybGRHa3diRGtBcjduS0YyQU9mSmlCUk4tckczb2RiVy16X0dJYlNHdzhFVjF4VnFtVkd5Wks0dGpxc1hSZFEyUDR3UmdyQWdVODBmczV4UTlYckFxdVlzelZ0ZDFQSW1VMjBaam9maS1YT0thcWJ3UkJycHBDMFlvR2xIQ01ZNlV2ZnNUdGY4aFRBZEVDSE5DRVYxVk1yclZTNG94bEPSAcYBQVVfeXFMTVhYdTV4OWlZVkd4LWt0UXY5RUpheDZkWHJUWU1hNHRDRWx6MHMyUTN3U25RcVlSZkUxcG1fWFBSYTJyM3JvLUxtbk0tUlRyeFlIZ2c4eTM1aUFOWE40a0xqOFRTNWMxMlpETHRKaWFIMWRtTk54WmJCN25DcWN5M0FXR0JZbGE5N3hpNXRUVXhJeDRyMjl0eXFrMWpjZVBTeDJpUUM3YU1BZGM0UFNwMWNyc3ZsNEV2aWRFME02aGtsUm5fQUhR?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "focus.ua",
+      "title": "Долар шокував ринок, курс валют пробив психологічну межу — фінаналітик зробив прогноз на тиждень - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "15 червня 2026",
+      "dateTS": 1781506800.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLUhBbjVXZm95VnVNM3JuYVhOcE42d0p2SkhwRG9FWk1VenhELTBka2ZzMjZEeTlWVkl0XzJEbmU1OFRUYWdOS2k4UGlxdERDUGo2anlqUl9sSlE2VzBfVV9OTmQxSkxoZjRFNklYNUxVMWlTMjByZnJVaTlIWWlOTmY3Y0duLTlPYzhBcVNZclRrRzBUdjBWMU90d3BZdEx5STlwRjZwTHFsdGd1eExPRVJtVUdfMUhE0gG-AUFVX3lxTFB5SkZBVkVpZTBJaTVaeGJneFdEYUp4NUpReXJERFpReU1mQXozZTZ6V0xVenBUT2dpcUduZHo4V04tR2djQVE4QXVjYkEyNHNEYzA3NkpvbWZHTzhNaW1ZMHNTT2FVczMtM1pyUnBoX2FkRFdkdGk5SWVVTG51Q3d1UUtUaWVURk9Vcms1aDRvSlVybWVSaVN3VUhZQUFNSjJPcF94ZUt0N001SmVIendLQ25JbEZsRkg1dFlWUmc?oc=5",
       "external": true,
       "featured": false
     }
