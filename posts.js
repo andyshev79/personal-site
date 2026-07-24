@@ -1,8 +1,86 @@
-// Автоматично оновлено: 2026-07-23 10:12 UTC
+// Автоматично оновлено: 2026-07-24 10:09 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "У 1П2026 банки завозили готівкові валюти лише 6 країн: 🥇Долар - 2,82 млрд дол (58,3%) 🥈Євро - 2,0...",
+      "excerpt": "",
+      "date": "24 липня 2026",
+      "dateTS": 1784886874.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/436",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "В Україну зайшли кошти МВФ 690 млн дол Мінфін",
+      "excerpt": "",
+      "date": "24 липня 2026",
+      "dateTS": 1784883970.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/435",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЩОДО БЛОКУВАННЯ УКРАЇНСЬКИХ ПОРТІВ Я про це почав писати ще тиждень тому, в валютному огляді, фор...",
+      "excerpt": "",
+      "date": "23 липня 2026",
+      "dateTS": 1784819620.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/434",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "БОГАТІ НАРОЩУЮТЬ ЗАЛИШКИ В БАНКАХ НАЙАКТИВНІШЕ  Згідно даним ФГВФО за 6м2026: - залишки коштів у ...",
+      "excerpt": "",
+      "date": "23 липня 2026",
+      "dateTS": 1784817236.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/433",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЦИФРА ДНЯ Падіння індексу продукції рослинництва в Україні за 6міс2026 13,3% пер/пер. Важливо! Це...",
+      "excerpt": "",
+      "date": "23 липня 2026",
+      "dateTS": 1784815638.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/432",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Брент вже майже 100  Ціни на стелях заправок продовжують зростати. Чи буде у нас 100? ні, якщо на...",
+      "excerpt": "",
+      "date": "23 липня 2026",
+      "dateTS": 1784812062.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/431",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +92,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/428",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -333,6 +411,32 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
+      "tagLabel": "focus.ua",
+      "title": "Блокування українських портів: що буде з гривнею, паливом і цінами - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "24 липня 2026",
+      "dateTS": 1784871352.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUGVGcGdpZVBMUGkzV05DUG1hNHhGamMxclpFaTlKUHZxcXE1SVhnSTA4aldCYUtzYzlxckJiQ0FKNV9tWDZZNnV3VlpxTzJWZnNDbk5zR3dtNktKUUdtdnY2eEVJa3dNZG4zazNLRVZCcWhkQ051UGUxUUFGR0lvUk0yRXVKTG1jLUE3STNXUm5sVm05RGQ4SW8zOGZ5b3ZFaEI4MzBXUlQyX1lUcDFzUU9ZZmJXWjB3TTlQNNIBwgFBVV95cUxORVJ1YTFRUV9aeTdrRmd6NUItT1J4SDVTcksyZVcyVDZQOThDY0o2YlBoaERJUXJJc2hXalFPZG1iT0s3OHROdUF3SEtnYkE4dk55NFYwYzFOQjdwSFJxdlZNLS1CaDlLdlYxNy12bFBXUFBuMVpuQzlfb2dWSE1FRENIVGtSMnVVMlpkazVkUFprdDlqU3R1OHZVN2hpdFdBQ3NHeG1aRXJvYlRuMW9kUlpHRGpaTWZtc0pvZkdJeHBQZw?oc=5",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Главред",
+      "title": "Ціни на товари та продукти підскочать: розкрито, що подорожчає в першу чергу - Главред",
+      "excerpt": "Згадка у виданні Главред",
+      "date": "23 липня 2026",
+      "dateTS": 1784829216.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaGNxalgtT2ZpRVpNTi1ZVmcybm05ei1CSHY1azBDbGlFQnpPUGEzMzZpRXVURHR2c1FDcnVEZUE1dHlwc1NHVUoxdGY4bFZkZWRpaHRNRVI3TUlUdmJuczJCWnlPYUllLUVhMEVfcS1Ma2hmN2xSQmM3RFJtYUZFaDloRjVZV1U2UE5KX09kYzVOUFNzLVJaS0QzYnJySjc0YmdOZXVQMjRhb3R3NE5BdXFFbUdTX0g1OUlVaTFmVXpTQdIBxwFBVV95cUxQLXdJRm5xRElGSkY1dzc1X0hIR0JLLUJPODVnLUkxTnBudDc0M3p6RV9meVU3WEd2UDdrTzFYaUpZUGhtOUdhM0R0d2hpMFBPN3hUbnd1MmNTWGlfcVJEaVpxMWc3eWl5b1VnMmRMc3VSYl9VM051V0ZBTC1mSUQ5S0paZ25pWF9Wekd0elFiUEhCWGZIMV8tNlVSWWhHeDNQa09WNjU0RjU4Ynk2NEVQcDdDVkEyMFY5OUdDTGxtRjdiSTZGcDJF?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
       "tagLabel": "ТСН",
       "title": "Українці відмовляються від долара: економіст дав пораду, яку валюту краще купувати, а яку — продавати - ТСН",
       "excerpt": "Згадка у виданні ТСН",
@@ -341,7 +445,20 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM3lieGx2ci04QXl6VzVaSEtaTVdBb0NVOWRKcE9ScDdyZmh4VkstQmY0dlJWVDEtVkU5Ty1tM0lldkctV0RuUzBIMl9VSkdlYjlNY2hMVnJEZGh4aXptLUR4Mm5Md05hS25pdXhWTXZqeFFLbmgyQV9ueXVpcTZES1hwWmZKbWptUFlMY0t0cU5ScWhjc0ctNDIwWktmZzhwY1M0OFlEN0tpOG5mQXV2N2R1Z1RQaU1MZzZfUThYWk1vdGp6VHBRZTBlbm5rSm1vcWdYQkJLMTdtWHFC0gHiAUFVX3lxTE9ac0hYb2NfUW0xS0VrVW1ZTllUQU9mbDkwcV9oaDRKcFBNb0UyUXFYTUZIN0V5ZkhVS21VUU9zUUhfUTRRNWZhRXAzU2oxcVFURnZPLXdFaE5lOUVPUEk2c01vcklpS0xjRzJhLVBUdExGU1NVeFFDTVJxVkRGdFhYZnhMcVl6VHRIYTNSTWFzcVpoeXFINDluS3V2Vlp4MlFBMkQ3NEhDVWp6QzRIUFQwV0p3ZklOam5wU0lmaUl4M0xBTDdKU3hxR0ItNzJ5UEdkZDYxTTgwRUR6Slk5OV9tUXc?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "my.ua",
+      "title": "Курс долара готує несподіванки: економісти ошелешили, що чекає на гривню найближчим часом - my.ua",
+      "excerpt": "Згадка у виданні my.ua",
+      "date": "17 липня 2026",
+      "dateTS": 1784257572.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOUmNoWDNva2Rvdnl6X3BGbFFXWFNaR3lpZVpxZm51Z19CdkpSaklFUl94bVVwdEtmUUthd2ZCZ1A1c2hzMXBjVFF5MlJpVzZWd0pwekFWU0J2VzFNQUVIYlNFY1h2RlBMZTI4WEhENjBJdHgwOExEWWVrV25UdkZ5VjZNY193NnB5WW9CVVBTcGVoRm1tZlJ5OGF4bkFjWU5KSktXeE40SzYtbEd0WlJHQXZzdW9CcGhWalFoeURROUFtSEozZUR0R1FuOFVTWjNUcy1ITGo2SE93a0Q4NE40SzFGMUFodERsTWdoM0JmNjZkbGU1djBycUh1dllEd2tKNS01UGRQTXpySHBwQU1DWtIBkgJBVV95cUxPYkdCNVIxbUVfTWdvRlhJdWNzY2NJQXBLUDAtYklfZ2RmUXpfQWJlMVk4VUpfNEg3Tm1NWG5sb0F4aDRlYU1IUHZRajVwbnpIVklJeHVZVEJhSi10SXJnbUV2cTNScW9fU09RTURIMWNrUWU1SXNoMXg0dVNGT1ZWZ1hmR1dlMU5fTTE2RlViZ1lycl9FeG1oQlBtWk5ZN0tUUWxvS2lnVXVPMjRjZ1hfUzQ1eXV2ODBEX2xYdEtlMVU2RENZdjVBVTBNS0R2ZWFFMjU5RkNzN1BSWkpDV3hCX0xlOF85aXdIQ0s0bW5uczlablZiZ3d3UzV6RlR1bjRQRjFkejVtZUc0b1p6SDM1NXVn?oc=5",
+      "external": true,
+      "featured": false
     },
     {
       "source": "news",
@@ -350,7 +467,7 @@ const CONTENT = {
       "title": "Курс валют в Україні: реванш долара та \"пастка\" для покупців євро - ТСН",
       "excerpt": "Згадка у виданні ТСН",
       "date": "16 липня 2026",
-      "dateTS": 1784170800.0,
+      "dateTS": 1784185200.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3BvVmZHd18xYVZlVllkR21mSWxwczZpWjVwYXlpNTNnVDJudWdDWDBnR1puODNGaVEwQWpjYTd1Y1JGX2ZUdi1SRmVvWk9naUJNNnl4dmRrb0FOWmFadTVoaVhVbUJxTjkxdDhoQjd6OF9vSVgzbFdKVUluTXFnYmxUd0NvRFloOTNMV3hTcFl0NW1DbGN6V0QtVm1RYTBwNF91X2dPQnRVd9IBrwFBVV95cUxOUXVaSlRvSDgxZklXN0ljM3BiNExUeFk1dlBkREJWZ204MTJkSnJmLUJTcnZfVTVaMUhCUUxNSFhzOG9qQ1IxX0tIRXkxejBWeFdZUloyRW1jQVZidS1VSFlRYWd2MWFnS1BwblVfLUNwZ192c25LYzNHbEYzc3BEZkl3Z09wQkRSQkx0VHBYRzBsNllmQ2kzd2NYSUNjaGVuTXhEcU9ZSTc1dDVTb2NB?oc=5",
       "external": true,
