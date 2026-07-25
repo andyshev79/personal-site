@@ -1,8 +1,73 @@
-// Автоматично оновлено: 2026-07-24 10:09 UTC
+// Автоматично оновлено: 2026-07-25 09:29 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Китай вступає в економічне протистояння на боці рф?  Виглядає що так. Й це вже не просто так.   У...",
+      "excerpt": "",
+      "date": "24 липня 2026",
+      "dateTS": 1784900285.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/442",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЦІНИ ВИРОБНИКІВ СПОВІЛЬНИЛИСЬ НАЙБІЛЬШИМИ ТЕМПАМИ ЗА 27МІСЯЦІВ  У червні зниження цін становило -...",
+      "excerpt": "",
+      "date": "24 липня 2026",
+      "dateTS": 1784898971.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/441",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "EURUSD нижче 1,135  Падіння відновлено й ціль 1,11 Повернення мит Трампа для ЄС, високі ціни нафт...",
+      "excerpt": "",
+      "date": "24 липня 2026",
+      "dateTS": 1784898145.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/439",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Це ж як її нагнули зі всім ЦБ... щоб ставку знизили",
+      "excerpt": "",
+      "date": "24 липня 2026",
+      "dateTS": 1784897144.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/438",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Путін продавив Елвіру в ЦБ рф. ЦБР знизили ставку на 0.25вп до 14%.  Незважаючи на прискорення ін...",
+      "excerpt": "",
+      "date": "24 липня 2026",
+      "dateTS": 1784890931.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/437",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +79,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/436",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
