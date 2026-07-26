@@ -1,8 +1,99 @@
-// Автоматично оновлено: 2026-07-25 09:29 UTC
+// Автоматично оновлено: 2026-07-26 09:51 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Відеоогляд вже на каналі, якщо лінки читати https://youtu.be/tYvAcY3K6Mc",
+      "excerpt": "",
+      "date": "25 липня 2026",
+      "dateTS": 1784990211.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/450",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: 20–26 ЛИПНЯ 2026 ЗУПИНКА ПОРТІВ - ГОЛОВНИЙ НЕГАТИВ ДЛЯ ГР...",
+      "excerpt": "",
+      "date": "25 липня 2026",
+      "dateTS": 1784990178.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/448",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "За чим слідкуємо на тижні 27-31 липня 2026 : ·       28 липня - візит Зеленського до США це найва...",
+      "excerpt": "",
+      "date": "25 липня 2026",
+      "dateTS": 1784990178.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/449",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Поки НБУ тримає коридор. Фактичний влив портів буде в серпні-вересні.",
+      "excerpt": "",
+      "date": "25 липня 2026",
+      "dateTS": 1784990117.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/447",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: 20–26 ЛИПНЯ 2026 ЗУПИНКА ПОРТІВ - ГОЛОВНИЙ НЕГАТИВ ДЛЯ ГР...",
+      "excerpt": "",
+      "date": "25 липня 2026",
+      "dateTS": 1784990085.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/446",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "На міжбанку й готівковому ринку дефіцит валюти знижувався",
+      "excerpt": "",
+      "date": "25 липня 2026",
+      "dateTS": 1784990041.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/444",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: 20–26 ЛИПНЯ 2026 ЗУПИНКА ПОРТІВ - ГОЛОВНИЙ НЕГАТИВ ДЛЯ ГР...",
+      "excerpt": "",
+      "date": "25 липня 2026",
+      "dateTS": 1784989982.0,
+      "readTime": "3 хв",
+      "url": "https://t.me/shevchyshyn_trends/443",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +105,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/442",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -648,6 +739,19 @@ const CONTENT = {
       "source": "youtube",
       "tag": "youtube",
       "tagLabel": "YouTube",
+      "title": "ЗУПИНКА ПОРТІВ - ГОЛОВНИЙ НЕГАТИВ ДЛЯ ГРИВНІ. ВСІ СЛІДКУЮТЬ ЗА НБУ, ЯКИЙ ПОКИ ЩЕ ТРИМАЄ ДОЛАР",
+      "excerpt": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: 20–26 ЛИПНЯ 2026\n---\n00:00 Вступ\n00:41 Результати тижня 20-26 липня\n03:14 Баланс ринку: попит, пропозиція, дефіцит\n07:00 На що звурнув увагу на поточному тижні",
+      "date": "25 липня 2026",
+      "dateTS": 1784977422.0,
+      "readTime": "відео",
+      "url": "https://www.youtube.com/watch?v=tYvAcY3K6Mc",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "youtube",
+      "tag": "youtube",
+      "tagLabel": "YouTube",
       "title": "ФЛЕШБЕКИ ДЛЯ ПОКУПЦІВ ВАЛЮТИ, АЛЕ НБУ ТРИМАЄ РАМКУ ДЛЯ ДОЛАРУ",
       "excerpt": "0:39 Огляд валютного ринку 13-19 липня\n3:15 Баланс ринку, попит та пропозиція, дефіцит, валютні інтервенції\n6:10 На що звернув увагу на тижні\n11:36 Прогноз динаміки курсу на 20-25 липня\n12:52 За чим с",
       "date": "18 липня 2026",
@@ -655,7 +759,7 @@ const CONTENT = {
       "readTime": "відео",
       "url": "https://www.youtube.com/watch?v=V9y3jXRbAWc",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "youtube",
