@@ -1,8 +1,21 @@
-// Автоматично оновлено: 2026-07-26 09:51 UTC
+// Автоматично оновлено: 2026-07-27 11:11 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Ситуація з портами давить на гривню, хоча активного впливу на показники попиту -пропозиції ще нем...",
+      "excerpt": "",
+      "date": "27 липня 2026",
+      "dateTS": 1785146657.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/451",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +27,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/450",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -652,6 +665,19 @@ const CONTENT = {
       "dateTS": 1783931237.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUwxanl3U0xMN2p2ZVZJVlN4X3FkaTNRV2lrOVZWbVF1bDBkeDVXZVdpZHhKU3BlbHNxZHpJNVA2SEtiNXM3LUhTbkF2S1drYTN6YnVWeXdNOTJncTlpUTAxSjQyeHVfT2RYcS1sazNpRmdhQ2lubk9CQy1odFR5M3BsNnRKZ0t6TmhDZVoyYVMtTnBjZnVnbllxQTB1S3ExaHBoNFJYTTYzUkUxS19nMEtFSVA2ZmdMcXfSAbsBQVVfeXFMTy14Y09CVFZRQmtvdFZ1aWx4V3NlUTJnOVdpZFVTekZDTkxkWHdqTDVZQkVSOFd5WkpzZXRHcTB1aTlRVUJCOVZjWXlZYWJtU0R4SU53Ni1JZDFSY1hOclBTS0MxRHc0QnFiZGJMSlhUWTk1NUI2UThpRUVPQXJjZUMyNFA2MWl2ejl6NHlJX2Y0RklGUUkyaHVuQXM2SkgtR1lTY0g0cDNVb3dnRFBUZ0U5YmtIdmhrTHpicw?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "focus.ua",
+      "title": "Це історичний рекорд: митниця показала, звідки Україна найбільше завозить техніку і транспорт - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "9 липня 2026",
+      "dateTS": 1783580400.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX1BqS0NQNTVBUnRGaHV5VHhlZEg3UExrUUxpcVdyZi0td1ZNdTFBZTl5R3ZodjFDdW02YnZqZWNpbldzSXZjTFJDaHdaV0pFclhTV0hwS3hUNEpzU1l4Tm91QkxuYm9nT2ExVWhMQS1ZaDBKbUVJSW5VU3dqem1GbTF5U2s5V0tBbWdsckZkcVVQekQwZ01WYVh4Q05FR1pzLUF4TjduS2tYQ0lHWldxcG9ub9IBuAFBVV95cUxQZ0x1Ty1NZEw0U1RlcElzWEV6WGx2c1BCOHA1RmxIQjRjaWpncmlCMl9vczQ0bkNIcGxpRFAyakpJampvbDVZeThLNTJuZWcwXzdyVDZzXzhKRzRWSmc5NWZvNWlTNzN1b1ZxZXV6Njl3djl5VWl0NnRrRE50SUZHY3Rrc0JDZVd5YkNUTDNpdGc5VDdtRXpIM2gxRTFYY3BCR2g3NnhJVXRPX01wVTdtMmZaZlhvQzJk?oc=5",
       "external": true,
       "featured": false
     },
