@@ -1,8 +1,112 @@
-// Автоматично оновлено: 2026-07-27 11:11 UTC
+// Автоматично оновлено: 2026-07-28 10:26 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЦИФРА ДНЯ Падіння перевезень жд транспортом за 1П2026: 🧱⚙️вантажів - -6,2% 👫 пасажирів - -15,7%  ...",
+      "excerpt": "",
+      "date": "28 липня 2026",
+      "dateTS": 1785232876.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/461",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Міжбанк долар: 44.97 -  44.98  Вчора долар відігнали, сьогодні підібрались впритул.  Таки рівні б...",
+      "excerpt": "",
+      "date": "28 липня 2026",
+      "dateTS": 1785231738.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/460",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Кругове фінансування ШІ та NVidia (Bloomberg) Nasdaq - падаємо на 26400",
+      "excerpt": "",
+      "date": "28 липня 2026",
+      "dateTS": 1785230325.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/458",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТЕХНОЛОГІЧНІ АКЦІЇ ПРОДОВЖУЮТЬ ПАДАТИ, ЗАТЯГУЮЧИ ЗА СОБОЮ ВЕСЬ СВІТ  Nasdaq 100 (NQ) на 27 930. Ц...",
+      "excerpt": "",
+      "date": "28 липня 2026",
+      "dateTS": 1785230166.0,
+      "readTime": "3 хв",
+      "url": "https://t.me/shevchyshyn_trends/457",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Нафта Брент вже нижче за 84 бакса за бочку.  При цьому фьючі по ціні постійно знаходяться в беква...",
+      "excerpt": "",
+      "date": "28 липня 2026",
+      "dateTS": 1785227264.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/456",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "SpaceX - найгірший після IPO результат -27%. Гірше ніж 90% компаній з капіталізацією більше 1млрд...",
+      "excerpt": "",
+      "date": "27 липня 2026",
+      "dateTS": 1785166077.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/455",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "РОЗДРІБНА ТОРГІВЛЯ УКРАЇНИ - СЕЗОННЕ СПОВІЛЬНЕННЯ В ЧЕРВНІ 2026, Й НЕ ТІЛЬКИ",
+      "excerpt": "",
+      "date": "27 липня 2026",
+      "dateTS": 1785161892.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/453",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "РОЗДРІБНА ТОРГІВЛЯ УКРАЇНИ - СЕЗОННЕ СПОВІЛЬНЕННЯ В ЧЕРВНІ 2026, Й НЕ ТІЛЬКИ.  Оборот роздрібної ...",
+      "excerpt": "",
+      "date": "27 липня 2026",
+      "dateTS": 1785161628.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/452",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -606,6 +710,19 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
+      "tagLabel": "УНІАН",
+      "title": "Зростання долара та подорожчання низки товарів: аналітик про наслідки закриття портів - УНІАН",
+      "excerpt": "Згадка у виданні УНІАН",
+      "date": "23 липня 2026",
+      "dateTS": 1784820480.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb0VHcWs2OUc4bHJjTTJNSkhNVWFld0toNUJRUHp4ZkdpbmJBak9ZVlY2bGgwcl9ZaWlCLTNGeE5TMnZnV2hiRklWVHVjRTBUVm5qZl9STGxSeEtESkJLaFJFUW1WUERZMDEyQjV3MXY5RldyRVRETl9rd19SNlpxOXMtWDE3cVE2TkVPbjNlWGh1V3ktWHVkQnh4QnJsWHFaM2swek4xTUI5Y3RITUFna2t0RWstZ9IB0AFBVV95cUxQRGJnWWxDQVhNbkFYaGdpY29Bam9VcW9vTnNEYXBjMTRIbFZ3VDcwRnN6NmMtdzQwZWVHZkhrNlV6VVlHNWIxdzBiSlllS1hTVm9VTXRRdllXZ2oxR3MzWmNRTmZlRDFuclhEWG16eHhfMmdQTzdid01vTmhFRC1LZzJQdUN5ZW1XdXJoNlVzR3hNQXA5WGtxaWpqQm95c0xYRS05MTFYNXBGdWtiM1dyZlUtN3lxZWpVZnJDRUFoMzY5RGE2am01aUszOW1mY3Nn?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
       "tagLabel": "ТСН",
       "title": "Українці відмовляються від долара: економіст дав пораду, яку валюту краще купувати, а яку — продавати - ТСН",
       "excerpt": "Згадка у виданні ТСН",
@@ -652,6 +769,19 @@ const CONTENT = {
       "dateTS": 1784050572.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWUhneEQ2Y2d4ZExqeTZiWndhbGk0YUhNWF9uQ2prdjZVM2tMeEtueFNrZGNvQm9rYUpJNkgzQVpNR2lMZTI1MGJtY2ZqVHBLTTJrR1VLeHNzcDhYRWN6MndiZGZpeldnak5yZkdxOTN4VHlqSE9RUDRVanhiWXZSYnlfLW5BMmVnX2VXN2k2RGZFdC1NVmdaNTMtb1B6VGExWUhkZFpNc1VHenl4UUFTMmRzendBdllVU2lXdkttTEhDdEJMUDJvQm15ZTVncEtHdHM1emJlUk5fRm_SAY4CQVVfeXFMTW1XT0FvWDlFYmxKRUUzMkI4LWFoS3pQZFVRSEFlMEd6cDJ2LWhiaFlkNjZDZE9RYzBabEo2Wk5hZGFUb1N4M2ZYdXhJdy1vNmFfZjc4MkpELThaNk9USHVXZmdsRnhOSVgzM3NwQmV6ZWE4NGNNVC15TlBxb3JEMFpFM2VuUXc2U29BczY3dU8xNlRXUHRCT3VYdTZYanNYeFhPVWZDelJYdmNsbEJ2cWo3WG1sRm0zT2hPYnZnb0hsRDFQb0JKSzVPeXBpWVZDcjZ0cUpzRkk1Mll6bmdXREZ0SGZzbWZlbWNrT190V2M1VUYydFR6WlJvWEtqdDBOMEhmbmtuU1BwSDdCaFNn?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "УНІАН",
+      "title": "Усе стане дорожчим: аналітик попередив про неочевидні наслідки підняття цін на проїзд у Києві - УНІАН",
+      "excerpt": "Згадка у виданні УНІАН",
+      "date": "14 липня 2026",
+      "dateTS": 1784012400.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNHZ6SkExSXBxaEZ2ckZuOXU5alJvMkZtdU1xNFRhTU5lcGRUd3lHQTJOMkFuZXZkRWlfaUxsUThLVUpCekZOYmNsbHd3dVlvT0pEOUFGR3JidFpTMEJWQlpuYTlKb3R0c2ltbFhjS1FIYnI3Z3BONXJJaFIwcHR3Y3pXaUN2enNKWlVUa2Q0X0hLa1JISFg0VjBBRHVuanUwZ1hwRmc5SmxHZ2VRcktOM3hvcmMzMHhNNE9DZmNIWWFVRTQ5TG1oYjBiVjFjdDEwSlBfdWFB0gHbAUFVX3lxTE9rSjdBXzhKdHNhdXZjMHdaeHJfa3ZNUkZQaE95QmdPaWl3NEdKUkFrdjZtaG91d2h0ZmgwOEtlQnNLczJ5dUpZTnRXdWdrYTZBNnFJeUhwaWdsbUhBbmhyU2VyZ3FJa24welE0U25QMGg3TlJWVjZROG9UR1dXUVhRckN5MTJvX1dGdUJnbDREekRkdDB6anhPN0g3SEJMUFBVVzAtYjJaWGtEQktKOTJESWVrOUMzSElEVEZ3OWNHd3lGY2FPbmFnRzZ0Szg1VHRfZlF4YThfSW5zNA?oc=5",
       "external": true,
       "featured": false
     },
