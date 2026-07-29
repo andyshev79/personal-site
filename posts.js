@@ -1,8 +1,99 @@
-// Автоматично оновлено: 2026-07-28 10:26 UTC
+// Автоматично оновлено: 2026-07-29 10:31 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "НБУ продовжує тримає долар на міжбанку, заливаючи ринок інтервенціями та сжавши зуби. Тягне до рі...",
+      "excerpt": "",
+      "date": "29 липня 2026",
+      "dateTS": 1785312888.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/469",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Південний ГЗК частково призупиняє видобуток через блокування портів й фактичну неможливість експо...",
+      "excerpt": "",
+      "date": "28 липня 2026",
+      "dateTS": 1785258967.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/468",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "@&ять це плюс до 3% до кінцевої ціни єє для бізнесу",
+      "excerpt": "",
+      "date": "28 липня 2026",
+      "dateTS": 1785240817.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/466",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "⚡️📈 НКРЕКП ухвалила рішення підвищити з 1 серпня тарифи Укренерго на передачу електроенергії для ...",
+      "excerpt": "",
+      "date": "28 липня 2026",
+      "dateTS": 1785240817.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/467",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "🔻 Після фактичної зупинки морського експорту закупівельні ціни на зернові та ріпак почали падати:...",
+      "excerpt": "",
+      "date": "28 липня 2026",
+      "dateTS": 1785240276.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/465",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Міжбанк долар 44,99 - 45,00  Такс... це вже заявка на перехід межі. Якщо до закриття не відкинуть...",
+      "excerpt": "",
+      "date": "28 липня 2026",
+      "dateTS": 1785239609.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/464",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "У I півріччі 2026 року споживання металопрокату в Україні зросло на 5 %, хоча динаміка за квартал...",
+      "excerpt": "",
+      "date": "28 липня 2026",
+      "dateTS": 1785239269.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/462",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +105,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/461",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
