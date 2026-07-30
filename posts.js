@@ -1,8 +1,73 @@
-// Автоматично оновлено: 2026-07-29 10:31 UTC
+// Автоматично оновлено: 2026-07-30 10:14 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Міжбанк 44.61 - 44.67 Перед рішенням по ставці НБУ й макро прогнозами, які будуть через годину",
+      "excerpt": "",
+      "date": "30 липня 2026",
+      "dateTS": 1785405895.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/474",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЦИФРА ДНЯ Середня брутто зарплата в червні в Україні зросла до 32 783грн (на руки  25 273 грн) Се...",
+      "excerpt": "",
+      "date": "29 липня 2026",
+      "dateTS": 1785340368.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/473",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Ще один на черзі (((  Полтавський ГЗК (Ferrexpo), може призупинити роботу через морську блокаду. ...",
+      "excerpt": "",
+      "date": "29 липня 2026",
+      "dateTS": 1785335395.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/472",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Про порти в матеріалі УП",
+      "excerpt": "",
+      "date": "29 липня 2026",
+      "dateTS": 1785331180.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/471",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Ціни палива тимчасово стабілізувались. Найбільший приріст дизель +17% (повернувся на максимуми як...",
+      "excerpt": "",
+      "date": "29 липня 2026",
+      "dateTS": 1785325748.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/470",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +79,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/469",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
