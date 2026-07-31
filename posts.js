@@ -1,8 +1,86 @@
-// Автоматично оновлено: 2026-07-30 10:14 UTC
+// Автоматично оновлено: 2026-07-31 10:29 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЦИФРИ ДНЯ 😢 Украина потеряла около 50 000 солдат на поле боя. Еще 400 тыс. — раненые, огромное ко...",
+      "excerpt": "",
+      "date": "31 липня 2026",
+      "dateTS": 1785485924.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/480",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "🚇📈 Укрзалізниця повідомила, коли тарифи на вантажні перевезення зростуть на 30%  Ці зміни передба...",
+      "excerpt": "",
+      "date": "30 липня 2026",
+      "dateTS": 1785423900.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/479",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Ключові показники прогнозу НБУ  Публікації повного інфляційного звіту очікуються через тиждень - ...",
+      "excerpt": "",
+      "date": "30 липня 2026",
+      "dateTS": 1785418364.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/478",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЩОДО СТАВКИ НБУ ТА КУРСУ  Підвищення ставки було неочікуванним. Зараз ринок буде переварювати все...",
+      "excerpt": "",
+      "date": "30 липня 2026",
+      "dateTS": 1785417564.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/477",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Україна отримала 3.5 млрд євро по оборонному напрямку по Ukraine Support  Loan Мінфін",
+      "excerpt": "",
+      "date": "30 липня 2026",
+      "dateTS": 1785409909.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/476",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "🏦❗️НБУ підвищив облікову ставку до рівня 15,5% річних.   Підвищення ключової ставки відбулося впе...",
+      "excerpt": "",
+      "date": "30 липня 2026",
+      "dateTS": 1785409525.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/475",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +92,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/474",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -840,6 +918,19 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
+      "tagLabel": "ТСН",
+      "title": "Катастрофа з бензином, дорогий долар і висока інфляція: експерти ошелешили екопрогнозом на серпень 2026 - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
+      "date": "31 липня 2026",
+      "dateTS": 1785475286.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLTB0N0pWZVNsQWh0aVNWa1FqRXFBSHlWbkVScVVMLWx4d2p2NWhSUExwS2xjc0tSbXRTYk55YUJlZkdIT1VMQmV3X3gzcE1FalplbmVkalBMZzRIOGl1R18tYW8xNHVnMnEya1R4ZE5RM3hvVnFqV3NLN1hKS1Bmbno2MG1Db3ZwWkVrNDRLWjNwYlhrOThCV2JONTExSFBhMERkdlVwQXZUVjFRTExrTnZGVzJRdDQ0RDIzM3IwZWl4dmFZdjJieUdpTdIB0AFBVV95cUxQbUUzaGx5WHMzWmNTcXYyQVhOWGpMVjNpaUkxTlBkdG1uWldoQzhOMjF3TXRnVnRUdWV3a21xMFNHUDRNam9mY3RFRXJVcHFDeVdyaVd0Q2RnN0lyV1BsWVhuX3ZubzVST3YxbWxESGpfbDdSMUlodktlamxaaDJ2Q1JWZ2J1MDU4NnFPemVYT0l6dnFzalY1dmdDdlVja2VTNWJxZllZcjBNaTVUOURpVTQ3YUt0ZEZrdXBUUnhkajcwQVdhamRqbHBHNkdtdURI?oc=5",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
       "tagLabel": "focus.ua",
       "title": "Блокування українських портів: що буде з гривнею, паливом і цінами - focus.ua",
       "excerpt": "Згадка у виданні focus.ua",
@@ -848,7 +939,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUGVGcGdpZVBMUGkzV05DUG1hNHhGamMxclpFaTlKUHZxcXE1SVhnSTA4aldCYUtzYzlxckJiQ0FKNV9tWDZZNnV3VlpxTzJWZnNDbk5zR3dtNktKUUdtdnY2eEVJa3dNZG4zazNLRVZCcWhkQ051UGUxUUFGR0lvUk0yRXVKTG1jLUE3STNXUm5sVm05RGQ4SW8zOGZ5b3ZFaEI4MzBXUlQyX1lUcDFzUU9ZZmJXWjB3TTlQNNIBwgFBVV95cUxORVJ1YTFRUV9aeTdrRmd6NUItT1J4SDVTcksyZVcyVDZQOThDY0o2YlBoaERJUXJJc2hXalFPZG1iT0s3OHROdUF3SEtnYkE4dk55NFYwYzFOQjdwSFJxdlZNLS1CaDlLdlYxNy12bFBXUFBuMVpuQzlfb2dWSE1FRENIVGtSMnVVMlpkazVkUFprdDlqU3R1OHZVN2hpdFdBQ3NHeG1aRXJvYlRuMW9kUlpHRGpaTWZtc0pvZkdJeHBQZw?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
