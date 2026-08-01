@@ -1,8 +1,86 @@
-// Автоматично оновлено: 2026-07-31 10:29 UTC
+// Автоматично оновлено: 2026-08-01 09:51 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ШІ портфель липень 2026 результати",
+      "excerpt": "",
+      "date": "1 серпня 2026",
+      "dateTS": 1785569080.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/487",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ШІ ПОРТФЕЛЬ (результат липня, портфель на серпень)  Як й обіцяв в (https://t.me/shevchyshyn_trend...",
+      "excerpt": "",
+      "date": "1 серпня 2026",
+      "dateTS": 1785569039.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/486",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "В липні 2026 року НБУ залив в ринок валютних інтервенцій на 4'793 млн дол (-5,8% м/м) для покритт...",
+      "excerpt": "",
+      "date": "1 серпня 2026",
+      "dateTS": 1785564877.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/485",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Дякую партнерам за наше \"щасливе дитинство\" ))) Відлетіли від дна.  Завдяки зовнішнім надходження...",
+      "excerpt": "",
+      "date": "31 липня 2026",
+      "dateTS": 1785508905.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/483",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТОРГІВЛЯ ТОВАРАМИ: ГЛИБОКИЙ ДЕФІЦИТ За 6міс2026 ⬆️Експорт товарів зріс на 4,6% до $19,79 млрд    ...",
+      "excerpt": "",
+      "date": "31 липня 2026",
+      "dateTS": 1785505727.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/482",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ГРОШОВІ ПЕРЕКАЗИ В УКРАЇНУ  За 6міс2026 грошові перекази впали на 6,1% до 3,68 млрд дол. (проти п...",
+      "excerpt": "",
+      "date": "31 липня 2026",
+      "dateTS": 1785503680.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/481",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +92,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/480",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -921,12 +999,25 @@ const CONTENT = {
       "tagLabel": "ТСН",
       "title": "Катастрофа з бензином, дорогий долар і висока інфляція: експерти ошелешили екопрогнозом на серпень 2026 - ТСН",
       "excerpt": "Згадка у виданні ТСН",
-      "date": "31 липня 2026",
-      "dateTS": 1785475286.0,
+      "date": "1 серпня 2026",
+      "dateTS": 1785576722.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLTB0N0pWZVNsQWh0aVNWa1FqRXFBSHlWbkVScVVMLWx4d2p2NWhSUExwS2xjc0tSbXRTYk55YUJlZkdIT1VMQmV3X3gzcE1FalplbmVkalBMZzRIOGl1R18tYW8xNHVnMnEya1R4ZE5RM3hvVnFqV3NLN1hKS1Bmbno2MG1Db3ZwWkVrNDRLWjNwYlhrOThCV2JONTExSFBhMERkdlVwQXZUVjFRTExrTnZGVzJRdDQ0RDIzM3IwZWl4dmFZdjJieUdpTdIB0AFBVV95cUxQbUUzaGx5WHMzWmNTcXYyQVhOWGpMVjNpaUkxTlBkdG1uWldoQzhOMjF3TXRnVnRUdWV3a21xMFNHUDRNam9mY3RFRXJVcHFDeVdyaVd0Q2RnN0lyV1BsWVhuX3ZubzVST3YxbWxESGpfbDdSMUlodktlamxaaDJ2Q1JWZ2J1MDU4NnFPemVYT0l6dnFzalY1dmdDdlVja2VTNWJxZllZcjBNaTVUOURpVTQ3YUt0ZEZrdXBUUnhkajcwQVdhamRqbHBHNkdtdURI?oc=5",
       "external": true,
       "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "ТСН",
+      "title": "Долар може зрости до 46 гривень: економісти пояснили, що буде з курсом у серпні - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
+      "date": "1 серпня 2026",
+      "dateTS": 1785567600.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb1dYejlrOUpYaDdnMjZCSWJ0b2Q0UFRJeXhiSXFWbXJBY0hQbFJpaDUyTThGMlJJWFd0QU9rdzBfTWpZeDVYOW5Xbk5UbXZWOElUUXFndzJ6cS1acExoaUpFTVdiNEJ5Znl6U1RLNF9tQ2YwQ3Nfb3F5c0tTU1A3TXpHbVNFcmI3WjZHX1FkVnFVRFA3TUktcWhsRi1EbTVMenl2QUZsN2dDZGpEQ3pHelc0bG1SSTB6cUHSAb8BQVVfeXFMUDBXSkdkWkxncE96c25vdmtMTnlEN3JBRmNLNnZUY1ZnVmxDbzhIZ01UamVfME5yaGtaaF9GWWN5dFNtT2poVnBtQzloLVl5UUJCTU5DZ2loUng5dUZBcUwwNnRNS1VwdEhWcDBUWUE5NnhuSldhUmxydDB3Z2tDcHA4alQ1ckk3d2ZDRlhSVm1yeUZYTnczY2FGaXM3RVN2SUg5eDhac090ZWRVd3hZb016TXkxTUFDa2NJVnV0LUk?oc=5",
+      "external": true,
+      "featured": false
     },
     {
       "source": "news",
