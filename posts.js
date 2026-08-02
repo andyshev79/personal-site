@@ -1,4 +1,4 @@
-// Автоматично оновлено: 2026-08-01 09:51 UTC
+// Автоматично оновлено: 2026-08-02 09:49 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
@@ -997,14 +997,66 @@ const CONTENT = {
       "source": "news",
       "tag": "news",
       "tagLabel": "ТСН",
+      "title": "В Україні очікують новий стрибок цін: економіст назвав головні причини інфляції у серпні - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
+      "date": "2 серпня 2026",
+      "dateTS": 1785645000.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOUZYNVVGaHdWNUtQN0VRRWRlblNUU1ZXTEVsbVhXcEdKcUVqUXZrTUxnXzZQZnlvbDZrTlZ5VTE2dHhBQWE0bnQ4TXlnY0hPUEtrQWtqUXEtWnBxbTNpUVNNZTBMdVRjNGdOSnVwYW1VaHhvTEJJNUlFWE9tWU9PRG5KNUlnWUZ6cUtTSzZLdmh0NVY1Y0NVcktOSVVwUHhDeVpYcDJKb3BkWDRwTFM2djIxWTFNdFhmYlZNRVJrVTRwYVhzZjBhbXZnVznSAdIBQVVfeXFMTUhMR01GTzMxSFVtRnU1elB0V3JWaV9qOGRzWlRDVE5vampFVVRXcWx3NFBza0F3MzlXSHg0X09pdkNKd21QQ3R5OEI2ZHlBQmZKRnFYOTZQenJOelczUnRzUDdFeXN3TWVhOHFXVGZaM053VldEYzVVQ1psbzdUUmpMck84TkF2TElCRTdjaVhBWHphd3RwOEZra0ZVSTcyb1FWdzVFN1lHc1JISGhsN013bW1iVnVud3YtbUc3QlpHVlpPc18xTDdiTzB6V1NvRDFB?oc=5",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "ТСН",
       "title": "Катастрофа з бензином, дорогий долар і висока інфляція: експерти ошелешили екопрогнозом на серпень 2026 - ТСН",
       "excerpt": "Згадка у виданні ТСН",
-      "date": "1 серпня 2026",
-      "dateTS": 1785576722.0,
+      "date": "2 серпня 2026",
+      "dateTS": 1785643301.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLTB0N0pWZVNsQWh0aVNWa1FqRXFBSHlWbkVScVVMLWx4d2p2NWhSUExwS2xjc0tSbXRTYk55YUJlZkdIT1VMQmV3X3gzcE1FalplbmVkalBMZzRIOGl1R18tYW8xNHVnMnEya1R4ZE5RM3hvVnFqV3NLN1hKS1Bmbno2MG1Db3ZwWkVrNDRLWjNwYlhrOThCV2JONTExSFBhMERkdlVwQXZUVjFRTExrTnZGVzJRdDQ0RDIzM3IwZWl4dmFZdjJieUdpTdIB0AFBVV95cUxQbUUzaGx5WHMzWmNTcXYyQVhOWGpMVjNpaUkxTlBkdG1uWldoQzhOMjF3TXRnVnRUdWV3a21xMFNHUDRNam9mY3RFRXJVcHFDeVdyaVd0Q2RnN0lyV1BsWVhuX3ZubzVST3YxbWxESGpfbDdSMUlodktlamxaaDJ2Q1JWZ2J1MDU4NnFPemVYT0l6dnFzalY1dmdDdlVja2VTNWJxZllZcjBNaTVUOURpVTQ3YUt0ZEZrdXBUUnhkajcwQVdhamRqbHBHNkdtdURI?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Главред",
+      "title": "Водіїв попередили про новий стрибок цін на пальне: названо терміни - Главред",
+      "excerpt": "Згадка у виданні Главред",
+      "date": "1 серпня 2026",
+      "dateTS": 1785609763.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS0doR2k0Y1dxMUpaTHpXbXVySzcwTkpwRVdjTXJvWmdlbDhOUjg0N1NQMFg5NVlWeE9qcW91UFgwNFhGaDh4dkVxWlpoY0NXamg3a1NEU0dxTVNsUnY4ZGhhZTFpdDc5cDF2Z3pkQTFKcG0zRmpWTms3VGRlc2ZXV2xkaVgzS1Z3YmZFdXZRSkVsMGd6eU1jV1JqYm1xeHY1c0pmTGxVMXBXQlo4ZV9B0gGvAUFVX3lxTE5LR2hHaTRjV3ExSlpMeldtdXJLNzBOSnBFV2NNcm9aZ2VsOE5SODQ3U1AwWDk1WVZ4T2pxb3VQWDA0WEZoOHh2RXFaWmhjQ1dqaDdrU0RTR3FNU2xSdjhkaGFlMWl0NzlwMXZnemRBMUpwbTNGalZOazdUZGVzZldXbGRpWDNLVndiZkV1dlFKRWwwZ3p5TWNXUmpibXF4djVzSmZMbFUxcFdCWjhlX0E?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Новини.LIVE",
+      "title": "Найближчими днями ціни на дизель можуть сягнути 100 грн за літр: експерт назвав причину - Новини.LIVE",
+      "excerpt": "Згадка у виданні Новини.LIVE",
+      "date": "1 серпня 2026",
+      "dateTS": 1785604020.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS2JhOE05M3pjYU5WejkxelRiMW1lZGJhNS1RNEFMOGEzRjJfRUs4MDNUTGpKYjA2UkpHTlVHS1d0MDcyOWNwdk0xOENKalFzWHdtVS1sTnF5UlB0b1Y5X2xETUF6NXpCY19Ya1M1M3J5QjJzYnkySUFydlBOMC0ybWZ6TXF5dFoxYmxSVlg1YWRkWWFGN1hOZHNtN0YxS0ZFYUZ2YU5pSVVFdWxGd0FsSnFpNmV3cTNfM1hnNlI4eVotX29jdUpz0gHMAUFVX3lxTE02UWsybEJSMW0yWG1pMHdWbThOa3hQdGxrU3pzS2pUb3JoTTVUT0liZnZQVDZfZlIyQmRGZkRhVGZ6cHQzSWl5eGJkVDFfOHlGOWxzRjRzbVhBaTNsTGllek5WdUR1NUw4VEZ0YUhVU1lmQWNDR2Y1ZERKWFp4UlJGb0N5OUF1bUpDMURqX0JxLTVGNUZpMkdCZ3RUSjAtcEx1eVJKWl9YTXpnTmFSaVBDdlJmRDFNNXdsaDNYY0R4RnR1N2ZHOXFMRjU4WA?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "radiotrek.rv.ua",
+      "title": "Долар може сягнути 46 гривень: економісти озвучили прогноз на серпень - radiotrek.rv.ua",
+      "excerpt": "Згадка у виданні radiotrek.rv.ua",
+      "date": "1 серпня 2026",
+      "dateTS": 1785594600.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbzRVR1ROTEhyR0R5SXFWcmt5MkxQdGJpWUE4eWMteDUzNkJMSVNWQzktaGpXaHc5QmZoLXpHcUgwRnp1Q2o2elBqYUxtWVV0N1NZTWVqOWdva2QzM1c5d2JCQXFaTk5weWtidWt4LTZJRDdzZHBnZy1YN0hoOTRjTmQzTHI4R0FycDVSWEpVVU5IcnRNTWptNzBNMXF3TnFOb0V5RmNzcllUWUVVbjUw0gGuAUFVX3lxTE5FYmh5TEZVVFA0NnlXWkl5dHB1SVZVVGx1Z2JWSFZiUjhvWFpBR3lfc0l6N2hBZlJkd1ZVSFJ3MFJJMlpOZTI2RThfbUduUXRuUER6T3FabmQ4UWhla3Raa1J2NVFDbGNRcm9DeHBkQS1YWjFhcVZuTUFXelNoSHBEUGRUaVZwVmxNc2I3TVBIaDA2cS1GZDJnZTEzYy1zWjlUaklLRWduRW94bG9PQQ?oc=5",
+      "external": true,
+      "featured": false
     },
     {
       "source": "news",
