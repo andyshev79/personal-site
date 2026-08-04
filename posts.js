@@ -1,8 +1,34 @@
-// Автоматично оновлено: 2026-08-03 11:14 UTC
+// Автоматично оновлено: 2026-08-04 10:28 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ШІ та безробіття (Marketwatch):  🟠ШІ вже додає +0.15% до загального безробіття в США - небагато, ...",
+      "excerpt": "",
+      "date": "4 серпня 2026",
+      "dateTS": 1785838024.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/509",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ПРОМИСЛОВІСТЬ УКРАЇНИ В 1П2026 СИМВОЛІЧНИЙ МІНУС  Ох так багато можно розповісти про цей мінус 0,...",
+      "excerpt": "",
+      "date": "3 серпня 2026",
+      "dateTS": 1785770144.0,
+      "readTime": "3 хв",
+      "url": "https://t.me/shevchyshyn_trends/506",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +40,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/505",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1100,6 +1126,32 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
+      "tagLabel": "УНІАН",
+      "title": "До 46 гривень за долар: аналітик пояснив, чому гривня ризикує ослабнути вже у серпні - УНІАН",
+      "excerpt": "Згадка у виданні УНІАН",
+      "date": "3 серпня 2026",
+      "dateTS": 1785749400.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOME5qelBEdFVlWU1CU3RJV2hpXzZHOGtaaE1FMzlPMzBaczlQaGxSeVMxWEVyRWV6MEliWDNFclQtblMtVy1KRGhrejBxanFqNjBkc2xjWkI5dDIzQmxsYUF4UkpkekN4c2NkSkV6VEZWblFBUWpnWWV1OHYtcGxUYXYzbFZVeDRfZi1tR1NJWVd0M3dabU93U1RJTlV0RXlGaFdiUnIyVnVYQVZ3SWFLSG5BT0w3ZW9iOXBJMkZ4R1QzYVFOTk1qQU9GWHpZYnJjYTc5YWIxZEMxWWltanBzd0RvUHFKQlVrb091WUEwb1FFYlphRWZSeGN30gH6AUFVX3lxTE4wTmp6UER0VWVZTUJTdElXaGlfNkc4a1poTUUzOU8zMFpzOVBobFJ5UzFYRXJFZXowSWJYM0VyVC1uUy1XLUpEaGt6MHFqcWo2MGRzbGNaQjl0MjNCbGxhQXhSSmR6Q3hzY2RKRXpURlZuUUFRamdZZXU4di1wbFRhdjNsVlV4NF9mLW1HU0lZV3Qzd1ptT3dTVElOVXRFeUZoV2JScjJWdVhBVndJYUtIbkFPTDdlb2I5cEkyRnhHVDNhUU5OTWpBT0ZYellicmNhNzlhYjFkQzFZaW1qcHN3RG9QcUpCVWtvT3VZQTBvUUViWmFFZlJ4Y3c?oc=5",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Главред",
+      "title": "Долар готується до нового стрибка: експерт назвав терміни та можливий курс - Главред",
+      "excerpt": "Згадка у виданні Главред",
+      "date": "2 серпня 2026",
+      "dateTS": 1785694880.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOE5Mb1M1c0M3UFU3OEt6cG9wUERCaUhuNkRkZk1haW1YRWFHVTkwdUZjM3lpZzVpYzdfOVBJTFRqbTB2b2ZuUHQxWkF1Z1RUM0hyNmpxdjVJNWU3d29QaGRfczl0SGwtZVdEcVdRSGxDRkxFUEZMc1FUbC1fZDlobHpQWi1HREV1YzRHZTJldnV5SGZsWTZCRGRYTHBqY3d1M08wSGZoTkV6Sko4LWZINHFGM3NWX09HLUlQVmdR0gG-AUFVX3lxTE44TkxvUzVzQzdQVTc4S3pwb3BQREJpSG42RGRmTWFpbVhFYUdVOTB1RmMzeWlnNWljN185UElMVGptMHZvZm5QdDFaQXVnVFQzSHI2anF2NUk1ZTd3b1BoZF9zOXRIbC1lV0RxV1FIbENGTEVQRkxzUVRsLV9kOWhselBaLUdERXVjNEdlMmV2dXlIZmxZNkJEZFhMcGpjd3UzTzBIZmhORXpKSjgtZkg0cUYzc1ZfT0ctSVBWZ1E?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
       "tagLabel": "Главред",
       "title": "Долар готується до нового стрибка: експерт назвав терміни та можливий курс - Главред",
       "excerpt": "Згадка у виданні Главред",
@@ -1120,6 +1172,19 @@ const CONTENT = {
       "dateTS": 1785675600.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc0pkUW1ueWZKeHY5RDJaX2ZaOThUcWtEZmUwc1JvZkJjUG1zZVpEWUlHdjMxS2JBb1VPRGxSUzcxSkZ2dU8zbzBPTk82Y2E3UmUwRXhDRHlBY2ZfcE5QdHFLVnM1UVZRTTB1a1hqRzBnRkRzZmhtVXlYaUVIQW5DWHEzME5vZDVrel80eEF2OXpqcF81VWNhSkJBU1o3d1lOSUN1bEJkdnIxMkt1S1JNOEQ5RG5xb3oxTHRpaEt4ZGFMbUHSAcgBQVVfeXFMUFR1UzJ5TVVfdDZnc2pWTlFXVUZBbVA4cDZLa3d0N3ExV0xJS3RWOFN6dDU4VTk0eUUyM1hTeWtoYVpHd3hocEhpTEdIb3NYa2UxYlR3NWJmZjYzR3pydjNUa3hxSFBXcFV2NFk3V2JCVTBqRndTVFp6S1NqUlVBaUM4X253VHViaXRIS0hEYnl0WTVKWWgyenQ3akd5UnRqWGUzbkZjNktDc0cwUEJiNURxU0JxNkJxZjZWTDhzc0t5cS1QOVprc2E?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "cryptos.tv",
+      "title": "Економіст попередив про новий стрибок долара: за яких умов курс перевищить 46 гривень - cryptos.tv",
+      "excerpt": "Згадка у виданні cryptos.tv",
+      "date": "2 серпня 2026",
+      "dateTS": 1785665400.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ab3pjMTdzWGxNRnZsamZCdDl0MGNFT05nc0JRQXh2YnJUSTQzaG1aMm4zLVYwUDJZaDBHYzZFUVU3dEVKR2F1UTBlS3h5SjJuR0gwY19ISnVITlRQWG9IUDR4ZVNUWkVLek50TDZPa2FvTGo1UFRseEpGaEo4eVE?oc=5",
       "external": true,
       "featured": false
     },
