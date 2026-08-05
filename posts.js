@@ -1,8 +1,99 @@
-// Автоматично оновлено: 2026-08-04 10:28 UTC
+// Автоматично оновлено: 2026-08-05 10:27 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Продовжую рефлексувати, по мірі надходження інформації та подробиць про наслідки сьогоднішньої ат...",
+      "excerpt": "",
+      "date": "5 серпня 2026",
+      "dateTS": 1785921485.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/516",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ДРОБИНА ЕСКАЛАЦІЇ  Я зазвичай не коментую обстріли. Хоча болить й тисне воно піздець (особливо ко...",
+      "excerpt": "",
+      "date": "5 серпня 2026",
+      "dateTS": 1785919733.0,
+      "readTime": "3 хв",
+      "url": "https://t.me/shevchyshyn_trends/515",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ПОПИТ ТА ПРОПОЗИЦІЯ ВАЛЮТИ У ЛИПНІ (ПОВНІ ДАНІ)  👉МІЖБАНК  - попит: 8,814 млрд дол (+0,6%) - друг...",
+      "excerpt": "",
+      "date": "4 серпня 2026",
+      "dateTS": 1785857478.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/514",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "МІНФІН ПРОВІВ ПЕРШЕ РОЗМІЩЕННЯ ПІСЛЯ ПІДВИЩЕННЯ НБУ СТАВКИ ДО 15,5%  1. Залучив 6,5 млрд грн (28 ...",
+      "excerpt": "",
+      "date": "4 серпня 2026",
+      "dateTS": 1785854619.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/513",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "BRENT ПАДАЄ НА 4,2% Це може послабити тиск на європейську переробку й стримати зростання цін в Ук...",
+      "excerpt": "",
+      "date": "4 серпня 2026",
+      "dateTS": 1785850384.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/512",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Продовжуючи тему ВВП за 2кв2026  Ось ВВП й деякі складові  ВВП +0,6% ——— 🔴Агро -0,7% 🟢Промисловіс...",
+      "excerpt": "",
+      "date": "4 серпня 2026",
+      "dateTS": 1785849075.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/511",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЦИФРА ДНЯ  ВВП України в 2кв2026 зріс на 0,6%.  Це значить, що ВВП у першому півріччі 2026 показа...",
+      "excerpt": "",
+      "date": "4 серпня 2026",
+      "dateTS": 1785844059.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/510",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +105,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/509",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
