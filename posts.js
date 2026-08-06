@@ -1,8 +1,34 @@
-// Автоматично оновлено: 2026-08-05 10:27 UTC
+// Автоматично оновлено: 2026-08-06 10:30 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Є й позитивні новини 100 грн за дизель скасовується. Все ж таки, падіння світових цін нафти  впли...",
+      "excerpt": "",
+      "date": "6 серпня 2026",
+      "dateTS": 1786000853.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/518",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Перелік брендів та бізнесів які зазнали втрат сьогодні через російський обстріл:  ▪️Новус ▪️Новая...",
+      "excerpt": "",
+      "date": "5 серпня 2026",
+      "dateTS": 1785934422.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/517",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +40,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/516",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1230,6 +1256,19 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
+      "tagLabel": "Vesti Ua",
+      "title": "Курс долара у серпні: економісти пояснили, до чого готуватися - Vesti Ua",
+      "excerpt": "Згадка у виданні Vesti Ua",
+      "date": "3 серпня 2026",
+      "dateTS": 1785741444.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTU0OHBTUEtQRWxGWThsTUlZejVCZnp4aHBmUFlaeW5qQWpaRE91YlliOGRVQlc2S2xEU0I2dVh1akdzcjVyNW84aVc2eUNqR1NsWXdQYnR1YUsySkI0SmVGaXJZTFlJZk45SG1UTTN3RG5yRFdweVRRa09GTDZHd3E1QnB3czVCQkM5ODRqS1Jxd08td2xLTlp5SEd0VVpNRzNYdVJlUjY3ckxFU0tydA?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
       "tagLabel": "Главред",
       "title": "Долар готується до нового стрибка: експерт назвав терміни та можливий курс - Главред",
       "excerpt": "Згадка у виданні Главред",
@@ -1308,9 +1347,22 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "Новини.LIVE",
-      "title": "Найближчими днями ціни на дизель можуть сягнути 100 грн за літр: експерт назвав причину - Новини.LIVE",
-      "excerpt": "Згадка у виданні Новини.LIVE",
+      "tagLabel": "Главред",
+      "title": "Водіїв попередили про новий стрибок цін на пальне: названо точні терміни - Главред",
+      "excerpt": "Згадка у виданні Главред",
+      "date": "1 серпня 2026",
+      "dateTS": 1785609720.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEEwU1FXdEd4VDhlUmRQME5TaFRjWGFBcmRBa1E0MUF4RTFncjZDUDVCNlJBSWRCNVUxeUZndnM3MHdDaWJKTURZNl93c28xNm42LWc1MkZ1WjNEMjFNZFJLWGQzOU9nSzFxSmllck5tLVdUY2tyTEQwaVJJbUFsYVdoa2lGVi1IbXRmZVBmYU5DWDUxbVlfU1lYMzIzWDQ2MmdRRk9TQW5mUdIBrwFBVV95cUxOS0doR2k0Y1dxMUpaTHpXbXVySzcwTkpwRVdjTXJvWmdlbDhOUjg0N1NQMFg5NVlWeE9qcW91UFgwNFhGaDh4dkVxWlpoY0NXamg3a1NEU0dxTVNsUnY4ZGhhZTFpdDc5cDF2Z3pkQTFKcG0zRmpWTms3VGRlc2ZXV2xkaVgzS1Z3YmZFdXZRSkVsMGd6eU1jV1JqYm1xeHY1c0pmTGxVMXBXQlo4ZV9B?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Новини.Live",
+      "title": "Найближчими днями ціни на дизель можуть сягнути 100 грн за літр: експерт назвав причину - Новини.Live",
+      "excerpt": "Згадка у виданні Новини.Live",
       "date": "1 серпня 2026",
       "dateTS": 1785604020.0,
       "readTime": "2 хв",
