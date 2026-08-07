@@ -1,8 +1,34 @@
-// Автоматично оновлено: 2026-08-06 10:30 UTC
+// Автоматично оновлено: 2026-08-07 08:47 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Ключевые итоги операции МоЛоЧКа в цифрах. Операция началась 10 июля 2026 года.   🔴Зерновой экспор...",
+      "excerpt": "",
+      "date": "6 серпня 2026",
+      "dateTS": 1786031121.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/521",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "УКРАЇНСЬКИЙ ЕКСПОРТ У ЛИПНІ НА МІНІМУМАХ З ЛИСТОПАДА 2025  Митниця опублікувала свіжі дані по екс...",
+      "excerpt": "",
+      "date": "6 серпня 2026",
+      "dateTS": 1786027133.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/519",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +40,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/518",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1243,6 +1269,19 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
+      "tagLabel": "Радіо ТРЕК",
+      "title": "Долар може різко подорожчати вже у серпні: фінансовий аналітик назвав можливий курс - Радіо ТРЕК",
+      "excerpt": "Згадка у виданні Радіо ТРЕК",
+      "date": "3 серпня 2026",
+      "dateTS": 1785763200.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObUduTll4TlFjQjlWQ3Zvdk1vLXhTV3RMbThFNWlTRVoyWm51eEZyaU5BS1NRLWFOY3VlYTAydmhmYnFOYXZKWFdNWHphZzdwaV9UM0EzMDl0c3diMFlWQmFQbGtuOWRsdU1tR0FtQmEtQk43UE5EM1AxWHVFV0hEdlJwME1ZTVBNdTNpckY1VXNjQ0FMTXRWX0N5R1M1dWdOVGY2bDNGMS1hZFMtSHlYRE8zM3VVWDlPakdEZU9kUWIzRmpfSjcw0gHGAUFVX3lxTE84dlZnRHFfYzBSRVZoR3BaWllxSVhsTGF0eEdSXzdYdjk4RGVscGZnSHBfWVl3OHQzOTI0MGFpTkhsb1E4WHN5eDZQZU5FOFBVMlZtNEt0TVY5TjJ2ZHBWSWRqUGdBZ1V0X2FaMFBBUm1wZVo5U2pSXy11ekxRb2ZSQThHcndqZ0tsbnZramw3bmFTdk5RMmF6dXRSTl9ZQUZTOW4xbzRxUXFFU0w2eGdvMVgtQ0V5bXNlZDBYdmMxWXdqVjlkdw?oc=5",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
       "tagLabel": "УНІАН",
       "title": "До 46 гривень за долар: аналітик пояснив, чому гривня ризикує ослабнути вже у серпні - УНІАН",
       "excerpt": "Згадка у виданні УНІАН",
@@ -1429,7 +1468,7 @@ const CONTENT = {
       "title": "Блокування українських портів: що буде з гривнею, паливом і цінами - focus.ua",
       "excerpt": "Згадка у виданні focus.ua",
       "date": "24 липня 2026",
-      "dateTS": 1784871352.0,
+      "dateTS": 1784876400.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUGVGcGdpZVBMUGkzV05DUG1hNHhGamMxclpFaTlKUHZxcXE1SVhnSTA4aldCYUtzYzlxckJiQ0FKNV9tWDZZNnV3VlpxTzJWZnNDbk5zR3dtNktKUUdtdnY2eEVJa3dNZG4zazNLRVZCcWhkQ051UGUxUUFGR0lvUk0yRXVKTG1jLUE3STNXUm5sVm05RGQ4SW8zOGZ5b3ZFaEI4MzBXUlQyX1lUcDFzUU9ZZmJXWjB3TTlQNNIBwgFBVV95cUxORVJ1YTFRUV9aeTdrRmd6NUItT1J4SDVTcksyZVcyVDZQOThDY0o2YlBoaERJUXJJc2hXalFPZG1iT0s3OHROdUF3SEtnYkE4dk55NFYwYzFOQjdwSFJxdlZNLS1CaDlLdlYxNy12bFBXUFBuMVpuQzlfb2dWSE1FRENIVGtSMnVVMlpkazVkUFprdDlqU3R1OHZVN2hpdFdBQ3NHeG1aRXJvYlRuMW9kUlpHRGpaTWZtc0pvZkdJeHBQZw?oc=5",
       "external": true,
@@ -1516,9 +1555,9 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "УНІАН",
-      "title": "Усе стане дорожчим: аналітик попередив про неочевидні наслідки підняття цін на проїзд у Києві - УНІАН",
-      "excerpt": "Згадка у виданні УНІАН",
+      "tagLabel": "unian.ua",
+      "title": "Усе стане дорожчим: аналітик попередив про неочевидні наслідки підняття цін на проїзд у Києві - unian.ua",
+      "excerpt": "Згадка у виданні unian.ua",
       "date": "14 липня 2026",
       "dateTS": 1784012400.0,
       "readTime": "2 хв",
