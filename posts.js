@@ -1,8 +1,112 @@
-// Автоматично оновлено: 2026-08-07 08:47 UTC
+// Автоматично оновлено: 2026-08-08 08:29 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Якщо темпи виїзду першого піврічча в 2025 році будуть збережені, то по року можемо отримати найбі...",
+      "excerpt": "",
+      "date": "8 серпня 2026",
+      "dateTS": 1786176574.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/534",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "як не згадати класику...  )))",
+      "excerpt": "",
+      "date": "7 серпня 2026",
+      "dateTS": 1786110899.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/533",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Загадкові надходження до ЗВР, особливо по новій програмі USL.  Гроші заходять по USL? - так.  У З...",
+      "excerpt": "",
+      "date": "7 серпня 2026",
+      "dateTS": 1786110610.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/532",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЦИФРА ДНЯ Міжнародні резерви України 51,2 млрд дол НБУ",
+      "excerpt": "",
+      "date": "7 серпня 2026",
+      "dateTS": 1786105879.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/531",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЧИСТИЙ ПОПИТ НАСЕЛЕННЯ НА ГОТІВКОВИЙ ЄВРО ВИПЕРЕДЖАЄ ПОПИТ НА ДОЛАР  За липень 2026 чиста купівля...",
+      "excerpt": "",
+      "date": "7 серпня 2026",
+      "dateTS": 1786105710.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/530",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Доречі, сьогодні, 7 серпня, перший тендер за тримісячними ДС.  Замість повного задоволення заявок...",
+      "excerpt": "",
+      "date": "7 серпня 2026",
+      "dateTS": 1786101402.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/529",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Цікаво 🤪  Зазвичай мене просять долучитись до рейтингування, а тут сам попав в рейтинг )",
+      "excerpt": "",
+      "date": "7 серпня 2026",
+      "dateTS": 1786098383.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/528",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "До попереднього посту #НБУ #інфляція #ВВП",
+      "excerpt": "",
+      "date": "7 серпня 2026",
+      "dateTS": 1786098007.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/527",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -1198,71 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/403",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Хедж-фонди останній тиждень продавали технологічні акції найбільшими історичними темпами.  Тим ча...",
-      "excerpt": "",
-      "date": "20 липня 2026",
-      "dateTS": 1784537692.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/402",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "За оцінками Мінекономіки, реальний ВВП у травні 2026 зріс на 0,8%р/р  (+0,9% у квітні 2026 року),...",
-      "excerpt": "",
-      "date": "20 липня 2026",
-      "dateTS": 1784536694.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/401",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Вибори восени в рф, це фактично вибори ЗА чи ПРОТИ війни.  Якщо росіянє проголосують за діючу пар...",
-      "excerpt": "",
-      "date": "20 липня 2026",
-      "dateTS": 1784532477.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/400",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Не фіксований курс, але й не вільне ціноутворення. Це керована гнучкість.",
-      "excerpt": "",
-      "date": "19 липня 2026",
-      "dateTS": 1784475278.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/399",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Черговий валютний огляд вже на YouTube https://youtu.be/V9y3jXRbAWc",
-      "excerpt": "",
-      "date": "18 липня 2026",
-      "dateTS": 1784396296.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/398",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1309,12 +1348,12 @@ const CONTENT = {
       "source": "news",
       "tag": "news",
       "tagLabel": "Главред",
-      "title": "Долар готується до нового стрибка: експерт назвав терміни та можливий курс - Главред",
+      "title": "Врожай під загрозою: в Україні різко підскочать ціни на один базовий овоч - Главред",
       "excerpt": "Згадка у виданні Главред",
-      "date": "2 серпня 2026",
-      "dateTS": 1785694880.0,
+      "date": "3 серпня 2026",
+      "dateTS": 1785740130.0,
       "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOE5Mb1M1c0M3UFU3OEt6cG9wUERCaUhuNkRkZk1haW1YRWFHVTkwdUZjM3lpZzVpYzdfOVBJTFRqbTB2b2ZuUHQxWkF1Z1RUM0hyNmpxdjVJNWU3d29QaGRfczl0SGwtZVdEcVdRSGxDRkxFUEZMc1FUbC1fZDlobHpQWi1HREV1YzRHZTJldnV5SGZsWTZCRGRYTHBqY3d1M08wSGZoTkV6Sko4LWZINHFGM3NWX09HLUlQVmdR0gG-AUFVX3lxTE44TkxvUzVzQzdQVTc4S3pwb3BQREJpSG42RGRmTWFpbVhFYUdVOTB1RmMzeWlnNWljN185UElMVGptMHZvZm5QdDFaQXVnVFQzSHI2anF2NUk1ZTd3b1BoZF9zOXRIbC1lV0RxV1FIbENGTEVQRkxzUVRsLV9kOWhselBaLUdERXVjNEdlMmV2dXlIZmxZNkJEZFhMcGpjd3UzTzBIZmhORXpKSjgtZkg0cUYzc1ZfT0ctSVBWZ1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcEg5T3kyTU1kcGdmNWVOcU5aZ3lmS3hwRHBtODQ3QXRVTkEwRnhxNHMydWpKaHEzN0ZtbXVlamY4SnQwdlI4Z21lLXEyOHlRNG5oMDJnTW52VjR0SU83d040MnNjWkZxeU43R2ZJY0d1cE5CV3o5UlVJZ1hsUkhzN19wU01wMlVEVjJSRG12bElxUVpfR1lmVHZSU0lRclQyN0dqTnFOYi11WjdqM1pPdG45OXREQWtw0gG-AUFVX3lxTFAwY3RsQTZjVkNLdm9ReVZ2a2tIcjZnb1h6eU8ySG8xUzQ0bDZJUW1SblZGdG9rTlMya0lhLVREMGdQblBJeGpyUmZMR245ZkRBMVJIVHMzS3ZHOWRCaVN0QlBueXBoLXhhSFU0alVFd1owRjFIRUZ6Y2NGc0dPZEtYMTdOdUZxM2ExYno4cVAxS2J5dVpBLWVnRlR3TE1uaWwyTW9VWHlSZmZPQ3gwQnRjWmhUbnBMOFpjd1BuQUE?oc=5",
       "external": true,
       "featured": false
     },
@@ -1329,7 +1368,20 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc1NmMWZzQ0VXVVRWR0NHdVVNdFBvSy1ISnZNRG5DYm1RUG5POTJCSGVTR2RSNkJKaWt3QmRudHhBR2tfRDhsc3otN05hSFpvTjNXV0lobExSWkZqMzUwRmxSb1F4QTZ1TXlhY1BYZEZQaHNuei15ODlabDR1SmZrT21pTjRtek1OT1BkUkRLdUhWeS1JeTZGeXE2eG53SFlWZE5tQTh0ekg2bUJaV2lBa21QVDJmWnZY0gG-AUFVX3lxTE44TkxvUzVzQzdQVTc4S3pwb3BQREJpSG42RGRmTWFpbVhFYUdVOTB1RmMzeWlnNWljN185UElMVGptMHZvZm5QdDFaQXVnVFQzSHI2anF2NUk1ZTd3b1BoZF9zOXRIbC1lV0RxV1FIbENGTEVQRkxzUVRsLV9kOWhselBaLUdERXVjNEdlMmV2dXlIZmxZNkJEZFhMcGpjd3UzTzBIZmhORXpKSjgtZkg0cUYzc1ZfT0ctSVBWZ1E?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Главред",
+      "title": "Долар готується до нового стрибка: експерт назвав терміни та можливий курс - Главред",
+      "excerpt": "Згадка у виданні Главред",
+      "date": "2 серпня 2026",
+      "dateTS": 1785694880.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOE5Mb1M1c0M3UFU3OEt6cG9wUERCaUhuNkRkZk1haW1YRWFHVTkwdUZjM3lpZzVpYzdfOVBJTFRqbTB2b2ZuUHQxWkF1Z1RUM0hyNmpxdjVJNWU3d29QaGRfczl0SGwtZVdEcVdRSGxDRkxFUEZMc1FUbC1fZDlobHpQWi1HREV1YzRHZTJldnV5SGZsWTZCRGRYTHBqY3d1M08wSGZoTkV6Sko4LWZINHFGM3NWX09HLUlQVmdR0gG-AUFVX3lxTE44TkxvUzVzQzdQVTc4S3pwb3BQREJpSG42RGRmTWFpbVhFYUdVOTB1RmMzeWlnNWljN185UElMVGptMHZvZm5QdDFaQXVnVFQzSHI2anF2NUk1ZTd3b1BoZF9zOXRIbC1lV0RxV1FIbENGTEVQRkxzUVRsLV9kOWhselBaLUdERXVjNEdlMmV2dXlIZmxZNkJEZFhMcGpjd3UzTzBIZmhORXpKSjgtZkg0cUYzc1ZfT0ctSVBWZ1E?oc=5",
+      "external": true,
+      "featured": false
     },
     {
       "source": "news",
