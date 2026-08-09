@@ -1,8 +1,47 @@
-// Автоматично оновлено: 2026-08-08 08:29 UTC
+// Автоматично оновлено: 2026-08-09 08:32 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Не почую - не повірю Але дуже сподіваюсь --- ❗️США ежемесячно будут выделять Украине ракеты-перех...",
+      "excerpt": "",
+      "date": "8 серпня 2026",
+      "dateTS": 1786186281.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/537",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЦИФРА ДНЯ З початку літа 2026 НБУ залив у ринок $10,9 млрд валютних інтервенцій.   Всього за 2 мі...",
+      "excerpt": "",
+      "date": "8 серпня 2026",
+      "dateTS": 1786181529.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/536",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЩОДО РЕЗУЛЬТАТІВ 1ГО ТЕНДЕРУ 3х МІСЯЧНИХ ДЕПСЕРТИФІКАТІВ  Якщо коротко: ставка розміщення 3МДС ст...",
+      "excerpt": "",
+      "date": "8 серпня 2026",
+      "dateTS": 1786178285.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/535",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +53,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/534",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1263,48 +1302,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/407",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ВЫСОКОПОСТАВЛЕННЫЙ ИРАНСКИЙ ИСТОЧНИК: ПОСРЕДНИКИ ПРЕДЛОЖИЛИ 10-ДНЕВНОЕ ПРЕКРАЩЕНИЕ ОГНЯ, ЧТОБЫ НА...",
-      "excerpt": "",
-      "date": "20 липня 2026",
-      "dateTS": 1784551506.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/406",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ЦИФРА ДНЯ Запасів нафти в США вистачить на 43 дні. Це найменший рівень за останні 45 років.  P.S....",
-      "excerpt": "",
-      "date": "20 липня 2026",
-      "dateTS": 1784540711.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/404",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Всі вже побачили на стелі (( Більше у Сергія Куюна  Сьогодні відбулося масове підвищення цін на А...",
-      "excerpt": "",
-      "date": "20 липня 2026",
-      "dateTS": 1784539261.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/403",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "РБК-Україна",
+      "title": "Курс долара 2020: які зміни чекають українців на наступному тижні - РБК-Україна",
+      "excerpt": "Згадка у виданні РБК-Україна",
+      "date": "8 серпня 2026",
+      "dateTS": 1786173845.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeGpvaDB4Z2dncDh6RzhLNE85cmthOGNkQWp2LVE1M3NXS3RIZ1BMczgzQlc2cjVCdlRzX1lGczE1ak1GOGN2NGFCVFBBSk5PcnVqSGd1NEwyQUxCRFUybXJncWhjc2N1UTBfWjZXcjBSRXVyVmN6OTh5RFhzZlg0YTh4XzRjeWRVT0ZTdGRSNTBEQl9FSmYtS2NnSHHSAZwBQVVfeXFMUHhqb2gweGdnZ3A4ekc4SzRPOXJrYThjZEFqdi1RNTNzV0t0SGdQTHM4M0JXNnI1QnZUc19ZRnMxNWpNRjhjdjRhQlRQQUpOT3J1akhndTRMMkFMQkRVMm1yZ3FoY3NjdVEwX1o2V3IwUkV1clZjejk4eURYc2ZYNGE4eF80Y3lkVU9GU3RkUjUwREJfRUpmLUtjZ0hx?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
