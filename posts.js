@@ -1,4 +1,4 @@
-// Автоматично оновлено: 2026-08-09 08:32 UTC
+// Автоматично оновлено: 2026-08-10 09:09 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
@@ -1351,7 +1351,7 @@ const CONTENT = {
       "title": "Курс долара у серпні: економісти пояснили, до чого готуватися - Vesti Ua",
       "excerpt": "Згадка у виданні Vesti Ua",
       "date": "3 серпня 2026",
-      "dateTS": 1785741444.0,
+      "dateTS": 1785741000.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTU0OHBTUEtQRWxGWThsTUlZejVCZnp4aHBmUFlaeW5qQWpaRE91YlliOGRVQlc2S2xEU0I2dVh1akdzcjVyNW84aVc2eUNqR1NsWXdQYnR1YUsySkI0SmVGaXJZTFlJZk45SG1UTTN3RG5yRFdweVRRa09GTDZHd3E1QnB3czVCQkM5ODRqS1Jxd08td2xLTlp5SEd0VVpNRzNYdVJlUjY3ckxFU0tydA?oc=5",
       "external": true,
@@ -1520,7 +1520,7 @@ const CONTENT = {
       "title": "Катастрофа з бензином, дорогий долар і висока інфляція: експерти ошелешили екопрогнозом на серпень 2026 - ТСН",
       "excerpt": "Згадка у виданні ТСН",
       "date": "31 липня 2026",
-      "dateTS": 1785475286.0,
+      "dateTS": 1785481200.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLTB0N0pWZVNsQWh0aVNWa1FqRXFBSHlWbkVScVVMLWx4d2p2NWhSUExwS2xjc0tSbXRTYk55YUJlZkdIT1VMQmV3X3gzcE1FalplbmVkalBMZzRIOGl1R18tYW8xNHVnMnEya1R4ZE5RM3hvVnFqV3NLN1hKS1Bmbno2MG1Db3ZwWkVrNDRLWjNwYlhrOThCV2JONTExSFBhMERkdlVwQXZUVjFRTExrTnZGVzJRdDQ0RDIzM3IwZWl4dmFZdjJieUdpTdIB0AFBVV95cUxQbUUzaGx5WHMzWmNTcXYyQVhOWGpMVjNpaUkxTlBkdG1uWldoQzhOMjF3TXRnVnRUdWV3a21xMFNHUDRNam9mY3RFRXJVcHFDeVdyaVd0Q2RnN0lyV1BsWVhuX3ZubzVST3YxbWxESGpfbDdSMUlodktlamxaaDJ2Q1JWZ2J1MDU4NnFPemVYT0l6dnFzalY1dmdDdlVja2VTNWJxZllZcjBNaTVUOURpVTQ3YUt0ZEZrdXBUUnhkajcwQVdhamRqbHBHNkdtdURI?oc=5",
       "external": true,
