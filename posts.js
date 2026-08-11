@@ -1,8 +1,60 @@
-// Автоматично оновлено: 2026-08-10 09:09 UTC
+// Автоматично оновлено: 2026-08-11 08:44 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "А знаєте чому таке послаблення? Й не буде впливу на готівковий ринок (не очікується).  Тому що за...",
+      "excerpt": "",
+      "date": "10 серпня 2026",
+      "dateTS": 1786389322.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/541",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "❗️НБУ в четыре раза увеличивает лимит на покупку валюты для украинцев - до 200 тысяч грн в месяц ...",
+      "excerpt": "",
+      "date": "10 серпня 2026",
+      "dateTS": 1786389103.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/540",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Міжбанк долар 44.89 - 44.91  Зупинка на максимумах, завтра продовжуємо зростання. #міжбанк #usduah",
+      "excerpt": "",
+      "date": "10 серпня 2026",
+      "dateTS": 1786373933.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/539",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Липень ще норм пройшов. Я рахував +0,7%. Вийшло краще. Серпень-вересень буде жорсткіше. Значно. Б...",
+      "excerpt": "",
+      "date": "10 серпня 2026",
+      "dateTS": 1786373865.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/538",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +66,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/537",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1250,58 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/411",
       "external": true,
       "featured": true
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Незважаючи на загальний негатив, я поки зберігаю оптимізм відносно Біткоїну  - всіх панікерів вже...",
-      "excerpt": "",
-      "date": "21 липня 2026",
-      "dateTS": 1784626784.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/410",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ЦИФРА ДНЯ SpaceX втратили вартості 1 трлн дол від пікової вартості 16 червня.  Ціна акцій впала н...",
-      "excerpt": "",
-      "date": "21 липня 2026",
-      "dateTS": 1784626152.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/409",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "МВФ прогнозує:  🔻уповільнення зростання ВВП України з 1,8% у 2025 році до 1−1,6% у 2026-му (у лют...",
-      "excerpt": "",
-      "date": "21 липня 2026",
-      "dateTS": 1784622225.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/408",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "МВФ виділив Україні транш $690 млн Рада МВФ завершила перший перегляд програми EFF для України та...",
-      "excerpt": "",
-      "date": "21 липня 2026",
-      "dateTS": 1784617231.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/407",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1364,7 +1364,7 @@ const CONTENT = {
       "title": "Врожай під загрозою: в Україні різко підскочать ціни на один базовий овоч - Главред",
       "excerpt": "Згадка у виданні Главред",
       "date": "3 серпня 2026",
-      "dateTS": 1785740130.0,
+      "dateTS": 1785740400.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcEg5T3kyTU1kcGdmNWVOcU5aZ3lmS3hwRHBtODQ3QXRVTkEwRnhxNHMydWpKaHEzN0ZtbXVlamY4SnQwdlI4Z21lLXEyOHlRNG5oMDJnTW52VjR0SU83d040MnNjWkZxeU43R2ZJY0d1cE5CV3o5UlVJZ1hsUkhzN19wU01wMlVEVjJSRG12bElxUVpfR1lmVHZSU0lRclQyN0dqTnFOYi11WjdqM1pPdG45OXREQWtw0gG-AUFVX3lxTFAwY3RsQTZjVkNLdm9ReVZ2a2tIcjZnb1h6eU8ySG8xUzQ0bDZJUW1SblZGdG9rTlMya0lhLVREMGdQblBJeGpyUmZMR245ZkRBMVJIVHMzS3ZHOWRCaVN0QlBueXBoLXhhSFU0alVFd1owRjFIRUZ6Y2NGc0dPZEtYMTdOdUZxM2ExYno4cVAxS2J5dVpBLWVnRlR3TE1uaWwyTW9VWHlSZmZPQ3gwQnRjWmhUbnBMOFpjd1BuQUE?oc=5",
       "external": true,
@@ -1429,7 +1429,7 @@ const CONTENT = {
       "title": "В Україні очікують новий стрибок цін: економіст назвав головні причини інфляції у серпні - ТСН",
       "excerpt": "Згадка у виданні ТСН",
       "date": "2 серпня 2026",
-      "dateTS": 1785645000.0,
+      "dateTS": 1785654000.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOUZYNVVGaHdWNUtQN0VRRWRlblNUU1ZXTEVsbVhXcEdKcUVqUXZrTUxnXzZQZnlvbDZrTlZ5VTE2dHhBQWE0bnQ4TXlnY0hPUEtrQWtqUXEtWnBxbTNpUVNNZTBMdVRjNGdOSnVwYW1VaHhvTEJJNUlFWE9tWU9PRG5KNUlnWUZ6cUtTSzZLdmh0NVY1Y0NVcktOSVVwUHhDeVpYcDJKb3BkWDRwTFM2djIxWTFNdFhmYlZNRVJrVTRwYVhzZjBhbXZnVznSAdIBQVVfeXFMTUhMR01GTzMxSFVtRnU1elB0V3JWaV9qOGRzWlRDVE5vampFVVRXcWx3NFBza0F3MzlXSHg0X09pdkNKd21QQ3R5OEI2ZHlBQmZKRnFYOTZQenJOelczUnRzUDdFeXN3TWVhOHFXVGZaM053VldEYzVVQ1psbzdUUmpMck84TkF2TElCRTdjaVhBWHphd3RwOEZra0ZVSTcyb1FWdzVFN1lHc1JISGhsN013bW1iVnVud3YtbUc3QlpHVlpPc18xTDdiTzB6V1NvRDFB?oc=5",
       "external": true,
@@ -1477,19 +1477,6 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "Радіо ТРЕК",
-      "title": "Долар може сягнути 46 гривень: економісти озвучили прогноз на серпень - Радіо ТРЕК",
-      "excerpt": "Згадка у виданні Радіо ТРЕК",
-      "date": "1 серпня 2026",
-      "dateTS": 1785594600.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbzRVR1ROTEhyR0R5SXFWcmt5MkxQdGJpWUE4eWMteDUzNkJMSVNWQzktaGpXaHc5QmZoLXpHcUgwRnp1Q2o2elBqYUxtWVV0N1NZTWVqOWdva2QzM1c5d2JCQXFaTk5weWtidWt4LTZJRDdzZHBnZy1YN0hoOTRjTmQzTHI4R0FycDVSWEpVVU5IcnRNTWptNzBNMXF3TnFOb0V5RmNzcllUWUVVbjUw0gGuAUFVX3lxTE5FYmh5TEZVVFA0NnlXWkl5dHB1SVZVVGx1Z2JWSFZiUjhvWFpBR3lfc0l6N2hBZlJkd1ZVSFJ3MFJJMlpOZTI2RThfbUduUXRuUER6T3FabmQ4UWhla3Raa1J2NVFDbGNRcm9DeHBkQS1YWjFhcVZuTUFXelNoSHBEUGRUaVZwVmxNc2I3TVBIaDA2cS1GZDJnZTEzYy1zWjlUaklLRWduRW94bG9PQQ?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
       "tagLabel": "my.ua",
       "title": "Долар може зрости до 46 гривень: економісти пояснили, що буде з курсом у серпні - my.ua",
       "excerpt": "Згадка у виданні my.ua",
@@ -1497,6 +1484,19 @@ const CONTENT = {
       "dateTS": 1785567971.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRmdiUHdtalcxdUVUOGkwLUVNV1V2RWVuZV90Ukh5U25qYUFvM3RvNW94Sl80SEtKamdvdmRvRW81RHlnU0UwN2tVRXprR1JKemt6YnUzUGNheVZWT3lxMnFqWjVDb2djelBxM01HbGt6UXRyTWJSMDdLbzhDOHpnM0lOQzVqYWlzWWRkRHFWa0R5eFBFRllQVWJkZnF1clZWR1FuUWVVWC1WQ0lqUm5rQV9QdmRGa05jV3FzalRWbUFmTl82SXpJYXB5aG9vUXVjV1o4emVKLXQxaHRzVnJQc1Q0NENoZHJSWHROUEZJMmlfbDg3NkHSAfcBQVVfeXFMT01rSjFyQkdKUkhCaUJGNDU4TW82aGo2VS1KMEtCMmNZTEE2cnlWWjFZU191UFNYSF9UaHcybDE2Tjlkd0hmODh5RzVTRU5LLVM4TmlfaWdCTHBlUGhEcFdoTUgyX2hncnJ5R25VcnBRaWhYZTVlVThzM0RBTzhEYmNpZFotbWpOcnFIT2tYcERURk5wOHdmRng2RFhuRDE2MjdfVm1vMU1PdFNINFlQeDZuZlNjNDk5SDhZWUxnSlpuZS1vV1ItSnZYWW9MS2F5M0RobzExSkNxc291UWN3UDVCMEoxYnUtUmFHU2dTeUtrdGhEQkhTNA?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Радіо ТРЕК",
+      "title": "Долар може сягнути 46 гривень: економісти озвучили прогноз на серпень - Радіо ТРЕК",
+      "excerpt": "Згадка у виданні Радіо ТРЕК",
+      "date": "1 серпня 2026",
+      "dateTS": 1785567600.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbzRVR1ROTEhyR0R5SXFWcmt5MkxQdGJpWUE4eWMteDUzNkJMSVNWQzktaGpXaHc5QmZoLXpHcUgwRnp1Q2o2elBqYUxtWVV0N1NZTWVqOWdva2QzM1c5d2JCQXFaTk5weWtidWt4LTZJRDdzZHBnZy1YN0hoOTRjTmQzTHI4R0FycDVSWEpVVU5IcnRNTWptNzBNMXF3TnFOb0V5RmNzcllUWUVVbjUw0gGuAUFVX3lxTE5FYmh5TEZVVFA0NnlXWkl5dHB1SVZVVGx1Z2JWSFZiUjhvWFpBR3lfc0l6N2hBZlJkd1ZVSFJ3MFJJMlpOZTI2RThfbUduUXRuUER6T3FabmQ4UWhla3Raa1J2NVFDbGNRcm9DeHBkQS1YWjFhcVZuTUFXelNoSHBEUGRUaVZwVmxNc2I3TVBIaDA2cS1GZDJnZTEzYy1zWjlUaklLRWduRW94bG9PQQ?oc=5",
       "external": true,
       "featured": false
     },
