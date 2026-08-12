@@ -1,8 +1,47 @@
-// Автоматично оновлено: 2026-08-11 08:44 UTC
+// Автоматично оновлено: 2026-08-12 09:03 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "💰\"Збитки колосальні\": у Rozetka назвали вартість зруйнованого Росією складу.  Зруйнований російсь...",
+      "excerpt": "",
+      "date": "11 серпня 2026",
+      "dateTS": 1786466547.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/545",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Тут без коментарів. Суд та ДБР мають надати свої висновки.  Але здається, що без ніякого попередн...",
+      "excerpt": "",
+      "date": "11 серпня 2026",
+      "dateTS": 1786450102.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/544",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ДБР открыло дело о подделке диплома Пышного  Шевченковский райсуд Киева обязал ДБР внести сведени...",
+      "excerpt": "",
+      "date": "11 серпня 2026",
+      "dateTS": 1786448227.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/542",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +53,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/541",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1263,45 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/418",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Brent 91.6 дол Трамп відмовив Ірану у 10 денному перемир'ї.  Іран відповідає асиметрично, б'є по ...",
-      "excerpt": "",
-      "date": "21 липня 2026",
-      "dateTS": 1784644276.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/416",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Номинал та частка в загальному обігу готівки купюрами в Україні (959,1 млрд грн):  1000 грн - 55,...",
-      "excerpt": "",
-      "date": "21 липня 2026",
-      "dateTS": 1784640081.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/415",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Дассс.... немає чого й додати...  А ні... русня ще херячить   Взагалі ситуація залишається важкою...",
-      "excerpt": "",
-      "date": "21 липня 2026",
-      "dateTS": 1784627344.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/411",
-      "external": true,
-      "featured": true
     }
   ],
   "news": [
