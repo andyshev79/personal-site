@@ -1,8 +1,21 @@
-// Автоматично оновлено: 2026-08-12 09:03 UTC
+// Автоматично оновлено: 2026-08-13 09:04 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "За 12 днів серпня, падіння експорту пшениці та ячменю майже на 80%, кукурудзи майже на 60%.  Це н...",
+      "excerpt": "",
+      "date": "12 серпня 2026",
+      "dateTS": 1786540834.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/546",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +27,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/545",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1289,19 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/419",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "В продовження цін нафти Ціни бензина в Україні обновили історичні максимуми  За пару днів А-95 та...",
-      "excerpt": "",
-      "date": "21 липня 2026",
-      "dateTS": 1784647070.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/418",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1620,9 +1620,9 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "unian.ua",
-      "title": "Усе стане дорожчим: аналітик попередив про неочевидні наслідки підняття цін на проїзд у Києві - unian.ua",
-      "excerpt": "Згадка у виданні unian.ua",
+      "tagLabel": "УНІАН",
+      "title": "Усе стане дорожчим: аналітик попередив про неочевидні наслідки підняття цін на проїзд у Києві - УНІАН",
+      "excerpt": "Згадка у виданні УНІАН",
       "date": "14 липня 2026",
       "dateTS": 1784012400.0,
       "readTime": "2 хв",
