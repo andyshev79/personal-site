@@ -1,4 +1,4 @@
-// Автоматично оновлено: 2026-08-17 08:33 UTC
+// Автоматично оновлено: 2026-08-18 08:25 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
@@ -1305,6 +1305,32 @@ const CONTENT = {
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Главред",
+      "title": "Долар може різко злетіти вгору: експерт назвав терміни та новий курс - Главред",
+      "excerpt": "Згадка у виданні Главред",
+      "date": "17 серпня 2026",
+      "dateTS": 1786999259.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYWRBOWtqd2s5SkM3d2w1aWd3ZlJTUkdSblRjZEZCekFtdVNoRC1YeVduaVdQWTNFUk5uT2ZqLVFPb0NDbUxPY0h5OU14ZzhFZDFPNHlxa3VVUE40b29ER1FjSi1qNXhHVnFDSndHMHhsTjBCc1FUSktranh4V2ZGXzI2VDhvS3U1MnpYNElNZDNpRzFwR0Y1YXdQdUwwNXBpMGZlSnVsTEF0OXJNaUdQejRicTFBUdIBtgFBVV95cUxOYWRBOWtqd2s5SkM3d2w1aWd3ZlJTUkdSblRjZEZCekFtdVNoRC1YeVduaVdQWTNFUk5uT2ZqLVFPb0NDbUxPY0h5OU14ZzhFZDFPNHlxa3VVUE40b29ER1FjSi1qNXhHVnFDSndHMHhsTjBCc1FUSktranh4V2ZGXzI2VDhvS3U1MnpYNElNZDNpRzFwR0Y1YXdQdUwwNXBpMGZlSnVsTEF0OXJNaUdQejRicTFBUQ?oc=5",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "ТСН",
+      "title": "Гривня може стрімко знецінитися: експерти ошелешили прогнозом про курс валют в Україні - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
+      "date": "17 серпня 2026",
+      "dateTS": 1786985786.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTjVLeEJDZ1NUSkJBcl8tQTdIc0pBNlJIa1VYVWJSWFc1cW9oT29PMzFXQjVrQl9BNkltbGxNWGFnRTNySnlqQzAzcWlxcHE2LVl2a3A2Y0MtS2g5MTNCN09ON2tZdk9KMWY1QVp5TnJYb3JyRUtkTVpNaERsVFIwUjNrSWRuekR5eGNHcmljcVNUZ3U5bU9QemFRM1oyMDFYTmZLNHU3UVA0aTZpV1JuU0wtaEhXNlpoUGNNZzdTWEpNZFJJLTlr0gHMAUFVX3lxTE1WOUd3UGxOVFFxcDhHSXNkdTlQYWxDMWM4SUZ3NzA4NkJUVjkzbkJ5WjJ5Vi1QVThoWktSR1lQT3NTUnhHcE9pVVQ3RXFpbEwyd2tlRUt3WnM1SGd6MUEySk5DVXViQXJfZ2h3QUJXRThBYzI1YTVQTHV5TzJrR3lTeVFVclFjcDNtWERtVmo4Q0Ywa1RqdFZYTTRFcDhpaTRYcU9sZ0hPOTZuYnM0SXhBVWc3aVlqbkxXcW9vamRTeU9iNENOd3oxQ0ZJVg?oc=5",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "news",
       "tag": "news",
