@@ -1,4 +1,4 @@
-// Автоматично оновлено: 2026-08-18 08:25 UTC
+// Автоматично оновлено: 2026-08-19 08:26 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
@@ -1305,6 +1305,19 @@ const CONTENT = {
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Главред",
+      "title": "Долар може різко злетіти вгору: експерт назвав терміни та новий курс - Главред",
+      "excerpt": "Згадка у виданні Главред",
+      "date": "17 серпня 2026",
+      "dateTS": 1786999259.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTF9qSzJ1Z094UWFRSXE3VmZCYjNXZkJteGNhSlhIbVRJRFZSdXBXcFk3TXlIU3ZfSUJ5T2R6WThfNjFEQmFTYVQ3bWdIQThxajdTWGhncDJ0ZlFwQTdVNnRmUy1HbW1qbnRUcGJsMm1pQUl2bFRkQnBwaERsT0dFRHl1RUdwU3d1VXgxdlBuUy04U0ZrTFZ5SDZ6ZnYyVjdwcV9kUHBVVmE2QlQ0Vno3SdIBtgFBVV95cUxOYWRBOWtqd2s5SkM3d2w1aWd3ZlJTUkdSblRjZEZCekFtdVNoRC1YeVduaVdQWTNFUk5uT2ZqLVFPb0NDbUxPY0h5OU14ZzhFZDFPNHlxa3VVUE40b29ER1FjSi1qNXhHVnFDSndHMHhsTjBCc1FUSktranh4V2ZGXzI2VDhvS3U1MnpYNElNZDNpRzFwR0Y1YXdQdUwwNXBpMGZlSnVsTEF0OXJNaUdQejRicTFBUQ?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
