@@ -1,4 +1,4 @@
-// Автоматично оновлено: 2026-08-19 08:26 UTC
+// Автоматично оновлено: 2026-08-20 08:27 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
@@ -1330,6 +1330,19 @@ const CONTENT = {
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYWRBOWtqd2s5SkM3d2w1aWd3ZlJTUkdSblRjZEZCekFtdVNoRC1YeVduaVdQWTNFUk5uT2ZqLVFPb0NDbUxPY0h5OU14ZzhFZDFPNHlxa3VVUE40b29ER1FjSi1qNXhHVnFDSndHMHhsTjBCc1FUSktranh4V2ZGXzI2VDhvS3U1MnpYNElNZDNpRzFwR0Y1YXdQdUwwNXBpMGZlSnVsTEF0OXJNaUdQejRicTFBUdIBtgFBVV95cUxOYWRBOWtqd2s5SkM3d2w1aWd3ZlJTUkdSblRjZEZCekFtdVNoRC1YeVduaVdQWTNFUk5uT2ZqLVFPb0NDbUxPY0h5OU14ZzhFZDFPNHlxa3VVUE40b29ER1FjSi1qNXhHVnFDSndHMHhsTjBCc1FUSktranh4V2ZGXzI2VDhvS3U1MnpYNElNZDNpRzFwR0Y1YXdQdUwwNXBpMGZlSnVsTEF0OXJNaUdQejRicTFBUQ?oc=5",
       "external": true,
       "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "ТСН",
+      "title": "Гривня може стрімко знецінитись: експерти ошелешили прогнозом про курс валют в Україні - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
+      "date": "17 серпня 2026",
+      "dateTS": 1786985786.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVjlHd1BsTlRRcXA4R0lzZHU5UGFsQzFjOElGdzcwODZCVFY5M25CeVoyeVYtUFU4aFpLUkdZUE9zU1J4R3BPaVVUN0VxaWxMMndrZUVLd1pzNUhnejFBMkpOQ1V1YkFyX2dod0FCV0U4QWMyNWE1UEx1eU8ya0d5U3lRVXJRY3AzbVhEbVZqOENGMGtUanRWWE00RXA4aWk0WHFPbGdITzk2bmJzNEl4QVVnN2lZam5MV3Fvb2pkU3lPYjRDTnd6MUNGSVbSAcwBQVVfeXFMTVY5R3dQbE5UUXFwOEdJc2R1OVBhbEMxYzhJRnc3MDg2QlRWOTNuQnlaMnlWLVBVOGhaS1JHWVBPc1NSeEdwT2lVVDdFcWlsTDJ3a2VFS3daczVIZ3oxQTJKTkNVdWJBcl9naHdBQldFOEFjMjVhNVBMdXlPMmtHeVN5UVVyUWNwM21YRG1WajhDRjBrVGp0VlhNNEVwOGlpNFhxT2xnSE85Nm5iczRJeEFVZzdpWWpuTFdxb29qZFN5T2I0Q053ejFDRklW?oc=5",
+      "external": true,
+      "featured": false
     },
     {
       "source": "news",
