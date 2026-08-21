@@ -1,8 +1,21 @@
-// Автоматично оновлено: 2026-08-20 08:27 UTC
+// Автоматично оновлено: 2026-08-21 08:29 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "П🤬дець... особливо в умовах блокади портів та недостатності місць для зберігання. Критичності сит...",
+      "excerpt": "",
+      "date": "21 серпня 2026",
+      "dateTS": 1787293550.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/558",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +27,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/557",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1289,19 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/431",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ПОПИТ НА ФІЗИЧНЕ ЗОЛОТО ВІД УКРАЇНЦІВ ВПАВ В ДВІЧІ, СРІБЛО РОЗПРОДАЛИ  🟠 ЗОЛОТО За 6міс2026 украї...",
-      "excerpt": "",
-      "date": "23 липня 2026",
-      "dateTS": 1784799547.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/428",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1575,6 +1575,19 @@ const CONTENT = {
       "dateTS": 1785481200.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLTB0N0pWZVNsQWh0aVNWa1FqRXFBSHlWbkVScVVMLWx4d2p2NWhSUExwS2xjc0tSbXRTYk55YUJlZkdIT1VMQmV3X3gzcE1FalplbmVkalBMZzRIOGl1R18tYW8xNHVnMnEya1R4ZE5RM3hvVnFqV3NLN1hKS1Bmbno2MG1Db3ZwWkVrNDRLWjNwYlhrOThCV2JONTExSFBhMERkdlVwQXZUVjFRTExrTnZGVzJRdDQ0RDIzM3IwZWl4dmFZdjJieUdpTdIB0AFBVV95cUxQbUUzaGx5WHMzWmNTcXYyQVhOWGpMVjNpaUkxTlBkdG1uWldoQzhOMjF3TXRnVnRUdWV3a21xMFNHUDRNam9mY3RFRXJVcHFDeVdyaVd0Q2RnN0lyV1BsWVhuX3ZubzVST3YxbWxESGpfbDdSMUlodktlamxaaDJ2Q1JWZ2J1MDU4NnFPemVYT0l6dnFzalY1dmdDdlVja2VTNWJxZllZcjBNaTVUOURpVTQ3YUt0ZEZrdXBUUnhkajcwQVdhamRqbHBHNkdtdURI?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "РБК-Україна",
+      "title": "Удари по Wildberries можуть вартувати продавцям РФ до 1,3 млрд доларів, – аналітик - РБК-Україна",
+      "excerpt": "Згадка у виданні РБК-Україна",
+      "date": "29 липня 2026",
+      "dateTS": 1785308400.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORW1CWVFVMmkyTzd5NUc4VUZDY3FBWWZWMmRNMXBVMWNLbXdWd0lRTV85MEtDSlk1WHVvak1WRVBHQm1La2NxM2FnUWUwUEV5UkZRcjNwRk1JSThWTE5DbEZMdUU2ZGN0NUJoR2s0ZTlRME5SZjlPUGFXRml1Y2tsancycThyN2ZuMnRodzl4Um00Wk9C0gGaAUFVX3lxTFBHY3BUaExjRk9vRTRFeDNFdXBsaGdvbktrZi1KYzdRaHNRcHFSODFyQjh5d18wSEhxZTYwM1d4VTR6d1hSZFVySm5BOVo2aW04eGV5NmhQU3daSlFEVEJwRzRTb0lJT285VUNRTkpiNFZ2UnVlS2kybVZlVjBDZkVPbE1fLVdwNDZfdHlBblVXT2tZXzU5QktRWFE?oc=5",
       "external": true,
       "featured": false
     },
