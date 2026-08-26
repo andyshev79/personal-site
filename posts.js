@@ -1,8 +1,73 @@
-// Автоматично оновлено: 2026-08-25 08:31 UTC
+// Автоматично оновлено: 2026-08-26 08:33 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "КІЛЬКІСТЬ ВКЛАДНИКІВ БАНКІВ, СТАНОМ НА 1 ЛИПНЯ 2026  Згідно даних НБУ та ФГВФО, на 1 липня було 7...",
+      "excerpt": "",
+      "date": "25 серпня 2026",
+      "dateTS": 1787675262.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/563",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Як вели себе різні категорії власників в 2026 році, згідно з даними ФГВФО й останнього звіту  👉На...",
+      "excerpt": "",
+      "date": "25 серпня 2026",
+      "dateTS": 1787670779.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/562",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Фонд гарантування вкладів фіз осіб перестав публікувати статистику по кількості вкладників по сум...",
+      "excerpt": "",
+      "date": "25 серпня 2026",
+      "dateTS": 1787669228.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/561",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "БАНКИ ЗАВОЗЯТЬ ФІЗИЧНЕ ЗОЛОТО ЩОБ ЩО?  Станом на 1 липня українські банки мали банківських металі...",
+      "excerpt": "",
+      "date": "25 серпня 2026",
+      "dateTS": 1787667075.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/560",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "За 7м2026 банки завезли готівкової валюти на 18% меньше ніж рік тому - 5,48 млрд дол.  В структур...",
+      "excerpt": "",
+      "date": "25 серпня 2026",
+      "dateTS": 1787663625.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/559",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +79,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/558",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1235,71 +1300,6 @@ const CONTENT = {
       "dateTS": 1784886874.0,
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/436",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "В Україну зайшли кошти МВФ 690 млн дол Мінфін",
-      "excerpt": "",
-      "date": "24 липня 2026",
-      "dateTS": 1784883970.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/435",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ЩОДО БЛОКУВАННЯ УКРАЇНСЬКИХ ПОРТІВ Я про це почав писати ще тиждень тому, в валютному огляді, фор...",
-      "excerpt": "",
-      "date": "23 липня 2026",
-      "dateTS": 1784819620.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/434",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "БОГАТІ НАРОЩУЮТЬ ЗАЛИШКИ В БАНКАХ НАЙАКТИВНІШЕ  Згідно даним ФГВФО за 6м2026: - залишки коштів у ...",
-      "excerpt": "",
-      "date": "23 липня 2026",
-      "dateTS": 1784817236.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/433",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ЦИФРА ДНЯ Падіння індексу продукції рослинництва в Україні за 6міс2026 13,3% пер/пер. Важливо! Це...",
-      "excerpt": "",
-      "date": "23 липня 2026",
-      "dateTS": 1784815638.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/432",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Брент вже майже 100  Ціни на стелях заправок продовжують зростати. Чи буде у нас 100? ні, якщо на...",
-      "excerpt": "",
-      "date": "23 липня 2026",
-      "dateTS": 1784812062.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/431",
       "external": true,
       "featured": false
     }
