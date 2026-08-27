@@ -1,8 +1,86 @@
-// Автоматично оновлено: 2026-08-26 08:33 UTC
+// Автоматично оновлено: 2026-08-27 18:39 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "❌💰Супермаркети можуть залишити виробників без оплати за знищені Росією товари.  За чинними догово...",
+      "excerpt": "",
+      "date": "27 серпня 2026",
+      "dateTS": 1787850147.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/571",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "НБУ збільшив агроекспортерам строк повернення валютної виручки зі 120 до 150 днів.  Це поки вигля...",
+      "excerpt": "",
+      "date": "27 серпня 2026",
+      "dateTS": 1787811168.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/570",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "УКРАЇНСЬКІ БАНКИ ЗА 7М2026 СКОРОТИЛИ ЧИСТИЙ ПРИБУТОК ДО 62,5 МЛРД ГРН.   В порівнянні з 7м2025 ро...",
+      "excerpt": "",
+      "date": "26 серпня 2026",
+      "dateTS": 1787765463.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/569",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "РОЗДРІБНІ ПРОДАЖІ В УКРАЇНІ СТАБІЛЬНІСТЬ. ЗА 7М2026 +9%  Здається все стабільно. Роздрібні продаж...",
+      "excerpt": "",
+      "date": "26 серпня 2026",
+      "dateTS": 1787759839.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/568",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "БЛОКУВАННЯ ЧОРНОГО МОРЯ ЖЕНЕ ЦІНИ КУКУРУЗИ ТА ПШЕНИЦІ ВГОРУ  Чиказька пшениця подорожчала до макс...",
+      "excerpt": "",
+      "date": "26 серпня 2026",
+      "dateTS": 1787741453.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/567",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Європейські країни дедалі частіше зазнають кібератак, підпалів, диверсій та польотів озброєних бе...",
+      "excerpt": "",
+      "date": "26 серпня 2026",
+      "dateTS": 1787740796.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/566",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +92,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/563",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1224,100 +1302,9 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/443",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Китай вступає в економічне протистояння на боці рф?  Виглядає що так. Й це вже не просто так.   У...",
-      "excerpt": "",
-      "date": "24 липня 2026",
-      "dateTS": 1784900285.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/442",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ЦІНИ ВИРОБНИКІВ СПОВІЛЬНИЛИСЬ НАЙБІЛЬШИМИ ТЕМПАМИ ЗА 27МІСЯЦІВ  У червні зниження цін становило -...",
-      "excerpt": "",
-      "date": "24 липня 2026",
-      "dateTS": 1784898971.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/441",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "EURUSD нижче 1,135  Падіння відновлено й ціль 1,11 Повернення мит Трампа для ЄС, високі ціни нафт...",
-      "excerpt": "",
-      "date": "24 липня 2026",
-      "dateTS": 1784898145.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/439",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Це ж як її нагнули зі всім ЦБ... щоб ставку знизили",
-      "excerpt": "",
-      "date": "24 липня 2026",
-      "dateTS": 1784897144.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/438",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Путін продавив Елвіру в ЦБ рф. ЦБР знизили ставку на 0.25вп до 14%.  Незважаючи на прискорення ін...",
-      "excerpt": "",
-      "date": "24 липня 2026",
-      "dateTS": 1784890931.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/437",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "У 1П2026 банки завозили готівкові валюти лише 6 країн: 🥇Долар - 2,82 млрд дол (58,3%) 🥈Євро - 2,0...",
-      "excerpt": "",
-      "date": "24 липня 2026",
-      "dateTS": 1784886874.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/436",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "Главред",
-      "title": "Долар може різко злетіти вгору: експерт назвав терміни та новий курс - Главред",
-      "excerpt": "Згадка у виданні Главред",
-      "date": "17 серпня 2026",
-      "dateTS": 1786999259.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTF9qSzJ1Z094UWFRSXE3VmZCYjNXZkJteGNhSlhIbVRJRFZSdXBXcFk3TXlIU3ZfSUJ5T2R6WThfNjFEQmFTYVQ3bWdIQThxajdTWGhncDJ0ZlFwQTdVNnRmUy1HbW1qbnRUcGJsMm1pQUl2bFRkQnBwaERsT0dFRHl1RUdwU3d1VXgxdlBuUy04U0ZrTFZ5SDZ6ZnYyVjdwcV9kUHBVVmE2QlQ0Vno3SdIBtgFBVV95cUxOYWRBOWtqd2s5SkM3d2w1aWd3ZlJTUkdSblRjZEZCekFtdVNoRC1YeVduaVdQWTNFUk5uT2ZqLVFPb0NDbUxPY0h5OU14ZzhFZDFPNHlxa3VVUE40b29ER1FjSi1qNXhHVnFDSndHMHhsTjBCc1FUSktranh4V2ZGXzI2VDhvS3U1MnpYNElNZDNpRzFwR0Y1YXdQdUwwNXBpMGZlSnVsTEF0OXJNaUdQejRicTFBUQ?oc=5",
-      "external": true,
-      "featured": true
-    },
     {
       "source": "news",
       "tag": "news",
@@ -1354,6 +1341,19 @@ const CONTENT = {
       "dateTS": 1786985786.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVjlHd1BsTlRRcXA4R0lzZHU5UGFsQzFjOElGdzcwODZCVFY5M25CeVoyeVYtUFU4aFpLUkdZUE9zU1J4R3BPaVVUN0VxaWxMMndrZUVLd1pzNUhnejFBMkpOQ1V1YkFyX2dod0FCV0U4QWMyNWE1UEx1eU8ya0d5U3lRVXJRY3AzbVhEbVZqOENGMGtUanRWWE00RXA4aWk0WHFPbGdITzk2bmJzNEl4QVVnN2lZam5MV3Fvb2pkU3lPYjRDTnd6MUNGSVbSAcwBQVVfeXFMTVY5R3dQbE5UUXFwOEdJc2R1OVBhbEMxYzhJRnc3MDg2QlRWOTNuQnlaMnlWLVBVOGhaS1JHWVBPc1NSeEdwT2lVVDdFcWlsTDJ3a2VFS3daczVIZ3oxQTJKTkNVdWJBcl9naHdBQldFOEFjMjVhNVBMdXlPMmtHeVN5UVVyUWNwM21YRG1WajhDRjBrVGp0VlhNNEVwOGlpNFhxT2xnSE85Nm5iczRJeEFVZzdpWWpuTFdxb29qZFN5T2I0Q053ejFDRklW?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Главред",
+      "title": "Долар може різко злетіти вгору: експерт назвав терміни та новий курс - Главред",
+      "excerpt": "Згадка у виданні Главред",
+      "date": "17 серпня 2026",
+      "dateTS": 1786950000.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTF9qSzJ1Z094UWFRSXE3VmZCYjNXZkJteGNhSlhIbVRJRFZSdXBXcFk3TXlIU3ZfSUJ5T2R6WThfNjFEQmFTYVQ3bWdIQThxajdTWGhncDJ0ZlFwQTdVNnRmUy1HbW1qbnRUcGJsMm1pQUl2bFRkQnBwaERsT0dFRHl1RUdwU3d1VXgxdlBuUy04U0ZrTFZ5SDZ6ZnYyVjdwcV9kUHBVVmE2QlQ0Vno3SdIBtgFBVV95cUxOYWRBOWtqd2s5SkM3d2w1aWd3ZlJTUkdSblRjZEZCekFtdVNoRC1YeVduaVdQWTNFUk5uT2ZqLVFPb0NDbUxPY0h5OU14ZzhFZDFPNHlxa3VVUE40b29ER1FjSi1qNXhHVnFDSndHMHhsTjBCc1FUSktranh4V2ZGXzI2VDhvS3U1MnpYNElNZDNpRzFwR0Y1YXdQdUwwNXBpMGZlSnVsTEF0OXJNaUdQejRicTFBUQ?oc=5",
       "external": true,
       "featured": false
     },
@@ -1587,6 +1587,19 @@ const CONTENT = {
       "date": "29 липня 2026",
       "dateTS": 1785308400.0,
       "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORW1CWVFVMmkyTzd5NUc4VUZDY3FBWWZWMmRNMXBVMWNLbXdWd0lRTV85MEtDSlk1WHVvak1WRVBHQm1La2NxM2FnUWUwUEV5UkZRcjNwRk1JSThWTE5DbEZMdUU2ZGN0NUJoR2s0ZTlRME5SZjlPUGFXRml1Y2tsancycThyN2ZuMnRodzl4Um00Wk9C?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "РБК-Україна",
+      "title": "Удари по Wildberries можуть вартувати продавцям РФ до 1,3 млрд доларів, – аналітик - РБК-Україна",
+      "excerpt": "Згадка у виданні РБК-Україна",
+      "date": "29 липня 2026",
+      "dateTS": 1785308400.0,
+      "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORW1CWVFVMmkyTzd5NUc4VUZDY3FBWWZWMmRNMXBVMWNLbXdWd0lRTV85MEtDSlk1WHVvak1WRVBHQm1La2NxM2FnUWUwUEV5UkZRcjNwRk1JSThWTE5DbEZMdUU2ZGN0NUJoR2s0ZTlRME5SZjlPUGFXRml1Y2tsancycThyN2ZuMnRodzl4Um00Wk9C0gGaAUFVX3lxTFBHY3BUaExjRk9vRTRFeDNFdXBsaGdvbktrZi1KYzdRaHNRcHFSODFyQjh5d18wSEhxZTYwM1d4VTR6d1hSZFVySm5BOVo2aW04eGV5NmhQU3daSlFEVEJwRzRTb0lJT285VUNRTkpiNFZ2UnVlS2kybVZlVjBDZkVPbE1fLVdwNDZfdHlBblVXT2tZXzU5QktRWFE?oc=5",
       "external": true,
       "featured": false
@@ -1757,6 +1770,19 @@ const CONTENT = {
       "dateTS": 1782802800.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPekc0M2pINnlzeGxZbkYyMEx4MUdBYklVUWhJcndyTllOOUdrMGQwd0dmNnN6UGFiNU1FLXVIdjR3WHZ5eUN4RDlEeVNxazRBb2dZNm5rbkRKZ1lpckdkeWdGRDFxYWxvejQwWm4zMmdHcWlZTXAtU0Y4UXFnelZRcDVoNXNlM2V6M1hCOXQ4SGNRa0NDLVNiY2dyak5HZVBsaGNpX2hKUnJIaVh2NGZDa1NRZnMtZU9iQndxa3MxS18xdlU3ZnJ5MjNBUHBFVGtIZ2Uwa1RwMFFHZ1RkN0t3cjdmMUJtTHo50gHqAUFVX3lxTE5KMUtrcHNtTEJCdHlpNzcxUFZJUDlTVkNTUmdCVUhMeDlTbVdNN0dsczlSZjVuckQ3SFNNdUpuWks3eHRZMVhPOElhWnphMkl0RFVNQlpJd0NCNXp2M28tXzFIeFdVOHF3QUxoZkJlWkFSeHhRVnR6TkdUY1RIX1BHcGhqV3plQ3NqalNVcmZNSVRhYWZUdnNJeFZrMVBhLWFUelRyRS04SnNDSkk0SkdnLWhfZUxXNmRuaUM2eDEyTFRVcW1oY2VkMEpQWkdqczVITlZ3YTFoYlpreTFCWFI3QVVRSnpxcVJvZw?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Minfin.com.ua",
+      "title": "У травні українці масово продавали золоті злитки, але скуповували безготівкове золото - Minfin.com.ua",
+      "excerpt": "Згадка у виданні Minfin.com.ua",
+      "date": "28 червня 2026",
+      "dateTS": 1782630000.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTbnVVdXc4VUR5ZGEyNFBub2ZacnJLalZlLUptRElKQ0hOSXJBZWlfQmhXcG8xazBESGl5VVZNZE1iUGlwaTdnWUxwQUUwa3d0NkRmLVJNSHpGUQ?oc=5",
       "external": true,
       "featured": false
     },
