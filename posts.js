@@ -1,8 +1,99 @@
-// Автоматично оновлено: 2026-08-27 18:39 UTC
+// Автоматично оновлено: 2026-08-28 19:48 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ДЕ МЕЖА ЛОГІСТИКИ ТА РИТЕЙЛУ ДЛЯ КИЇВСЬКОГО РЕГІОНУ  Знищення складів випереджає їх відбудову у 1...",
+      "excerpt": "",
+      "date": "28 серпня 2026",
+      "dateTS": 1787931278.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/578",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "EURUSD вниз рвануло, бо глава ФРС заявив що потрібно боротись з інфляцією, й ринок повернувся до ...",
+      "excerpt": "",
+      "date": "28 серпня 2026",
+      "dateTS": 1787928912.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/577",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "МВФ в Києві, закон про оподаткування посилок від 150 євро очікує на голосування в Раді.  Від ріше...",
+      "excerpt": "",
+      "date": "28 серпня 2026",
+      "dateTS": 1787912548.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/576",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Рубль рф в лідерах світового падіння до долару з початку серпня 2026р (станом на 28.08.26) ...мал...",
+      "excerpt": "",
+      "date": "28 серпня 2026",
+      "dateTS": 1787910253.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/575",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "EURUSD конценсус прогнози від Bloomberg 1. В середньому та медіально всі ціляться на зростання єв...",
+      "excerpt": "",
+      "date": "28 серпня 2026",
+      "dateTS": 1787910002.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/574",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "В догонку до останнього абзацу попереднього посту: - За даними профільних аналітиків та RAU, у Ки...",
+      "excerpt": "",
+      "date": "28 серпня 2026",
+      "dateTS": 1787907127.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/573",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "СКІЛЬКИ ВТРАЧАЄ МІСТО КИЇВ ЧЕРЕЗ ПРОСТОЙ У ПОСТІЙНУ ТРИВОГУ  Коротка відповідь: якщо не враховува...",
+      "excerpt": "",
+      "date": "28 серпня 2026",
+      "dateTS": 1787906800.0,
+      "readTime": "3 хв",
+      "url": "https://t.me/shevchyshyn_trends/572",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +105,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/571",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1211,100 +1302,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/451",
       "external": true,
       "featured": true
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Відеоогляд вже на каналі, якщо лінки читати https://youtu.be/tYvAcY3K6Mc",
-      "excerpt": "",
-      "date": "25 липня 2026",
-      "dateTS": 1784990211.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/450",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: 20–26 ЛИПНЯ 2026 ЗУПИНКА ПОРТІВ - ГОЛОВНИЙ НЕГАТИВ ДЛЯ ГР...",
-      "excerpt": "",
-      "date": "25 липня 2026",
-      "dateTS": 1784990178.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/448",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "За чим слідкуємо на тижні 27-31 липня 2026 : ·       28 липня - візит Зеленського до США це найва...",
-      "excerpt": "",
-      "date": "25 липня 2026",
-      "dateTS": 1784990178.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/449",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Поки НБУ тримає коридор. Фактичний влив портів буде в серпні-вересні.",
-      "excerpt": "",
-      "date": "25 липня 2026",
-      "dateTS": 1784990117.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/447",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: 20–26 ЛИПНЯ 2026 ЗУПИНКА ПОРТІВ - ГОЛОВНИЙ НЕГАТИВ ДЛЯ ГР...",
-      "excerpt": "",
-      "date": "25 липня 2026",
-      "dateTS": 1784990085.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/446",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "На міжбанку й готівковому ринку дефіцит валюти знижувався",
-      "excerpt": "",
-      "date": "25 липня 2026",
-      "dateTS": 1784990041.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/444",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: 20–26 ЛИПНЯ 2026 ЗУПИНКА ПОРТІВ - ГОЛОВНИЙ НЕГАТИВ ДЛЯ ГР...",
-      "excerpt": "",
-      "date": "25 липня 2026",
-      "dateTS": 1784989982.0,
-      "readTime": "3 хв",
-      "url": "https://t.me/shevchyshyn_trends/443",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "my.ua",
+      "title": "Мільйони доларів щодня: скільки коштує Києву одна доба суцільних повітряних тривог - my.ua",
+      "excerpt": "Згадка у виданні my.ua",
+      "date": "28 серпня 2026",
+      "dateTS": 1787911567.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVk1ZT2FZZ2ZqZEs5bDhSUDZDOUZZU3hvMzNUX3pwbWE3N0lrdU11MmkwTWdnYk5UcEJRRDFRQ296ZVpRUVA2VDBKYzJHVm9wS2thTjRmVjh3WVg1YlNnWmxjQVlmVEFxREF2SjlTTGpaazhMY09lUWtvZzcwaU5PU1pxWTlNWjBHa3ZzZDA0TmZXcjZzMm9ycHJNNzhTMmZoRnBZYkItd2tvOGt4bmVlWXVVTF85eUMzQlo2U3dSWUhZLVE4bGfSAcsBQVVfeXFMTkhZbjZCcFhrdUU5TXExWFVMT1VHVndZaDgyOXFvU1FhaHdGb2RuQ3c3ZGdYNVRFYzJJeXZPME9yYjJiYmt3VTRPYWx3Vmh3QVhtdGo0V3d6ODFFd1RfNUdZeDR3NFdTOUZlaUkxcTA2dDI0bGlhR2xfYUozZ1RnNERIUHdjWnlTeWR2ZFVMTXVQX0xwYl9kYjFXeWowWTVaUFIyejFWMTdia09weW5qNUZnSXdFM0dwZDdYMUJxd0xDODdfYm0wTXI0VVE?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -1431,19 +1444,6 @@ const CONTENT = {
       "date": "2 серпня 2026",
       "dateTS": 1785694880.0,
       "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc1NmMWZzQ0VXVVRWR0NHdVVNdFBvSy1ISnZNRG5DYm1RUG5POTJCSGVTR2RSNkJKaWt3QmRudHhBR2tfRDhsc3otN05hSFpvTjNXV0lobExSWkZqMzUwRmxSb1F4QTZ1TXlhY1BYZEZQaHNuei15ODlabDR1SmZrT21pTjRtek1OT1BkUkRLdUhWeS1JeTZGeXE2eG53SFlWZE5tQTh0ekg2bUJaV2lBa21QVDJmWnZY0gG-AUFVX3lxTE44TkxvUzVzQzdQVTc4S3pwb3BQREJpSG42RGRmTWFpbVhFYUdVOTB1RmMzeWlnNWljN185UElMVGptMHZvZm5QdDFaQXVnVFQzSHI2anF2NUk1ZTd3b1BoZF9zOXRIbC1lV0RxV1FIbENGTEVQRkxzUVRsLV9kOWhselBaLUdERXVjNEdlMmV2dXlIZmxZNkJEZFhMcGpjd3UzTzBIZmhORXpKSjgtZkg0cUYzc1ZfT0ctSVBWZ1E?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "Главред",
-      "title": "Долар готується до нового стрибка: експерт назвав терміни та можливий курс - Главред",
-      "excerpt": "Згадка у виданні Главред",
-      "date": "2 серпня 2026",
-      "dateTS": 1785694880.0,
-      "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOE5Mb1M1c0M3UFU3OEt6cG9wUERCaUhuNkRkZk1haW1YRWFHVTkwdUZjM3lpZzVpYzdfOVBJTFRqbTB2b2ZuUHQxWkF1Z1RUM0hyNmpxdjVJNWU3d29QaGRfczl0SGwtZVdEcVdRSGxDRkxFUEZMc1FUbC1fZDlobHpQWi1HREV1YzRHZTJldnV5SGZsWTZCRGRYTHBqY3d1M08wSGZoTkV6Sko4LWZINHFGM3NWX09HLUlQVmdR0gG-AUFVX3lxTE44TkxvUzVzQzdQVTc4S3pwb3BQREJpSG42RGRmTWFpbVhFYUdVOTB1RmMzeWlnNWljN185UElMVGptMHZvZm5QdDFaQXVnVFQzSHI2anF2NUk1ZTd3b1BoZF9zOXRIbC1lV0RxV1FIbENGTEVQRkxzUVRsLV9kOWhselBaLUdERXVjNEdlMmV2dXlIZmxZNkJEZFhMcGpjd3UzTzBIZmhORXpKSjgtZkg0cUYzc1ZfT0ctSVBWZ1E?oc=5",
       "external": true,
       "featured": false
@@ -1484,6 +1484,19 @@ const CONTENT = {
       "dateTS": 1785654000.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOUZYNVVGaHdWNUtQN0VRRWRlblNUU1ZXTEVsbVhXcEdKcUVqUXZrTUxnXzZQZnlvbDZrTlZ5VTE2dHhBQWE0bnQ4TXlnY0hPUEtrQWtqUXEtWnBxbTNpUVNNZTBMdVRjNGdOSnVwYW1VaHhvTEJJNUlFWE9tWU9PRG5KNUlnWUZ6cUtTSzZLdmh0NVY1Y0NVcktOSVVwUHhDeVpYcDJKb3BkWDRwTFM2djIxWTFNdFhmYlZNRVJrVTRwYVhzZjBhbXZnVznSAdIBQVVfeXFMTUhMR01GTzMxSFVtRnU1elB0V3JWaV9qOGRzWlRDVE5vampFVVRXcWx3NFBza0F3MzlXSHg0X09pdkNKd21QQ3R5OEI2ZHlBQmZKRnFYOTZQenJOelczUnRzUDdFeXN3TWVhOHFXVGZaM053VldEYzVVQ1psbzdUUmpMck84TkF2TElCRTdjaVhBWHphd3RwOEZra0ZVSTcyb1FWdzVFN1lHc1JISGhsN013bW1iVnVud3YtbUc3QlpHVlpPc18xTDdiTzB6V1NvRDFB?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Главред",
+      "title": "Долар готується до нового стрибка: експерт назвав терміни та можливий курс - Главред",
+      "excerpt": "Згадка у виданні Главред",
+      "date": "2 серпня 2026",
+      "dateTS": 1785654000.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc1NmMWZzQ0VXVVRWR0NHdVVNdFBvSy1ISnZNRG5DYm1RUG5POTJCSGVTR2RSNkJKaWt3QmRudHhBR2tfRDhsc3otN05hSFpvTjNXV0lobExSWkZqMzUwRmxSb1F4QTZ1TXlhY1BYZEZQaHNuei15ODlabDR1SmZrT21pTjRtek1OT1BkUkRLdUhWeS1JeTZGeXE2eG53SFlWZE5tQTh0ekg2bUJaV2lBa21QVDJmWnZY0gG-AUFVX3lxTE44TkxvUzVzQzdQVTc4S3pwb3BQREJpSG42RGRmTWFpbVhFYUdVOTB1RmMzeWlnNWljN185UElMVGptMHZvZm5QdDFaQXVnVFQzSHI2anF2NUk1ZTd3b1BoZF9zOXRIbC1lV0RxV1FIbENGTEVQRkxzUVRsLV9kOWhselBaLUdERXVjNEdlMmV2dXlIZmxZNkJEZFhMcGpjd3UzTzBIZmhORXpKSjgtZkg0cUYzc1ZfT0ctSVBWZ1E?oc=5",
       "external": true,
       "featured": false
     },
