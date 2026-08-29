@@ -1,8 +1,73 @@
-// Автоматично оновлено: 2026-08-28 19:48 UTC
+// Автоматично оновлено: 2026-08-29 13:29 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Ви зараз в мене тапками почнете кидати, але на душі так херово, що не вистачає такого собі \"Арест...",
+      "excerpt": "",
+      "date": "29 серпня 2026",
+      "dateTS": 1788002064.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/583",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Національний банк з 1 вересня 2026 року планує розраховувати довідкове значення курсу гривні до є...",
+      "excerpt": "",
+      "date": "29 серпня 2026",
+      "dateTS": 1787996318.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/582",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Після удару 5 серпня, коли жодна балістика не була збита, я написав про дробину ескалації Серед і...",
+      "excerpt": "",
+      "date": "29 серпня 2026",
+      "dateTS": 1787994021.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/581",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЦИФРА ДНЯ  За літо 2026 НБУ продав на міжбанку 14,7 млрд дол (моя оцінка).   Ці більше ніж НБУ за...",
+      "excerpt": "",
+      "date": "29 серпня 2026",
+      "dateTS": 1787989493.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/580",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ВАЛЮТНІ ІНТЕРАЕНЦІЇ НБУ - ПРОДОВЖЕННЯ РЕКОРДНОЇ СЕРІЇ  7 тижнів поспіль НБУ заливає ринок валютни...",
+      "excerpt": "",
+      "date": "29 серпня 2026",
+      "dateTS": 1787989345.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/579",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +79,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/578",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1237,71 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/457",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Нафта Брент вже нижче за 84 бакса за бочку.  При цьому фьючі по ціні постійно знаходяться в беква...",
-      "excerpt": "",
-      "date": "28 липня 2026",
-      "dateTS": 1785227264.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/456",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "SpaceX - найгірший після IPO результат -27%. Гірше ніж 90% компаній з капіталізацією більше 1млрд...",
-      "excerpt": "",
-      "date": "27 липня 2026",
-      "dateTS": 1785166077.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/455",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "РОЗДРІБНА ТОРГІВЛЯ УКРАЇНИ - СЕЗОННЕ СПОВІЛЬНЕННЯ В ЧЕРВНІ 2026, Й НЕ ТІЛЬКИ",
-      "excerpt": "",
-      "date": "27 липня 2026",
-      "dateTS": 1785161892.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/453",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "РОЗДРІБНА ТОРГІВЛЯ УКРАЇНИ - СЕЗОННЕ СПОВІЛЬНЕННЯ В ЧЕРВНІ 2026, Й НЕ ТІЛЬКИ.  Оборот роздрібної ...",
-      "excerpt": "",
-      "date": "27 липня 2026",
-      "dateTS": 1785161628.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/452",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Ситуація з портами давить на гривню, хоча активного впливу на показники попиту -пропозиції ще нем...",
-      "excerpt": "",
-      "date": "27 липня 2026",
-      "dateTS": 1785146657.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/451",
-      "external": true,
-      "featured": true
     }
   ],
   "news": [
