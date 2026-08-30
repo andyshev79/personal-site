@@ -1,8 +1,86 @@
-// Автоматично оновлено: 2026-08-29 13:29 UTC
+// Автоматично оновлено: 2026-08-30 13:26 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ПІДСУМКИ СЕРПНЯ: БОКОВИК ДОЛАРУ ЗА РАХУНОК ЄВРО Й ІНТЕРВЕНЦІЙ. ВЕРЕСЕНЬ: ...",
+      "excerpt": "",
+      "date": "29 серпня 2026",
+      "dateTS": 1788021219.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/591",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ПІДСУМКИ СЕРПНЯ: БОКОВИК ДОЛАРУ ЗА РАХУНОК ЄВРО Й ІНТЕРВЕНЦІЙ. ВЕРЕСЕНЬ: ...",
+      "excerpt": "",
+      "date": "29 серпня 2026",
+      "dateTS": 1788021192.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/590",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ПІДСУМКИ СЕРПНЯ: БОКОВИК ДОЛАРУ ЗА РАХУНОК ЄВРО Й ІНТЕРВЕНЦІЙ. ВЕРЕСЕНЬ: ...",
+      "excerpt": "",
+      "date": "29 серпня 2026",
+      "dateTS": 1788021144.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/589",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Попит на валюту стабільний, а пропозиція валюти падає потижнево з початку серпня. Дефіцит стрімко...",
+      "excerpt": "",
+      "date": "29 серпня 2026",
+      "dateTS": 1788021076.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/587",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ПІДСУМКИ СЕРПНЯ: БОКОВИК ДОЛАРУ ЗА РАХУНОК ЄВРО Й ІНТЕРВЕНЦІЙ. ВЕРЕСЕНЬ: ...",
+      "excerpt": "",
+      "date": "29 серпня 2026",
+      "dateTS": 1788020770.0,
+      "readTime": "3 хв",
+      "url": "https://t.me/shevchyshyn_trends/585",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ПІДСУМКИ СЕРПНЯ: БОКОВИК ДОЛАРУ ЗА РАХУНОК ЄВРО Й ІНТЕРВЕНЦІЙ. ВЕРЕСЕНЬ: ...",
+      "excerpt": "",
+      "date": "29 серпня 2026",
+      "dateTS": 1788020665.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/584",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +92,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/583",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1224,84 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/465",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжбанк долар 44,99 - 45,00  Такс... це вже заявка на перехід межі. Якщо до закриття не відкинуть...",
-      "excerpt": "",
-      "date": "28 липня 2026",
-      "dateTS": 1785239609.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/464",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "У I півріччі 2026 року споживання металопрокату в Україні зросло на 5 %, хоча динаміка за квартал...",
-      "excerpt": "",
-      "date": "28 липня 2026",
-      "dateTS": 1785239269.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/462",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ЦИФРА ДНЯ Падіння перевезень жд транспортом за 1П2026: 🧱⚙️вантажів - -6,2% 👫 пасажирів - -15,7%  ...",
-      "excerpt": "",
-      "date": "28 липня 2026",
-      "dateTS": 1785232876.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/461",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжбанк долар: 44.97 -  44.98  Вчора долар відігнали, сьогодні підібрались впритул.  Таки рівні б...",
-      "excerpt": "",
-      "date": "28 липня 2026",
-      "dateTS": 1785231738.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/460",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Кругове фінансування ШІ та NVidia (Bloomberg) Nasdaq - падаємо на 26400",
-      "excerpt": "",
-      "date": "28 липня 2026",
-      "dateTS": 1785230325.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/458",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ТЕХНОЛОГІЧНІ АКЦІЇ ПРОДОВЖУЮТЬ ПАДАТИ, ЗАТЯГУЮЧИ ЗА СОБОЮ ВЕСЬ СВІТ  Nasdaq 100 (NQ) на 27 930. Ц...",
-      "excerpt": "",
-      "date": "28 липня 2026",
-      "dateTS": 1785230166.0,
-      "readTime": "3 хв",
-      "url": "https://t.me/shevchyshyn_trends/457",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1477,19 +1477,6 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "ТСН",
-      "title": "В Україні очікують новий стрибок цін: економіст назвав головні причини інфляції у серпні - ТСН",
-      "excerpt": "Згадка у виданні ТСН",
-      "date": "2 серпня 2026",
-      "dateTS": 1785654000.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOUZYNVVGaHdWNUtQN0VRRWRlblNUU1ZXTEVsbVhXcEdKcUVqUXZrTUxnXzZQZnlvbDZrTlZ5VTE2dHhBQWE0bnQ4TXlnY0hPUEtrQWtqUXEtWnBxbTNpUVNNZTBMdVRjNGdOSnVwYW1VaHhvTEJJNUlFWE9tWU9PRG5KNUlnWUZ6cUtTSzZLdmh0NVY1Y0NVcktOSVVwUHhDeVpYcDJKb3BkWDRwTFM2djIxWTFNdFhmYlZNRVJrVTRwYVhzZjBhbXZnVznSAdIBQVVfeXFMTUhMR01GTzMxSFVtRnU1elB0V3JWaV9qOGRzWlRDVE5vampFVVRXcWx3NFBza0F3MzlXSHg0X09pdkNKd21QQ3R5OEI2ZHlBQmZKRnFYOTZQenJOelczUnRzUDdFeXN3TWVhOHFXVGZaM053VldEYzVVQ1psbzdUUmpMck84TkF2TElCRTdjaVhBWHphd3RwOEZra0ZVSTcyb1FWdzVFN1lHc1JISGhsN013bW1iVnVud3YtbUc3QlpHVlpPc18xTDdiTzB6V1NvRDFB?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
       "tagLabel": "Главред",
       "title": "Долар готується до нового стрибка: експерт назвав терміни та можливий курс - Главред",
       "excerpt": "Згадка у виданні Главред",
@@ -1497,6 +1484,19 @@ const CONTENT = {
       "dateTS": 1785654000.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc1NmMWZzQ0VXVVRWR0NHdVVNdFBvSy1ISnZNRG5DYm1RUG5POTJCSGVTR2RSNkJKaWt3QmRudHhBR2tfRDhsc3otN05hSFpvTjNXV0lobExSWkZqMzUwRmxSb1F4QTZ1TXlhY1BYZEZQaHNuei15ODlabDR1SmZrT21pTjRtek1OT1BkUkRLdUhWeS1JeTZGeXE2eG53SFlWZE5tQTh0ekg2bUJaV2lBa21QVDJmWnZY0gG-AUFVX3lxTE44TkxvUzVzQzdQVTc4S3pwb3BQREJpSG42RGRmTWFpbVhFYUdVOTB1RmMzeWlnNWljN185UElMVGptMHZvZm5QdDFaQXVnVFQzSHI2anF2NUk1ZTd3b1BoZF9zOXRIbC1lV0RxV1FIbENGTEVQRkxzUVRsLV9kOWhselBaLUdERXVjNEdlMmV2dXlIZmxZNkJEZFhMcGpjd3UzTzBIZmhORXpKSjgtZkg0cUYzc1ZfT0ctSVBWZ1E?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "ТСН",
+      "title": "В Україні очікують новий стрибок цін: економіст назвав головні причини інфляції у серпні - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
+      "date": "2 серпня 2026",
+      "dateTS": 1785654000.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOUZYNVVGaHdWNUtQN0VRRWRlblNUU1ZXTEVsbVhXcEdKcUVqUXZrTUxnXzZQZnlvbDZrTlZ5VTE2dHhBQWE0bnQ4TXlnY0hPUEtrQWtqUXEtWnBxbTNpUVNNZTBMdVRjNGdOSnVwYW1VaHhvTEJJNUlFWE9tWU9PRG5KNUlnWUZ6cUtTSzZLdmh0NVY1Y0NVcktOSVVwUHhDeVpYcDJKb3BkWDRwTFM2djIxWTFNdFhmYlZNRVJrVTRwYVhzZjBhbXZnVznSAdIBQVVfeXFMTUhMR01GTzMxSFVtRnU1elB0V3JWaV9qOGRzWlRDVE5vampFVVRXcWx3NFBza0F3MzlXSHg0X09pdkNKd21QQ3R5OEI2ZHlBQmZKRnFYOTZQenJOelczUnRzUDdFeXN3TWVhOHFXVGZaM053VldEYzVVQ1psbzdUUmpMck84TkF2TElCRTdjaVhBWHphd3RwOEZra0ZVSTcyb1FWdzVFN1lHc1JISGhsN013bW1iVnVud3YtbUc3QlpHVlpPc18xTDdiTzB6V1NvRDFB?oc=5",
       "external": true,
       "featured": false
     },
@@ -1516,13 +1516,26 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "Главред",
-      "title": "Водіїв попередили про новий стрибок цін на пальне: названо точні терміни - Главред",
-      "excerpt": "Згадка у виданні Главред",
+      "tagLabel": "my.ua",
+      "title": "Долар може зрости до 46 гривень: економісти пояснили, що буде з курсом у серпні - my.ua",
+      "excerpt": "Згадка у виданні my.ua",
       "date": "1 серпня 2026",
-      "dateTS": 1785609720.0,
+      "dateTS": 1785567971.0,
       "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEEwU1FXdEd4VDhlUmRQME5TaFRjWGFBcmRBa1E0MUF4RTFncjZDUDVCNlJBSWRCNVUxeUZndnM3MHdDaWJKTURZNl93c28xNm42LWc1MkZ1WjNEMjFNZFJLWGQzOU9nSzFxSmllck5tLVdUY2tyTEQwaVJJbUFsYVdoa2lGVi1IbXRmZVBmYU5DWDUxbVlfU1lYMzIzWDQ2MmdRRk9TQW5mUdIBrwFBVV95cUxOS0doR2k0Y1dxMUpaTHpXbXVySzcwTkpwRVdjTXJvWmdlbDhOUjg0N1NQMFg5NVlWeE9qcW91UFgwNFhGaDh4dkVxWlpoY0NXamg3a1NEU0dxTVNsUnY4ZGhhZTFpdDc5cDF2Z3pkQTFKcG0zRmpWTms3VGRlc2ZXV2xkaVgzS1Z3YmZFdXZRSkVsMGd6eU1jV1JqYm1xeHY1c0pmTGxVMXBXQlo4ZV9B?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRmdiUHdtalcxdUVUOGkwLUVNV1V2RWVuZV90Ukh5U25qYUFvM3RvNW94Sl80SEtKamdvdmRvRW81RHlnU0UwN2tVRXprR1JKemt6YnUzUGNheVZWT3lxMnFqWjVDb2djelBxM01HbGt6UXRyTWJSMDdLbzhDOHpnM0lOQzVqYWlzWWRkRHFWa0R5eFBFRllQVWJkZnF1clZWR1FuUWVVWC1WQ0lqUm5rQV9QdmRGa05jV3FzalRWbUFmTl82SXpJYXB5aG9vUXVjV1o4emVKLXQxaHRzVnJQc1Q0NENoZHJSWHROUEZJMmlfbDg3NkHSAfcBQVVfeXFMT01rSjFyQkdKUkhCaUJGNDU4TW82aGo2VS1KMEtCMmNZTEE2cnlWWjFZU191UFNYSF9UaHcybDE2Tjlkd0hmODh5RzVTRU5LLVM4TmlfaWdCTHBlUGhEcFdoTUgyX2hncnJ5R25VcnBRaWhYZTVlVThzM0RBTzhEYmNpZFotbWpOcnFIT2tYcERURk5wOHdmRng2RFhuRDE2MjdfVm1vMU1PdFNINFlQeDZuZlNjNDk5SDhZWUxnSlpuZS1vV1ItSnZYWW9MS2F5M0RobzExSkNxc291UWN3UDVCMEoxYnUtUmFHU2dTeUtrdGhEQkhTNA?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "ТСН",
+      "title": "Дизель може здорожчати до 100 грн за літр: фінансовий аналітик пояснив причини - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
+      "date": "1 серпня 2026",
+      "dateTS": 1785567600.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUEdpUUk5cE5XT3RzbXlBSFhKc1loYmpmZDdrM1AxNDlRdGJyVGJhVXFuZ0plNmJfR1hibmxDOUtaeFlCOWJkVXdWZXlYNVFLOXl5dVhZWHdSemJJdVgxeWJ0eVVSOXM5b2sxemExOFlWbEp3Uk9HT014N0hnYm0zYTgxbnhRTFVCRC1uMFVsYlNXMmxJdUhhQ2FfaWNxNkJsd3FVSTM4elNmalR4Qnh0ZlF1ckcxd3li0gG-AUFVX3lxTE4tQXR6TF90UFBsNm1vb055clpKU3o3TVEwR2V6SUhzS3lIazVqank0NTlWT2xaQmN6QTdOU3pVVU1PaWNsNGdiV1Z3OFRXRVJTVVQwazVlX1NBNTRoSHYtamVqbS1xNjRRYXA3YVRJY3VNY2Z6UVhMNmNFNEZRQzVFWERnXzNhTWpaRzhKNzB2bi1JOG5vQkNiNXE3QTJERnlJVTNhMUdTVUxDdThkSlFvX2ZiV3p4WmV0RUZmVnc?oc=5",
       "external": true,
       "featured": false
     },
@@ -1533,7 +1546,7 @@ const CONTENT = {
       "title": "Найближчими днями ціни на дизель можуть сягнути 100 грн за літр: експерт назвав причину - Новини.Live",
       "excerpt": "Згадка у виданні Новини.Live",
       "date": "1 серпня 2026",
-      "dateTS": 1785604020.0,
+      "dateTS": 1785567600.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS2JhOE05M3pjYU5WejkxelRiMW1lZGJhNS1RNEFMOGEzRjJfRUs4MDNUTGpKYjA2UkpHTlVHS1d0MDcyOWNwdk0xOENKalFzWHdtVS1sTnF5UlB0b1Y5X2xETUF6NXpCY19Ya1M1M3J5QjJzYnkySUFydlBOMC0ybWZ6TXF5dFoxYmxSVlg1YWRkWWFGN1hOZHNtN0YxS0ZFYUZ2YU5pSVVFdWxGd0FsSnFpNmV3cTNfM1hnNlI4eVotX29jdUpz0gHMAUFVX3lxTE02UWsybEJSMW0yWG1pMHdWbThOa3hQdGxrU3pzS2pUb3JoTTVUT0liZnZQVDZfZlIyQmRGZkRhVGZ6cHQzSWl5eGJkVDFfOHlGOWxzRjRzbVhBaTNsTGllek5WdUR1NUw4VEZ0YUhVU1lmQWNDR2Y1ZERKWFp4UlJGb0N5OUF1bUpDMURqX0JxLTVGNUZpMkdCZ3RUSjAtcEx1eVJKWl9YTXpnTmFSaVBDdlJmRDFNNXdsaDNYY0R4RnR1N2ZHOXFMRjU4WA?oc=5",
       "external": true,
@@ -1542,13 +1555,13 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "my.ua",
-      "title": "Долар може зрости до 46 гривень: економісти пояснили, що буде з курсом у серпні - my.ua",
-      "excerpt": "Згадка у виданні my.ua",
+      "tagLabel": "Главред",
+      "title": "Водіїв попередили про новий стрибок цін на пальне: названо точні терміни - Главред",
+      "excerpt": "Згадка у виданні Главред",
       "date": "1 серпня 2026",
-      "dateTS": 1785567971.0,
+      "dateTS": 1785567600.0,
       "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRmdiUHdtalcxdUVUOGkwLUVNV1V2RWVuZV90Ukh5U25qYUFvM3RvNW94Sl80SEtKamdvdmRvRW81RHlnU0UwN2tVRXprR1JKemt6YnUzUGNheVZWT3lxMnFqWjVDb2djelBxM01HbGt6UXRyTWJSMDdLbzhDOHpnM0lOQzVqYWlzWWRkRHFWa0R5eFBFRllQVWJkZnF1clZWR1FuUWVVWC1WQ0lqUm5rQV9QdmRGa05jV3FzalRWbUFmTl82SXpJYXB5aG9vUXVjV1o4emVKLXQxaHRzVnJQc1Q0NENoZHJSWHROUEZJMmlfbDg3NkHSAfcBQVVfeXFMT01rSjFyQkdKUkhCaUJGNDU4TW82aGo2VS1KMEtCMmNZTEE2cnlWWjFZU191UFNYSF9UaHcybDE2Tjlkd0hmODh5RzVTRU5LLVM4TmlfaWdCTHBlUGhEcFdoTUgyX2hncnJ5R25VcnBRaWhYZTVlVThzM0RBTzhEYmNpZFotbWpOcnFIT2tYcERURk5wOHdmRng2RFhuRDE2MjdfVm1vMU1PdFNINFlQeDZuZlNjNDk5SDhZWUxnSlpuZS1vV1ItSnZYWW9MS2F5M0RobzExSkNxc291UWN3UDVCMEoxYnUtUmFHU2dTeUtrdGhEQkhTNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEEwU1FXdEd4VDhlUmRQME5TaFRjWGFBcmRBa1E0MUF4RTFncjZDUDVCNlJBSWRCNVUxeUZndnM3MHdDaWJKTURZNl93c28xNm42LWc1MkZ1WjNEMjFNZFJLWGQzOU9nSzFxSmllck5tLVdUY2tyTEQwaVJJbUFsYVdoa2lGVi1IbXRmZVBmYU5DWDUxbVlfU1lYMzIzWDQ2MmdRRk9TQW5mUdIBrwFBVV95cUxOS0doR2k0Y1dxMUpaTHpXbXVySzcwTkpwRVdjTXJvWmdlbDhOUjg0N1NQMFg5NVlWeE9qcW91UFgwNFhGaDh4dkVxWlpoY0NXamg3a1NEU0dxTVNsUnY4ZGhhZTFpdDc5cDF2Z3pkQTFKcG0zRmpWTms3VGRlc2ZXV2xkaVgzS1Z3YmZFdXZRSkVsMGd6eU1jV1JqYm1xeHY1c0pmTGxVMXBXQlo4ZV9B?oc=5",
       "external": true,
       "featured": false
     },
@@ -1594,6 +1607,19 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
+      "tagLabel": "Minfin.com.ua",
+      "title": "Чи може підвищення Нацбанком облікової ставки стримати ослаблення гривні - Minfin.com.ua",
+      "excerpt": "Згадка у виданні Minfin.com.ua",
+      "date": "30 липня 2026",
+      "dateTS": 1785394800.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM1RwLTNFVUZYODlVOWlrRE1maGEzR2JLX3pKdU5lWDVyNjNXZUZ3UHZ4eEJSWVhRbERvUmo5eFd0V3JJZ0Q5X2JGYlJHME9qYUJWQ05sWVNhOEl5Q3E4T1BxdHlnMVBlN09HWDJOeHpiVE5sYklYSUNsTm1nNnFTYnFzcE1sdDBJbWRoWlV6U3hENGo2RHhGMmMyUnBYSEl6dmZRUzJaSzJHZ1pHdmdfZU9kRmEzN3pO?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
       "tagLabel": "РБК-Україна",
       "title": "Удари по Wildberries можуть вартувати продавцям РФ до 1,3 млрд доларів, – аналітик - РБК-Україна",
       "excerpt": "Згадка у виданні РБК-Україна",
@@ -1633,19 +1659,6 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "Главред",
-      "title": "Ціни на товари та продукти підскочать: розкрито, що подорожчає в першу чергу - Главред",
-      "excerpt": "Згадка у виданні Главред",
-      "date": "23 липня 2026",
-      "dateTS": 1784829216.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaGNxalgtT2ZpRVpNTi1ZVmcybm05ei1CSHY1azBDbGlFQnpPUGEzMzZpRXVURHR2c1FDcnVEZUE1dHlwc1NHVUoxdGY4bFZkZWRpaHRNRVI3TUlUdmJuczJCWnlPYUllLUVhMEVfcS1Ma2hmN2xSQmM3RFJtYUZFaDloRjVZV1U2UE5KX09kYzVOUFNzLVJaS0QzYnJySjc0YmdOZXVQMjRhb3R3NE5BdXFFbUdTX0g1OUlVaTFmVXpTQdIBxwFBVV95cUxQLXdJRm5xRElGSkY1dzc1X0hIR0JLLUJPODVnLUkxTnBudDc0M3p6RV9meVU3WEd2UDdrTzFYaUpZUGhtOUdhM0R0d2hpMFBPN3hUbnd1MmNTWGlfcVJEaVpxMWc3eWl5b1VnMmRMc3VSYl9VM051V0ZBTC1mSUQ5S0paZ25pWF9Wekd0elFiUEhCWGZIMV8tNlVSWWhHeDNQa09WNjU0RjU4Ynk2NEVQcDdDVkEyMFY5OUdDTGxtRjdiSTZGcDJF?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
       "tagLabel": "УНІАН",
       "title": "Зростання долара та подорожчання низки товарів: аналітик про наслідки закриття портів - УНІАН",
       "excerpt": "Згадка у виданні УНІАН",
@@ -1653,6 +1666,19 @@ const CONTENT = {
       "dateTS": 1784820480.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb0VHcWs2OUc4bHJjTTJNSkhNVWFld0toNUJRUHp4ZkdpbmJBak9ZVlY2bGgwcl9ZaWlCLTNGeE5TMnZnV2hiRklWVHVjRTBUVm5qZl9STGxSeEtESkJLaFJFUW1WUERZMDEyQjV3MXY5RldyRVRETl9rd19SNlpxOXMtWDE3cVE2TkVPbjNlWGh1V3ktWHVkQnh4QnJsWHFaM2swek4xTUI5Y3RITUFna2t0RWstZ9IB0AFBVV95cUxQRGJnWWxDQVhNbkFYaGdpY29Bam9VcW9vTnNEYXBjMTRIbFZ3VDcwRnN6NmMtdzQwZWVHZkhrNlV6VVlHNWIxdzBiSlllS1hTVm9VTXRRdllXZ2oxR3MzWmNRTmZlRDFuclhEWG16eHhfMmdQTzdid01vTmhFRC1LZzJQdUN5ZW1XdXJoNlVzR3hNQXA5WGtxaWpqQm95c0xYRS05MTFYNXBGdWtiM1dyZlUtN3lxZWpVZnJDRUFoMzY5RGE2am01aUszOW1mY3Nn?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Главред",
+      "title": "Ціни на товари та продукти підскочать: розкрито, що подорожчає в першу чергу - Главред",
+      "excerpt": "Згадка у виданні Главред",
+      "date": "23 липня 2026",
+      "dateTS": 1784790000.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaGNxalgtT2ZpRVpNTi1ZVmcybm05ei1CSHY1azBDbGlFQnpPUGEzMzZpRXVURHR2c1FDcnVEZUE1dHlwc1NHVUoxdGY4bFZkZWRpaHRNRVI3TUlUdmJuczJCWnlPYUllLUVhMEVfcS1Ma2hmN2xSQmM3RFJtYUZFaDloRjVZV1U2UE5KX09kYzVOUFNzLVJaS0QzYnJySjc0YmdOZXVQMjRhb3R3NE5BdXFFbUdTX0g1OUlVaTFmVXpTQdIBxwFBVV95cUxQLXdJRm5xRElGSkY1dzc1X0hIR0JLLUJPODVnLUkxTnBudDc0M3p6RV9meVU3WEd2UDdrTzFYaUpZUGhtOUdhM0R0d2hpMFBPN3hUbnd1MmNTWGlfcVJEaVpxMWc3eWl5b1VnMmRMc3VSYl9VM051V0ZBTC1mSUQ5S0paZ25pWF9Wekd0elFiUEhCWGZIMV8tNlVSWWhHeDNQa09WNjU0RjU4Ynk2NEVQcDdDVkEyMFY5OUdDTGxtRjdiSTZGcDJF?oc=5",
       "external": true,
       "featured": false
     },
