@@ -1,8 +1,99 @@
-// Автоматично оновлено: 2026-08-30 13:26 UTC
+// Автоматично оновлено: 2026-08-31 15:42 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ШІ ПОРТФЕЛЬ (результат липня, портфель на серпень)  Як й обіцяв в (https://t.me/shevchyshyn_trend...",
+      "excerpt": "",
+      "date": "31 серпня 2026",
+      "dateTS": 1788190615.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/599",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "БРУТТО ЗАРПЛАТИ В ЛИПНІ ₴32 243  Це значно менше моїх очікувань (₴32,9К). Я закладав ріст на друг...",
+      "excerpt": "",
+      "date": "31 серпня 2026",
+      "dateTS": 1788182296.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/598",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Спочатку розісратись з партнерами, а потім запросити дружити проти Китаю 🤡  Харизма - 100, рівень...",
+      "excerpt": "",
+      "date": "31 серпня 2026",
+      "dateTS": 1788178480.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/597",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Экспорт агропродукции из Украины в августе рухнул почти наполовину, — Forbes  Украина за 1–27 авг...",
+      "excerpt": "",
+      "date": "31 серпня 2026",
+      "dateTS": 1788172767.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/596",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Тут Axios.com пише що в Америці проблеми з цінами.  Дизель, кукуруза та пшениця формують значний ...",
+      "excerpt": "",
+      "date": "31 серпня 2026",
+      "dateTS": 1788164504.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/595",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Запаси нафти в США на мінімумах майже на 50річних мінімумах. Й угода з Венесуелою, як й її контро...",
+      "excerpt": "",
+      "date": "31 серпня 2026",
+      "dateTS": 1788163308.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/593",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Після паузи відновив публікацію відео на каналі по валютному ринку.  Тому традиційно, якщо ліньки...",
+      "excerpt": "",
+      "date": "30 серпня 2026",
+      "dateTS": 1788106937.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/592",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +105,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/591",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1211,100 +1302,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/472",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Про порти в матеріалі УП",
-      "excerpt": "",
-      "date": "29 липня 2026",
-      "dateTS": 1785331180.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/471",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Ціни палива тимчасово стабілізувались. Найбільший приріст дизель +17% (повернувся на максимуми як...",
-      "excerpt": "",
-      "date": "29 липня 2026",
-      "dateTS": 1785325748.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/470",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "НБУ продовжує тримає долар на міжбанку, заливаючи ринок інтервенціями та сжавши зуби. Тягне до рі...",
-      "excerpt": "",
-      "date": "29 липня 2026",
-      "dateTS": 1785312888.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/469",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Південний ГЗК частково призупиняє видобуток через блокування портів й фактичну неможливість експо...",
-      "excerpt": "",
-      "date": "28 липня 2026",
-      "dateTS": 1785258967.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/468",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "@&ять це плюс до 3% до кінцевої ціни єє для бізнесу",
-      "excerpt": "",
-      "date": "28 липня 2026",
-      "dateTS": 1785240817.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/466",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "⚡️📈 НКРЕКП ухвалила рішення підвищити з 1 серпня тарифи Укренерго на передачу електроенергії для ...",
-      "excerpt": "",
-      "date": "28 липня 2026",
-      "dateTS": 1785240817.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/467",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "🔻 Після фактичної зупинки морського експорту закупівельні ціни на зернові та ріпак почали падати:...",
-      "excerpt": "",
-      "date": "28 липня 2026",
-      "dateTS": 1785240276.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/465",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "my.ua",
+      "title": "Курс долара у вересні: експерт розповів, чи очікувати рекордного подорожчання - my.ua",
+      "excerpt": "Згадка у виданні my.ua",
+      "date": "31 серпня 2026",
+      "dateTS": 1788172963.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWHpRa09Pb1ZOTWEzeXZ4M0xyTENsMjhZa3BRcE5SWkJWRkVDWkdIRG9za3g5RUZEd1lHUjBRUjFwd01zQUVyOVJLQ3JHNzlmcFgzT0FFWGRoRDUyaGEtalRWbmRPdHVHb200QWdxTkZBSFlOTzdyM0N0SjhqSFZ2X0N6OTNuY2FtWDlVVmJ1a215V0QweVRJb1RVQXJaWlhnTWVFeE5DN2FkV2kzT0d2UUxTVHZ4YmhhdWfSAb8BQVVfeXFMTWNnWU5vZm1YdDFScDN2RmdsSXhiRkdwTF9Hcm5KRVUtcUFLNXFrOVFTdmF1X2pVekdaSkdSV2JWQkY5eDVMOEZ5VlpSWC1KcDYzR2g0RkE1ZVFoSHBxS0ZhYWdUWDRTc3lFX3FlNkc2M1ZTLVFocDYwLThtS0FmVExncG5SWDBzT3ZENm5XcThkMzBVbTlaMm54c3ZTbUlDNXNndkJ6Rk45bkljOHlvOGxIQ3o5emNOVF9yNVFOTXM?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -1870,6 +1883,19 @@ const CONTENT = {
       "source": "youtube",
       "tag": "youtube",
       "tagLabel": "YouTube",
+      "title": "БОКОВИК ДОЛАРУ ЗА РАХУНОК ЄВРО Й ІНТЕРВЕНЦІЙ. ВЕРЕСЕНЬ: НЕГАТИВУ БІЛЬШЕ НІЖ ПОЗИТИВУ",
+      "excerpt": "00:00 вступ\n00:41 огляд серпня 2026\n06:00 баланс міжбанку\n08:59 готівкові операції населення\n10:00 безготівкові операції населення\n11:25 загальний баланс ринку й інтервенції НБУ\n12:53 очікування на ве",
+      "date": "30 серпня 2026",
+      "dateTS": 1788106846.0,
+      "readTime": "відео",
+      "url": "https://www.youtube.com/watch?v=JFtDELniHpE",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "youtube",
+      "tag": "youtube",
+      "tagLabel": "YouTube",
       "title": "ПІДСУМКИ ЛИПНЯ - БОКОВИК ДОЛАРУ ЗА РАХУНОК ЗНАЧНИХ ІНТЕРВЕНЦІЙ. СЕРПЕНЬ РОЗСТАВИТЬ КРАПКИ НАД «І»",
       "excerpt": "00:00 вступ\n00:45 огляд липня 2026\n03:04 баланс ринку, попит та пропозиція\n07:35 головні події липня для ринку\n13:35 прогноз на серпень: фактори впливу\n18:00 базовий сценарій\n19:35 оптимістичний сцена",
       "date": "3 серпня 2026",
@@ -1877,7 +1903,7 @@ const CONTENT = {
       "readTime": "відео",
       "url": "https://www.youtube.com/watch?v=aKwW09CAGas",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "youtube",
