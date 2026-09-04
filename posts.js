@@ -1,8 +1,86 @@
-// Автоматично оновлено: 2026-09-03 12:24 UTC
+// Автоматично оновлено: 2026-09-04 12:23 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Як красиво укатали продажами долар.   міжбанк: 44.50 - 44.54  Інтервенції НБУ дуже значні. Попере...",
+      "excerpt": "",
+      "date": "4 вересня 2026",
+      "dateTS": 1788524448.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/629",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЦІНИ ПШЕНИЦІ ТА КУКУРУЗИ ПАДАЮТЬ НА СВІТОВИХ РИНКАХ  Ринки суттєво коректуються по зерну, як пише...",
+      "excerpt": "",
+      "date": "3 вересня 2026",
+      "dateTS": 1788447224.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/628",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "https://news.telegraf.com.ua/ukr/dengi/5949144-rosiyski-teroristi-namagayutsya-zlamati-privatbank...",
+      "excerpt": "",
+      "date": "3 вересня 2026",
+      "dateTS": 1788446395.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/627",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Сьогодні в етері Новини Live озвучив один з негативних прогнозів долару на 2027 https://novyny.li...",
+      "excerpt": "",
+      "date": "3 вересня 2026",
+      "dateTS": 1788443612.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/626",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Україна пройшла пікові виплати по обслуговуванню боргу у серпні (а ми й не відчули😊) - виплатила ...",
+      "excerpt": "",
+      "date": "3 вересня 2026",
+      "dateTS": 1788441833.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/625",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Незважаючи на публічні заяви про жорстку економію та нестачу коштів, Мінфін проводить дуже обереж...",
+      "excerpt": "",
+      "date": "3 вересня 2026",
+      "dateTS": 1788441385.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/624",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +92,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/623",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1224,87 +1302,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/512",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Продовжуючи тему ВВП за 2кв2026  Ось ВВП й деякі складові  ВВП +0,6% ——— 🔴Агро -0,7% 🟢Промисловіс...",
-      "excerpt": "",
-      "date": "4 серпня 2026",
-      "dateTS": 1785849075.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/511",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ЦИФРА ДНЯ  ВВП України в 2кв2026 зріс на 0,6%.  Це значить, що ВВП у першому півріччі 2026 показа...",
-      "excerpt": "",
-      "date": "4 серпня 2026",
-      "dateTS": 1785844059.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/510",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ШІ та безробіття (Marketwatch):  🟠ШІ вже додає +0.15% до загального безробіття в США - небагато, ...",
-      "excerpt": "",
-      "date": "4 серпня 2026",
-      "dateTS": 1785838024.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/509",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ПРОМИСЛОВІСТЬ УКРАЇНИ В 1П2026 СИМВОЛІЧНИЙ МІНУС  Ох так багато можно розповісти про цей мінус 0,...",
-      "excerpt": "",
-      "date": "3 серпня 2026",
-      "dateTS": 1785770144.0,
-      "readTime": "3 хв",
-      "url": "https://t.me/shevchyshyn_trends/506",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "МІНФІН ЗНИЖУЄ БОРГОВЕ ГРИВНЕВЕ НАВАНТАЖЕННЯ   Мінфін по гривневим ОДВП за 7міс2026: + залучив чер...",
-      "excerpt": "",
-      "date": "3 серпня 2026",
-      "dateTS": 1785754214.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/505",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжбанк долар 44.89 - 44.92 Тягнемось потроху вгору #міжбанк #usduah",
-      "excerpt": "",
-      "date": "3 серпня 2026",
-      "dateTS": 1785753467.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/504",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "РБК-Україна",
+      "title": "Банкнота 2000 грн може стати новою нормою для закупівель: аналітик пояснив, що буде з цінами - РБК-Україна",
+      "excerpt": "Згадка у виданні РБК-Україна",
+      "date": "4 вересня 2026",
+      "dateTS": 1788524100.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcXp5X0tscTFuRDZCNjNJQ3VDaU91QktlYWctOURQOV9EZGJ2WDYwcmVrTTA1VS1iNjExSXVkcHp0UERsSTlmV0g4WV9QRVdDXzhuWS1KdEJGNGczZUd4MGJuMmhkZ3ZsQlE5NWtpTldXT3BlSzNIYTZsU0RsSFV2ck9GQzZmWmYtT0VmN0xZTmJqZ9IBlwFBVV95cUxPOG9ieXA3MUhUdWpUMXJycHh5VjU4UU9nTUt4VUQ0YWRKQTdKN2pDN3VQZTZnSDc3ckxHa3R3N0NUTWZ6RktYQTZSQi1DN2oxb2ZyX0JnM2d6bUFXUDNNc1pKdjRvTHdQajlPWmhiZFhqdnJxWVVfN1plbEtmYUFRQmlzZW4tQWlnaVFGMjF1c2Z5Wm42SUo0?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -1316,7 +1329,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLVJTbjlEVks5ZGR2dTdCLW8tU0FwekxUM0d6Wlo2dXdKWWNDQWdpTnQ3czF1dzdqMTREbzhlM285dWYtS2FoRUliN0F5ZWVINzIzQ1JzS2NuNmlmWUhMN2RCdW9YYWxZSFlqODg5NlVNMi1qcDJQM1hqZEZ0ekxKV0tCbkdSN1hpWG5LNVMwZVBYMldBdjRTZFM3eG83SUhyYlk5a2pvT2xLLW5lOENENWYteWJZblhudHVRR2VUVjgzTHNiMmfSAcYBQVVfeXFMUC1SU245RFZLOWRkdnU3Qi1vLVNBcHpMVDNHelpaNnV3SlljQ0FnaU50N3MxdXc3ajE0RG84ZTNvOXVmLUthaEVJYjdBeWVlSDcyM0NSc0tjbjZpZllITDdkQnVvWGFsWUhZajg4OTZVTTItanAyUDNYamRGdHpMSldLQm5HUjdYaVhuSzVTMGVQWDJXQXY0U2RTN3hvN0lIcmJZOWtqb09sSy1uZThDRDVmLXliWW5YbnR1UUdlVFY4M0xzYjJn?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -1529,19 +1542,6 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "Главред",
-      "title": "Долар готується до нового стрибка: експерт назвав терміни та можливий курс - Главред",
-      "excerpt": "Згадка у виданні Главред",
-      "date": "2 серпня 2026",
-      "dateTS": 1785654000.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc1NmMWZzQ0VXVVRWR0NHdVVNdFBvSy1ISnZNRG5DYm1RUG5POTJCSGVTR2RSNkJKaWt3QmRudHhBR2tfRDhsc3otN05hSFpvTjNXV0lobExSWkZqMzUwRmxSb1F4QTZ1TXlhY1BYZEZQaHNuei15ODlabDR1SmZrT21pTjRtek1OT1BkUkRLdUhWeS1JeTZGeXE2eG53SFlWZE5tQTh0ekg2bUJaV2lBa21QVDJmWnZY0gG-AUFVX3lxTE44TkxvUzVzQzdQVTc4S3pwb3BQREJpSG42RGRmTWFpbVhFYUdVOTB1RmMzeWlnNWljN185UElMVGptMHZvZm5QdDFaQXVnVFQzSHI2anF2NUk1ZTd3b1BoZF9zOXRIbC1lV0RxV1FIbENGTEVQRkxzUVRsLV9kOWhselBaLUdERXVjNEdlMmV2dXlIZmxZNkJEZFhMcGpjd3UzTzBIZmhORXpKSjgtZkg0cUYzc1ZfT0ctSVBWZ1E?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
       "tagLabel": "ТСН",
       "title": "В Україні очікують новий стрибок цін: економіст назвав головні причини інфляції у серпні - ТСН",
       "excerpt": "Згадка у виданні ТСН",
@@ -1549,6 +1549,19 @@ const CONTENT = {
       "dateTS": 1785654000.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOUZYNVVGaHdWNUtQN0VRRWRlblNUU1ZXTEVsbVhXcEdKcUVqUXZrTUxnXzZQZnlvbDZrTlZ5VTE2dHhBQWE0bnQ4TXlnY0hPUEtrQWtqUXEtWnBxbTNpUVNNZTBMdVRjNGdOSnVwYW1VaHhvTEJJNUlFWE9tWU9PRG5KNUlnWUZ6cUtTSzZLdmh0NVY1Y0NVcktOSVVwUHhDeVpYcDJKb3BkWDRwTFM2djIxWTFNdFhmYlZNRVJrVTRwYVhzZjBhbXZnVznSAdIBQVVfeXFMTUhMR01GTzMxSFVtRnU1elB0V3JWaV9qOGRzWlRDVE5vampFVVRXcWx3NFBza0F3MzlXSHg0X09pdkNKd21QQ3R5OEI2ZHlBQmZKRnFYOTZQenJOelczUnRzUDdFeXN3TWVhOHFXVGZaM053VldEYzVVQ1psbzdUUmpMck84TkF2TElCRTdjaVhBWHphd3RwOEZra0ZVSTcyb1FWdzVFN1lHc1JISGhsN013bW1iVnVud3YtbUc3QlpHVlpPc18xTDdiTzB6V1NvRDFB?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Главред",
+      "title": "Долар готується до нового стрибка: експерт назвав терміни та можливий курс - Главред",
+      "excerpt": "Згадка у виданні Главред",
+      "date": "2 серпня 2026",
+      "dateTS": 1785654000.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc1NmMWZzQ0VXVVRWR0NHdVVNdFBvSy1ISnZNRG5DYm1RUG5POTJCSGVTR2RSNkJKaWt3QmRudHhBR2tfRDhsc3otN05hSFpvTjNXV0lobExSWkZqMzUwRmxSb1F4QTZ1TXlhY1BYZEZQaHNuei15ODlabDR1SmZrT21pTjRtek1OT1BkUkRLdUhWeS1JeTZGeXE2eG53SFlWZE5tQTh0ekg2bUJaV2lBa21QVDJmWnZY0gG-AUFVX3lxTE44TkxvUzVzQzdQVTc4S3pwb3BQREJpSG42RGRmTWFpbVhFYUdVOTB1RmMzeWlnNWljN185UElMVGptMHZvZm5QdDFaQXVnVFQzSHI2anF2NUk1ZTd3b1BoZF9zOXRIbC1lV0RxV1FIbENGTEVQRkxzUVRsLV9kOWhselBaLUdERXVjNEdlMmV2dXlIZmxZNkJEZFhMcGpjd3UzTzBIZmhORXpKSjgtZkg0cUYzc1ZfT0ctSVBWZ1E?oc=5",
       "external": true,
       "featured": false
     },
