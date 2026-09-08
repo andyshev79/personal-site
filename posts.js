@@ -1,8 +1,73 @@
-// Автоматично оновлено: 2026-09-07 13:49 UTC
+// Автоматично оновлено: 2026-09-08 12:26 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Це навіть не террор, це пряме винищення ((",
+      "excerpt": "",
+      "date": "8 вересня 2026",
+      "dateTS": 1788870179.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/654",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "В продовження поста вище 👆 Але ті часи минули, й спосерігаючи на зниження частки Китаю в трежеріс...",
+      "excerpt": "",
+      "date": "8 вересня 2026",
+      "dateTS": 1788862959.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/653",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Частка Китаю в трежеріс США найменша з 2002 року.  Ще років п'ятнадцять тому в підручниках з міжн...",
+      "excerpt": "",
+      "date": "8 вересня 2026",
+      "dateTS": 1788862919.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/652",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Нажаль Brent 95-115 дол це нова реальність.   В Ірані у Штатів цуцванг. З рф не домовились, війна...",
+      "excerpt": "",
+      "date": "8 вересня 2026",
+      "dateTS": 1788857983.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/651",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "НБУ підрахував золото-валютні резерви В серпні маємо зниження на 5% до $48,66 млрд (-$2.53 млрд) ...",
+      "excerpt": "",
+      "date": "7 вересня 2026",
+      "dateTS": 1788797314.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/649",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +79,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/648",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1237,74 +1302,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/540",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжбанк долар 44.89 - 44.91  Зупинка на максимумах, завтра продовжуємо зростання. #міжбанк #usduah",
-      "excerpt": "",
-      "date": "10 серпня 2026",
-      "dateTS": 1786373933.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/539",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Липень ще норм пройшов. Я рахував +0,7%. Вийшло краще. Серпень-вересень буде жорсткіше. Значно. Б...",
-      "excerpt": "",
-      "date": "10 серпня 2026",
-      "dateTS": 1786373865.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/538",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Не почую - не повірю Але дуже сподіваюсь --- ❗️США ежемесячно будут выделять Украине ракеты-перех...",
-      "excerpt": "",
-      "date": "8 серпня 2026",
-      "dateTS": 1786186281.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/537",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ЦИФРА ДНЯ З початку літа 2026 НБУ залив у ринок $10,9 млрд валютних інтервенцій.   Всього за 2 мі...",
-      "excerpt": "",
-      "date": "8 серпня 2026",
-      "dateTS": 1786181529.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/536",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ЩОДО РЕЗУЛЬТАТІВ 1ГО ТЕНДЕРУ 3х МІСЯЧНИХ ДЕПСЕРТИФІКАТІВ  Якщо коротко: ставка розміщення 3МДС ст...",
-      "excerpt": "",
-      "date": "8 серпня 2026",
-      "dateTS": 1786178285.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/535",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "focus.ua",
+      "title": "Грошей від МВФ може не бути: як це позначиться на доларі, гривні та цінах в Україні - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "8 вересня 2026",
+      "dateTS": 1788864677.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2tPbmtMUUp5UEw0eXEtc2ZJNWoya28zbXJsYVd5dzR6QmFuVFJ6OVVGSEx0bzd6UGwzdHBLRy1PVnZ2T3B0SWhxT0RLZzhQY004TzVlMkJwc2tYeTBZY2xhV3V4T1Z3OXB0OFVPTGIyVE8yd3MtTU9zakM4YkN1NmZxVFFPYXAyOW83R0NSYXp5R08tMWZOQVlJbGdGQzJILUpmckMxZkpQakpiY29uUTVKcW1mT1NjQlVvUGNXNlBpaTDSAcgBQVVfeXFMTVY4eGdlU1E2WkpVb0RqM2JyVmFmZmVJc29rd2dqYXJ6ckh6WEpIM2x3bW16U1YyTmYwczd2UDRfVWRiRkpDSEZUbVhuN2ZkRnhuUlVMaUV2OHhkX2x5NnhWaEpIQ2M2LWRYSFE1SkFPMEswOE1EU3RIVUI4YUZEUVVYTTNvQjFQa2lGSE5MUmhhMUtNYzFWS2l6V3g2YXQ1UFlhUTAySWh3anZYallVXzBoMDZjZUF1R0w5ZVRBdzFsd2lsdl9OQ0c?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -1317,6 +1330,19 @@ const CONTENT = {
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOU1BOTRsaTNNMWp3S0NUWXlaTFJSSXM4bFBfZUZDaUhscDBEbXVja24zSm9DSWU2elhaNlg2aDlLWWJZNllHbDl4U3JKT2cyM0wxdUlrRno2TmVZREdkNFFEMUY3ajdaN2NPTFl4SGR6MGFIQ3V3UjFkYmc2ek83Z2FjaUNZeWVyT0syQ3JsRGZjV3NUSFM1aHBCVFdrWE5pUUYzQ2E5TFNIWE1wbHZPelprMmhlQ2pBTURQUEtUQldpMmJXUGdlaA?oc=5",
       "external": true,
       "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "focus.ua",
+      "title": "Долар готують до стрибка: курс може піднятися навіть вище за 45 грн - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "6 вересня 2026",
+      "dateTS": 1788701574.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdWN2MlQ0UGx1Z3FVMTRMQ0t4UkJJNHE2WUZhRUFPRWVZcllOVHJPejFTNmtOV0l3U0dXSm5MOXM1OXNFc1JzVl9qMnhxVkx4eVA0WWJ0eWNKZ05ITDZDY29HQTFueWRTc1c2S2VNTWR3dld2NnREaGIwbGxNMDRDYmVZMU1rNEQySHhydkx5ZE10dVJDMW4ySFpqQ3pMakZucWVicXE2LWFrSVZDRTZlOUdn0gGyAUFVX3lxTE51Y3YyVDRQbHVncVUxNExDS3hSQkk0cTZZRmFFQU9FZVlyWU5Uck96MVM2a05XSXdTR1dKbkw5czU5c0VzUnNWX2oyeHFWTHh5UDRZYnR5Y0pnTkhMNkNjb0dBMW55ZFNzVzZLZU1NZHd2V3Y2dERoYjBsbE0wNENiZVkxTWs0RDJIeHJ2THlkTXR1UkMxbjJIWmpDekxqRm5xZWJxcTYtYWtJVkNFNmU5R2c?oc=5",
+      "external": true,
+      "featured": false
     },
     {
       "source": "news",
@@ -1451,9 +1477,9 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "glavred.net",
-      "title": "Долар може різко злетіти вгору: експерт назвав терміни та новий курс - glavred.net",
-      "excerpt": "Згадка у виданні glavred.net",
+      "tagLabel": "Главред",
+      "title": "Долар може різко злетіти вгору: експерт назвав терміни та новий курс - Главред",
+      "excerpt": "Згадка у виданні Главред",
       "date": "17 серпня 2026",
       "dateTS": 1786950000.0,
       "readTime": "2 хв",
@@ -1568,9 +1594,9 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "glavred.net",
-      "title": "Долар готується до нового стрибка: експерт назвав терміни та можливий курс - glavred.net",
-      "excerpt": "Згадка у виданні glavred.net",
+      "tagLabel": "Главред",
+      "title": "Долар готується до нового стрибка: експерт назвав терміни та можливий курс - Главред",
+      "excerpt": "Згадка у виданні Главред",
       "date": "2 серпня 2026",
       "dateTS": 1785654000.0,
       "readTime": "2 хв",
