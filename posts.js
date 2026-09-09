@@ -1,8 +1,112 @@
-// Автоматично оновлено: 2026-09-08 12:26 UTC
+// Автоматично оновлено: 2026-09-09 12:35 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Інфляція в серпні 2026 +0,1%м/м, 8,1%р/р  Плодовоовочеве дефляційне лоббі (овочі -18,2%, фрукти -...",
+      "excerpt": "",
+      "date": "9 вересня 2026",
+      "dateTS": 1788954512.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/665",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Як й писав зранку, по євро літають вверх-вниз. На скріні класична розворотна фігура - розворот на...",
+      "excerpt": "",
+      "date": "9 вересня 2026",
+      "dateTS": 1788948969.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/664",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Оперативні дані по зовнішній торгівлі за серпень від Митниці  Коротко: в серпні стрімко падаємо📉 ...",
+      "excerpt": "",
+      "date": "9 вересня 2026",
+      "dateTS": 1788947126.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/662",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Сьогодні Держстат має оголосити дані по інфляції за серпень (14:00), та протягом дня деталі дати ...",
+      "excerpt": "",
+      "date": "9 вересня 2026",
+      "dateTS": 1788941088.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/661",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Міжбанк долар 44.62 - 44.70 це +30коп до рівня понеділка.  Сьогодні євро зростає, що буде стримув...",
+      "excerpt": "",
+      "date": "9 вересня 2026",
+      "dateTS": 1788940533.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/660",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Реакція пшениці та кукурудзи на результати візиту Віткофа та Кушнера.  Зростання ціни, як прайсін...",
+      "excerpt": "",
+      "date": "9 вересня 2026",
+      "dateTS": 1788939586.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/659",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЦИФРА ДНЯ Обвал виробництва у металургів у серпні 2026: 🔻чавун - на 65.6% р/р; -40.5%м/м 🔻сталь -...",
+      "excerpt": "",
+      "date": "9 вересня 2026",
+      "dateTS": 1788931348.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/658",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "https://spectator.com/article/ukraine-is-losing-the-war-kushner-witkoff/ Стаття: Ukraine is losin...",
+      "excerpt": "",
+      "date": "8 вересня 2026",
+      "dateTS": 1788882179.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/657",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -1198,113 +1302,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/552",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "З 16 липня міжбанк майже не виходить з зони екстремального навантаження на резерви, де середньодо...",
-      "excerpt": "",
-      "date": "15 серпня 2026",
-      "dateTS": 1786791442.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/551",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ГОТІВКОВИЙ ВАЛЮТНИЙ РИНОК Помірне відновлення чистого попиту, з новими статистичними викидами, як...",
-      "excerpt": "",
-      "date": "15 серпня 2026",
-      "dateTS": 1786790473.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/550",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "За 12 днів серпня, падіння експорту пшениці та ячменю майже на 80%, кукурудзи майже на 60%.  Це н...",
-      "excerpt": "",
-      "date": "12 серпня 2026",
-      "dateTS": 1786540834.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/546",
-      "external": true,
-      "featured": true
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "💰\"Збитки колосальні\": у Rozetka назвали вартість зруйнованого Росією складу.  Зруйнований російсь...",
-      "excerpt": "",
-      "date": "11 серпня 2026",
-      "dateTS": 1786466547.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/545",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Тут без коментарів. Суд та ДБР мають надати свої висновки.  Але здається, що без ніякого попередн...",
-      "excerpt": "",
-      "date": "11 серпня 2026",
-      "dateTS": 1786450102.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/544",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ДБР открыло дело о подделке диплома Пышного  Шевченковский райсуд Киева обязал ДБР внести сведени...",
-      "excerpt": "",
-      "date": "11 серпня 2026",
-      "dateTS": 1786448227.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/542",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "А знаєте чому таке послаблення? Й не буде впливу на готівковий ринок (не очікується).  Тому що за...",
-      "excerpt": "",
-      "date": "10 серпня 2026",
-      "dateTS": 1786389322.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/541",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "❗️НБУ в четыре раза увеличивает лимит на покупку валюты для украинцев - до 200 тысяч грн в месяц ...",
-      "excerpt": "",
-      "date": "10 серпня 2026",
-      "dateTS": 1786389103.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/540",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "focus.ua",
+      "title": "Грошей від МВФ може не бути: як це позначиться на доларі, гривні та цінах в Україні - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "8 вересня 2026",
+      "dateTS": 1788864677.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVjh4Z2VTUTZaSlVvRGozYnJWYWZmZUlzb2t3Z2phcnpySHpYSkgzbHdtbXpTVjJOZjBzN3ZQNF9VZGJGSkNIRlRtWG43ZmRGeG5SVUxpRXY4eGRfbHk2eFZoSkhDYzYtZFhIUTVKQU8wSzA4TURTdEhVQjhhRkRRVVhNM29CMVBraUZITkxSaGExS01jMVZLaXpXeDZhdDVQWWFRMDJJaHdqdlhqWVVfMGgwNmNlQXVHTDllVEF3MWx3aWx2X05DR9IByAFBVV95cUxNVjh4Z2VTUTZaSlVvRGozYnJWYWZmZUlzb2t3Z2phcnpySHpYSkgzbHdtbXpTVjJOZjBzN3ZQNF9VZGJGSkNIRlRtWG43ZmRGeG5SVUxpRXY4eGRfbHk2eFZoSkhDYzYtZFhIUTVKQU8wSzA4TURTdEhVQjhhRkRRVVhNM29CMVBraUZITkxSaGExS01jMVZLaXpXeDZhdDVQWWFRMDJJaHdqdlhqWVVfMGgwNmNlQXVHTDllVEF3MWx3aWx2X05DRw?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -1325,11 +1338,11 @@ const CONTENT = {
       "title": "На валютному ринку посилюється дефіцит валюти, курс може піднятися, - аналітик - Vesti Ua",
       "excerpt": "Згадка у виданні Vesti Ua",
       "date": "7 вересня 2026",
-      "dateTS": 1788768865.0,
+      "dateTS": 1788804641.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOU1BOTRsaTNNMWp3S0NUWXlaTFJSSXM4bFBfZUZDaUhscDBEbXVja24zSm9DSWU2elhaNlg2aDlLWWJZNllHbDl4U3JKT2cyM0wxdUlrRno2TmVZREdkNFFEMUY3ajdaN2NPTFl4SGR6MGFIQ3V3UjFkYmc2ek83Z2FjaUNZeWVyT0syQ3JsRGZjV3NUSFM1aHBCVFdrWE5pUUYzQ2E5TFNIWE1wbHZPelprMmhlQ2pBTURQUEtUQldpMmJXUGdlaA?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -1390,7 +1403,7 @@ const CONTENT = {
       "title": "Є три сценарії: економіст ошелешив, що буде із курсом валют в Україні у вересні 2026 - ТСН",
       "excerpt": "Згадка у виданні ТСН",
       "date": "1 вересня 2026",
-      "dateTS": 1788238800.0,
+      "dateTS": 1788246000.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONjREZE1RR2pDXzREX2lfcURRUWhWVFJZLWNpZHJuXzBuWXlUY1ZpVTR3VDlVTkgtYXFndFd1LW1IM1Z6VVJyVm05N2ZmQTZQa05QbEdCTzhtRzVvSHphTUxySTlEZTB3aFQ0MlRpaUxPQjFXTmhQRGFlcllIbWQ3SXpCSVI0UTVYRHJwRFk3TVh6WTFvMmZ5VFVWZW1rdnVFMldxTTZnY21sRGtNUG1xRGZ3UWJrU0V2R1RDNXVsTER1Z1ktQlVmeWlB0gHPAUFVX3lxTE1xNU9rNG5mZkt3Vk1TeWRhRDVIYTkxazB4MHBKdmtDRnFnSGpTMF9kN3ZJQWszZzlobl9Nc1d4ZzA3eHZjMVB4aXJLUzZqYk56V1JhSExYSVJ5MUVablhnUmN0Wnp3OTdETk0xbnd2eVlxZDY2cUp5RkRYWDhXMERUeTFiWUZwRGY4QXBEWFd1d21kamRFbnZKSmlPZFBVMHF4X1ZoQ3ZoOEpUUDlKVURVN0FqWkdkQl9NMGtCREMtRFlBZ2VldV9aandqSzJTUQ?oc=5",
       "external": true,
