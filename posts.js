@@ -1,8 +1,47 @@
-// Автоматично оновлено: 2026-09-09 12:35 UTC
+// Автоматично оновлено: 2026-09-10 12:32 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Держстат переглянув ВВП на 2й квартал 2026 з погіршенням з +0,6% до +0,4%.  Відповідно, реальний ...",
+      "excerpt": "",
+      "date": "9 вересня 2026",
+      "dateTS": 1788968664.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/668",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Поточний прогноз НБУ, відповідно до інфляційного звіту - 10%. Якщо НБУ переглядає прогноз (поки щ...",
+      "excerpt": "",
+      "date": "9 вересня 2026",
+      "dateTS": 1788965387.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/667",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ІНФЛЯЦІЯ, ЩО ДАЛІ  Я залишаюсь песимістом, щодо динаміки цін. Хоча, зрозуміло, не все однозначно ...",
+      "excerpt": "",
+      "date": "9 вересня 2026",
+      "dateTS": 1788961539.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/666",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +53,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/665",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1263,48 +1302,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/555",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Чистий прибуток банків України за 6м2026 впав на 30,7% до 54,07 млрд грн. Це мінімум з 2022 року....",
-      "excerpt": "",
-      "date": "15 серпня 2026",
-      "dateTS": 1786794753.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/554",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Згідно даних НБУ, доля строкових депозитів населення у липні зросла з 32,6% до 32,8%.  Всього нас...",
-      "excerpt": "",
-      "date": "15 серпня 2026",
-      "dateTS": 1786792848.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/553",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Банки кредитують органи держвлади рекордними темпами з січня 2021 року.  Приріст кредитів станови...",
-      "excerpt": "",
-      "date": "15 серпня 2026",
-      "dateTS": 1786792510.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/552",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "focus.ua",
+      "title": "Овочі тимчасово \"сховали\" інфляцію: що здорожчає в Україні вже восени - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "9 вересня 2026",
+      "dateTS": 1788966843.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbUo1OHhuMEdQSVdnTno2YUY2LWxSdWJuSTNacDJZWlBlaTRoTXFTV0lrS1laWEg0djRnVkx4NGo0amcwZmFxOGFpTlJMalZXUXJHblRLT2daYnE1NFh0SE96SlpYTWdwdjczbWdqMEVUWVdubG5LM2dVN3dqYzFTWVNXeXFIOVRsb2c4bkk2MHI2a2tlNkJfMTZZNk9wcXRxcmszeV9XOVNaNllXSk54c3VyTXfSAboBQVVfeXFMT0lZc3A1dER3ZWZzMk5MRDBUOXhhWi02eFBRVDdvc2ExN0w4eEdVNG1zczdHTTQzeVMyOXJlVE5NVVpiNXhVNmUzZE5YZEhXMVdWOTRXN0pvazI4eU43T1FRb09BdHVlY0tsdDBXOWJ2WVVaVl85aE1iUmhxQVg4UkJWb0RRUzJLMmk5MnFLWWtMTmdlSzUwOWtodTBoeGJsXzBlNGtuSnZNYUpiQkVlaEdlR1N0WkJnc19n?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -1316,7 +1329,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVjh4Z2VTUTZaSlVvRGozYnJWYWZmZUlzb2t3Z2phcnpySHpYSkgzbHdtbXpTVjJOZjBzN3ZQNF9VZGJGSkNIRlRtWG43ZmRGeG5SVUxpRXY4eGRfbHk2eFZoSkhDYzYtZFhIUTVKQU8wSzA4TURTdEhVQjhhRkRRVVhNM29CMVBraUZITkxSaGExS01jMVZLaXpXeDZhdDVQWWFRMDJJaHdqdlhqWVVfMGgwNmNlQXVHTDllVEF3MWx3aWx2X05DR9IByAFBVV95cUxNVjh4Z2VTUTZaSlVvRGozYnJWYWZmZUlzb2t3Z2phcnpySHpYSkgzbHdtbXpTVjJOZjBzN3ZQNF9VZGJGSkNIRlRtWG43ZmRGeG5SVUxpRXY4eGRfbHk2eFZoSkhDYzYtZFhIUTVKQU8wSzA4TURTdEhVQjhhRkRRVVhNM29CMVBraUZITkxSaGExS01jMVZLaXpXeDZhdDVQWWFRMDJJaHdqdlhqWVVfMGgwNmNlQXVHTDllVEF3MWx3aWx2X05DRw?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
