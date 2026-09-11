@@ -1,8 +1,73 @@
-// Автоматично оновлено: 2026-09-10 12:32 UTC
+// Автоматично оновлено: 2026-09-11 12:27 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Щодо знищення складів. Цікава інфографіка.  Більше писав в серпні. А тут файно зібрали статистику.",
+      "excerpt": "",
+      "date": "11 вересня 2026",
+      "dateTS": 1789116165.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/674",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Менеджерам та робітникам на заметку  Імітація бурхливої діяльності вражає керівника сильніше, ніж...",
+      "excerpt": "",
+      "date": "10 вересня 2026",
+      "dateTS": 1789048742.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/673",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Тим часом в замку шефа @Капітан Врунгель  Міжбанк долар: 44.44 - 44.49  Да дідько, ви з інтервенц...",
+      "excerpt": "",
+      "date": "10 вересня 2026",
+      "dateTS": 1789046791.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/672",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Нафта дорожча за $100. Наскільки вистачить запасу міцності світової економіки?  Brent вже 2 дні в...",
+      "excerpt": "",
+      "date": "10 вересня 2026",
+      "dateTS": 1789046472.0,
+      "readTime": "3 хв",
+      "url": "https://t.me/shevchyshyn_trends/671",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Європейський центральний банк підвищив свої ключові відсоткові ставки на 25 базисних пунктів під ...",
+      "excerpt": "",
+      "date": "10 вересня 2026",
+      "dateTS": 1789045473.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/669",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +79,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/668",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1237,71 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/560",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "За 7м2026 банки завезли готівкової валюти на 18% меньше ніж рік тому - 5,48 млрд дол.  В структур...",
-      "excerpt": "",
-      "date": "25 серпня 2026",
-      "dateTS": 1787663625.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/559",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "П🤬дець... особливо в умовах блокади портів та недостатності місць для зберігання. Критичності сит...",
-      "excerpt": "",
-      "date": "21 серпня 2026",
-      "dateTS": 1787293550.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/558",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "КРЕДИТУВАННЯ БАНКАМИ ЗА 6М2026  Лідери зростання кредитного портфелю серед банків за 6міс2026): 📈...",
-      "excerpt": "",
-      "date": "16 серпня 2026",
-      "dateTS": 1786864459.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/557",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "БАНКИ ЛІДЕРИ ЗРОСТАННЯ СТРОКОВИХ ДЕПОЗИТІВ НАСЕЛЕННЯ ЗА 6МІС2026: 📈Строкові депозити гривні: 1️⃣ ...",
-      "excerpt": "",
-      "date": "16 серпня 2026",
-      "dateTS": 1786864264.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/556",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "💰Рейтинг прибутковості банків за 6міс2026: 1️⃣ПриватБанк: 24,56 млрд грн (проти 34,88 млрд грн то...",
-      "excerpt": "",
-      "date": "16 серпня 2026",
-      "dateTS": 1786862217.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/555",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1361,6 +1361,19 @@ const CONTENT = {
       "source": "news",
       "tag": "news",
       "tagLabel": "focus.ua",
+      "title": "Долар готується до стрибка: курс може піднятися навіть вище за 45 грн (Оновлено) - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "7 вересня 2026",
+      "dateTS": 1788763225.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZmVSeW5yWGJjTWFncE0yc0hMWVVKeThkMWxoUlVxVXcxc3FURjFNWTVoLUQzOUJENG4wR19mT0JTSDB1UFE3NFFjR0tqZ2dMQzhsRGFWWGc2VjRMNXNqb2NJMXlram52azlWeDFtb2l4T1VxUjFmd3Q1UDNsZnFJU1BBdkFnQ21KdlMwVXdwbkVxYldNRzFfbmZuWlhSXzkxX3NqZEktNmo1OVhB0gGyAUFVX3lxTE51Y3YyVDRQbHVncVUxNExDS3hSQkk0cTZZRmFFQU9FZVlyWU5Uck96MVM2a05XSXdTR1dKbkw5czU5c0VzUnNWX2oyeHFWTHh5UDRZYnR5Y0pnTkhMNkNjb0dBMW55ZFNzVzZLZU1NZHd2V3Y2dERoYjBsbE0wNENiZVkxTWs0RDJIeHJ2THlkTXR1UkMxbjJIWmpDekxqRm5xZWJxcTYtYWtJVkNFNmU5R2c?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "focus.ua",
       "title": "Долар готують до стрибка: курс може піднятися навіть вище за 45 грн - focus.ua",
       "excerpt": "Згадка у виданні focus.ua",
       "date": "6 вересня 2026",
@@ -1412,9 +1425,9 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "ТСН",
-      "title": "Є три сценарії: економіст ошелешив, що буде із курсом валют в Україні у вересні 2026 - ТСН",
-      "excerpt": "Згадка у виданні ТСН",
+      "tagLabel": "tsn.ua",
+      "title": "Є три сценарії: економіст ошелешив, що буде із курсом валют в Україні у вересні 2026 - tsn.ua",
+      "excerpt": "Згадка у виданні tsn.ua",
       "date": "1 вересня 2026",
       "dateTS": 1788246000.0,
       "readTime": "2 хв",
@@ -1633,9 +1646,9 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "ТСН",
-      "title": "В Україні очікують новий стрибок цін: економіст назвав головні причини інфляції у серпні - ТСН",
-      "excerpt": "Згадка у виданні ТСН",
+      "tagLabel": "tsn.ua",
+      "title": "В Україні очікують новий стрибок цін: економіст назвав головні причини інфляції у серпні - tsn.ua",
+      "excerpt": "Згадка у виданні tsn.ua",
       "date": "2 серпня 2026",
       "dateTS": 1785654000.0,
       "readTime": "2 хв",
