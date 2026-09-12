@@ -1,8 +1,34 @@
-// Автоматично оновлено: 2026-09-11 12:27 UTC
+// Автоматично оновлено: 2026-09-12 11:49 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "В Україні розглядають можливість тимчасово підвищити податок на додану вартість на 1%.  Отримані ...",
+      "excerpt": "",
+      "date": "11 вересня 2026",
+      "dateTS": 1789136639.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/678",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Річна інфляція в США 3,4%р/р - в рамках прогнозу, але нижче можливих побоювань ринку. За місяць +...",
+      "excerpt": "",
+      "date": "11 вересня 2026",
+      "dateTS": 1789132177.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/676",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +40,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/674",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1276,32 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/562",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Фонд гарантування вкладів фіз осіб перестав публікувати статистику по кількості вкладників по сум...",
-      "excerpt": "",
-      "date": "25 серпня 2026",
-      "dateTS": 1787669228.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/561",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "БАНКИ ЗАВОЗЯТЬ ФІЗИЧНЕ ЗОЛОТО ЩОБ ЩО?  Станом на 1 липня українські банки мали банківських металі...",
-      "excerpt": "",
-      "date": "25 серпня 2026",
-      "dateTS": 1787667075.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/560",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1327,7 +1327,7 @@ const CONTENT = {
       "date": "8 вересня 2026",
       "dateTS": 1788864677.0,
       "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVjh4Z2VTUTZaSlVvRGozYnJWYWZmZUlzb2t3Z2phcnpySHpYSkgzbHdtbXpTVjJOZjBzN3ZQNF9VZGJGSkNIRlRtWG43ZmRGeG5SVUxpRXY4eGRfbHk2eFZoSkhDYzYtZFhIUTVKQU8wSzA4TURTdEhVQjhhRkRRVVhNM29CMVBraUZITkxSaGExS01jMVZLaXpXeDZhdDVQWWFRMDJJaHdqdlhqWVVfMGgwNmNlQXVHTDllVEF3MWx3aWx2X05DR9IByAFBVV95cUxNVjh4Z2VTUTZaSlVvRGozYnJWYWZmZUlzb2t3Z2phcnpySHpYSkgzbHdtbXpTVjJOZjBzN3ZQNF9VZGJGSkNIRlRtWG43ZmRGeG5SVUxpRXY4eGRfbHk2eFZoSkhDYzYtZFhIUTVKQU8wSzA4TURTdEhVQjhhRkRRVVhNM29CMVBraUZITkxSaGExS01jMVZLaXpXeDZhdDVQWWFRMDJJaHdqdlhqWVVfMGgwNmNlQXVHTDllVEF3MWx3aWx2X05DRw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2tPbmtMUUp5UEw0eXEtc2ZJNWoya28zbXJsYVd5dzR6QmFuVFJ6OVVGSEx0bzd6UGwzdHBLRy1PVnZ2T3B0SWhxT0RLZzhQY004TzVlMkJwc2tYeTBZY2xhV3V4T1Z3OXB0OFVPTGIyVE8yd3MtTU9zakM4YkN1NmZxVFFPYXAyOW83R0NSYXp5R08tMWZOQVlJbGdGQzJILUpmckMxZkpQakpiY29uUTVKcW1mT1NjQlVvUGNXNlBpaTDSAcgBQVVfeXFMTVY4eGdlU1E2WkpVb0RqM2JyVmFmZmVJc29rd2dqYXJ6ckh6WEpIM2x3bW16U1YyTmYwczd2UDRfVWRiRkpDSEZUbVhuN2ZkRnhuUlVMaUV2OHhkX2x5NnhWaEpIQ2M2LWRYSFE1SkFPMEswOE1EU3RIVUI4YUZEUVVYTTNvQjFQa2lGSE5MUmhhMUtNYzFWS2l6V3g2YXQ1UFlhUTAySWh3anZYallVXzBoMDZjZUF1R0w5ZVRBdzFsd2lsdl9OQ0c?oc=5",
       "external": true,
       "featured": false
     },
@@ -1340,9 +1340,9 @@ const CONTENT = {
       "date": "8 вересня 2026",
       "dateTS": 1788864677.0,
       "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2tPbmtMUUp5UEw0eXEtc2ZJNWoya28zbXJsYVd5dzR6QmFuVFJ6OVVGSEx0bzd6UGwzdHBLRy1PVnZ2T3B0SWhxT0RLZzhQY004TzVlMkJwc2tYeTBZY2xhV3V4T1Z3OXB0OFVPTGIyVE8yd3MtTU9zakM4YkN1NmZxVFFPYXAyOW83R0NSYXp5R08tMWZOQVlJbGdGQzJILUpmckMxZkpQakpiY29uUTVKcW1mT1NjQlVvUGNXNlBpaTDSAcgBQVVfeXFMTVY4eGdlU1E2WkpVb0RqM2JyVmFmZmVJc29rd2dqYXJ6ckh6WEpIM2x3bW16U1YyTmYwczd2UDRfVWRiRkpDSEZUbVhuN2ZkRnhuUlVMaUV2OHhkX2x5NnhWaEpIQ2M2LWRYSFE1SkFPMEswOE1EU3RIVUI4YUZEUVVYTTNvQjFQa2lGSE5MUmhhMUtNYzFWS2l6V3g2YXQ1UFlhUTAySWh3anZYallVXzBoMDZjZUF1R0w5ZVRBdzFsd2lsdl9OQ0c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVjh4Z2VTUTZaSlVvRGozYnJWYWZmZUlzb2t3Z2phcnpySHpYSkgzbHdtbXpTVjJOZjBzN3ZQNF9VZGJGSkNIRlRtWG43ZmRGeG5SVUxpRXY4eGRfbHk2eFZoSkhDYzYtZFhIUTVKQU8wSzA4TURTdEhVQjhhRkRRVVhNM29CMVBraUZITkxSaGExS01jMVZLaXpXeDZhdDVQWWFRMDJJaHdqdlhqWVVfMGgwNmNlQXVHTDllVEF3MWx3aWx2X05DR9IByAFBVV95cUxNVjh4Z2VTUTZaSlVvRGozYnJWYWZmZUlzb2t3Z2phcnpySHpYSkgzbHdtbXpTVjJOZjBzN3ZQNF9VZGJGSkNIRlRtWG43ZmRGeG5SVUxpRXY4eGRfbHk2eFZoSkhDYzYtZFhIUTVKQU8wSzA4TURTdEhVQjhhRkRRVVhNM29CMVBraUZITkxSaGExS01jMVZLaXpXeDZhdDVQWWFRMDJJaHdqdlhqWVVfMGgwNmNlQXVHTDllVEF3MWx3aWx2X05DRw?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -1354,6 +1354,19 @@ const CONTENT = {
       "dateTS": 1788804641.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOU1BOTRsaTNNMWp3S0NUWXlaTFJSSXM4bFBfZUZDaUhscDBEbXVja24zSm9DSWU2elhaNlg2aDlLWWJZNllHbDl4U3JKT2cyM0wxdUlrRno2TmVZREdkNFFEMUY3ajdaN2NPTFl4SGR6MGFIQ3V3UjFkYmc2ek83Z2FjaUNZeWVyT0syQ3JsRGZjV3NUSFM1aHBCVFdrWE5pUUYzQ2E5TFNIWE1wbHZPelprMmhlQ2pBTURQUEtUQldpMmJXUGdlaA?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Західний інформаційний фронт",
+      "title": "Топ-10 найприбутковіших банків України за 7 місяців цього року - Західний інформаційний фронт",
+      "excerpt": "Згадка у виданні Західний інформаційний фронт",
+      "date": "7 вересня 2026",
+      "dateTS": 1788801956.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUHNXQlZVQ3lFUVJPZ0VVUExqSnNPeVpmMGk2MC1Od1dxbFdlUWI1bl9Mck1lcnJwZlYwZE4zV0hjbF9hS2YtMlRudFVWd3JnZzJsQ1pGZlBRMDhySERLbTRJSVhMdUlOemFvT1FmX2ExT1J4N3h5UzBON1lIa0M5dkNCeGpZakswZmtQN1NvV2VLYkxoZDJlaVdBU2VyNUoyaEE?oc=5",
       "external": true,
       "featured": false
     },
@@ -1425,9 +1438,9 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "tsn.ua",
-      "title": "Є три сценарії: економіст ошелешив, що буде із курсом валют в Україні у вересні 2026 - tsn.ua",
-      "excerpt": "Згадка у виданні tsn.ua",
+      "tagLabel": "ТСН",
+      "title": "Є три сценарії: економіст ошелешив, що буде із курсом валют в Україні у вересні 2026 - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
       "date": "1 вересня 2026",
       "dateTS": 1788246000.0,
       "readTime": "2 хв",
@@ -1633,6 +1646,19 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
+      "tagLabel": "ТСН",
+      "title": "В Україні очікують новий стрибок цін: економіст назвав головні причини інфляції у серпні - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
+      "date": "2 серпня 2026",
+      "dateTS": 1785654000.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOUZYNVVGaHdWNUtQN0VRRWRlblNUU1ZXTEVsbVhXcEdKcUVqUXZrTUxnXzZQZnlvbDZrTlZ5VTE2dHhBQWE0bnQ4TXlnY0hPUEtrQWtqUXEtWnBxbTNpUVNNZTBMdVRjNGdOSnVwYW1VaHhvTEJJNUlFWE9tWU9PRG5KNUlnWUZ6cUtTSzZLdmh0NVY1Y0NVcktOSVVwUHhDeVpYcDJKb3BkWDRwTFM2djIxWTFNdFhmYlZNRVJrVTRwYVhzZjBhbXZnVznSAdIBQVVfeXFMTUhMR01GTzMxSFVtRnU1elB0V3JWaV9qOGRzWlRDVE5vampFVVRXcWx3NFBza0F3MzlXSHg0X09pdkNKd21QQ3R5OEI2ZHlBQmZKRnFYOTZQenJOelczUnRzUDdFeXN3TWVhOHFXVGZaM053VldEYzVVQ1psbzdUUmpMck84TkF2TElCRTdjaVhBWHphd3RwOEZra0ZVSTcyb1FWdzVFN1lHc1JISGhsN013bW1iVnVud3YtbUc3QlpHVlpPc18xTDdiTzB6V1NvRDFB?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
       "tagLabel": "Главред",
       "title": "Долар готується до нового стрибка: експерт назвав терміни та можливий курс - Главред",
       "excerpt": "Згадка у виданні Главред",
@@ -1640,19 +1666,6 @@ const CONTENT = {
       "dateTS": 1785654000.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc1NmMWZzQ0VXVVRWR0NHdVVNdFBvSy1ISnZNRG5DYm1RUG5POTJCSGVTR2RSNkJKaWt3QmRudHhBR2tfRDhsc3otN05hSFpvTjNXV0lobExSWkZqMzUwRmxSb1F4QTZ1TXlhY1BYZEZQaHNuei15ODlabDR1SmZrT21pTjRtek1OT1BkUkRLdUhWeS1JeTZGeXE2eG53SFlWZE5tQTh0ekg2bUJaV2lBa21QVDJmWnZY0gG-AUFVX3lxTE44TkxvUzVzQzdQVTc4S3pwb3BQREJpSG42RGRmTWFpbVhFYUdVOTB1RmMzeWlnNWljN185UElMVGptMHZvZm5QdDFaQXVnVFQzSHI2anF2NUk1ZTd3b1BoZF9zOXRIbC1lV0RxV1FIbENGTEVQRkxzUVRsLV9kOWhselBaLUdERXVjNEdlMmV2dXlIZmxZNkJEZFhMcGpjd3UzTzBIZmhORXpKSjgtZkg0cUYzc1ZfT0ctSVBWZ1E?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "tsn.ua",
-      "title": "В Україні очікують новий стрибок цін: економіст назвав головні причини інфляції у серпні - tsn.ua",
-      "excerpt": "Згадка у виданні tsn.ua",
-      "date": "2 серпня 2026",
-      "dateTS": 1785654000.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOUZYNVVGaHdWNUtQN0VRRWRlblNUU1ZXTEVsbVhXcEdKcUVqUXZrTUxnXzZQZnlvbDZrTlZ5VTE2dHhBQWE0bnQ4TXlnY0hPUEtrQWtqUXEtWnBxbTNpUVNNZTBMdVRjNGdOSnVwYW1VaHhvTEJJNUlFWE9tWU9PRG5KNUlnWUZ6cUtTSzZLdmh0NVY1Y0NVcktOSVVwUHhDeVpYcDJKb3BkWDRwTFM2djIxWTFNdFhmYlZNRVJrVTRwYVhzZjBhbXZnVznSAdIBQVVfeXFMTUhMR01GTzMxSFVtRnU1elB0V3JWaV9qOGRzWlRDVE5vampFVVRXcWx3NFBza0F3MzlXSHg0X09pdkNKd21QQ3R5OEI2ZHlBQmZKRnFYOTZQenJOelczUnRzUDdFeXN3TWVhOHFXVGZaM053VldEYzVVQ1psbzdUUmpMck84TkF2TElCRTdjaVhBWHphd3RwOEZra0ZVSTcyb1FWdzVFN1lHc1JISGhsN013bW1iVnVud3YtbUc3QlpHVlpPc18xTDdiTzB6V1NvRDFB?oc=5",
       "external": true,
       "featured": false
     },
