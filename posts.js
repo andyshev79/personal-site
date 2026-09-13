@@ -1,8 +1,112 @@
-// Автоматично оновлено: 2026-09-12 11:49 UTC
+// Автоматично оновлено: 2026-09-13 12:59 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Валютний огляд на YouTube каналі, якщо ліньки читати https://youtu.be/fqnzRIUhcyI",
+      "excerpt": "",
+      "date": "12 вересня 2026",
+      "dateTS": 1789223275.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/689",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "За оцінками різних агропідприємств, витрати на осінню посівну зростуть на 15-30%. Головним чином ...",
+      "excerpt": "",
+      "date": "12 вересня 2026",
+      "dateTS": 1789223148.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/688",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Запоріжсталь - удари критичні. Комбінат зупинений. Криворіжсталь - удари, частина виробництва при...",
+      "excerpt": "",
+      "date": "12 вересня 2026",
+      "dateTS": 1789222312.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/687",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: 7 – 12 ВЕРЕСНЯ 2026. МАРАФОН МІЛЬЯРДНИХ ІНТЕРВЕНЦІЙ ПРОДО...",
+      "excerpt": "",
+      "date": "12 вересня 2026",
+      "dateTS": 1789218795.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/686",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Прогноз по долару залишається без змін. Міжбанк на тиждень: 44,50-44,85 грн. Слідкуємо за верхнею...",
+      "excerpt": "",
+      "date": "12 вересня 2026",
+      "dateTS": 1789218763.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/684",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: 7 – 12 ВЕРЕСНЯ 2026. МАРАФОН МІЛЬЯРДНИХ ІНТЕРВЕНЦІЙ ПРОДО...",
+      "excerpt": "",
+      "date": "12 вересня 2026",
+      "dateTS": 1789218729.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/683",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "МІЖБАНК: За тиждень, середньодобова купівля валюти знизилась на 9,3% до дев’яти тижневого мінімум...",
+      "excerpt": "",
+      "date": "12 вересня 2026",
+      "dateTS": 1789218648.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/681",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: 7 – 12 ВЕРЕСНЯ 2026. МАРАФОН МІЛЬЯРДНИХ ІНТЕРВЕНЦІЙ ПРОДО...",
+      "excerpt": "",
+      "date": "12 вересня 2026",
+      "dateTS": 1789218511.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/680",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -1198,110 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/572",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "❌💰Супермаркети можуть залишити виробників без оплати за знищені Росією товари.  За чинними догово...",
-      "excerpt": "",
-      "date": "27 серпня 2026",
-      "dateTS": 1787850147.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/571",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "НБУ збільшив агроекспортерам строк повернення валютної виручки зі 120 до 150 днів.  Це поки вигля...",
-      "excerpt": "",
-      "date": "27 серпня 2026",
-      "dateTS": 1787811168.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/570",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "УКРАЇНСЬКІ БАНКИ ЗА 7М2026 СКОРОТИЛИ ЧИСТИЙ ПРИБУТОК ДО 62,5 МЛРД ГРН.   В порівнянні з 7м2025 ро...",
-      "excerpt": "",
-      "date": "26 серпня 2026",
-      "dateTS": 1787765463.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/569",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "РОЗДРІБНІ ПРОДАЖІ В УКРАЇНІ СТАБІЛЬНІСТЬ. ЗА 7М2026 +9%  Здається все стабільно. Роздрібні продаж...",
-      "excerpt": "",
-      "date": "26 серпня 2026",
-      "dateTS": 1787759839.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/568",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "БЛОКУВАННЯ ЧОРНОГО МОРЯ ЖЕНЕ ЦІНИ КУКУРУЗИ ТА ПШЕНИЦІ ВГОРУ  Чиказька пшениця подорожчала до макс...",
-      "excerpt": "",
-      "date": "26 серпня 2026",
-      "dateTS": 1787741453.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/567",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Європейські країни дедалі частіше зазнають кібератак, підпалів, диверсій та польотів озброєних бе...",
-      "excerpt": "",
-      "date": "26 серпня 2026",
-      "dateTS": 1787740796.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/566",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "КІЛЬКІСТЬ ВКЛАДНИКІВ БАНКІВ, СТАНОМ НА 1 ЛИПНЯ 2026  Згідно даних НБУ та ФГВФО, на 1 липня було 7...",
-      "excerpt": "",
-      "date": "25 серпня 2026",
-      "dateTS": 1787675262.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/563",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Як вели себе різні категорії власників в 2026 році, згідно з даними ФГВФО й останнього звіту  👉На...",
-      "excerpt": "",
-      "date": "25 серпня 2026",
-      "dateTS": 1787670779.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/562",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1438,9 +1438,9 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "ТСН",
-      "title": "Є три сценарії: економіст ошелешив, що буде із курсом валют в Україні у вересні 2026 - ТСН",
-      "excerpt": "Згадка у виданні ТСН",
+      "tagLabel": "tsn.ua",
+      "title": "Є три сценарії: економіст ошелешив, що буде із курсом валют в Україні у вересні 2026 - tsn.ua",
+      "excerpt": "Згадка у виданні tsn.ua",
       "date": "1 вересня 2026",
       "dateTS": 1788246000.0,
       "readTime": "2 хв",
@@ -1646,19 +1646,6 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "ТСН",
-      "title": "В Україні очікують новий стрибок цін: економіст назвав головні причини інфляції у серпні - ТСН",
-      "excerpt": "Згадка у виданні ТСН",
-      "date": "2 серпня 2026",
-      "dateTS": 1785654000.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOUZYNVVGaHdWNUtQN0VRRWRlblNUU1ZXTEVsbVhXcEdKcUVqUXZrTUxnXzZQZnlvbDZrTlZ5VTE2dHhBQWE0bnQ4TXlnY0hPUEtrQWtqUXEtWnBxbTNpUVNNZTBMdVRjNGdOSnVwYW1VaHhvTEJJNUlFWE9tWU9PRG5KNUlnWUZ6cUtTSzZLdmh0NVY1Y0NVcktOSVVwUHhDeVpYcDJKb3BkWDRwTFM2djIxWTFNdFhmYlZNRVJrVTRwYVhzZjBhbXZnVznSAdIBQVVfeXFMTUhMR01GTzMxSFVtRnU1elB0V3JWaV9qOGRzWlRDVE5vampFVVRXcWx3NFBza0F3MzlXSHg0X09pdkNKd21QQ3R5OEI2ZHlBQmZKRnFYOTZQenJOelczUnRzUDdFeXN3TWVhOHFXVGZaM053VldEYzVVQ1psbzdUUmpMck84TkF2TElCRTdjaVhBWHphd3RwOEZra0ZVSTcyb1FWdzVFN1lHc1JISGhsN013bW1iVnVud3YtbUc3QlpHVlpPc18xTDdiTzB6V1NvRDFB?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
       "tagLabel": "Главред",
       "title": "Долар готується до нового стрибка: експерт назвав терміни та можливий курс - Главред",
       "excerpt": "Згадка у виданні Главред",
@@ -1666,6 +1653,19 @@ const CONTENT = {
       "dateTS": 1785654000.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc1NmMWZzQ0VXVVRWR0NHdVVNdFBvSy1ISnZNRG5DYm1RUG5POTJCSGVTR2RSNkJKaWt3QmRudHhBR2tfRDhsc3otN05hSFpvTjNXV0lobExSWkZqMzUwRmxSb1F4QTZ1TXlhY1BYZEZQaHNuei15ODlabDR1SmZrT21pTjRtek1OT1BkUkRLdUhWeS1JeTZGeXE2eG53SFlWZE5tQTh0ekg2bUJaV2lBa21QVDJmWnZY0gG-AUFVX3lxTE44TkxvUzVzQzdQVTc4S3pwb3BQREJpSG42RGRmTWFpbVhFYUdVOTB1RmMzeWlnNWljN185UElMVGptMHZvZm5QdDFaQXVnVFQzSHI2anF2NUk1ZTd3b1BoZF9zOXRIbC1lV0RxV1FIbENGTEVQRkxzUVRsLV9kOWhselBaLUdERXVjNEdlMmV2dXlIZmxZNkJEZFhMcGpjd3UzTzBIZmhORXpKSjgtZkg0cUYzc1ZfT0ctSVBWZ1E?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "tsn.ua",
+      "title": "В Україні очікують новий стрибок цін: економіст назвав головні причини інфляції у серпні - tsn.ua",
+      "excerpt": "Згадка у виданні tsn.ua",
+      "date": "2 серпня 2026",
+      "dateTS": 1785654000.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOUZYNVVGaHdWNUtQN0VRRWRlblNUU1ZXTEVsbVhXcEdKcUVqUXZrTUxnXzZQZnlvbDZrTlZ5VTE2dHhBQWE0bnQ4TXlnY0hPUEtrQWtqUXEtWnBxbTNpUVNNZTBMdVRjNGdOSnVwYW1VaHhvTEJJNUlFWE9tWU9PRG5KNUlnWUZ6cUtTSzZLdmh0NVY1Y0NVcktOSVVwUHhDeVpYcDJKb3BkWDRwTFM2djIxWTFNdFhmYlZNRVJrVTRwYVhzZjBhbXZnVznSAdIBQVVfeXFMTUhMR01GTzMxSFVtRnU1elB0V3JWaV9qOGRzWlRDVE5vampFVVRXcWx3NFBza0F3MzlXSHg0X09pdkNKd21QQ3R5OEI2ZHlBQmZKRnFYOTZQenJOelczUnRzUDdFeXN3TWVhOHFXVGZaM053VldEYzVVQ1psbzdUUmpMck84TkF2TElCRTdjaVhBWHphd3RwOEZra0ZVSTcyb1FWdzVFN1lHc1JISGhsN013bW1iVnVud3YtbUc3QlpHVlpPc18xTDdiTzB6V1NvRDFB?oc=5",
       "external": true,
       "featured": false
     },
@@ -2039,6 +2039,19 @@ const CONTENT = {
       "source": "youtube",
       "tag": "youtube",
       "tagLabel": "YouTube",
+      "title": "МАРАФОН МІЛЬЯРДНИХ ІНТЕРВЕНЦІЙ ТА ВАЖКИЙ ТИЖДЕНЬ ПОПЕРЕДУ",
+      "excerpt": "0:00 Вступ\n0:35 Результати ринку 7-12 вересня 2026\n3:42 Баланс ринку. Активність знизилась. Є причини.\n8:22 Звернув увагу на тижні. Головні фактори\n14:22 Прогноз валютного на 14-19 вересня 2026\n16:46",
+      "date": "12 вересня 2026",
+      "dateTS": 1789222474.0,
+      "readTime": "відео",
+      "url": "https://www.youtube.com/watch?v=fqnzRIUhcyI",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "youtube",
+      "tag": "youtube",
+      "tagLabel": "YouTube",
       "title": "ДОЛЛАР НА ІГЛІ ІНТЕРВЕНЦІЙ НБУ",
       "excerpt": "00:00 Вступ\n00:38 Результати тижня 31сер - 5 вер 2026\n04:02 Баланс ринку \n08:55 Очікування на 7-12 вересня 2026\n11:29 Слідкуємо на тижні\n------\nFacebook: https://www.facebook.com/AndyShev79\nТелеграм:",
       "date": "5 вересня 2026",
@@ -2046,7 +2059,7 @@ const CONTENT = {
       "readTime": "відео",
       "url": "https://www.youtube.com/watch?v=SIlOBjFCVeQ",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "youtube",
