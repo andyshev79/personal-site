@@ -1,8 +1,86 @@
-// Автоматично оновлено: 2026-09-13 12:59 UTC
+// Автоматично оновлено: 2026-09-14 14:35 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "У серпні споживання електроенергії в Україні скоротилось на 9% порівняно із серпнем 2025-го, до 5...",
+      "excerpt": "",
+      "date": "14 вересня 2026",
+      "dateTS": 1789393407.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/697",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "За 26 років долар США втратив майже 50% купівельної спроможності.   Для розуміння, за 1'940 дол з...",
+      "excerpt": "",
+      "date": "14 вересня 2026",
+      "dateTS": 1789389937.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/696",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Графік залучень в 2026 році та середньомісячна динаміка прирісту портфелю ОВДП грн й валютним по ...",
+      "excerpt": "",
+      "date": "14 вересня 2026",
+      "dateTS": 1789387843.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/693",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ОВДП чи \"ринок насичений\", або чому Мінфіну не нарощує залучення  Уряд веде жорстку компанію про ...",
+      "excerpt": "",
+      "date": "14 вересня 2026",
+      "dateTS": 1789387689.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/692",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "——— Украина получит $841 млн от Всемирного банка под гарантии Канады, - Корецкий  Средства будут ...",
+      "excerpt": "",
+      "date": "14 вересня 2026",
+      "dateTS": 1789384176.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/691",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Поки Кравченко бігає по Європі, євро падає до долару в очікуванні засідання ФРС США.   EURUSD 1.1...",
+      "excerpt": "",
+      "date": "14 вересня 2026",
+      "dateTS": 1789380691.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/690",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +92,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/689",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1224,84 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/578",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "EURUSD вниз рвануло, бо глава ФРС заявив що потрібно боротись з інфляцією, й ринок повернувся до ...",
-      "excerpt": "",
-      "date": "28 серпня 2026",
-      "dateTS": 1787928912.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/577",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "МВФ в Києві, закон про оподаткування посилок від 150 євро очікує на голосування в Раді.  Від ріше...",
-      "excerpt": "",
-      "date": "28 серпня 2026",
-      "dateTS": 1787912548.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/576",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Рубль рф в лідерах світового падіння до долару з початку серпня 2026р (станом на 28.08.26) ...мал...",
-      "excerpt": "",
-      "date": "28 серпня 2026",
-      "dateTS": 1787910253.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/575",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "EURUSD конценсус прогнози від Bloomberg 1. В середньому та медіально всі ціляться на зростання єв...",
-      "excerpt": "",
-      "date": "28 серпня 2026",
-      "dateTS": 1787910002.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/574",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "В догонку до останнього абзацу попереднього посту: - За даними профільних аналітиків та RAU, у Ки...",
-      "excerpt": "",
-      "date": "28 серпня 2026",
-      "dateTS": 1787907127.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/573",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "СКІЛЬКИ ВТРАЧАЄ МІСТО КИЇВ ЧЕРЕЗ ПРОСТОЙ У ПОСТІЙНУ ТРИВОГУ  Коротка відповідь: якщо не враховува...",
-      "excerpt": "",
-      "date": "28 серпня 2026",
-      "dateTS": 1787906800.0,
-      "readTime": "3 хв",
-      "url": "https://t.me/shevchyshyn_trends/572",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1360,9 +1360,9 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "Західний інформаційний фронт",
-      "title": "Топ-10 найприбутковіших банків України за 7 місяців цього року - Західний інформаційний фронт",
-      "excerpt": "Згадка у виданні Західний інформаційний фронт",
+      "tagLabel": "zahidfront.com.ua",
+      "title": "Топ-10 найприбутковіших банків України за 7 місяців цього року - zahidfront.com.ua",
+      "excerpt": "Згадка у виданні zahidfront.com.ua",
       "date": "7 вересня 2026",
       "dateTS": 1788801956.0,
       "readTime": "2 хв",
@@ -1438,9 +1438,9 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "tsn.ua",
-      "title": "Є три сценарії: економіст ошелешив, що буде із курсом валют в Україні у вересні 2026 - tsn.ua",
-      "excerpt": "Згадка у виданні tsn.ua",
+      "tagLabel": "ТСН",
+      "title": "Є три сценарії: економіст ошелешив, що буде із курсом валют в Україні у вересні 2026 - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
       "date": "1 вересня 2026",
       "dateTS": 1788246000.0,
       "readTime": "2 хв",
@@ -1659,9 +1659,9 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "tsn.ua",
-      "title": "В Україні очікують новий стрибок цін: економіст назвав головні причини інфляції у серпні - tsn.ua",
-      "excerpt": "Згадка у виданні tsn.ua",
+      "tagLabel": "ТСН",
+      "title": "В Україні очікують новий стрибок цін: економіст назвав головні причини інфляції у серпні - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
       "date": "2 серпня 2026",
       "dateTS": 1785654000.0,
       "readTime": "2 хв",
