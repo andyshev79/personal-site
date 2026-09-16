@@ -1,8 +1,99 @@
-// Автоматично оновлено: 2026-09-15 13:00 UTC
+// Автоматично оновлено: 2026-09-16 12:58 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "По ціні Brent формується дуже небезпечна фігура вимпел. Якщо цін оновить максимуми - то відкриєть...",
+      "excerpt": "",
+      "date": "16 вересня 2026",
+      "dateTS": 1789545985.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/709",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "🚂 Понад 500 локомотивів пошкоджено чи знищено Росією від початку повномасштабного вторгнення (For...",
+      "excerpt": "",
+      "date": "15 вересня 2026",
+      "dateTS": 1789490526.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/708",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Частка строкових депозитів населення у вкладах в банках в серпні 2026 знизилась до 32,8% (менше б...",
+      "excerpt": "",
+      "date": "15 вересня 2026",
+      "dateTS": 1789489335.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/707",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Приріст строкових депозитів населення сповільнився у серпні до мінімуму за 12 місяців - +1,6 млрд...",
+      "excerpt": "",
+      "date": "15 вересня 2026",
+      "dateTS": 1789489022.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/706",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Приріст кредитів бізнесу та фізичним особам у серпні був на історично максимальному рівні.   🟢Чис...",
+      "excerpt": "",
+      "date": "15 вересня 2026",
+      "dateTS": 1789488071.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/704",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "З сьогоднішнього дня в Україні фінансуються лише соціальні видатки, зарплати бюджетникам та утрим...",
+      "excerpt": "",
+      "date": "15 вересня 2026",
+      "dateTS": 1789482557.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/703",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Потрохи починаються з'являтись інформація по макропрогнозу бюджету 2027 ——— ВВП +1,3%  Мінімалка ...",
+      "excerpt": "",
+      "date": "15 вересня 2026",
+      "dateTS": 1789481321.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/702",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +105,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/701",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1211,100 +1302,35 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/591",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ПІДСУМКИ СЕРПНЯ: БОКОВИК ДОЛАРУ ЗА РАХУНОК ЄВРО Й ІНТЕРВЕНЦІЙ. ВЕРЕСЕНЬ: ...",
-      "excerpt": "",
-      "date": "29 серпня 2026",
-      "dateTS": 1788021192.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/590",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ПІДСУМКИ СЕРПНЯ: БОКОВИК ДОЛАРУ ЗА РАХУНОК ЄВРО Й ІНТЕРВЕНЦІЙ. ВЕРЕСЕНЬ: ...",
-      "excerpt": "",
-      "date": "29 серпня 2026",
-      "dateTS": 1788021144.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/589",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Попит на валюту стабільний, а пропозиція валюти падає потижнево з початку серпня. Дефіцит стрімко...",
-      "excerpt": "",
-      "date": "29 серпня 2026",
-      "dateTS": 1788021076.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/587",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ПІДСУМКИ СЕРПНЯ: БОКОВИК ДОЛАРУ ЗА РАХУНОК ЄВРО Й ІНТЕРВЕНЦІЙ. ВЕРЕСЕНЬ: ...",
-      "excerpt": "",
-      "date": "29 серпня 2026",
-      "dateTS": 1788020770.0,
-      "readTime": "3 хв",
-      "url": "https://t.me/shevchyshyn_trends/585",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ПІДСУМКИ СЕРПНЯ: БОКОВИК ДОЛАРУ ЗА РАХУНОК ЄВРО Й ІНТЕРВЕНЦІЙ. ВЕРЕСЕНЬ: ...",
-      "excerpt": "",
-      "date": "29 серпня 2026",
-      "dateTS": 1788020665.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/584",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Ви зараз в мене тапками почнете кидати, але на душі так херово, що не вистачає такого собі \"Арест...",
-      "excerpt": "",
-      "date": "29 серпня 2026",
-      "dateTS": 1788002064.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/583",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Національний банк з 1 вересня 2026 року планує розраховувати довідкове значення курсу гривні до є...",
-      "excerpt": "",
-      "date": "29 серпня 2026",
-      "dateTS": 1787996318.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/582",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "shelter.in.ua",
+      "title": "Аналітик пояснив, за якого сценарію долар в Україні може наблизитися до 47 гривень - shelter.in.ua",
+      "excerpt": "Згадка у виданні shelter.in.ua",
+      "date": "16 вересня 2026",
+      "dateTS": 1789552652.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQmdyeVdVeGcwOEppcTB0c1dJZW5manZPY05rMGd0MGxzUEJhTG1wdFprMEtoeXhGbXBGNkZZQ1M4Zy1WZF8tYWNCRnN4RzhXNGEzeHN5c1Fidk5TSVBWN3I1aEFaS2RkeHZDOFJ2cXJDX2VDdkxYZWhwdzI1ZmVHdUNCOFhNUnJucjJES2xnTlZRbnVUU0p0dkxEMEdfMlZtc2dNR0NCSjIteG1CLTYwOGlUR3NzR3FBU2c?oc=5",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "my.ua",
+      "title": "Затишшя перед бурею: як довго НБУ утримає курс долара нижче 45 грн - my.ua",
+      "excerpt": "Згадка у виданні my.ua",
+      "date": "16 вересня 2026",
+      "dateTS": 1789542386.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb0FUTFpnRDZlVmxsZEM4VUF3ZHozVWpKRXZyVElrdnFQdXNocmNxUUtISVFVNGZsTE5jZUVUSW5QdlIxZTgzY1JXRV85WlhZRGdFZTg2OGhfbHZRa0pHd1U4V19CWHV6NlN2ekZ4VG9vWXNjUzFuMmxOd2tZaFdsSldndS1KOWZlZDRoSTBIT29jWWx0SWtlVnpwdWdIeVR5Vk5YTVJjUFh3T21Kb1J3OdIBtgFBVV95cUxQd29nZTVHamg4b2xDWUZCWkwyc0FnelJmYnVMVVFyVHl1WDkzZ3QyVE9HRGdDU080SFppZENhd21uWVJkSUJZLUFTRkFQU0pqOEh6dGhqVHV2WXl1UG5ySG5BOS0xYnB3NDd3WGdxUGFiRVZBMmM0c1hNcm5PMWhaZS1lOWY1VklMcnI0NE1mRXo5bzhyY0Q2aDNPc3AyZGNtODBaZEtjZXZlcFhyVzlMbHBxMnl5dw?oc=5",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "news",
       "tag": "news",
@@ -1316,7 +1342,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbUo1OHhuMEdQSVdnTno2YUY2LWxSdWJuSTNacDJZWlBlaTRoTXFTV0lrS1laWEg0djRnVkx4NGo0amcwZmFxOGFpTlJMalZXUXJHblRLT2daYnE1NFh0SE96SlpYTWdwdjczbWdqMEVUWVdubG5LM2dVN3dqYzFTWVNXeXFIOVRsb2c4bkk2MHI2a2tlNkJfMTZZNk9wcXRxcmszeV9XOVNaNllXSk54c3VyTXfSAboBQVVfeXFMT0lZc3A1dER3ZWZzMk5MRDBUOXhhWi02eFBRVDdvc2ExN0w4eEdVNG1zczdHTTQzeVMyOXJlVE5NVVpiNXhVNmUzZE5YZEhXMVdWOTRXN0pvazI4eU43T1FRb09BdHVlY0tsdDBXOWJ2WVVaVl85aE1iUmhxQVg4UkJWb0RRUzJLMmk5MnFLWWtMTmdlSzUwOWtodTBoeGJsXzBlNGtuSnZNYUpiQkVlaEdlR1N0WkJnc19n?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -1377,7 +1403,7 @@ const CONTENT = {
       "title": "Долар готується до стрибка: курс може піднятися навіть вище за 45 грн (Оновлено) - focus.ua",
       "excerpt": "Згадка у виданні focus.ua",
       "date": "7 вересня 2026",
-      "dateTS": 1788763225.0,
+      "dateTS": 1788764400.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZmVSeW5yWGJjTWFncE0yc0hMWVVKeThkMWxoUlVxVXcxc3FURjFNWTVoLUQzOUJENG4wR19mT0JTSDB1UFE3NFFjR0tqZ2dMQzhsRGFWWGc2VjRMNXNqb2NJMXlram52azlWeDFtb2l4T1VxUjFmd3Q1UDNsZnFJU1BBdkFnQ21KdlMwVXdwbkVxYldNRzFfbmZuWlhSXzkxX3NqZEktNmo1OVhB0gGyAUFVX3lxTE51Y3YyVDRQbHVncVUxNExDS3hSQkk0cTZZRmFFQU9FZVlyWU5Uck96MVM2a05XSXdTR1dKbkw5czU5c0VzUnNWX2oyeHFWTHh5UDRZYnR5Y0pnTkhMNkNjb0dBMW55ZFNzVzZLZU1NZHd2V3Y2dERoYjBsbE0wNENiZVkxTWs0RDJIeHJ2THlkTXR1UkMxbjJIWmpDekxqRm5xZWJxcTYtYWtJVkNFNmU5R2c?oc=5",
       "external": true,
