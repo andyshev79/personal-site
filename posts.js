@@ -1,8 +1,86 @@
-// Автоматично оновлено: 2026-09-17 12:54 UTC
+// Автоматично оновлено: 2026-09-18 12:32 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "НБУ вчора, 17 вересня 2026, підвищив облікову ставку з 15,5% до 16%.  А до цього 30 липня 2026 пі...",
+      "excerpt": "",
+      "date": "18 вересня 2026",
+      "dateTS": 1789732782.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/726",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Українці накопичили готівкової гривні 924,84 млрд грн.  Приріст до липня ставив 0,3% м/м. А от рі...",
+      "excerpt": "",
+      "date": "18 вересня 2026",
+      "dateTS": 1789729787.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/725",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Приріст валютних вкладів українців в банках (на рахунках та строкових депозитах) - найбільший за ...",
+      "excerpt": "",
+      "date": "18 вересня 2026",
+      "dateTS": 1789725709.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/724",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "На кінець серпня залишок коштів Уряду на ЄКР - ₴377,9 млрд (-47% до липня)  Запас міцності без зо...",
+      "excerpt": "",
+      "date": "17 вересня 2026",
+      "dateTS": 1789657977.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/723",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Тим часом, українці швидко нарощують купівлю готівковій валюті.  Середньодобовий чистий попит на ...",
+      "excerpt": "",
+      "date": "17 вересня 2026",
+      "dateTS": 1789653520.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/722",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Мінфін відклав видатки на підготовку енергетики до зими на грудень через брак коштів. Уряду довел...",
+      "excerpt": "",
+      "date": "17 вересня 2026",
+      "dateTS": 1789650884.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/721",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +92,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/720",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1224,87 +1302,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/606",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ІТ ЕКСПОРТ - ПОВЗЕМО ПО ДНУ  IT експорт - 567 млн дол в липні (+1%м/м, +2,1%р/р), та 3,91 млрд до...",
-      "excerpt": "",
-      "date": "1 вересня 2026",
-      "dateTS": 1788251056.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/605",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ВИТРАТИ УКРАЇНЦІВ ЗА КОРДОНОМ В ЛИПНІ 2026 ДОСЯГЛИ 759млн дол - МАКСИМУМ З ПОЧАТКУ РОКУ  В порівн...",
-      "excerpt": "",
-      "date": "1 вересня 2026",
-      "dateTS": 1788250398.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/604",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ГОЛОВНЕ. У ЛИПНІ 2026 ЕКСПОРТ УКРАЇНИ ВПАВ НА 11,1% ДО ПОПЕРЕДНЬОГО МІСЯЦЯ  Це дані НБУ, й рахуно...",
-      "excerpt": "",
-      "date": "31 серпня 2026",
-      "dateTS": 1788193964.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/603",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ПЛАТІЖНИЙ БАЛАНС ЧЕРГОВИЙ ДЕФІЦИТ  Платіжний баланс України в липні зведений з дефіцитом 682млн д...",
-      "excerpt": "",
-      "date": "31 серпня 2026",
-      "dateTS": 1788193186.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/602",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ПРИВАТНІ ГРОШОВІ ПЕРЕКАЗИ ЗА 7М2026 ВПАЛИ НА 6,3%  В липні 2026 приватні перекази зросли на 3,4% ...",
-      "excerpt": "",
-      "date": "31 серпня 2026",
-      "dateTS": 1788192350.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/601",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ВАЛЮТНІ БЕЗГОТІВКОВІ ОПЕРАЦІЇ НАСЕЛЕННЯ  Після лібералізації валютних операцій для безготівкових ...",
-      "excerpt": "",
-      "date": "31 серпня 2026",
-      "dateTS": 1788191481.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/600",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Obozrevatel",
+      "title": "Світові запаси нафти вичерпані. Криза наближується - Obozrevatel",
+      "excerpt": "Згадка у виданні Obozrevatel",
+      "date": "17 вересня 2026",
+      "dateTS": 1789653600.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSHMxVE1Qd1RsMjFqMUE4M3VhZEpJNXlhVlVjQ1pFRi0yNGdMTFl0SWRscDVZWEQ2QWdQOFVPT2pPcmlidG52dWUwbkNoeTd6WF9yQk1BMmJRVzNSOVhydTlWdEdCYUU1TGRLWmI5WWFWeURtb1NWeTM4ZjcyRHdfS0VMSHFRclZPcEpBWFA5Uk5LMUVwS2tQS0NHSGs2QThONk8zTy1yNF9zRWY3V21J0gGvAUFVX3lxTE9IczFUTVB3VGwyMWoxQTgzdWFkSkk1eWFWVWNDWkVGLTI0Z0xMWXRJZGxwNVlYRDZBZ1A4VU9Pak9yaWJ0bnZ1ZTBuQ2h5N3pYX3JCTUEyYlFXM1I5WHJ1OVZ0R0JhRTVMZEtaYjlZYVZ5RG1vU1Z5MzhmNzJEd19LRUxIcVFyVk9wSkFYUDlSTksxRXBLa1BLQ0dIazZBOE42TzNPLXI0X3NFZjdXbUk?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -1328,6 +1341,32 @@ const CONTENT = {
       "dateTS": 1789542386.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb0FUTFpnRDZlVmxsZEM4VUF3ZHozVWpKRXZyVElrdnFQdXNocmNxUUtISVFVNGZsTE5jZUVUSW5QdlIxZTgzY1JXRV85WlhZRGdFZTg2OGhfbHZRa0pHd1U4V19CWHV6NlN2ekZ4VG9vWXNjUzFuMmxOd2tZaFdsSldndS1KOWZlZDRoSTBIT29jWWx0SWtlVnpwdWdIeVR5Vk5YTVJjUFh3T21Kb1J3OdIBtgFBVV95cUxQd29nZTVHamg4b2xDWUZCWkwyc0FnelJmYnVMVVFyVHl1WDkzZ3QyVE9HRGdDU080SFppZENhd21uWVJkSUJZLUFTRkFQU0pqOEh6dGhqVHV2WXl1UG5ySG5BOS0xYnB3NDd3WGdxUGFiRVZBMmM0c1hNcm5PMWhaZS1lOWY1VklMcnI0NE1mRXo5bzhyY0Q2aDNPc3AyZGNtODBaZEtjZXZlcFhyVzlMbHBxMnl5dw?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Главред",
+      "title": "Затишшя перед бурею: як довго НБУ утримає курс долара нижче 45 грн - Главред",
+      "excerpt": "Згадка у виданні Главред",
+      "date": "16 вересня 2026",
+      "dateTS": 1789541940.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM2RuRTlFMHl5R2dsanZuS2FUb0pjR3JHM3NFRWo4QlFyNFp3R3JORXJYWDRrZHVsZlM0SVFmeE5uN09DUmFXd0lKeU12a2V2YTlQTXBFQ3VWSjFJM2lsbEktbHJSV05rMXhtTjJoNmlGV05XcmdSMjRjakhsVVlwMVZGLWI3Q2x2TU12WUxhMFFMeWhqVmRBSm9NSXQ5X3ZVZi1LRUVsemJmd9IBrwFBVV95cUxQSTBZN2JsZDNpZEllQmd4OWtZdHpJcGdtSWM1alpOb1NIWlJwOUllZlpPYmZZbHR6enB5TzRNdEtUQXlVQVFQWjFpdnVHc19FelEwTTRVSmRhRWl5UFhLWnNuQW1VcldESHNhSXJwaTdNRlNfc2lKMHpRM09oLUYwQUEtbGk0TXQ0LUF0Y09HajJNLWJYdHhMbW0zN1c1eUNoSU91TkptaUFhdTIxRVFv?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "focus.ua",
+      "title": "Долар під тиском: що буде з курсом валют цього тижня та які рішення можуть змінити ситуацію - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "14 вересня 2026",
+      "dateTS": 1789358160.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc0tib1R0THRTMEpqT3ZHLVV0VDBuUnpxdkhHUXJfRFE1TDBBc21WRV9LWm1KTWsyTHNsZXBWXzZBeG1PS1ZxZTZwdkIybU04TjdfNlg2SEt6TW9ZaVJJdUx6ZkVlcFlhbmRCTFRuS1V0UEFWZ1pHczd1YUJKelQ4angteVAwTENTY3dYb0s4ak4xRUJ3NmY1eHFCLUdXa0pvS3c3LXFCbm8zS0xiX1pZUzFn0gG3AUFVX3lxTE1tTGZBbURTeTlIWEJ3ZGRjQXhlVUVGUE95MHk1S3N2ZmhwdUlVTE9KS1dvdjNDYmU5amJTZWlBNmk3VEs4VjFEblhuQndoRHVYaUpUWldFaENEZTZQYVZ2UzdhNHFVeXVmNmY0QnJjQVZDZ05jRFpZd0xLNGM5cFVYZlc1TmNwWnZ4bHJabmd4TXRXbTdab3dDR2tpclBfUXhGQVlVT0lveDQ1LVJFOWN1cTJKOXlCVQ?oc=5",
       "external": true,
       "featured": false
     },
@@ -1367,6 +1406,19 @@ const CONTENT = {
       "dateTS": 1788864677.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVjh4Z2VTUTZaSlVvRGozYnJWYWZmZUlzb2t3Z2phcnpySHpYSkgzbHdtbXpTVjJOZjBzN3ZQNF9VZGJGSkNIRlRtWG43ZmRGeG5SVUxpRXY4eGRfbHk2eFZoSkhDYzYtZFhIUTVKQU8wSzA4TURTdEhVQjhhRkRRVVhNM29CMVBraUZITkxSaGExS01jMVZLaXpXeDZhdDVQWWFRMDJJaHdqdlhqWVVfMGgwNmNlQXVHTDllVEF3MWx3aWx2X05DR9IByAFBVV95cUxNVjh4Z2VTUTZaSlVvRGozYnJWYWZmZUlzb2t3Z2phcnpySHpYSkgzbHdtbXpTVjJOZjBzN3ZQNF9VZGJGSkNIRlRtWG43ZmRGeG5SVUxpRXY4eGRfbHk2eFZoSkhDYzYtZFhIUTVKQU8wSzA4TURTdEhVQjhhRkRRVVhNM29CMVBraUZITkxSaGExS01jMVZLaXpXeDZhdDVQWWFRMDJJaHdqdlhqWVVfMGgwNmNlQXVHTDllVEF3MWx3aWx2X05DRw?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "my.ua",
+      "title": "Експерти пояснили, чому іноземні інвестори зацікавлені в банківському ринку України - my.ua",
+      "excerpt": "Згадка у виданні my.ua",
+      "date": "8 вересня 2026",
+      "dateTS": 1788856388.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdDhhOFhQblVtYVVuWTdQTzFiQ1d1WGZHZzNOZGVnQ0xBakx0SlFBcTZTVXgzMlpDV3VYNG00Y0J0ZFdLbW9iSUg1X0IyR1FOTUF5ZjdaTGk4dThPUEc4TUZNTFlaaXhHYml1TnV6MU4zVHVFSVFpM0pUZkNZM3NxZHFFVENsRFYwTHFyX0t4WVNwbVNxT216a3pEVlVSb1BHVE9pWmRRSkxvcDdPcXIydEJIckJIRmNGREhVOGRfOUlPMUNa0gHGAUFVX3lxTFAtUV9hYVBWbm1UQU1wc3hiaGlGeUp2NnVaMmFwOEVIQUVjYUZaaXBlcVpvWEtLTjF0RUw3YVpTMnVFY0pabXd0YkFxYWNNUk5DYjZfT1JHNXZpelE5V0tOMGtrbVRWRlBJbnNMS2hoSVFUczRJUlhudDktX2VnRm9mOWoxY2ZIQmdnSFVuaXR3VEh0dlBuVHBsU0EyOWd1UjYyUHlXM3ZhTDlROEZwSE1mMTc1ZXR5VmpLcHJlam55YVpDZWVvZw?oc=5",
       "external": true,
       "featured": false
     },
