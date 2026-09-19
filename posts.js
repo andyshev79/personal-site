@@ -1,8 +1,73 @@
-// Автоматично оновлено: 2026-09-18 12:32 UTC
+// Автоматично оновлено: 2026-09-19 12:10 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Корми для тварин. Військовий сука об'єкт.  😡 Виродки.  А книгарня видавництво? А склад іграшок? Л...",
+      "excerpt": "",
+      "date": "19 вересня 2026",
+      "dateTS": 1789816646.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/731",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Закон «пекельних санкцій» Грема прийнято Палатою представників й підписано Трампом.   Проти рф Тр...",
+      "excerpt": "",
+      "date": "19 вересня 2026",
+      "dateTS": 1789811175.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/730",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "🇹🇷  Долар до турецької ліри досягав нового історичного максимуму майже кожного дня останні рік. 2...",
+      "excerpt": "",
+      "date": "19 вересня 2026",
+      "dateTS": 1789810916.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/729",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Україна за перші 15 днів вересня експортувала 131 000 тонн соняшникової олії, що становить близьк...",
+      "excerpt": "",
+      "date": "19 вересня 2026",
+      "dateTS": 1789810109.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/728",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "⛽️Saudi Aramco оставит европейские НПЗ без нефти в следующем месяце из-за атаки на нефтепровод, —...",
+      "excerpt": "",
+      "date": "18 вересня 2026",
+      "dateTS": 1789736936.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/727",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +79,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/726",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1237,86 +1302,47 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/612",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "У серпні 2026 митниця перерахувала в бюджет 75,1 млрд грн. Падіння 3,2 млрд грн до липня, й 3 млр...",
-      "excerpt": "",
-      "date": "2 вересня 2026",
-      "dateTS": 1788334428.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/611",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Глобальний сукупний індекс державних облігацій Bloomberg досяг 3,72% у вересні 2026 року, що стал...",
-      "excerpt": "",
-      "date": "1 вересня 2026",
-      "dateTS": 1788269750.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/609",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Останні ставки на Polimarket показують, що демократи впевнено займуть й Конгрес й Палату Представ...",
-      "excerpt": "",
-      "date": "1 вересня 2026",
-      "dateTS": 1788268983.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/608",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "А як же є-бачок, є-ясла, є-зимова підтримка, є-оселя, є-...,  всім по 1000 грн й т.д? ))  А як що...",
-      "excerpt": "",
-      "date": "1 вересня 2026",
-      "dateTS": 1788259888.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/607",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Вже 2 дні поспіль на міжбанку по долару заходить на територію нижче 44,50грн Сьогодні було 44,46-...",
-      "excerpt": "",
-      "date": "1 вересня 2026",
-      "dateTS": 1788252796.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/606",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "Obozrevatel",
-      "title": "Світові запаси нафти вичерпані. Криза наближується - Obozrevatel",
-      "excerpt": "Згадка у виданні Obozrevatel",
+      "tagLabel": "Голос Карпат",
+      "title": "Покупать или продавать доллары в октябре: эксперты дали советы украинцам по валюте - Голос Карпат",
+      "excerpt": "Згадка у виданні Голос Карпат",
+      "date": "19 вересня 2026",
+      "dateTS": 1789808967.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jNEczMzFWQUZaaXV2MG5lT0NYNFRQR1hfYWdVR1ZjUzVoaGFlU0ZvUGdmWGdNMVFqd2ZOTVREOVFzRlpGbUo4a1ZlQWdKNXd2ZGZyTDd6d3VpeXhRMHlvdXBR?oc=5",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "focus.ua",
+      "title": "Готівки на кожного значно побільшало, але чи стали українці багатшими — що стоїть за цифрою 924,8 млрд грн - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "18 вересня 2026",
+      "dateTS": 1789739961.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3ByUTVzVW03aWRoRE5hYTN3NEZnT3Q1ZGFYeVJxSjk4N2tEMnBIMnhRTjVfZ2ZYOWlWeURONnFkb1BDY2JpcFVHUUJxOEpCUUNoT0dSRWpHUC0zclctWXp0TjMtRHEzMUhYckdyUWRuM05Kd1FaSS01MlMxUWluUzZkTnM4bXRJMnpGY0RFX1M3Z9IBlwFBVV95cUxQSEZHU21XREx4enUzaWZONFZuSWNQSFFWazM0dXlUNkU1VFNpREJJQzMyVTEtVUprcXQ4SjZjUFl3WE43THF6TGVzeWFrWVhQN1lMNkFHS1cxam1ZRnlzakZyMGlIYkl0b05vX1ZxQU56WlZzYjhRTnBGTWNpOWdxOEw1cVJwUVZxVnNVZ3c2Q0pBblRZNU5V?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "obozrevatel.com",
+      "title": "Світові запаси нафти вичерпані. Криза наближується - obozrevatel.com",
+      "excerpt": "Згадка у виданні obozrevatel.com",
       "date": "17 вересня 2026",
       "dateTS": 1789653600.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSHMxVE1Qd1RsMjFqMUE4M3VhZEpJNXlhVlVjQ1pFRi0yNGdMTFl0SWRscDVZWEQ2QWdQOFVPT2pPcmlidG52dWUwbkNoeTd6WF9yQk1BMmJRVzNSOVhydTlWdEdCYUU1TGRLWmI5WWFWeURtb1NWeTM4ZjcyRHdfS0VMSHFRclZPcEpBWFA5Uk5LMUVwS2tQS0NHSGs2QThONk8zTy1yNF9zRWY3V21J0gGvAUFVX3lxTE9IczFUTVB3VGwyMWoxQTgzdWFkSkk1eWFWVWNDWkVGLTI0Z0xMWXRJZGxwNVlYRDZBZ1A4VU9Pak9yaWJ0bnZ1ZTBuQ2h5N3pYX3JCTUEyYlFXM1I5WHJ1OVZ0R0JhRTVMZEtaYjlZYVZ5RG1vU1Z5MzhmNzJEd19LRUxIcVFyVk9wSkFYUDlSTksxRXBLa1BLQ0dIazZBOE42TzNPLXI0X3NFZjdXbUk?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -1329,7 +1355,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQmdyeVdVeGcwOEppcTB0c1dJZW5manZPY05rMGd0MGxzUEJhTG1wdFprMEtoeXhGbXBGNkZZQ1M4Zy1WZF8tYWNCRnN4RzhXNGEzeHN5c1Fidk5TSVBWN3I1aEFaS2RkeHZDOFJ2cXJDX2VDdkxYZWhwdzI1ZmVHdUNCOFhNUnJucjJES2xnTlZRbnVUU0p0dkxEMEdfMlZtc2dNR0NCSjIteG1CLTYwOGlUR3NzR3FBU2c?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -1392,19 +1418,6 @@ const CONTENT = {
       "date": "8 вересня 2026",
       "dateTS": 1788864677.0,
       "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2tPbmtMUUp5UEw0eXEtc2ZJNWoya28zbXJsYVd5dzR6QmFuVFJ6OVVGSEx0bzd6UGwzdHBLRy1PVnZ2T3B0SWhxT0RLZzhQY004TzVlMkJwc2tYeTBZY2xhV3V4T1Z3OXB0OFVPTGIyVE8yd3MtTU9zakM4YkN1NmZxVFFPYXAyOW83R0NSYXp5R08tMWZOQVlJbGdGQzJILUpmckMxZkpQakpiY29uUTVKcW1mT1NjQlVvUGNXNlBpaTDSAcgBQVVfeXFMTVY4eGdlU1E2WkpVb0RqM2JyVmFmZmVJc29rd2dqYXJ6ckh6WEpIM2x3bW16U1YyTmYwczd2UDRfVWRiRkpDSEZUbVhuN2ZkRnhuUlVMaUV2OHhkX2x5NnhWaEpIQ2M2LWRYSFE1SkFPMEswOE1EU3RIVUI4YUZEUVVYTTNvQjFQa2lGSE5MUmhhMUtNYzFWS2l6V3g2YXQ1UFlhUTAySWh3anZYallVXzBoMDZjZUF1R0w5ZVRBdzFsd2lsdl9OQ0c?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "focus.ua",
-      "title": "Грошей від МВФ може не бути: як це позначиться на доларі, гривні та цінах в Україні - focus.ua",
-      "excerpt": "Згадка у виданні focus.ua",
-      "date": "8 вересня 2026",
-      "dateTS": 1788864677.0,
-      "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVjh4Z2VTUTZaSlVvRGozYnJWYWZmZUlzb2t3Z2phcnpySHpYSkgzbHdtbXpTVjJOZjBzN3ZQNF9VZGJGSkNIRlRtWG43ZmRGeG5SVUxpRXY4eGRfbHk2eFZoSkhDYzYtZFhIUTVKQU8wSzA4TURTdEhVQjhhRkRRVVhNM29CMVBraUZITkxSaGExS01jMVZLaXpXeDZhdDVQWWFRMDJJaHdqdlhqWVVfMGgwNmNlQXVHTDllVEF3MWx3aWx2X05DR9IByAFBVV95cUxNVjh4Z2VTUTZaSlVvRGozYnJWYWZmZUlzb2t3Z2phcnpySHpYSkgzbHdtbXpTVjJOZjBzN3ZQNF9VZGJGSkNIRlRtWG43ZmRGeG5SVUxpRXY4eGRfbHk2eFZoSkhDYzYtZFhIUTVKQU8wSzA4TURTdEhVQjhhRkRRVVhNM29CMVBraUZITkxSaGExS01jMVZLaXpXeDZhdDVQWWFRMDJJaHdqdlhqWVVfMGgwNmNlQXVHTDllVEF3MWx3aWx2X05DRw?oc=5",
       "external": true,
       "featured": false
@@ -1419,6 +1432,19 @@ const CONTENT = {
       "dateTS": 1788856388.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdDhhOFhQblVtYVVuWTdQTzFiQ1d1WGZHZzNOZGVnQ0xBakx0SlFBcTZTVXgzMlpDV3VYNG00Y0J0ZFdLbW9iSUg1X0IyR1FOTUF5ZjdaTGk4dThPUEc4TUZNTFlaaXhHYml1TnV6MU4zVHVFSVFpM0pUZkNZM3NxZHFFVENsRFYwTHFyX0t4WVNwbVNxT216a3pEVlVSb1BHVE9pWmRRSkxvcDdPcXIydEJIckJIRmNGREhVOGRfOUlPMUNa0gHGAUFVX3lxTFAtUV9hYVBWbm1UQU1wc3hiaGlGeUp2NnVaMmFwOEVIQUVjYUZaaXBlcVpvWEtLTjF0RUw3YVpTMnVFY0pabXd0YkFxYWNNUk5DYjZfT1JHNXZpelE5V0tOMGtrbVRWRlBJbnNMS2hoSVFUczRJUlhudDktX2VnRm9mOWoxY2ZIQmdnSFVuaXR3VEh0dlBuVHBsU0EyOWd1UjYyUHlXM3ZhTDlROEZwSE1mMTc1ZXR5VmpLcHJlam55YVpDZWVvZw?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "focus.ua",
+      "title": "Грошей від МВФ може не бути: як це позначиться на доларі, гривні та цінах в Україні - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "8 вересня 2026",
+      "dateTS": 1788850800.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2tPbmtMUUp5UEw0eXEtc2ZJNWoya28zbXJsYVd5dzR6QmFuVFJ6OVVGSEx0bzd6UGwzdHBLRy1PVnZ2T3B0SWhxT0RLZzhQY004TzVlMkJwc2tYeTBZY2xhV3V4T1Z3OXB0OFVPTGIyVE8yd3MtTU9zakM4YkN1NmZxVFFPYXAyOW83R0NSYXp5R08tMWZOQVlJbGdGQzJILUpmckMxZkpQakpiY29uUTVKcW1mT1NjQlVvUGNXNlBpaTDSAcgBQVVfeXFMTVY4eGdlU1E2WkpVb0RqM2JyVmFmZmVJc29rd2dqYXJ6ckh6WEpIM2x3bW16U1YyTmYwczd2UDRfVWRiRkpDSEZUbVhuN2ZkRnhuUlVMaUV2OHhkX2x5NnhWaEpIQ2M2LWRYSFE1SkFPMEswOE1EU3RIVUI4YUZEUVVYTTNvQjFQa2lGSE5MUmhhMUtNYzFWS2l6V3g2YXQ1UFlhUTAySWh3anZYallVXzBoMDZjZUF1R0w5ZVRBdzFsd2lsdl9OQ0c?oc=5",
       "external": true,
       "featured": false
     },
