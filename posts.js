@@ -1,8 +1,73 @@
-// Автоматично оновлено: 2026-09-19 12:10 UTC
+// Автоматично оновлено: 2026-09-20 12:46 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Тижневий валютний огляд також вже є на YouTube https://youtu.be/7iC4YNf8xUg",
+      "excerpt": "",
+      "date": "19 вересня 2026",
+      "dateTS": 1789825666.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/739",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Баланс ринку та прогноз до валютного огляду .",
+      "excerpt": "",
+      "date": "19 вересня 2026",
+      "dateTS": 1789823303.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/735",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: 14 – 19 ВЕРЕСНЯ 2026. ДОЛАР ТРИМАЮТЬ ЧЕРЕЗ ЄВРО, А ЄВРО —...",
+      "excerpt": "",
+      "date": "19 вересня 2026",
+      "dateTS": 1789823137.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/734",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: 14 – 19 ВЕРЕСНЯ 2026. ДОЛАР ТРИМАЮТЬ ЧЕРЕЗ ЄВРО, А ЄВРО —...",
+      "excerpt": "",
+      "date": "19 вересня 2026",
+      "dateTS": 1789823077.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/733",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: 14 – 19 ВЕРЕСНЯ 2026. ДОЛАР ТРИМАЮТЬ ЧЕРЕЗ ЄВРО, А ЄВРО —...",
+      "excerpt": "",
+      "date": "19 вересня 2026",
+      "dateTS": 1789823061.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/732",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +79,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/731",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1237,71 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/619",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ПРИБУТКИ БІЗНЕСУ У 2КВ2026 - РЕКОРДНІ ЗДОБУТКИ З ЧІТКОЮ КОНЦЕНТРАЦІЄЮ  Держстат опублікував дані ...",
-      "excerpt": "",
-      "date": "2 вересня 2026",
-      "dateTS": 1788355928.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/618",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "рубль на максимумах з березня 2025 ...мало... але це початок, попередній максимум оновлено, а отж...",
-      "excerpt": "",
-      "date": "2 вересня 2026",
-      "dateTS": 1788354040.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/616",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "❗️Сейчас мы переживаем энергетический кризис. Украина решила, что хочет взрывать российские энерг...",
-      "excerpt": "",
-      "date": "2 вересня 2026",
-      "dateTS": 1788352264.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/615",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжбанк долар стрімко відновлюється. Після вчорашніх нижче за 44,50, зараз 44.65  - 44.68  Й коре...",
-      "excerpt": "",
-      "date": "2 вересня 2026",
-      "dateTS": 1788344222.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/613",
-      "external": true,
-      "featured": true
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ЕURUSD відновив падіння, й сьогодні ходив на 1,156 - мінімум за 10днів  Падіння відбувається незв...",
-      "excerpt": "",
-      "date": "2 вересня 2026",
-      "dateTS": 1788335016.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/612",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1321,6 +1321,19 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
+      "tagLabel": "my.ua",
+      "title": "Наличных на каждого стало значительно больше, но разбогатели ли украинцы — что скрывается за цифрой 924,8 млрд грн - my.ua",
+      "excerpt": "Згадка у виданні my.ua",
+      "date": "18 вересня 2026",
+      "dateTS": 1789740376.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNkpuVFdfc2MtZUZOOERuaS0xUTZRNWRTTWhRZDdjek41bG82YmVUWHJzX1RMVnN1OWNoUWtiYVJySW1qYWJJOTNzOFpzdzdQWDVUbkdMcDY3SEk3bnRISE9UMXVQZVh4VTJGV1BxQjRUUUliNEktN2hhaHU5Vy1TX2pQVjlfcE9zVUVGVnFzMGhwY1RodmV5bWhYcUd6YUJQNVpERTFNSXpMMkpaSlhUcXJubWNFcVJiWlQtUkJ5UHhnOWpjcm5GRjZIZm9lVFk5N19vRDkwU0lzVDZWVmpBMEd0MjZ0WEJGbTlpYkV2MVRjV1lTblZ4UjdDMmJVYmxjckRZbzA5RlVWLTJONjhN0gGPAkFVX3lxTE02Sm5UV19zYy1lRk44RG5pLTFRNlE1ZFNNaFFkN2N6TjVsbzZiZVRYcnNfVExWc3U5Y2hRa2JhUnJJbWphYkk5M3M4WnN3N1BYNVRuR0xwNjdISTdudEhIT1QxdVBlWHhVMkZXUHFCNFRRSWI0SS03aGFodTlXLVNfalBWOV9wT3NVRUZWcXMwaHBjVGh2ZXltaFhxR3phQlA1WkRFMU1JekwySlpKWFRxcm5tY0VxUmJaVC1SQnlQeGc5amNybkZGNkhmb2VUWTk3X29EOTBTSXNUNlZWakEwR3QyNnRYQkZtOWliRXYxVGNXWVNuVnhSN0MyYlVibGNyRFlvMDlGVVYtMk42OE0?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
       "tagLabel": "focus.ua",
       "title": "Готівки на кожного значно побільшало, але чи стали українці багатшими — що стоїть за цифрою 924,8 млрд грн - focus.ua",
       "excerpt": "Згадка у виданні focus.ua",
@@ -1328,6 +1341,19 @@ const CONTENT = {
       "dateTS": 1789739961.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3ByUTVzVW03aWRoRE5hYTN3NEZnT3Q1ZGFYeVJxSjk4N2tEMnBIMnhRTjVfZ2ZYOWlWeURONnFkb1BDY2JpcFVHUUJxOEpCUUNoT0dSRWpHUC0zclctWXp0TjMtRHEzMUhYckdyUWRuM05Kd1FaSS01MlMxUWluUzZkTnM4bXRJMnpGY0RFX1M3Z9IBlwFBVV95cUxQSEZHU21XREx4enUzaWZONFZuSWNQSFFWazM0dXlUNkU1VFNpREJJQzMyVTEtVUprcXQ4SjZjUFl3WE43THF6TGVzeWFrWVhQN1lMNkFHS1cxam1ZRnlzakZyMGlIYkl0b05vX1ZxQU56WlZzYjhRTnBGTWNpOWdxOEw1cVJwUVZxVnNVZ3c2Q0pBblRZNU5V?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Obozrevatel",
+      "title": "Світові запаси нафти вичерпані. Криза наближується - Obozrevatel",
+      "excerpt": "Згадка у виданні Obozrevatel",
+      "date": "17 вересня 2026",
+      "dateTS": 1789653600.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT0hoZm5pMEpxd2g4MTJiZmZxYzI0OXFlcjgxQlBJNkN2djZPZTlOcFVHa3RiaWtqVWplaVQzNlZ2S1h3UDI0X3owb2IwWV9CMzhHSHNHMjU2YUFIQnlwM3g5cjg2UWhNLTZmOVhkRDhfeHNsWlRXNVgyQ3JPdWZSSEZPOG1rQ0JXOEwxOVZxa0t3RzM2SlNIUFM0X1UzOHpiNmtOQmhKYkFTQdIBrwFBVV95cUxPSHMxVE1Qd1RsMjFqMUE4M3VhZEpJNXlhVlVjQ1pFRi0yNGdMTFl0SWRscDVZWEQ2QWdQOFVPT2pPcmlidG52dWUwbkNoeTd6WF9yQk1BMmJRVzNSOVhydTlWdEdCYUU1TGRLWmI5WWFWeURtb1NWeTM4ZjcyRHdfS0VMSHFRclZPcEpBWFA5Uk5LMUVwS2tQS0NHSGs2QThONk8zTy1yNF9zRWY3V21J?oc=5",
       "external": true,
       "featured": false
     },
@@ -1380,6 +1406,19 @@ const CONTENT = {
       "dateTS": 1789541940.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM2RuRTlFMHl5R2dsanZuS2FUb0pjR3JHM3NFRWo4QlFyNFp3R3JORXJYWDRrZHVsZlM0SVFmeE5uN09DUmFXd0lKeU12a2V2YTlQTXBFQ3VWSjFJM2lsbEktbHJSV05rMXhtTjJoNmlGV05XcmdSMjRjakhsVVlwMVZGLWI3Q2x2TU12WUxhMFFMeWhqVmRBSm9NSXQ5X3ZVZi1LRUVsemJmd9IBrwFBVV95cUxQSTBZN2JsZDNpZEllQmd4OWtZdHpJcGdtSWM1alpOb1NIWlJwOUllZlpPYmZZbHR6enB5TzRNdEtUQXlVQVFQWjFpdnVHc19FelEwTTRVSmRhRWl5UFhLWnNuQW1VcldESHNhSXJwaTdNRlNfc2lKMHpRM09oLUYwQUEtbGk0TXQ0LUF0Y09HajJNLWJYdHhMbW0zN1c1eUNoSU91TkptaUFhdTIxRVFv?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "my.ua",
+      "title": "Долар під тиском: що буде з курсом валют цього тижня та які рішення можуть змінити ситуацію - my.ua",
+      "excerpt": "Згадка у виданні my.ua",
+      "date": "14 вересня 2026",
+      "dateTS": 1789358419.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOamRhWS0xT3l5OXJPV0RRZWdkX2RLWGNzZ05RdmdZcGdsRGkyZFdxbERYS2hfT25uSThGcktyN1B3WFZBR2RuLWFPXzlaYktVUW9hLVMtY3NQRF94NXc4em5aVWZTSUVtbXJUQUtZMVV4S1NpRlAyQlE2b05HMTdzVmh0UTVCdlZNY0hsNHk0RGpWTzFfTi04MW1IN09yRFFlWVN3VWhpWjdEOTduYUN2TU4zRVNLVFNRZkpyZzFuV0Exenc5clZWMFg4cUlKYy1RRWRoU3Bkc2ZqZ9IB2wFBVV95cUxOdGhnQkEzRW5KdWFhdHVmaGtJcTJqaWhWNXVvRnFibEswY0hoWHlpQ2dmZDdmLV9Id21xTE80c0tpNjA1STJBREtvaFZPbS05VUtPQlQ4VmtLb3UxU1FOdHdNeFJ6b0p1N0xJYUJqVWlDRzdjOVExNVVWNkc4SDI5VXY2amhkRWxHaVZYLTd2VVlkOFlpeUdQUWMyYlJMdGs2cmsteUVNUW1IMWpzZnNzRXQzVmRaTVZmalhyWFVsOEMwTXl3cmhGeTdDeDY0VzdNSlpxM3ZMWjdNa3M?oc=5",
       "external": true,
       "featured": false
     },
@@ -1464,19 +1503,6 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "Західний інформаційний фронт",
-      "title": "Топ-10 найприбутковіших банків України за 7 місяців цього року - Західний інформаційний фронт",
-      "excerpt": "Згадка у виданні Західний інформаційний фронт",
-      "date": "7 вересня 2026",
-      "dateTS": 1788801956.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUHNXQlZVQ3lFUVJPZ0VVUExqSnNPeVpmMGk2MC1Od1dxbFdlUWI1bl9Mck1lcnJwZlYwZE4zV0hjbF9hS2YtMlRudFVWd3JnZzJsQ1pGZlBRMDhySERLbTRJSVhMdUlOemFvT1FmX2ExT1J4N3h5UzBON1lIa0M5dkNCeGpZakswZmtQN1NvV2VLYkxoZDJlaVdBU2VyNUoyaEE?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
       "tagLabel": "focus.ua",
       "title": "Долар готується до стрибка: курс може піднятися навіть вище за 45 грн (Оновлено) - focus.ua",
       "excerpt": "Згадка у виданні focus.ua",
@@ -1484,6 +1510,19 @@ const CONTENT = {
       "dateTS": 1788764400.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZmVSeW5yWGJjTWFncE0yc0hMWVVKeThkMWxoUlVxVXcxc3FURjFNWTVoLUQzOUJENG4wR19mT0JTSDB1UFE3NFFjR0tqZ2dMQzhsRGFWWGc2VjRMNXNqb2NJMXlram52azlWeDFtb2l4T1VxUjFmd3Q1UDNsZnFJU1BBdkFnQ21KdlMwVXdwbkVxYldNRzFfbmZuWlhSXzkxX3NqZEktNmo1OVhB0gGyAUFVX3lxTE51Y3YyVDRQbHVncVUxNExDS3hSQkk0cTZZRmFFQU9FZVlyWU5Uck96MVM2a05XSXdTR1dKbkw5czU5c0VzUnNWX2oyeHFWTHh5UDRZYnR5Y0pnTkhMNkNjb0dBMW55ZFNzVzZLZU1NZHd2V3Y2dERoYjBsbE0wNENiZVkxTWs0RDJIeHJ2THlkTXR1UkMxbjJIWmpDekxqRm5xZWJxcTYtYWtJVkNFNmU5R2c?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Західний інформаційний фронт",
+      "title": "Топ-10 найприбутковіших банків України за 7 місяців цього року - Західний інформаційний фронт",
+      "excerpt": "Згадка у виданні Західний інформаційний фронт",
+      "date": "7 вересня 2026",
+      "dateTS": 1788764400.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUHNXQlZVQ3lFUVJPZ0VVUExqSnNPeVpmMGk2MC1Od1dxbFdlUWI1bl9Mck1lcnJwZlYwZE4zV0hjbF9hS2YtMlRudFVWd3JnZzJsQ1pGZlBRMDhySERLbTRJSVhMdUlOemFvT1FmX2ExT1J4N3h5UzBON1lIa0M5dkNCeGpZakswZmtQN1NvV2VLYkxoZDJlaVdBU2VyNUoyaEE?oc=5",
       "external": true,
       "featured": false
     },
@@ -2143,6 +2182,19 @@ const CONTENT = {
       "source": "youtube",
       "tag": "youtube",
       "tagLabel": "YouTube",
+      "title": "ДОЛАР ТРИМАЮТЬ ЧЕРЕЗ ЄВРО, А ЄВРО — ЧЕРЕЗ ФРС. ШТУРМ 45 ГРН/ДОЛ.",
+      "excerpt": "------\n00:00 Вступ\n00:23 Результати тижня 14-19 вересня\n04:33 Баланс міжбанку\n06:07 Баланс операцій населення\n08:05 Загальний дефіцит та інтервенції\n09:27 На що звернув увагу на тижні\n15:24 Прогноз ри",
+      "date": "19 вересня 2026",
+      "dateTS": 1789825362.0,
+      "readTime": "відео",
+      "url": "https://www.youtube.com/watch?v=7iC4YNf8xUg",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "youtube",
+      "tag": "youtube",
+      "tagLabel": "YouTube",
       "title": "МАРАФОН МІЛЬЯРДНИХ ІНТЕРВЕНЦІЙ ТА ВАЖКИЙ ТИЖДЕНЬ ПОПЕРЕДУ",
       "excerpt": "0:00 Вступ\n0:35 Результати ринку 7-12 вересня 2026\n3:42 Баланс ринку. Активність знизилась. Є причини.\n8:22 Звернув увагу на тижні. Головні фактори\n14:22 Прогноз валютного на 14-19 вересня 2026\n16:46",
       "date": "12 вересня 2026",
@@ -2150,7 +2202,7 @@ const CONTENT = {
       "readTime": "відео",
       "url": "https://www.youtube.com/watch?v=fqnzRIUhcyI",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "youtube",
