@@ -1,8 +1,21 @@
-// Автоматично оновлено: 2026-09-20 12:46 UTC
+// Автоматично оновлено: 2026-09-21 14:42 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Долар міжбанк Крокуємо до  реперного рівня 44.85 грн Зараз: 44.74  -  44.79",
+      "excerpt": "",
+      "date": "21 вересня 2026",
+      "dateTS": 1789987626.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/740",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +27,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/739",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1289,22 +1302,35 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/620",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ПРИБУТКИ БІЗНЕСУ У 2КВ2026 - РЕКОРДНІ ЗДОБУТКИ З ЧІТКОЮ КОНЦЕНТРАЦІЄЮ  Держстат опублікував дані ...",
-      "excerpt": "",
-      "date": "2 вересня 2026",
-      "dateTS": 1788356833.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/619",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "my.ua",
+      "title": "Українці відчули тиск раніше за міжбанк: курс валют на тиждень — новий сигнал для гривні - my.ua",
+      "excerpt": "Згадка у виданні my.ua",
+      "date": "21 вересня 2026",
+      "dateTS": 1789978519.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdUduV25pektoVFdrT2lFTTI2V1VxcmlKQjltY21zczFOaTJlZmNheHRHdnVSN2xJeWQ1T25OMG9iQ2JrYTZrMXRSbkJxSmpSNVpqellfVFpqSG1zVnkyZ1A3anNRcGYyS3RDTjZoQ3Y3N2pMZWdMbVVTbkhQYWtOeUg2emNxX0ZJR2xXbEZqaFloQkZzXzFUaTdnYk53TXIzQzZ2Ynowbk81ZlBuV1BfTkhWanBFZExLSG0wODloMXdmWmtkWVZqYml4WGVnUdIBzwFBVV95cUxOd0lZSVhPazgyU2hPNnNUZkwwT1dZOVE3cFVCcUEtZV93RXlMdEJqNmlhVnpJeWtIb21DdDNxeVUtSzctLTNFNWxmSjhaaEpCOFhLSnl6bm5mbVdDZXFNWUZHUGw2R2FpSWJlM0pjcjZDTVd5UXpLOG9zbzd5Y3hDanFScU9zSTNOb1hlNHJQN1F2SmluaEg2blVicS1NOWRRT0c0WWtTX1dNT1dFRHd1ZERsdmdCS01iWExxWC1SbzZvSlpRaW9uVkdyYXdRMjQ?oc=5",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "112.ua",
+      "title": "Шевчишин: гривня падає, попит на валюту зростає до 45 грн - 112.ua",
+      "excerpt": "Згадка у виданні 112.ua",
+      "date": "21 вересня 2026",
+      "dateTS": 1789974421.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWnVKUlpWTzlVVU51TXhlRGtYWUpnVUFjcUdPdTYwTjJ2OTJxN2tTdllNMXRmWlBMMXVKVzdkV1ZDQW5HbDhPazU1ZE9LdU95RTg5aUJQaWRiZXJVNG9hYnVPcEpyb2ZnREFxc0lENGRXNmpwSVlZcmlVUC1XdkttaTZGUGJ6QzVwQUpyU016X0VMdl9yaHRVX2JmWno0OVdleDRiR2NtdFE?oc=5",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "news",
       "tag": "news",
