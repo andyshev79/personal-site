@@ -1,8 +1,60 @@
-// Автоматично оновлено: 2026-09-21 14:42 UTC
+// Автоматично оновлено: 2026-09-22 12:58 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "🏭 РФ атакувала підприємство \"Інтерпайпу\" в Дніпрі.  Унаслідок атаки загинули четверо співробітник...",
+      "excerpt": "",
+      "date": "22 вересня 2026",
+      "dateTS": 1790079215.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/744",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Про $841 млн від Канади через Світовий банк писали ще на минулому тижні.   Прем'єр каже надійшли,...",
+      "excerpt": "",
+      "date": "22 вересня 2026",
+      "dateTS": 1790073517.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/743",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Долар міжбанк: 44.83 - 44.86 Поки йдемо по плану, якщо закриваємось тут, або вище - то далі кроку...",
+      "excerpt": "",
+      "date": "22 вересня 2026",
+      "dateTS": 1790064100.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/742",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Биткоин $86К приємного чаювання ;)",
+      "excerpt": "",
+      "date": "21 вересня 2026",
+      "dateTS": 1790004032.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/741",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +66,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/740",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1248,58 +1300,6 @@ const CONTENT = {
       "dateTS": 1788441385.0,
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/624",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "За результатами серпня 2026 середньодобовий показник вкладень банків в депозитні сертифікати овер...",
-      "excerpt": "",
-      "date": "3 вересня 2026",
-      "dateTS": 1788436589.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/623",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Долар розпочинає торги на міжбанку зі зростання 44.72 - 44.78 грн - зараз це 9ти денний максимум.",
-      "excerpt": "",
-      "date": "3 вересня 2026",
-      "dateTS": 1788421816.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/622",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "БАЛАНС ВАЛЮТНОГО РИНКУ Офіційно по серпню 2026 від НБУ  МІЖБАНК - попит 8505 млн дол (-3,5%) - пр...",
-      "excerpt": "",
-      "date": "2 вересня 2026",
-      "dateTS": 1788364890.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/621",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Підверджений факт - валютні інтервенції серпня 2026 - 3й найбільший показник в історії України - ...",
-      "excerpt": "",
-      "date": "2 вересня 2026",
-      "dateTS": 1788359365.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/620",
       "external": true,
       "featured": false
     }
