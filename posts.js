@@ -1,8 +1,60 @@
-// Автоматично оновлено: 2026-09-25 13:07 UTC
+// Автоматично оновлено: 2026-09-26 12:34 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Fozzy Group скоротить частину працівників офісних команд холдингу, мережі «Сільпо» та логістики.😢...",
+      "excerpt": "",
+      "date": "25 вересня 2026",
+      "dateTS": 1790348981.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/776",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Після липневої паузи українці активізувались щодо золота  Світові ціни золота у серпні зросли, й ...",
+      "excerpt": "",
+      "date": "25 вересня 2026",
+      "dateTS": 1790346129.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/775",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "В СЕРПНІ БАНКИ РІЗКО ЗНИЗИЛИ ЗАВЕЗЕННЯ ГОТІВКОВИХ ЄВРО  В серпні банки завезли готівкової валюти ...",
+      "excerpt": "",
+      "date": "25 вересня 2026",
+      "dateTS": 1790344972.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/773",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЄС погодився розблокувати 6,6 млрд євро для України - верховна представниця ЄС із закордонних спр...",
+      "excerpt": "",
+      "date": "25 вересня 2026",
+      "dateTS": 1790343793.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/772",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +66,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/771",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1250,61 +1302,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/657",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Це навіть не террор, це пряме винищення ((",
-      "excerpt": "",
-      "date": "8 вересня 2026",
-      "dateTS": 1788870179.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/654",
-      "external": true,
-      "featured": true
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "В продовження поста вище 👆 Але ті часи минули, й спосерігаючи на зниження частки Китаю в трежеріс...",
-      "excerpt": "",
-      "date": "8 вересня 2026",
-      "dateTS": 1788862959.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/653",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Частка Китаю в трежеріс США найменша з 2002 року.  Ще років п'ятнадцять тому в підручниках з міжн...",
-      "excerpt": "",
-      "date": "8 вересня 2026",
-      "dateTS": 1788862919.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/652",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Нажаль Brent 95-115 дол це нова реальність.   В Ірані у Штатів цуцванг. З рф не домовились, війна...",
-      "excerpt": "",
-      "date": "8 вересня 2026",
-      "dateTS": 1788857983.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/651",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Obozrevatel",
+      "title": "17 тис. працівників і мільярди податків: війна змушує \"АрселорМіттал Кривий Ріг\" зупинитися - Obozrevatel",
+      "excerpt": "Згадка у виданні Obozrevatel",
+      "date": "25 вересня 2026",
+      "dateTS": 1790335560.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObEhuMWtpcllXMmlnUnJNZG1nMVVWVGM4N19BME8wN0E0TmVaSEx6bEI1anpYaEtGV0Fpck5XTExIZERkcDhKenM2RjI2NllLY2o1Mm0tbG4xRVRTUDU0Wjd5ekc0VWRjRlhmNUI3MFlhallmb3RJSFFJUXNTYkF4dnRMWjdkUnpsenNoRE9CSGc0bU84dmZteGFnRW1TVUlRM3ZZanZNTGZKejU4Y09IUjFUY3IySTY1NFBGM2M4R2dYbjhJ0gHKAUFVX3lxTFB5a0dVdjNyZmdad0lWQU5CTHdQTmdDT2x0ZVdkLVg2clhZMEJiYXd2Wk5SbFlNbXZLVXNVbzlyMFlXcWE3bUtzcmhUVy1yQVZmT2YyUlNGQzBSLWJsMGNCWVkxVlpoUXlIZmZGS2JUXzhjeUl2UWIwUmdtMnZUMlhZTnFfaU5hYkVZbktxeEcwNHhFdjQ3MTdZNTJKTElBLU1qVjZjTjZGT2NvYjNWb2pHT1dYMkcydml1dUpXSE9WYjdlcy1GS3NKZGc?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -1373,6 +1386,19 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
+      "tagLabel": "my.ua",
+      "title": "Готівки на кожного значно побільшало, але чи стали українці багатшими — що стоїть за цифрою $715 - my.ua",
+      "excerpt": "Згадка у виданні my.ua",
+      "date": "18 вересня 2026",
+      "dateTS": 1789740019.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbG5mdVFNSDBZNXlJOVdMRGp3T0VXX3A1dkZDVmhJUnY0TUJxRF9xUGxsTUgwZXNiZjd5UTRWQXEza1FPTlFxUkszdm42b3RnVU5oN3RuU2d5WENfVkl0TlJhaDFzcDZZNXhHcDdVTTFKYVNfcExrMXp3ZC1oN0VKVXFTYkI5OEVwc2pvS3ZQdmNIbmRvWkp4c2R5ZVZHM29ZSHpGQS1mbGFBVjQ5bUdxZDZrN1o0aE9wQUw3a2NCM3JZajFpNkd5YVhjYzE2N0JxVEx1Qkd6UnZWN2Ji0gHeAUFVX3lxTE43NllLcUlKVFdhdHBocDNCZGsyVHRLWTRiWUZLOHlRcUZRaTM2eWZodUVwb2J3cjJVa3lXelpnaEJSTkNqbmZYU1VtUzVTMF9Qa2VXTmNjUVNfb1BYM0JxLUs5Z3Z1X0kyNDhRb3BjNUs0dlRBSFBwNzg0VTBua3FOSkNoOTlTZ3d5clRFV2ZQVDVvQzRQNEhET2ZHUnZOekdCRXdQUWlMNVZEbEwzX1c2Tnlubnc1b0dScjdHdXZ3S2EwUUZKUVVDT1lCMGZDXzRJQ0hiZFE2aFNjZmhhZw?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
       "tagLabel": "focus.ua",
       "title": "Готівки на кожного значно побільшало, але чи стали українці багатшими — що стоїть за цифрою 924,8 млрд грн - focus.ua",
       "excerpt": "Згадка у виданні focus.ua",
@@ -1386,13 +1412,13 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "Obozrevatel",
-      "title": "Світові запаси нафти вичерпані. Криза наближується - Obozrevatel",
-      "excerpt": "Згадка у виданні Obozrevatel",
+      "tagLabel": "obozrevatel.com",
+      "title": "Світові запаси нафти вичерпані. Криза наближується - obozrevatel.com",
+      "excerpt": "Згадка у виданні obozrevatel.com",
       "date": "17 вересня 2026",
       "dateTS": 1789653600.0,
       "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT0hoZm5pMEpxd2g4MTJiZmZxYzI0OXFlcjgxQlBJNkN2djZPZTlOcFVHa3RiaWtqVWplaVQzNlZ2S1h3UDI0X3owb2IwWV9CMzhHSHNHMjU2YUFIQnlwM3g5cjg2UWhNLTZmOVhkRDhfeHNsWlRXNVgyQ3JPdWZSSEZPOG1rQ0JXOEwxOVZxa0t3RzM2SlNIUFM0X1UzOHpiNmtOQmhKYkFTQdIBrwFBVV95cUxPSHMxVE1Qd1RsMjFqMUE4M3VhZEpJNXlhVlVjQ1pFRi0yNGdMTFl0SWRscDVZWEQ2QWdQOFVPT2pPcmlidG52dWUwbkNoeTd6WF9yQk1BMmJRVzNSOVhydTlWdEdCYUU1TGRLWmI5WWFWeURtb1NWeTM4ZjcyRHdfS0VMSHFRclZPcEpBWFA5Uk5LMUVwS2tQS0NHSGs2QThONk8zTy1yNF9zRWY3V21J?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSHMxVE1Qd1RsMjFqMUE4M3VhZEpJNXlhVlVjQ1pFRi0yNGdMTFl0SWRscDVZWEQ2QWdQOFVPT2pPcmlidG52dWUwbkNoeTd6WF9yQk1BMmJRVzNSOVhydTlWdEdCYUU1TGRLWmI5WWFWeURtb1NWeTM4ZjcyRHdfS0VMSHFRclZPcEpBWFA5Uk5LMUVwS2tQS0NHSGs2QThONk8zTy1yNF9zRWY3V21J0gGvAUFVX3lxTE9IczFUTVB3VGwyMWoxQTgzdWFkSkk1eWFWVWNDWkVGLTI0Z0xMWXRJZGxwNVlYRDZBZ1A4VU9Pak9yaWJ0bnZ1ZTBuQ2h5N3pYX3JCTUEyYlFXM1I5WHJ1OVZ0R0JhRTVMZEtaYjlZYVZ5RG1vU1Z5MzhmNzJEd19LRUxIcVFyVk9wSkFYUDlSTksxRXBLa1BLQ0dIazZBOE42TzNPLXI0X3NFZjdXbUk?oc=5",
       "external": true,
       "featured": false
     },
@@ -1403,9 +1429,9 @@ const CONTENT = {
       "title": "Світові запаси нафти вичерпані. Криза наближується - obozrevatel.com",
       "excerpt": "Згадка у виданні obozrevatel.com",
       "date": "17 вересня 2026",
-      "dateTS": 1789653600.0,
+      "dateTS": 1789628400.0,
       "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSHMxVE1Qd1RsMjFqMUE4M3VhZEpJNXlhVlVjQ1pFRi0yNGdMTFl0SWRscDVZWEQ2QWdQOFVPT2pPcmlidG52dWUwbkNoeTd6WF9yQk1BMmJRVzNSOVhydTlWdEdCYUU1TGRLWmI5WWFWeURtb1NWeTM4ZjcyRHdfS0VMSHFRclZPcEpBWFA5Uk5LMUVwS2tQS0NHSGs2QThONk8zTy1yNF9zRWY3V21J0gGvAUFVX3lxTE9IczFUTVB3VGwyMWoxQTgzdWFkSkk1eWFWVWNDWkVGLTI0Z0xMWXRJZGxwNVlYRDZBZ1A4VU9Pak9yaWJ0bnZ1ZTBuQ2h5N3pYX3JCTUEyYlFXM1I5WHJ1OVZ0R0JhRTVMZEtaYjlZYVZ5RG1vU1Z5MzhmNzJEd19LRUxIcVFyVk9wSkFYUDlSTksxRXBLa1BLQ0dIazZBOE42TzNPLXI0X3NFZjdXbUk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT0hoZm5pMEpxd2g4MTJiZmZxYzI0OXFlcjgxQlBJNkN2djZPZTlOcFVHa3RiaWtqVWplaVQzNlZ2S1h3UDI0X3owb2IwWV9CMzhHSHNHMjU2YUFIQnlwM3g5cjg2UWhNLTZmOVhkRDhfeHNsWlRXNVgyQ3JPdWZSSEZPOG1rQ0JXOEwxOVZxa0t3RzM2SlNIUFM0X1UzOHpiNmtOQmhKYkFTQdIBrwFBVV95cUxPSHMxVE1Qd1RsMjFqMUE4M3VhZEpJNXlhVlVjQ1pFRi0yNGdMTFl0SWRscDVZWEQ2QWdQOFVPT2pPcmlidG52dWUwbkNoeTd6WF9yQk1BMmJRVzNSOVhydTlWdEdCYUU1TGRLWmI5WWFWeURtb1NWeTM4ZjcyRHdfS0VMSHFRclZPcEpBWFA5Uk5LMUVwS2tQS0NHSGs2QThONk8zTy1yNF9zRWY3V21J?oc=5",
       "external": true,
       "featured": false
     },
