@@ -1,8 +1,99 @@
-// Автоматично оновлено: 2026-09-26 12:34 UTC
+// Автоматично оновлено: 2026-09-27 13:25 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ПІДСУМКИ ВЕРЕСНЯ: МОЖЛИВОСТІ ТРИМАТИ ДОЛАР ЧЕРЕЗ ЄВРО ВИЧЕРПАНІ. ЖОВТЕНЬ ...",
+      "excerpt": "",
+      "date": "27 вересня 2026",
+      "dateTS": 1790501499.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/783",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ПІДСУМКИ ВЕРЕСНЯ: МОЖЛИВОСТІ ТРИМАТИ ДОЛАР ЧЕРЕЗ ЄВРО ВИЧЕРПАНІ. ЖОВТЕНЬ ...",
+      "excerpt": "",
+      "date": "27 вересня 2026",
+      "dateTS": 1790501370.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/781",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Оптимістичний сценарій (15%): сценарій реального прогресу по чорноморському перемир'ю (нагадаю пр...",
+      "excerpt": "",
+      "date": "27 вересня 2026",
+      "dateTS": 1790501370.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/782",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ПІДСУМКИ ВЕРЕСНЯ: МОЖЛИВОСТІ ТРИМАТИ ДОЛАР ЧЕРЕЗ ЄВРО ВИЧЕРПАНІ. ЖОВТЕНЬ ...",
+      "excerpt": "",
+      "date": "27 вересня 2026",
+      "dateTS": 1790501349.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/780",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ПІДСУМКИ ВЕРЕСНЯ: МОЖЛИВОСТІ ТРИМАТИ ДОЛАР ЧЕРЕЗ ЄВРО ВИЧЕРПАНІ. ЖОВТЕНЬ ...",
+      "excerpt": "",
+      "date": "27 вересня 2026",
+      "dateTS": 1790501324.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/779",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "https://youtu.be/uA-GO8mM4AU  00:00 Вступ 01:07 Результати вересня 05:12 Тенденції курсів 07:12 М...",
+      "excerpt": "",
+      "date": "26 вересня 2026",
+      "dateTS": 1790449548.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/778",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "🧐МІСЯЧНИЙ ВАЛЮТНИЙ ОГЛЯД ЗА ВЕРЕСЕНЬ ТА ПРОГНОЗ НА ЖОВТЕНЬ ВЖЕ ГОТОВІ  Завтра буде основний текст...",
+      "excerpt": "",
+      "date": "26 вересня 2026",
+      "dateTS": 1790442615.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/777",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +105,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/776",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1211,97 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/665",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Як й писав зранку, по євро літають вверх-вниз. На скріні класична розворотна фігура - розворот на...",
-      "excerpt": "",
-      "date": "9 вересня 2026",
-      "dateTS": 1788948969.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/664",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Оперативні дані по зовнішній торгівлі за серпень від Митниці  Коротко: в серпні стрімко падаємо📉 ...",
-      "excerpt": "",
-      "date": "9 вересня 2026",
-      "dateTS": 1788947126.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/662",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Сьогодні Держстат має оголосити дані по інфляції за серпень (14:00), та протягом дня деталі дати ...",
-      "excerpt": "",
-      "date": "9 вересня 2026",
-      "dateTS": 1788941088.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/661",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжбанк долар 44.62 - 44.70 це +30коп до рівня понеділка.  Сьогодні євро зростає, що буде стримув...",
-      "excerpt": "",
-      "date": "9 вересня 2026",
-      "dateTS": 1788940533.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/660",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Реакція пшениці та кукурудзи на результати візиту Віткофа та Кушнера.  Зростання ціни, як прайсін...",
-      "excerpt": "",
-      "date": "9 вересня 2026",
-      "dateTS": 1788939586.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/659",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ЦИФРА ДНЯ Обвал виробництва у металургів у серпні 2026: 🔻чавун - на 65.6% р/р; -40.5%м/м 🔻сталь -...",
-      "excerpt": "",
-      "date": "9 вересня 2026",
-      "dateTS": 1788931348.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/658",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "https://spectator.com/article/ukraine-is-losing-the-war-kushner-witkoff/ Стаття: Ukraine is losin...",
-      "excerpt": "",
-      "date": "8 вересня 2026",
-      "dateTS": 1788882179.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/657",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1347,19 +1347,6 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "Главред",
-      "title": "Купувати чи продавати: чи злетить долар до 50 грн та що буде з курсом у жовтні - Главред",
-      "excerpt": "Згадка у виданні Главред",
-      "date": "19 вересня 2026",
-      "dateTS": 1789811940.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMDR5OF84UlE2aEItZGxvT1NIWkFwRkNuOWJqRFlkVUZqa3o1T0RUbFl3bkZiZ3lLZjIyTF9Od0VzYnRpU1lXVkFOQzBGR1lnNmxkSWxhNThTUV8tcVBuUTR4VTRGdHFhckpvX0tQbkFuLTJIRU9Bd0ItOGJBWjhqTTZGU3NWV2V5OUZ5N29YdzVRUzgtUzZnYXlud0tUcUJKOXpFTWJ2Tm55WmVjQXdBQnQzWGFoRnFtM2Z2LXUxZW53cDjSAcgBQVVfeXFMT0dxX0NobTVHSnp2SXlWdU11TXJLOHFKUnQxazI2Y0ZZamRnWVZTNWtEUkctQUpxSDdPTGU4dmltN0JIT2E1OEp4ZlJpZHI4QnQ2clQxR3U2eHhYTTRhLUI1Vk5fdHRwYV9pTlNLZkZPZWpCeUU1OU5NeV9hVlNpZnZkcWp4ckZUbWxpU0FsOWMzaXowMVlNVnJESjZBRnJYVFJRWDBfVVVKbTNrMlgzUllxeWZDUGRWQ3JDTXhsOUowOXdzOWk1TlE?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
       "tagLabel": "Голос Карпат",
       "title": "Покупать или продавать доллары в октябре: эксперты дали советы украинцам по валюте - Голос Карпат",
       "excerpt": "Згадка у виданні Голос Карпат",
@@ -1369,6 +1356,19 @@ const CONTENT = {
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jNEczMzFWQUZaaXV2MG5lT0NYNFRQR1hfYWdVR1ZjUzVoaGFlU0ZvUGdmWGdNMVFqd2ZOTVREOVFzRlpGbUo4a1ZlQWdKNXd2ZGZyTDd6d3VpeXhRMHlvdXBR?oc=5",
       "external": true,
       "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Главред",
+      "title": "Купувати чи продавати: чи злетить долар до 50 грн та що буде з курсом у жовтні - Главред",
+      "excerpt": "Згадка у виданні Главред",
+      "date": "19 вересня 2026",
+      "dateTS": 1789801200.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMDR5OF84UlE2aEItZGxvT1NIWkFwRkNuOWJqRFlkVUZqa3o1T0RUbFl3bkZiZ3lLZjIyTF9Od0VzYnRpU1lXVkFOQzBGR1lnNmxkSWxhNThTUV8tcVBuUTR4VTRGdHFhckpvX0tQbkFuLTJIRU9Bd0ItOGJBWjhqTTZGU3NWV2V5OUZ5N29YdzVRUzgtUzZnYXlud0tUcUJKOXpFTWJ2Tm55WmVjQXdBQnQzWGFoRnFtM2Z2LXUxZW53cDjSAcgBQVVfeXFMT0dxX0NobTVHSnp2SXlWdU11TXJLOHFKUnQxazI2Y0ZZamRnWVZTNWtEUkctQUpxSDdPTGU4dmltN0JIT2E1OEp4ZlJpZHI4QnQ2clQxR3U2eHhYTTRhLUI1Vk5fdHRwYV9pTlNLZkZPZWpCeUU1OU5NeV9hVlNpZnZkcWp4ckZUbWxpU0FsOWMzaXowMVlNVnJESjZBRnJYVFJRWDBfVVVKbTNrMlgzUllxeWZDUGRWQ3JDTXhsOUowOXdzOWk1TlE?oc=5",
+      "external": true,
+      "featured": false
     },
     {
       "source": "news",
@@ -1425,9 +1425,9 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "obozrevatel.com",
-      "title": "Світові запаси нафти вичерпані. Криза наближується - obozrevatel.com",
-      "excerpt": "Згадка у виданні obozrevatel.com",
+      "tagLabel": "Obozrevatel",
+      "title": "Світові запаси нафти вичерпані. Криза наближується - Obozrevatel",
+      "excerpt": "Згадка у виданні Obozrevatel",
       "date": "17 вересня 2026",
       "dateTS": 1789628400.0,
       "readTime": "2 хв",
@@ -2247,6 +2247,19 @@ const CONTENT = {
       "source": "youtube",
       "tag": "youtube",
       "tagLabel": "YouTube",
+      "title": "ПІДСУМКИ ВЕРЕСНЯ: МОЖЛИВОСТІ ТРИМАТИ ДОЛАР ЧЕРЕЗ ЄВРО ВИЧЕРПАНІ. ЖОВТЕНЬ – НОВИЙ ЩАБЕЛЬ.",
+      "excerpt": "00:00 Вступ\n01:07 Результати вересня\n05:12 Тенденції курсів\n07:12 Міжбанк\n08:03 Готівковий ринок\n08:59 Загальний дефіцит\n10:30 Коротко, головні події вересня\n13:05 Жовтень очікування головне\n17:53 Баз",
+      "date": "26 вересня 2026",
+      "dateTS": 1790449462.0,
+      "readTime": "відео",
+      "url": "https://www.youtube.com/watch?v=uA-GO8mM4AU",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "youtube",
+      "tag": "youtube",
+      "tagLabel": "YouTube",
       "title": "ДОЛАР ТРИМАЮТЬ ЧЕРЕЗ ЄВРО, А ЄВРО — ЧЕРЕЗ ФРС. ШТУРМ 45 ГРН/ДОЛ.",
       "excerpt": "------\n00:00 Вступ\n00:23 Результати тижня 14-19 вересня\n04:33 Баланс міжбанку\n06:07 Баланс операцій населення\n08:05 Загальний дефіцит та інтервенції\n09:27 На що звернув увагу на тижні\n15:24 Прогноз ри",
       "date": "19 вересня 2026",
@@ -2254,7 +2267,7 @@ const CONTENT = {
       "readTime": "відео",
       "url": "https://www.youtube.com/watch?v=7iC4YNf8xUg",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "youtube",
