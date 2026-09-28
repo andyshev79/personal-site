@@ -1,8 +1,86 @@
-// Автоматично оновлено: 2026-09-27 13:25 UTC
+// Автоматично оновлено: 2026-09-28 16:17 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Пасажирські перевезення За 8м2026 р. пасажирським транспортом скористалося 1374,1 млн осіб. (-4.8...",
+      "excerpt": "",
+      "date": "28 вересня 2026",
+      "dateTS": 1790609773.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/792",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ДУМКА ЩОДО КУРСУ ДОЛАРУ Все має свої переваги й вади. Авжеж девальвація це фактор соціального нег...",
+      "excerpt": "",
+      "date": "28 вересня 2026",
+      "dateTS": 1790606120.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/791",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "рф починає ховати дані щодо нафтогазового експорту та стану НПЗ.  Здається, це перші кроки протид...",
+      "excerpt": "",
+      "date": "28 вересня 2026",
+      "dateTS": 1790603551.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/790",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Міжбанк долар 44.93-44.97   Ото потрібно було його в п'ятницю заганяти в жито?",
+      "excerpt": "",
+      "date": "28 вересня 2026",
+      "dateTS": 1790596276.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/789",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Уряд гарантує,  а Рада деградує... (каламбур) Уряд зі свого боку гарантує, що до 15 жовтня всі ур...",
+      "excerpt": "",
+      "date": "28 вересня 2026",
+      "dateTS": 1790589947.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/788",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Головне джерело напруги всіх фінансових ринків відсутність угоди щодо Ормузу. Больова точка саме ...",
+      "excerpt": "",
+      "date": "28 вересня 2026",
+      "dateTS": 1790584637.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/787",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +92,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/783",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1224,99 +1302,60 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/672",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Нафта дорожча за $100. Наскільки вистачить запасу міцності світової економіки?  Brent вже 2 дні в...",
-      "excerpt": "",
-      "date": "10 вересня 2026",
-      "dateTS": 1789046472.0,
-      "readTime": "3 хв",
-      "url": "https://t.me/shevchyshyn_trends/671",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Європейський центральний банк підвищив свої ключові відсоткові ставки на 25 базисних пунктів під ...",
-      "excerpt": "",
-      "date": "10 вересня 2026",
-      "dateTS": 1789045473.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/669",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Держстат переглянув ВВП на 2й квартал 2026 з погіршенням з +0,6% до +0,4%.  Відповідно, реальний ...",
-      "excerpt": "",
-      "date": "9 вересня 2026",
-      "dateTS": 1788968664.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/668",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Поточний прогноз НБУ, відповідно до інфляційного звіту - 10%. Якщо НБУ переглядає прогноз (поки щ...",
-      "excerpt": "",
-      "date": "9 вересня 2026",
-      "dateTS": 1788965387.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/667",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ІНФЛЯЦІЯ, ЩО ДАЛІ  Я залишаюсь песимістом, щодо динаміки цін. Хоча, зрозуміло, не все однозначно ...",
-      "excerpt": "",
-      "date": "9 вересня 2026",
-      "dateTS": 1788961539.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/666",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Інфляція в серпні 2026 +0,1%м/м, 8,1%р/р  Плодовоовочеве дефляційне лоббі (овочі -18,2%, фрукти -...",
-      "excerpt": "",
-      "date": "9 вересня 2026",
-      "dateTS": 1788954512.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/665",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "Obozrevatel",
-      "title": "17 тис. працівників і мільярди податків: війна змушує \"АрселорМіттал Кривий Ріг\" зупинитися - Obozrevatel",
-      "excerpt": "Згадка у виданні Obozrevatel",
+      "tagLabel": "Nmiu.com.ua",
+      "title": "Долар може подорожчати: Шевчишин передбачив курс на жовтень - Nmiu.com.ua",
+      "excerpt": "Згадка у виданні Nmiu.com.ua",
+      "date": "27 вересня 2026",
+      "dateTS": 1790534525.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUWh5bUFiQ2dNVEdBQjY4ZndlNzNCWUxIaVB1d1htSFhOaWZWR0JLcUh2d2paVUVGRjRwOHVIcWp4MmF0cXFCeHNuOVdhM3RmTmpHdlpqOVN6ZjFHaTBRa05UX1l5S3RqZWEwSWxwUTFDX3FaaFY5OVJvMV9XakFwQVlIeXJKeVFQZE54d2Y2VQ?oc=5",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "focus.ua",
+      "title": "Долар готує новий ривок: який курс побачимо у жовтні - focus.ua",
+      "excerpt": "Згадка у виданні focus.ua",
+      "date": "27 вересня 2026",
+      "dateTS": 1790529162.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYXZqR1hCUENwY05kSndGcm1PZlh2czc4QmthTm8xM1VackJnMm5JdU9fYS1JT1hsWXRFaGlkV0tBMGN4VHUzMUhLN0xKX2VOd25DbTlOZ085YXZsZE9CSHk0U0tIZjFfRHhRbzAtNFQ0MGJlMTJxaTV5a1dET2xlcGZzemYydm9Lbmd3Y05QQzlEUdIBlwFBVV95cUxQbDlTdENJeEV1YVh6SlJfbExHeTlFaWFVTGZzZ0hTZkxTQlpSbzByMTZmRjlmVWRMNGc5bE1fQ3ZBNjJxYnpLUHFnalJObExjcm5TS1ZqMmpVT0F6VVYyN2RRZ0dWa3I5ZkMtOElXcXp2YWlzUlZoSFY3anZDbm02NEpqWGhyTUtpQzBnRmx6RmpKLS1xV2pV?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Мінфін",
+      "title": "Долар може зрости до 46 грн: три сценарії для валютного ринку - Мінфін",
+      "excerpt": "Згадка у виданні Мінфін",
+      "date": "27 вересня 2026",
+      "dateTS": 1790502540.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlbTNpMVNoZXUzMnkzcF94NU9jOVRjd3FtZkhOemhqRWFsWlZlQ1MwSE5CaFhFZ0pnTFVIYlR2LVhnUlN3OHhpeXhta2Z4bm44TmNkenpGLUNIdGR2XzA00gFfQVVfeXFMUGVtM2kxU2hldTMyeTNwX3g1T2M5VGN3cW1mSE56aGpFYWxaVmVDUzBITkJoWEVnSmdMVUhiVHYtWGdSU3c4eGl5eG1rZnhubjhOY2R6ekYtQ0h0ZHZfMDQ?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "OBOZ.UA",
+      "title": "17 тис. працівників і мільярди податків: війна змушує \"АрселорМіттал Кривий Ріг\" зупинитися - OBOZ.UA",
+      "excerpt": "Згадка у виданні OBOZ.UA",
       "date": "25 вересня 2026",
       "dateTS": 1790335560.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObEhuMWtpcllXMmlnUnJNZG1nMVVWVGM4N19BME8wN0E0TmVaSEx6bEI1anpYaEtGV0Fpck5XTExIZERkcDhKenM2RjI2NllLY2o1Mm0tbG4xRVRTUDU0Wjd5ekc0VWRjRlhmNUI3MFlhallmb3RJSFFJUXNTYkF4dnRMWjdkUnpsenNoRE9CSGc0bU84dmZteGFnRW1TVUlRM3ZZanZNTGZKejU4Y09IUjFUY3IySTY1NFBGM2M4R2dYbjhJ0gHKAUFVX3lxTFB5a0dVdjNyZmdad0lWQU5CTHdQTmdDT2x0ZVdkLVg2clhZMEJiYXd2Wk5SbFlNbXZLVXNVbzlyMFlXcWE3bUtzcmhUVy1yQVZmT2YyUlNGQzBSLWJsMGNCWVkxVlpoUXlIZmZGS2JUXzhjeUl2UWIwUmdtMnZUMlhZTnFfaU5hYkVZbktxeEcwNHhFdjQ3MTdZNTJKTElBLU1qVjZjTjZGT2NvYjNWb2pHT1dYMkcydml1dUpXSE9WYjdlcy1GS3NKZGc?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -1425,9 +1464,9 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "Obozrevatel",
-      "title": "Світові запаси нафти вичерпані. Криза наближується - Obozrevatel",
-      "excerpt": "Згадка у виданні Obozrevatel",
+      "tagLabel": "OBOZ.UA",
+      "title": "Світові запаси нафти вичерпані. Криза наближується - OBOZ.UA",
+      "excerpt": "Згадка у виданні OBOZ.UA",
       "date": "17 вересня 2026",
       "dateTS": 1789628400.0,
       "readTime": "2 хв",
