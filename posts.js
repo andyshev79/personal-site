@@ -1,8 +1,47 @@
-// Автоматично оновлено: 2026-09-28 16:17 UTC
+// Автоматично оновлено: 2026-09-29 14:28 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Середні брутто-зарплати в серпні сягнули 31'892 грн Чисті на руки зарплати становлять 24'557 грн ...",
+      "excerpt": "",
+      "date": "29 вересня 2026",
+      "dateTS": 1790692042.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/796",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "🌾🚢 Агроекспорт у вересні склав 46% від потреби, а максимальна спроможність альтернативних маршрут...",
+      "excerpt": "",
+      "date": "29 вересня 2026",
+      "dateTS": 1790676958.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/795",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "🚢 Країни, які виступають посередниками в переговорах, повідомили Україні, що Росія наразі відхили...",
+      "excerpt": "",
+      "date": "29 вересня 2026",
+      "dateTS": 1790670091.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/794",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +53,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/792",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1263,45 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/676",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Щодо знищення складів. Цікава інфографіка.  Більше писав в серпні. А тут файно зібрали статистику.",
-      "excerpt": "",
-      "date": "11 вересня 2026",
-      "dateTS": 1789116165.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/674",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Менеджерам та робітникам на заметку  Імітація бурхливої діяльності вражає керівника сильніше, ніж...",
-      "excerpt": "",
-      "date": "10 вересня 2026",
-      "dateTS": 1789048742.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/673",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Тим часом в замку шефа @Капітан Врунгель  Міжбанк долар: 44.44 - 44.49  Да дідько, ви з інтервенц...",
-      "excerpt": "",
-      "date": "10 вересня 2026",
-      "dateTS": 1789046791.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/672",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1399,9 +1399,9 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "Главред",
-      "title": "Купувати чи продавати: чи злетить долар до 50 грн та що буде з курсом у жовтні - Главред",
-      "excerpt": "Згадка у виданні Главред",
+      "tagLabel": "glavred.net",
+      "title": "Купувати чи продавати: чи злетить долар до 50 грн та що буде з курсом у жовтні - glavred.net",
+      "excerpt": "Згадка у виданні glavred.net",
       "date": "19 вересня 2026",
       "dateTS": 1789801200.0,
       "readTime": "2 хв",
@@ -1503,9 +1503,9 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "Главред",
-      "title": "Затишшя перед бурею: як довго НБУ утримає курс долара нижче 45 грн - Главред",
-      "excerpt": "Згадка у виданні Главред",
+      "tagLabel": "glavred.net",
+      "title": "Затишшя перед бурею: як довго НБУ утримає курс долара нижче 45 грн - glavred.net",
+      "excerpt": "Згадка у виданні glavred.net",
       "date": "16 вересня 2026",
       "dateTS": 1789542000.0,
       "readTime": "2 хв",
