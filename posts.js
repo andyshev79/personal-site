@@ -1,8 +1,60 @@
-// Автоматично оновлено: 2026-09-29 14:28 UTC
+// Автоматично оновлено: 2026-09-30 14:27 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "КРЕДИТУВАННЯ В УКРАЇНІ ЗА 8М2026  Кредитування традиційно сконцентроване в агросекторі (посівна, ...",
+      "excerpt": "",
+      "date": "30 вересня 2026",
+      "dateTS": 1790777891.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/800",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "За січень–серпень 2026 через РРО та ПРРО провели операцій на 4,32 трлн грн. Це на 575,7 млрд грн,...",
+      "excerpt": "",
+      "date": "30 вересня 2026",
+      "dateTS": 1790774106.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/799",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Погіршення настроїв в промисловості відносно зміни кількості працівників - найбільше погіршення п...",
+      "excerpt": "",
+      "date": "29 вересня 2026",
+      "dateTS": 1790698227.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/798",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ПО ЗАРПЛАТАМ ЗА СЕРПЕНЬ (ЩО ЦІКАВОГО ТА ЩО ОЧІКУВАТИ):  👉З цікавого й незвичного: 1. Падіння в се...",
+      "excerpt": "",
+      "date": "29 вересня 2026",
+      "dateTS": 1790692149.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/797",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +66,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/796",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1250,61 +1302,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/683",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "МІЖБАНК: За тиждень, середньодобова купівля валюти знизилась на 9,3% до дев’яти тижневого мінімум...",
-      "excerpt": "",
-      "date": "12 вересня 2026",
-      "dateTS": 1789218648.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/681",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: 7 – 12 ВЕРЕСНЯ 2026. МАРАФОН МІЛЬЯРДНИХ ІНТЕРВЕНЦІЙ ПРОДО...",
-      "excerpt": "",
-      "date": "12 вересня 2026",
-      "dateTS": 1789218511.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/680",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "В Україні розглядають можливість тимчасово підвищити податок на додану вартість на 1%.  Отримані ...",
-      "excerpt": "",
-      "date": "11 вересня 2026",
-      "dateTS": 1789136639.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/678",
-      "external": true,
-      "featured": true
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Річна інфляція в США 3,4%р/р - в рамках прогнозу, але нижче можливих побоювань ринку. За місяць +...",
-      "excerpt": "",
-      "date": "11 вересня 2026",
-      "dateTS": 1789132177.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/676",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "my.ua",
+      "title": "Долар здорожчає, а зарплати впадуть: економісти шокували прогнозом на жовтень 2026 року - my.ua",
+      "excerpt": "Згадка у виданні my.ua",
+      "date": "30 вересня 2026",
+      "dateTS": 1790741347.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNS2RFTk41a0U0dkE2R0Z4a3BrRVFjVzhDN0NFUEY4ZGUwTDlhNnNrV1hrU0VJSllwY2hjUm5EN3B4OFhfT01ZanFvY0YyU2pYS1Fqb216WTItVnRrMWVVQkhqSF9td0xqVktMdUFqTmozWURzdEpiR0Z0NGotMnpXa0Q2Ym12aFNFTTVKM2VYU01Sa2o2X3V1eFFkNXA5dEp5TVRpcEJwVzhYRk5vSEhCOWVnMTdfZTdYbUZlSjY3SGwybnI2MVVhSjh1RHY3MS03bVRPQ180Q0hkcHJCZ0xOOUpNbHhqb2pNRDlrR2lIRVJaaTUxU1VPTkphc2ZRQUxf0gGCAkFVX3lxTFB0dW1iZzZ5QVQ4dmp2QTdmVHB5UlM5WVZMbW9sbXZzMENWd3YxeWgyMnBBSkQwN0lvdkRjV1J4VzFBa3M4MkstX1d0LS1vc3p1NWtBcXZiOW9QakZtaU5VVmpzUk1jYi1IMnI0VU1QalJ3U3ZBbjRCYnJXUlZQTkVOZUVqSUwtWEMtTFVZMEplWFhaX2xUMVpOb1BDOXpMNDQ2VHE0aktrZ2lDM21xYnVRdk85SWgyRXJmUHU0bGxXVlRBaGdudldPNDdqX3FtNFpLSGdGZE9BNkp3d0xlakFRZmdSOEZ4dzc3eWFoMlJlY2FqLXk1TjRPNjlsYmxIYVMtZw?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -1316,7 +1329,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUWh5bUFiQ2dNVEdBQjY4ZndlNzNCWUxIaVB1d1htSFhOaWZWR0JLcUh2d2paVUVGRjRwOHVIcWp4MmF0cXFCeHNuOVdhM3RmTmpHdlpqOVN6ZjFHaTBRa05UX1l5S3RqZWEwSWxwUTFDX3FaaFY5OVJvMV9XakFwQVlIeXJKeVFQZE54d2Y2VQ?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -1347,9 +1360,9 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "OBOZ.UA",
-      "title": "17 тис. працівників і мільярди податків: війна змушує \"АрселорМіттал Кривий Ріг\" зупинитися - OBOZ.UA",
-      "excerpt": "Згадка у виданні OBOZ.UA",
+      "tagLabel": "war.obozrevatel.com",
+      "title": "17 тис. працівників і мільярди податків: війна змушує \"АрселорМіттал Кривий Ріг\" зупинитися - war.obozrevatel.com",
+      "excerpt": "Згадка у виданні war.obozrevatel.com",
       "date": "25 вересня 2026",
       "dateTS": 1790335560.0,
       "readTime": "2 хв",
@@ -1465,7 +1478,7 @@ const CONTENT = {
       "source": "news",
       "tag": "news",
       "tagLabel": "OBOZ.UA",
-      "title": "Світові запаси нафти вичерпані. Криза наближується - OBOZ.UA",
+      "title": "Андрій Шевчишин: Світові запаси нафти вичерпані. Криза наближується - OBOZ.UA",
       "excerpt": "Згадка у виданні OBOZ.UA",
       "date": "17 вересня 2026",
       "dateTS": 1789628400.0,
@@ -1503,9 +1516,9 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "glavred.net",
-      "title": "Затишшя перед бурею: як довго НБУ утримає курс долара нижче 45 грн - glavred.net",
-      "excerpt": "Згадка у виданні glavred.net",
+      "tagLabel": "Главред",
+      "title": "Затишшя перед бурею: як довго НБУ утримає курс долара нижче 45 грн - Главред",
+      "excerpt": "Згадка у виданні Главред",
       "date": "16 вересня 2026",
       "dateTS": 1789542000.0,
       "readTime": "2 хв",
