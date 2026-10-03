@@ -1,4 +1,4 @@
-// Автоматично оновлено: 2026-10-02 14:20 UTC
+// Автоматично оновлено: 2026-10-03 12:53 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
@@ -1308,6 +1308,32 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
+      "tagLabel": "my.ua",
+      "title": "Українцям хочуть урізати зарплати: хто отримуватиме менше грошей - my.ua",
+      "excerpt": "Згадка у виданні my.ua",
+      "date": "3 жовтня 2026",
+      "dateTS": 1790994086.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWxfUm5pV3lsOVFselh2VHZzWnF2OHJUblRHcmtMTDVRdGNCMlZRTjNCeWdyZEdKUlFRTmdUN3o0M1ppZEhwSl80bHRyMno3VUZOcElQQy0zY3ltRndsRnVhY0c2c2l5VkREcnYzVTNoVDlkRkN3UlI1eGNhd1pMbVlPQ0NxM2d2emdLUWNvMUl5alh6U2dDWFZiRU9sYnJLY0RTOXhyUVR3bGpLV0p0S9IBsgFBVV95cUxOYWo0UE1vZW0xWDBtMzllaHlTakZDZVpILTFCWXhMeGRrbDRSZUtEeUFUbmhIanhfRS10bHlwNlN0RlRCTVhMQm1KSjJWT0EzTDZWSDVkem5lQTN4WEdxWEFyMmJzU2hvNWdkbXNsU0J5U2wtcDg2Z2lDLXFHakoxb2hEby1aR2xfd2dycnBMbGs5aXpYMWN5SWZ2UzR5ZVlYTlQ5OEhjTExTazBfczB5dXFR?oc=5",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Слово і Діло",
+      "title": "Варто готуватися до найгіршого: чому Україна ризикує не закрити бюджетний дефіцит - Слово і Діло",
+      "excerpt": "Згадка у виданні Слово і Діло",
+      "date": "2 жовтня 2026",
+      "dateTS": 1790939100.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYXJpcHJzMldzb2p4bXBaMzh2bkVrbHlDN2l4dlNuOUxOekViUXVtNXZZeTQxY3Qtdlp4bEdoRVpmbEYtbWlWeFpRdmp3RVZYdWhnZGNzeFJpUGZOUm5lRHZRQ1l4a1Q3M293S3A4NkdMZnV2a1NmM1VRRlpHQW14NEhrQlRQWUNaNEdmakxXZUg0aTF4Q2dKamFlb0paRFVtcFBHT1U4bTRyZjBkc1BqNzY2ZWtrc2oteHVGUG1jTmZ5UVhHSVpTVDNZdlNnQjhMX1RR0gHYAUFVX3lxTE9DT0JJODZ4d0VOdjNxWDdOTFF4aXlpZ2NIX0phNE1VSWF1a0xidFhCX2RISlh0TWI2VmxNN0FnTl95R0hxZWxzUDAtYXZ2OTZSMzVuSFlKTlFSZHRKTUh2ZzNfS2RoSGF5VS14cW11anZiRmRSZ3hON3k5WTZTWkpuSlppbFNVVjJxN3ZleDFXZG5kZGtiNWxzdFVsbUlzb0ttU2hOVmxXZHJVTm13aVdmRkEweXF3NnpxYm5EaTBEU1h0T0haVzQxamYwZ1JjVHpyNHc3Wmd6YQ?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
       "tagLabel": "ВолиньPost",
       "title": "В Україні зменшаться зарплати: економісти назвали несподівані причини - ВолиньPost",
       "excerpt": "Згадка у виданні ВолиньPost",
@@ -1316,7 +1342,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT2s1S1J1dk0ycmdTb0c1UENMMHJBUG5HZzc1amNwVmJhcXhWNDFtbkZleEM5N2VlbmttTjhINEVwbEF2NzJWN2trRUJ4dG10MDJIc1JvX0x4ektPX1pGMHRqZDB3NkNtVjVOZTRqeDJ2dWxocWFLVG12VlhOaDhsNnVZU0Npbk1XOFl3UmFlQUhMbHY1QmV4Z3Z2Q2cxcHNkTzFfb2dGdWF4YTB6?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -1334,9 +1360,9 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "Мінфін",
-      "title": "курс валют - Мінфін",
-      "excerpt": "Згадка у виданні Мінфін",
+      "tagLabel": "minfin.com.ua",
+      "title": "курс валют - minfin.com.ua",
+      "excerpt": "Згадка у виданні minfin.com.ua",
       "date": "28 вересня 2026",
       "dateTS": 1790579100.0,
       "readTime": "2 хв",
