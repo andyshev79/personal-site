@@ -1,8 +1,73 @@
-// Автоматично оновлено: 2026-10-03 12:53 UTC
+// Автоматично оновлено: 2026-10-04 13:34 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "https://youtu.be/YvpqaGEgRKo?si=HreOP_ddB8fpi2Y2",
+      "excerpt": "",
+      "date": "4 жовтня 2026",
+      "dateTS": 1791106456.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/830",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: НБУ БОЇТЬСЯ ОФІЦІЙНОГО ДОЛАРА ПО 45 Й ЖЕРТВУЄ ЄВРО. (граф...",
+      "excerpt": "",
+      "date": "3 жовтня 2026",
+      "dateTS": 1791049103.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/826",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: НБУ БОЇТЬСЯ ОФІЦІЙНОГО ДОЛАРА ПО 45 Й ЖЕРТВУЄ ЄВРО. (част...",
+      "excerpt": "",
+      "date": "3 жовтня 2026",
+      "dateTS": 1791048271.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/825",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: НБУ БОЇТЬСЯ ОФІЦІЙНОГО ДОЛАРА ПО 45 Й ЖЕРТВУЄ ЄВРО. (част...",
+      "excerpt": "",
+      "date": "3 жовтня 2026",
+      "dateTS": 1791048200.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/824",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: НБУ БОЇТЬСЯ ОФІЦІЙНОГО ДОЛАРА ПО 45 Й ЖЕРТВУЄ ЄВРО. (част...",
+      "excerpt": "",
+      "date": "3 жовтня 2026",
+      "dateTS": 1791048184.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/823",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +79,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/822",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1237,71 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/708",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Частка строкових депозитів населення у вкладах в банках в серпні 2026 знизилась до 32,8% (менше б...",
-      "excerpt": "",
-      "date": "15 вересня 2026",
-      "dateTS": 1789489335.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/707",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Приріст строкових депозитів населення сповільнився у серпні до мінімуму за 12 місяців - +1,6 млрд...",
-      "excerpt": "",
-      "date": "15 вересня 2026",
-      "dateTS": 1789489022.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/706",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Приріст кредитів бізнесу та фізичним особам у серпні був на історично максимальному рівні.   🟢Чис...",
-      "excerpt": "",
-      "date": "15 вересня 2026",
-      "dateTS": 1789488071.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/704",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "З сьогоднішнього дня в Україні фінансуються лише соціальні видатки, зарплати бюджетникам та утрим...",
-      "excerpt": "",
-      "date": "15 вересня 2026",
-      "dateTS": 1789482557.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/703",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Потрохи починаються з'являтись інформація по макропрогнозу бюджету 2027 ——— ВВП +1,3%  Мінімалка ...",
-      "excerpt": "",
-      "date": "15 вересня 2026",
-      "dateTS": 1789481321.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/702",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1360,9 +1360,9 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "minfin.com.ua",
-      "title": "курс валют - minfin.com.ua",
-      "excerpt": "Згадка у виданні minfin.com.ua",
+      "tagLabel": "Мінфін",
+      "title": "курс валют - Мінфін",
+      "excerpt": "Згадка у виданні Мінфін",
       "date": "28 вересня 2026",
       "dateTS": 1790579100.0,
       "readTime": "2 хв",
@@ -2351,6 +2351,19 @@ const CONTENT = {
       "source": "youtube",
       "tag": "youtube",
       "tagLabel": "YouTube",
+      "title": "НБУ БОЇТЬСЯ ОФІЦІЙНОГО ДОЛАРА ПО 45 Й ЖЕРТВУЄ ЄВРО",
+      "excerpt": "00:00 Вступ\n00:22 Огляд за тиждень 28вер-3жов 2026\n03:48 Динаміка міжбанку\n05:43 Динаміка готівкового ринку\n06:58 Загальний дефіцит та інтервенції\n10:10 Очікування на тиждень 5-10 жов 2026\n12:15 За чи",
+      "date": "3 жовтня 2026",
+      "dateTS": 1791056960.0,
+      "readTime": "відео",
+      "url": "https://www.youtube.com/watch?v=YvpqaGEgRKo",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "youtube",
+      "tag": "youtube",
+      "tagLabel": "YouTube",
       "title": "ПІДСУМКИ ВЕРЕСНЯ: МОЖЛИВОСТІ ТРИМАТИ ДОЛАР ЧЕРЕЗ ЄВРО ВИЧЕРПАНІ. ЖОВТЕНЬ – НОВИЙ ЩАБЕЛЬ.",
       "excerpt": "00:00 Вступ\n01:07 Результати вересня\n05:12 Тенденції курсів\n07:12 Міжбанк\n08:03 Готівковий ринок\n08:59 Загальний дефіцит\n10:30 Коротко, головні події вересня\n13:05 Жовтень очікування головне\n17:53 Баз",
       "date": "26 вересня 2026",
@@ -2358,7 +2371,7 @@ const CONTENT = {
       "readTime": "відео",
       "url": "https://www.youtube.com/watch?v=uA-GO8mM4AU",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "youtube",
