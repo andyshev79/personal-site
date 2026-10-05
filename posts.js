@@ -1,8 +1,60 @@
-// Автоматично оновлено: 2026-10-04 13:34 UTC
+// Автоматично оновлено: 2026-10-05 16:38 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Українське промислове виробництво за 8м2026 впало на 1%.  Падіння спостерігається 3 місяця поспіл...",
+      "excerpt": "",
+      "date": "5 жовтня 2026",
+      "dateTS": 1791208336.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/834",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Українці за кордоном витратили в серпні 2026 - 764 млн дол, що є максимумом цього року.  Безумовн...",
+      "excerpt": "",
+      "date": "5 жовтня 2026",
+      "dateTS": 1791204905.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/833",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "МІЖБАНК ДОЛЛАР ВІДКРИТТЯ 45,08-45,13 Це максимум, який фіксувався лише раз 10 червня цього року. ...",
+      "excerpt": "",
+      "date": "5 жовтня 2026",
+      "dateTS": 1791185366.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/832",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "EURUSD - провал нижче 1,12 Як то кажуть дратуті Причина - боргові та бюджетні проблеми Франції  -...",
+      "excerpt": "",
+      "date": "5 жовтня 2026",
+      "dateTS": 1791185163.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/831",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +66,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/830",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1250,58 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/714",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Miжбанк долар 44.68 - 44.72 грн  Це реакція на рішення ФРС по ставці напередодні, та обвал євро н...",
-      "excerpt": "",
-      "date": "17 вересня 2026",
-      "dateTS": 1789636827.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/713",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Бюджет України 2027: коротко  1. Це бюджет війни. Це видно з видатків, і виходить з макропрогнозу...",
-      "excerpt": "",
-      "date": "16 вересня 2026",
-      "dateTS": 1789570288.0,
-      "readTime": "3 хв",
-      "url": "https://t.me/shevchyshyn_trends/712",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "По ціні Brent формується дуже небезпечна фігура вимпел. Якщо цін оновить максимуми - то відкриєть...",
-      "excerpt": "",
-      "date": "16 вересня 2026",
-      "dateTS": 1789545985.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/709",
-      "external": true,
-      "featured": true
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "🚂 Понад 500 локомотивів пошкоджено чи знищено Росією від початку повномасштабного вторгнення (For...",
-      "excerpt": "",
-      "date": "15 вересня 2026",
-      "dateTS": 1789490526.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/708",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1347,6 +1347,19 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
+      "tagLabel": "ТСН",
+      "title": "В Україні зменшаться зарплати: економісти назвали несподівані причини - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
+      "date": "1 жовтня 2026",
+      "dateTS": 1790870730.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNnlrTGZYQzU4aVgyV1JZdjEwdThoY2hKX2QxNXQ4dk9ZY2M2Wld2dmVtWlo4S29UNFJfTXZES2pxa2RZWHkxbmc0ZmFJbWNuTEEydVpIODdZcTd3bTNzT2NCeFhMMmw4bG5sRnFhYUdsNjR4MW9TSTI5Wm9ZYzVXdFB6UG10ZE1laDh1QnVKV0N0dERjc3FkUmRYTzBRcW5mSkJxdHBONXlLel9ocGfSAbMBQVVfeXFMUHpUT2hMLVRHaHhtR1lqQldkYVNjVEtUb0gwd0hyZ0JwNnZVRlp3NmxQMi14SEotQlF0TU1mYWNSQXdWa1hvRzMtS1lNQ29oRi1RZmpHQVdvWkd6eUNsZUtCS3FFWnVSUG9MdEZiei1nR2tCNks3VUdFdVdvZ0hsaUhMTHhWNFVUR1pRTS1SUFJ4Z2hEZVlJc29hRmRaUmNJSlg5MDhRQllPUWxyN1hFTjdtMWc?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
       "tagLabel": "my.ua",
       "title": "Долар здорожчає, а зарплати впадуть: економісти шокували прогнозом на жовтень 2026 року - my.ua",
       "excerpt": "Згадка у виданні my.ua",
@@ -1360,9 +1373,22 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "Мінфін",
-      "title": "курс валют - Мінфін",
-      "excerpt": "Згадка у виданні Мінфін",
+      "tagLabel": "ТСН",
+      "title": "Долар здорожчає, а зарплати впадуть: економісти шокували прогнозом на жовтень 2026 року - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
+      "date": "30 вересня 2026",
+      "dateTS": 1790740800.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObThiZHdIRjNPZHlXRVlwb0dhWDRpS18xUzA4anc0NldMRUpJWmpPMGhNRENOeWhWU3ZWX1ZTdk00QnNiTGNKZzRlS3pvZUtaY05wVlZiWTcwek93ck9kcDVjbTMxRUctSFBBcnN1azZpYUZOejRSRzN4TkswUzRPYXRPZy1PNUdlQkQwTU1HZ3lFc1pTaElwelBmSTV0SF9NdE85MFZYLXRhcF84UzJ2TXFCVUJTaFduZ3hDTE84UVRrd9IBxwFBVV95cUxNOXhqX1F5RVI3MENKdm9tU1ZXRk9Wd2dWUEcwZDViQXBpWXphMF9yQ3BFMHhPYVl6YTJEb1djZVluTHhPSTA0NGl4SC1YWHB4NThZZVlvOVYzd1p4R3hRMlR3U090d0E2aHdWZ1l6X2g1LWlCQlBEalY5b1VYSlh5Z093eTI5dGFwTTd1WDMtWnp5UDNtZGxDbGphdU51V0tOa0FncmM4elpCYzl4bGFDQVV2THdGTjFRT1J2OTdnbkZ1U0Zjcko0?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "minfin.com.ua",
+      "title": "курс валют - minfin.com.ua",
+      "excerpt": "Згадка у виданні minfin.com.ua",
       "date": "28 вересня 2026",
       "dateTS": 1790579100.0,
       "readTime": "2 хв",
@@ -1413,10 +1439,10 @@ const CONTENT = {
       "source": "news",
       "tag": "news",
       "tagLabel": "OBOZ.UA",
-      "title": "Андрій Шевчишин: 17 тис. працівників і мільярди податків: війна змушує АрселорМіттал Кривий Ріг зупинитися - OBOZ.UA",
+      "title": "17 тис. працівників і мільярди податків: війна змушує \"АрселорМіттал Кривий Ріг\" зупинитися - OBOZ.UA",
       "excerpt": "Згадка у виданні OBOZ.UA",
       "date": "25 вересня 2026",
-      "dateTS": 1790335560.0,
+      "dateTS": 1790319600.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObEhuMWtpcllXMmlnUnJNZG1nMVVWVGM4N19BME8wN0E0TmVaSEx6bEI1anpYaEtGV0Fpck5XTExIZERkcDhKenM2RjI2NllLY2o1Mm0tbG4xRVRTUDU0Wjd5ekc0VWRjRlhmNUI3MFlhallmb3RJSFFJUXNTYkF4dnRMWjdkUnpsenNoRE9CSGc0bU84dmZteGFnRW1TVUlRM3ZZanZNTGZKejU4Y09IUjFUY3IySTY1NFBGM2M4R2dYbjhJ0gHKAUFVX3lxTFB5a0dVdjNyZmdad0lWQU5CTHdQTmdDT2x0ZVdkLVg2clhZMEJiYXd2Wk5SbFlNbXZLVXNVbzlyMFlXcWE3bUtzcmhUVy1yQVZmT2YyUlNGQzBSLWJsMGNCWVkxVlpoUXlIZmZGS2JUXzhjeUl2UWIwUmdtMnZUMlhZTnFfaU5hYkVZbktxeEcwNHhFdjQ3MTdZNTJKTElBLU1qVjZjTjZGT2NvYjNWb2pHT1dYMkcydml1dUpXSE9WYjdlcy1GS3NKZGc?oc=5",
       "external": true,
@@ -1464,9 +1490,9 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "glavred.net",
-      "title": "Купувати чи продавати: чи злетить долар до 50 грн та що буде з курсом у жовтні - glavred.net",
-      "excerpt": "Згадка у виданні glavred.net",
+      "tagLabel": "Главред",
+      "title": "Купувати чи продавати: чи злетить долар до 50 грн та що буде з курсом у жовтні - Главред",
+      "excerpt": "Згадка у виданні Главред",
       "date": "19 вересня 2026",
       "dateTS": 1789801200.0,
       "readTime": "2 хв",
