@@ -1,8 +1,99 @@
-// Автоматично оновлено: 2026-10-05 16:38 UTC
+// Автоматично оновлено: 2026-10-06 14:36 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "У межах оптимізації та підвищення ефективності державного апарату в центральних органах виконавчо...",
+      "excerpt": "",
+      "date": "6 жовтня 2026",
+      "dateTS": 1791295102.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/845",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "44.85 - 44.89 Це гривня - бейбі🤪  P.S. Чи це відміняє девал й перехід долару вище 45? Ні. Просто ...",
+      "excerpt": "",
+      "date": "6 жовтня 2026",
+      "dateTS": 1791289979.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/844",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Міжбанк долар 44.87- 44.96 Я писав в тижневому огляді - почекайте хоча б два дні, щоб зрозуміти ч...",
+      "excerpt": "",
+      "date": "6 жовтня 2026",
+      "dateTS": 1791286874.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/843",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Ціни пшениці та кукурудзи повернулись до зростання через відсутність деескалації в Чорному морі. ...",
+      "excerpt": "",
+      "date": "6 жовтня 2026",
+      "dateTS": 1791281565.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/842",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "КРЕДИТУВАННЯ БАНКАМИ ЗА 8М2026: бізнес +20%, населення +25%, а роздріб тримають двоє  📈Лідери зро...",
+      "excerpt": "",
+      "date": "5 жовтня 2026",
+      "dateTS": 1791222702.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/837",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Строкові депозити населення за 8міс2026: 504 млрд грн, +8%, і майже весь приріст дала гривня  📈Лі...",
+      "excerpt": "",
+      "date": "5 жовтня 2026",
+      "dateTS": 1791222427.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/836",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ПРИБУТКИ УКРАЇНСЬКИХ БАНКІВ ЗА 8м2026.  📈 Серед топових банків за 8 місяців 2026 майже всі показа...",
+      "excerpt": "",
+      "date": "5 жовтня 2026",
+      "dateTS": 1791220339.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/835",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +105,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/834",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1211,97 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/722",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Мінфін відклав видатки на підготовку енергетики до зими на грудень через брак коштів. Уряду довел...",
-      "excerpt": "",
-      "date": "17 вересня 2026",
-      "dateTS": 1789650884.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/721",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Цікаве з офіційного релізу по обліковій ставці НБУ.  погіршення безпекової ситуації може зумовити...",
-      "excerpt": "",
-      "date": "17 вересня 2026",
-      "dateTS": 1789645271.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/720",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "​​⚡️ Облікову ставку підвищено з 15,5% до 16%.  Правління НБУ ухвалило таке рішення з огляду на с...",
-      "excerpt": "",
-      "date": "17 вересня 2026",
-      "dateTS": 1789643071.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/719",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Крипта бай. Особливо коли потрібно знайти альтернативу долару й іншим валютам в період інфляції т...",
-      "excerpt": "",
-      "date": "17 вересня 2026",
-      "dateTS": 1789640400.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/718",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Світ тримався на сформованих запасах нафти. Запаси вичерпані.   Пишуть про початок перебоїв з пал...",
-      "excerpt": "",
-      "date": "17 вересня 2026",
-      "dateTS": 1789639613.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/716",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Сьогодні в 14:00 рішення НБУ по обліковій ставці. Думаю, що ні у кого немає сумнів що ставку підв...",
-      "excerpt": "",
-      "date": "17 вересня 2026",
-      "dateTS": 1789637810.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/715",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "У вересні 2026р, як і очікувалося, ФРС одноголосно підвищила цільовий діапазон ставки федеральних...",
-      "excerpt": "",
-      "date": "17 вересня 2026",
-      "dateTS": 1789637104.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/714",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1347,9 +1347,9 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "ТСН",
-      "title": "В Україні зменшаться зарплати: економісти назвали несподівані причини - ТСН",
-      "excerpt": "Згадка у виданні ТСН",
+      "tagLabel": "tsn.ua",
+      "title": "В Україні зменшаться зарплати: економісти назвали несподівані причини - tsn.ua",
+      "excerpt": "Згадка у виданні tsn.ua",
       "date": "1 жовтня 2026",
       "dateTS": 1790870730.0,
       "readTime": "2 хв",
@@ -1373,9 +1373,9 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "ТСН",
-      "title": "Долар здорожчає, а зарплати впадуть: економісти шокували прогнозом на жовтень 2026 року - ТСН",
-      "excerpt": "Згадка у виданні ТСН",
+      "tagLabel": "tsn.ua",
+      "title": "Долар здорожчає, а зарплати впадуть: економісти шокували прогнозом на жовтень 2026 року - tsn.ua",
+      "excerpt": "Згадка у виданні tsn.ua",
       "date": "30 вересня 2026",
       "dateTS": 1790740800.0,
       "readTime": "2 хв",
@@ -1386,9 +1386,9 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "minfin.com.ua",
-      "title": "курс валют - minfin.com.ua",
-      "excerpt": "Згадка у виданні minfin.com.ua",
+      "tagLabel": "Мінфін",
+      "title": "курс валют - Мінфін",
+      "excerpt": "Згадка у виданні Мінфін",
       "date": "28 вересня 2026",
       "dateTS": 1790579100.0,
       "readTime": "2 хв",
