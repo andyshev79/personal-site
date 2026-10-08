@@ -1,8 +1,73 @@
-// Автоматично оновлено: 2026-10-07 14:56 UTC
+// Автоматично оновлено: 2026-10-08 15:05 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "О... трохи відліпло міжбанк долар 44.92 - 44.96",
+      "excerpt": "",
+      "date": "8 жовтня 2026",
+      "dateTS": 1791458186.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/859",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "🚢 Вп’ятеро зросла вартість страхування суден у Чорному морі за останні два тижні на тлі російськи...",
+      "excerpt": "",
+      "date": "8 жовтня 2026",
+      "dateTS": 1791454015.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/858",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "🚢  Сьогодні рейс супертанкера з нафтою зі США до Азії коштує  77 млн ​​дол. Торік середня вартіст...",
+      "excerpt": "",
+      "date": "8 жовтня 2026",
+      "dateTS": 1791451293.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/857",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Міжбанк долар/гривня: 44.83 - 44.86🤦‍♂️  P.S. Євро падає, й торгується нижче 1,12, щоб мало підтр...",
+      "excerpt": "",
+      "date": "8 жовтня 2026",
+      "dateTS": 1791450286.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/856",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "🛢Brent вище 104+ дол за бар - двотижневий максимум. Трамп спекулює.  Все через:  - Повідомлення п...",
+      "excerpt": "",
+      "date": "8 жовтня 2026",
+      "dateTS": 1791449325.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/855",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +79,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/854",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1237,71 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/735",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: 14 – 19 ВЕРЕСНЯ 2026. ДОЛАР ТРИМАЮТЬ ЧЕРЕЗ ЄВРО, А ЄВРО —...",
-      "excerpt": "",
-      "date": "19 вересня 2026",
-      "dateTS": 1789823137.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/734",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: 14 – 19 ВЕРЕСНЯ 2026. ДОЛАР ТРИМАЮТЬ ЧЕРЕЗ ЄВРО, А ЄВРО —...",
-      "excerpt": "",
-      "date": "19 вересня 2026",
-      "dateTS": 1789823077.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/733",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: 14 – 19 ВЕРЕСНЯ 2026. ДОЛАР ТРИМАЮТЬ ЧЕРЕЗ ЄВРО, А ЄВРО —...",
-      "excerpt": "",
-      "date": "19 вересня 2026",
-      "dateTS": 1789823061.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/732",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Корми для тварин. Військовий сука об'єкт.  😡 Виродки.  А книгарня видавництво? А склад іграшок? Л...",
-      "excerpt": "",
-      "date": "19 вересня 2026",
-      "dateTS": 1789816646.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/731",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Закон «пекельних санкцій» Грема прийнято Палатою представників й підписано Трампом.   Проти рф Тр...",
-      "excerpt": "",
-      "date": "19 вересня 2026",
-      "dateTS": 1789811175.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/730",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1542,9 +1542,9 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "focus.ua",
-      "title": "Готівки на кожного значно побільшало, але чи стали українці багатшими — що стоїть за цифрою 924,8 млрд грн - focus.ua",
-      "excerpt": "Згадка у виданні focus.ua",
+      "tagLabel": "ФОКУС",
+      "title": "Готівки на кожного значно побільшало, але чи стали українці багатшими — що стоїть за цифрою 924,8 млрд грн - ФОКУС",
+      "excerpt": "Згадка у виданні ФОКУС",
       "date": "18 вересня 2026",
       "dateTS": 1789714800.0,
       "readTime": "2 хв",
