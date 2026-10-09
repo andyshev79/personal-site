@@ -1,8 +1,112 @@
-// Автоматично оновлено: 2026-10-08 15:05 UTC
+// Автоматично оновлено: 2026-10-09 14:49 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "писав 2 жовтня про нестандартні рішення... 🎈??? ріллі ???   Ну тобто приходе бухгалтерія/аудит/па...",
+      "excerpt": "",
+      "date": "9 жовтня 2026",
+      "dateTS": 1791556990.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/869",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Металургійні підприємства України у вересні 2026 року виробили усього 131 тис. т сталі (52,7% м/м...",
+      "excerpt": "",
+      "date": "9 жовтня 2026",
+      "dateTS": 1791554379.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/868",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ІНФЛЯЦІЯ ВЕРЕСЕНЬ 2026: ПЕРЕТНУЛИ 10%  Вересень дав +2,1% м/м і річну 10,0% - перший двозначний п...",
+      "excerpt": "",
+      "date": "9 жовтня 2026",
+      "dateTS": 1791550771.0,
+      "readTime": "3 хв",
+      "url": "https://t.me/shevchyshyn_trends/866",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Опалювальний сезон і нові удари по енергетиці - витрати бізнесу на резервне живлення знову йдуть ...",
+      "excerpt": "",
+      "date": "9 жовтня 2026",
+      "dateTS": 1791550771.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/867",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Інфляція в Україні  +2,1%м/м (максимум 27міс) та 10%р/р (максимум 11міс)  Продуктова інфляція: +1...",
+      "excerpt": "",
+      "date": "9 жовтня 2026",
+      "dateTS": 1791543895.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/865",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Я в валютних оглядах зазвичай обхожу сегмент безготівкових валютних операцій  населення, але...  ...",
+      "excerpt": "",
+      "date": "9 жовтня 2026",
+      "dateTS": 1791539392.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/864",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Сьогодні 14:00 чекаємо на публікацію Інфляції за вересень 2026",
+      "excerpt": "",
+      "date": "9 жовтня 2026",
+      "dateTS": 1791538049.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/863",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "🏗 Будівництво в Україні за 8м2026: -9,9%  У серпні 2026: +12,9%м/м, -3,7%р/р.  Найбільше провалля...",
+      "excerpt": "",
+      "date": "9 жовтня 2026",
+      "dateTS": 1791537486.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/862",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -1198,110 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/746",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "От же яка фігня! Канал менше 200 підписників. Маленький.  Але, судячи з реакцій на деякі пости, н...",
-      "excerpt": "",
-      "date": "22 вересня 2026",
-      "dateTS": 1790084946.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/745",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "🏭 РФ атакувала підприємство \"Інтерпайпу\" в Дніпрі.  Унаслідок атаки загинули четверо співробітник...",
-      "excerpt": "",
-      "date": "22 вересня 2026",
-      "dateTS": 1790079215.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/744",
-      "external": true,
-      "featured": true
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Про $841 млн від Канади через Світовий банк писали ще на минулому тижні.   Прем'єр каже надійшли,...",
-      "excerpt": "",
-      "date": "22 вересня 2026",
-      "dateTS": 1790073517.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/743",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Долар міжбанк: 44.83 - 44.86 Поки йдемо по плану, якщо закриваємось тут, або вище - то далі кроку...",
-      "excerpt": "",
-      "date": "22 вересня 2026",
-      "dateTS": 1790064100.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/742",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Биткоин $86К приємного чаювання ;)",
-      "excerpt": "",
-      "date": "21 вересня 2026",
-      "dateTS": 1790004032.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/741",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Долар міжбанк Крокуємо до  реперного рівня 44.85 грн Зараз: 44.74  -  44.79",
-      "excerpt": "",
-      "date": "21 вересня 2026",
-      "dateTS": 1789987626.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/740",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Тижневий валютний огляд також вже є на YouTube https://youtu.be/7iC4YNf8xUg",
-      "excerpt": "",
-      "date": "19 вересня 2026",
-      "dateTS": 1789825666.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/739",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Баланс ринку та прогноз до валютного огляду .",
-      "excerpt": "",
-      "date": "19 вересня 2026",
-      "dateTS": 1789823303.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/735",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1360,6 +1360,19 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
+      "tagLabel": "ТСН",
+      "title": "Долар здорожчає, а зарплати впадуть: економісти шокували прогнозом на жовтень 2026 року - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
+      "date": "30 вересня 2026",
+      "dateTS": 1790751600.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObThiZHdIRjNPZHlXRVlwb0dhWDRpS18xUzA4anc0NldMRUpJWmpPMGhNRENOeWhWU3ZWX1ZTdk00QnNiTGNKZzRlS3pvZUtaY05wVlZiWTcwek93ck9kcDVjbTMxRUctSFBBcnN1azZpYUZOejRSRzN4TkswUzRPYXRPZy1PNUdlQkQwTU1HZ3lFc1pTaElwelBmSTV0SF9NdE85MFZYLXRhcF84UzJ2TXFCVUJTaFduZ3hDTE84UVRrd9IBxwFBVV95cUxNOXhqX1F5RVI3MENKdm9tU1ZXRk9Wd2dWUEcwZDViQXBpWXphMF9yQ3BFMHhPYVl6YTJEb1djZVluTHhPSTA0NGl4SC1YWHB4NThZZVlvOVYzd1p4R3hRMlR3U090d0E2aHdWZ1l6X2g1LWlCQlBEalY5b1VYSlh5Z093eTI5dGFwTTd1WDMtWnp5UDNtZGxDbGphdU51V0tOa0FncmM4elpCYzl4bGFDQVV2THdGTjFRT1J2OTdnbkZ1U0Zjcko0?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
       "tagLabel": "my.ua",
       "title": "Долар здорожчає, а зарплати впадуть: економісти шокували прогнозом на жовтень 2026 року - my.ua",
       "excerpt": "Згадка у виданні my.ua",
@@ -1369,19 +1382,6 @@ const CONTENT = {
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNS2RFTk41a0U0dkE2R0Z4a3BrRVFjVzhDN0NFUEY4ZGUwTDlhNnNrV1hrU0VJSllwY2hjUm5EN3B4OFhfT01ZanFvY0YyU2pYS1Fqb216WTItVnRrMWVVQkhqSF9td0xqVktMdUFqTmozWURzdEpiR0Z0NGotMnpXa0Q2Ym12aFNFTTVKM2VYU01Sa2o2X3V1eFFkNXA5dEp5TVRpcEJwVzhYRk5vSEhCOWVnMTdfZTdYbUZlSjY3SGwybnI2MVVhSjh1RHY3MS03bVRPQ180Q0hkcHJCZ0xOOUpNbHhqb2pNRDlrR2lIRVJaaTUxU1VPTkphc2ZRQUxf0gGCAkFVX3lxTFB0dW1iZzZ5QVQ4dmp2QTdmVHB5UlM5WVZMbW9sbXZzMENWd3YxeWgyMnBBSkQwN0lvdkRjV1J4VzFBa3M4MkstX1d0LS1vc3p1NWtBcXZiOW9QakZtaU5VVmpzUk1jYi1IMnI0VU1QalJ3U3ZBbjRCYnJXUlZQTkVOZUVqSUwtWEMtTFVZMEplWFhaX2xUMVpOb1BDOXpMNDQ2VHE0aktrZ2lDM21xYnVRdk85SWgyRXJmUHU0bGxXVlRBaGdudldPNDdqX3FtNFpLSGdGZE9BNkp3d0xlakFRZmdSOEZ4dzc3eWFoMlJlY2FqLXk1TjRPNjlsYmxIYVMtZw?oc=5",
       "external": true,
       "featured": true
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "ТСН",
-      "title": "Долар здорожчає, а зарплати впадуть: економісти шокували прогнозом на жовтень 2026 року - ТСН",
-      "excerpt": "Згадка у виданні ТСН",
-      "date": "30 вересня 2026",
-      "dateTS": 1790740800.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObThiZHdIRjNPZHlXRVlwb0dhWDRpS18xUzA4anc0NldMRUpJWmpPMGhNRENOeWhWU3ZWX1ZTdk00QnNiTGNKZzRlS3pvZUtaY05wVlZiWTcwek93ck9kcDVjbTMxRUctSFBBcnN1azZpYUZOejRSRzN4TkswUzRPYXRPZy1PNUdlQkQwTU1HZ3lFc1pTaElwelBmSTV0SF9NdE85MFZYLXRhcF84UzJ2TXFCVUJTaFduZ3hDTE84UVRrd9IBxwFBVV95cUxNOXhqX1F5RVI3MENKdm9tU1ZXRk9Wd2dWUEcwZDViQXBpWXphMF9yQ3BFMHhPYVl6YTJEb1djZVluTHhPSTA0NGl4SC1YWHB4NThZZVlvOVYzd1p4R3hRMlR3U090d0E2aHdWZ1l6X2g1LWlCQlBEalY5b1VYSlh5Z093eTI5dGFwTTd1WDMtWnp5UDNtZGxDbGphdU51V0tOa0FncmM4elpCYzl4bGFDQVV2THdGTjFRT1J2OTdnbkZ1U0Zjcko0?oc=5",
-      "external": true,
-      "featured": false
     },
     {
       "source": "news",
@@ -1569,7 +1569,7 @@ const CONTENT = {
       "source": "news",
       "tag": "news",
       "tagLabel": "OBOZ.UA",
-      "title": "Андрій Шевчишин: Світові запаси нафти вичерпані. Криза наближується - OBOZ.UA",
+      "title": "Світові запаси нафти вичерпані. Криза наближується - OBOZ.UA",
       "excerpt": "Згадка у виданні OBOZ.UA",
       "date": "17 вересня 2026",
       "dateTS": 1789628400.0,
