@@ -1,8 +1,34 @@
-// Автоматично оновлено: 2026-10-10 14:07 UTC
+// Автоматично оновлено: 2026-10-11 14:31 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Щось суне...  Як ви вважаєте, їх цікавить Україна в моменті? Як ви вважаєте, чи легка вони ціль д...",
+      "excerpt": "",
+      "date": "10 жовтня 2026",
+      "dateTS": 1791649283.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/882",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Подивитись валютний огляд запрошую до мого ютуб каналу https://youtu.be/SHD3NTXnaGE  0:00 Вступ 0...",
+      "excerpt": "",
+      "date": "10 жовтня 2026",
+      "dateTS": 1791646568.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/881",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +40,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/879",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1276,32 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/756",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Долар міжбанк відкриття: 44.96 - 44.99 Кучно йдуть, спред як для відкриття маленький. Готуються д...",
-      "excerpt": "",
-      "date": "24 вересня 2026",
-      "dateTS": 1790234746.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/755",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "EURUSD впав нижче 1,14 вперше з липня 2026",
-      "excerpt": "",
-      "date": "23 вересня 2026",
-      "dateTS": 1790175454.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/754",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -2403,6 +2403,19 @@ const CONTENT = {
       "source": "youtube",
       "tag": "youtube",
       "tagLabel": "YouTube",
+      "title": "МОЖЛИВІСТЬ УТРИМУВАТИ ДОЛАР ЧЕРЕЗ ЄВРО ВИЧЕРПАНА. ПОПЕРЕДУ ЗРОСТАННЯ",
+      "excerpt": "0:00 Вступ\n0:30 Огляд валютного ринку 5-10 жовтня\n4:34 Міжбанк, дефіцит знизився\n5:46 Операції населення, активність зростає\n7:20 Загальний дефіцит та інтервенції\n8:45 Прогноз валютного ринку 12-17 жо",
+      "date": "10 жовтня 2026",
+      "dateTS": 1791646396.0,
+      "readTime": "відео",
+      "url": "https://www.youtube.com/watch?v=SHD3NTXnaGE",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "youtube",
+      "tag": "youtube",
+      "tagLabel": "YouTube",
       "title": "НБУ БОЇТЬСЯ ОФІЦІЙНОГО ДОЛАРА ПО 45 Й ЖЕРТВУЄ ЄВРО",
       "excerpt": "00:00 Вступ\n00:22 Огляд за тиждень 28вер-3жов 2026\n03:48 Динаміка міжбанку\n05:43 Динаміка готівкового ринку\n06:58 Загальний дефіцит та інтервенції\n10:10 Очікування на тиждень 5-10 жов 2026\n12:15 За чи",
       "date": "3 жовтня 2026",
@@ -2410,7 +2423,7 @@ const CONTENT = {
       "readTime": "відео",
       "url": "https://www.youtube.com/watch?v=YvpqaGEgRKo",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "youtube",
