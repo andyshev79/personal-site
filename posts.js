@@ -1,8 +1,99 @@
-// Автоматично оновлено: 2026-10-11 14:31 UTC
+// Автоматично оновлено: 2026-10-12 17:10 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Долар на міжбанку закрився на максимумах дня 45.06 - 45.07 НБУ не заважав руху, а отже... вітаю н...",
+      "excerpt": "",
+      "date": "12 жовтня 2026",
+      "dateTS": 1791816228.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/889",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "🛢Нафта тим часом вже вже на 106,5+. Й поглядає й зазіхає вона на 116+, як було в березні.  Незваж...",
+      "excerpt": "",
+      "date": "12 жовтня 2026",
+      "dateTS": 1791812121.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/888",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Ціни в будівництві у серпні зросли на 1,7%м/м та 25,4%р/р.  Це лише серпень.   Ситуація значно по...",
+      "excerpt": "",
+      "date": "12 жовтня 2026",
+      "dateTS": 1791808545.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/887",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Міжбанк долар 45.02 - 45.05",
+      "excerpt": "",
+      "date": "12 жовтня 2026",
+      "dateTS": 1791804373.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/886",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Ціни в Штатах зросли на 30% з початку пандемії. Читай - долар втратив 30% купівельної спроможност...",
+      "excerpt": "",
+      "date": "12 жовтня 2026",
+      "dateTS": 1791800979.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/885",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Міжбанк, новий накат на 45 долар 44.97 - 45.00 і щось мені здається, що він буде більш вдалим.",
+      "excerpt": "",
+      "date": "12 жовтня 2026",
+      "dateTS": 1791798803.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/884",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Республіканці по жовтневим прогнозам програють й Санат й Конгрес",
+      "excerpt": "",
+      "date": "12 жовтня 2026",
+      "dateTS": 1791792253.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/883",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +105,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/882",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1211,100 +1302,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/766",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "НБУ не згоден з переходом долару на новий щабель  Сьогодні зранку міжбанк відгоняють від 45,0 де ...",
-      "excerpt": "",
-      "date": "25 вересня 2026",
-      "dateTS": 1790323945.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/765",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Жестока реальність, результати російського терору  Спочатку ми вперше за хто зна який період зупи...",
-      "excerpt": "",
-      "date": "24 вересня 2026",
-      "dateTS": 1790263921.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/764",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Митниця НБУ не дав добро, й закатав долар на міжбанку взад ))) Під завісу торгів, коли всі ринков...",
-      "excerpt": "",
-      "date": "24 вересня 2026",
-      "dateTS": 1790254176.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/760",
-      "external": true,
-      "featured": true
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Не думайте, що лише у нас така непопулярна ситуація з податками. рф також готується до ідеального...",
-      "excerpt": "",
-      "date": "24 вересня 2026",
-      "dateTS": 1790251459.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/759",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ЄС виділить 3 млрд євро фінансової підтримки Україні в межах програми Ukraine Facility  - прем'єр...",
-      "excerpt": "",
-      "date": "24 вересня 2026",
-      "dateTS": 1790251061.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/758",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Топтались, топтались, й полетіли  міжбанк долар 45.04 - 45.07  Маємо закріпитись, й побачити, що ...",
-      "excerpt": "",
-      "date": "24 вересня 2026",
-      "dateTS": 1790249607.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/757",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Як то кажуть, DONE міжбанк долар 44.99 - 45.01  Авжеж тут частина заслуги євро, який стримують ві...",
-      "excerpt": "",
-      "date": "24 вересня 2026",
-      "dateTS": 1790244508.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/756",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "ФОКУС",
+      "title": "Курс долара в Україні зміниться: фінаналітик дав прогноз на 12-17 жовтня - ФОКУС",
+      "excerpt": "Згадка у виданні ФОКУС",
+      "date": "12 жовтня 2026",
+      "dateTS": 1791785868.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmdMdlUweUFmcDFPQ3lNaEk2c3hSdUptcmkzMFozdE93d2o0UFVnNk5ZTlEyR1BFT01MUlJJeUd4NFg1LWFDa3ZnNFBrM0RmYjctNHNyNll3Y0gtUkttbWszQjJqX2RONUM2dTVNOC1IblNhcEw5SzZhM0NOd0szNE9ham16emtxc1NZMzl1ZW94V0xLaXZZaGwxNklXQnJVUGxfbUZJa2xtVTTSAbABQVVfeXFMTTk1U04tX2NURWRlZ2o4YjdQeGhuYlV1RVBiMWJBSXFsZGpXNVFoak0tMnFROEY2OG5zd09lUWpiY1I1UW1RWUZUNjlpdmljcURoYVFYbFdoTXZpaXk2ZU5LaHZZUjhkUkFka2I5cUNfdjk0cFVvT1NSUUxEZERXUGsteFo2UVh5WnY4Sy00UzluT1BJbF9Od09qTGFsSVEwTHZjcTRUSHZJZFY5Umc3WHk?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -1316,7 +1329,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZXdkZWhXWmhCWkQ1OHZNTk1QcDNLUk5WMGRaVnVUbGZYM1FxUndXbkRnaWhaTWI4TGk4LW5rQzdwSm5SaXI4aVkzeEdCNFNqUHFiZjNBeElmdk1xeXB6YmhHcE95ZkRVSWZiQTBqanJvOGsyUkJFMTJoNEdhekNkUHQ5eGM5S2JLWUFTbzVR0gGTAUFVX3lxTE9scmI0RVM3WklZVmpfZ1hiTXoxQkNDMzctRWlHQVBMcE11eWxjWjhfZHM0QzJoZFdDSFhacVZWNVk1bjJCTGpZNTRFb20tNkZPelVWUmdIUlpuQlJhZExoRnJJb1VtYXJzZkE1V1Q0bXZsMERHQzRGNWlteEpWaEx5bXJUdjRxTTd4a0pRaENKR29aVQ?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
