@@ -1,8 +1,73 @@
-// Автоматично оновлено: 2026-10-12 17:10 UTC
+// Автоматично оновлено: 2026-10-13 15:26 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Підприємства, які не мають укриттів, повинні до 4 грудня 2026 року підготувати рішення для захист...",
+      "excerpt": "",
+      "date": "13 жовтня 2026",
+      "dateTS": 1791902560.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/895",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Мінфін залучає на військових облігаціях з серпня приблизно по 1 млрд грн (так, щоб по місяцю як р...",
+      "excerpt": "",
+      "date": "13 жовтня 2026",
+      "dateTS": 1791900995.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/894",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Минулого тижня всі писали про історичний максимум долару, а я мовчав. А сьогодні я вам напишу про...",
+      "excerpt": "",
+      "date": "13 жовтня 2026",
+      "dateTS": 1791897584.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/893",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Долар міжбанк 45.08 - 45.11 Рухаємось, без відкатів. Цілять в історичний максимум. Побоюються що ...",
+      "excerpt": "",
+      "date": "13 жовтня 2026",
+      "dateTS": 1791879628.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/892",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "На готівкові купюри більше 500грн приходиться 90,4% всіх готівкових коштів. 🥇На купюру 1000грн пр...",
+      "excerpt": "",
+      "date": "13 жовтня 2026",
+      "dateTS": 1791879189.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/890",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +79,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/889",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1237,74 +1302,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/771",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Прийшли злі дядьки з НБУ, й як ну на того долара, щоб не зростав до психологічних 45 😜 Міжбанк в ...",
-      "excerpt": "",
-      "date": "25 вересня 2026",
-      "dateTS": 1790333580.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/770",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "РОЗДРІБНА ТОРГІВЛЯ УКРАЇНИ - ЗРОСТАННЯ В СЕРПНІ ЧЕРЕЗ СЕЗОННІСТЬ ТА ПАНІКУ",
-      "excerpt": "",
-      "date": "25 вересня 2026",
-      "dateTS": 1790332696.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/769",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "РОЗДРІБНА ТОРГІВЛЯ УКРАЇНИ - ЗРОСТАННЯ В СЕРПНІ ЧЕРЕЗ СЕЗОННІСТЬ ТА ПАНІКУ  Оборот роздрібної тор...",
-      "excerpt": "",
-      "date": "25 вересня 2026",
-      "dateTS": 1790332641.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/768",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ArcelorMittal Кривий ріг, який належить індуському бізнесмену Lakshmi Mittal закривається до заве...",
-      "excerpt": "",
-      "date": "25 вересня 2026",
-      "dateTS": 1790329869.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/767",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Давно не було про світові ціни аграрки.   Тут значна корекція пшениці (-12,9% з максимумів року),...",
-      "excerpt": "",
-      "date": "25 вересня 2026",
-      "dateTS": 1790324414.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/766",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "MY.UA",
+      "title": "Долар, депозит чи ОВДП: де українцям вигідніше зберігати заощадження - MY.UA",
+      "excerpt": "Згадка у виданні MY.UA",
+      "date": "13 жовтня 2026",
+      "dateTS": 1791903792.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3lKdzhReVdUdkNMcThhSlRXeGVuS1hORGliRHN4NGM3cmx6OGdwUTRobmxRVXNoZ2NOcFBVamtieExpRGMwbVNZRzg0NE1ZU25ZVmg4dVdUZGNkd0RGRVRtQVJtS2pYQUtOb0NlOUk4ZkZZcVVEQjV0NTVBUXhmZWJXOXZidmIzdlI3M1c3bnhTdi1CQ3RMLV9WUXVrT3VOV2RWdmdDTW8yS18ybHFDTFlaUHYyemhf0gG6AUFVX3lxTE5pMWpseXROWUFqcDBkdlF2Nl9XRW1KS1B1R0ZUNUxzLVpJVXhZemszODJmS0ozSTRwZ2ZNTUlXc29YQzdfem5mNWx1aC1BdFpYZlhYMWxuNDdHdUNrTm56dlVSSVY0Njh4b1UwRUlMS1lpMFREaTRsYTJpNWJZLU5BNlhZQVhzZUlDU2VOaHZ1Y3I0eUNpYVVYTmtoNlUwdzRSVnpZdktFM053aEJRcEtERFlxSG1Na1ZNUQ?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
