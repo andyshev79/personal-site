@@ -1,8 +1,47 @@
-// Автоматично оновлено: 2026-10-13 15:26 UTC
+// Автоматично оновлено: 2026-10-14 13:12 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Річна інфляція в США прискорилася до 3,7%  Інфляція в США зросла до 3,7%р/р у вересні, що є найви...",
+      "excerpt": "",
+      "date": "14 жовтня 2026",
+      "dateTS": 1791983514.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/899",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "УКРАЇНСЬКИЙ ЕКСПОРТ У ВЕРЕСНІ ВІДСКОЧИВ ВІД МІНІМУМІВ, АЛЕ ІМПОРТ Б'Є РЕКОРДИ (розбираємо операти...",
+      "excerpt": "",
+      "date": "14 жовтня 2026",
+      "dateTS": 1791966662.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/897",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "УКРАЇНСЬКИЙ ЕКСПОРТ У ВЕРЕСНІ ВІДСКОЧИВ ВІД МІНІМУМІВ, АЛЕ ІМПОРТ Б'Є РЕКОРДИ (розбираємо операти...",
+      "excerpt": "",
+      "date": "14 жовтня 2026",
+      "dateTS": 1791966616.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/896",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +53,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/895",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1263,45 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/775",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "В СЕРПНІ БАНКИ РІЗКО ЗНИЗИЛИ ЗАВЕЗЕННЯ ГОТІВКОВИХ ЄВРО  В серпні банки завезли готівкової валюти ...",
-      "excerpt": "",
-      "date": "25 вересня 2026",
-      "dateTS": 1790344972.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/773",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ЄС погодився розблокувати 6,6 млрд євро для України - верховна представниця ЄС із закордонних спр...",
-      "excerpt": "",
-      "date": "25 вересня 2026",
-      "dateTS": 1790343793.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/772",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Закриття міжбанку долар 44.66 - 44.72 )) Ну що тут скажеш, крутий день З рівня відкриття до закри...",
-      "excerpt": "",
-      "date": "25 вересня 2026",
-      "dateTS": 1790340327.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/771",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1329,7 +1329,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmdMdlUweUFmcDFPQ3lNaEk2c3hSdUptcmkzMFozdE93d2o0UFVnNk5ZTlEyR1BFT01MUlJJeUd4NFg1LWFDa3ZnNFBrM0RmYjctNHNyNll3Y0gtUkttbWszQjJqX2RONUM2dTVNOC1IblNhcEw5SzZhM0NOd0szNE9ham16emtxc1NZMzl1ZW94V0xLaXZZaGwxNklXQnJVUGxfbUZJa2xtVTTSAbABQVVfeXFMTTk1U04tX2NURWRlZ2o4YjdQeGhuYlV1RVBiMWJBSXFsZGpXNVFoak0tMnFROEY2OG5zd09lUWpiY1I1UW1RWUZUNjlpdmljcURoYVFYbFdoTXZpaXk2ZU5LaHZZUjhkUkFka2I5cUNfdjk0cFVvT1NSUUxEZERXUGsteFo2UVh5WnY4Sy00UzluT1BJbF9Od09qTGFsSVEwTHZjcTRUSHZJZFY5Umc3WHk?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
