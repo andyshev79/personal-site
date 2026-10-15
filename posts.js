@@ -1,8 +1,86 @@
-// Автоматично оновлено: 2026-10-14 13:12 UTC
+// Автоматично оновлено: 2026-10-15 12:58 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Міжбанк долар 44.85 - 44.90 НБУ на ринку, продають валюту",
+      "excerpt": "",
+      "date": "15 жовтня 2026",
+      "dateTS": 1792060480.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/907",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "❗️Рада поддержала законопроект о налогообложении посылок до 150 евро  Документ предусматривает 20...",
+      "excerpt": "",
+      "date": "15 жовтня 2026",
+      "dateTS": 1792052893.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/906",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "По євро долару відскок, бо кілька представників ФРС заявили, що бажають побачити більш чітку карт...",
+      "excerpt": "",
+      "date": "15 жовтня 2026",
+      "dateTS": 1792051584.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/905",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Ймовірність підвищення ставки ФРС США в жовтні підскочила в 2 рази з 20 до 40%.  Реакцію ринків в...",
+      "excerpt": "",
+      "date": "14 жовтня 2026",
+      "dateTS": 1791992187.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/904",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Демократи у Палаті представників готують програму дій на перші 100 днів на випадок перемоги на пр...",
+      "excerpt": "",
+      "date": "14 жовтня 2026",
+      "dateTS": 1791991870.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/902",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Міжабанк й гривня не встигли відреагувати на цю тенденцію, тому завтра логічно очікувати винос до...",
+      "excerpt": "",
+      "date": "14 жовтня 2026",
+      "dateTS": 1791983784.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/901",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +92,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/899",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1224,84 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/782",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ПІДСУМКИ ВЕРЕСНЯ: МОЖЛИВОСТІ ТРИМАТИ ДОЛАР ЧЕРЕЗ ЄВРО ВИЧЕРПАНІ. ЖОВТЕНЬ ...",
-      "excerpt": "",
-      "date": "27 вересня 2026",
-      "dateTS": 1790501349.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/780",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ПІДСУМКИ ВЕРЕСНЯ: МОЖЛИВОСТІ ТРИМАТИ ДОЛАР ЧЕРЕЗ ЄВРО ВИЧЕРПАНІ. ЖОВТЕНЬ ...",
-      "excerpt": "",
-      "date": "27 вересня 2026",
-      "dateTS": 1790501324.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/779",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "https://youtu.be/uA-GO8mM4AU  00:00 Вступ 01:07 Результати вересня 05:12 Тенденції курсів 07:12 М...",
-      "excerpt": "",
-      "date": "26 вересня 2026",
-      "dateTS": 1790449548.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/778",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "🧐МІСЯЧНИЙ ВАЛЮТНИЙ ОГЛЯД ЗА ВЕРЕСЕНЬ ТА ПРОГНОЗ НА ЖОВТЕНЬ ВЖЕ ГОТОВІ  Завтра буде основний текст...",
-      "excerpt": "",
-      "date": "26 вересня 2026",
-      "dateTS": 1790442615.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/777",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Fozzy Group скоротить частину працівників офісних команд холдингу, мережі «Сільпо» та логістики.😢...",
-      "excerpt": "",
-      "date": "25 вересня 2026",
-      "dateTS": 1790348981.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/776",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Після липневої паузи українці активізувались щодо золота  Світові ціни золота у серпні зросли, й ...",
-      "excerpt": "",
-      "date": "25 вересня 2026",
-      "dateTS": 1790346129.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/775",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1724,9 +1724,9 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "focus.ua",
-      "title": "Грошей від МВФ може не бути: як це позначиться на доларі, гривні та цінах в Україні - focus.ua",
-      "excerpt": "Згадка у виданні focus.ua",
+      "tagLabel": "ФОКУС",
+      "title": "Грошей від МВФ може не бути: як це позначиться на доларі, гривні та цінах в Україні - ФОКУС",
+      "excerpt": "Згадка у виданні ФОКУС",
       "date": "8 вересня 2026",
       "dateTS": 1788850800.0,
       "readTime": "2 хв",
