@@ -1,8 +1,47 @@
-// Автоматично оновлено: 2026-10-16 12:53 UTC
+// Автоматично оновлено: 2026-10-17 11:53 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Тижневі інтервенції НБУ, як й очікувалось, чергові 1250 млн дол.  Окрім того, як й підозрював, НБ...",
+      "excerpt": "",
+      "date": "17 жовтня 2026",
+      "dateTS": 1792223419.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/918",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Пізно в пʼятницю Дональд Трамп оголосив про звільнення Росії від практично усіх санкцій та тарифі...",
+      "excerpt": "",
+      "date": "17 жовтня 2026",
+      "dateTS": 1792216441.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/917",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "🛢Тим часом Brent вже 108+ Ринок закладається на вихідні, які можуть принести сюрпризи.   Як прави...",
+      "excerpt": "",
+      "date": "16 жовтня 2026",
+      "dateTS": 1792167913.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/916",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +53,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/915",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1263,45 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/795",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "🚢 Країни, які виступають посередниками в переговорах, повідомили Україні, що Росія наразі відхили...",
-      "excerpt": "",
-      "date": "29 вересня 2026",
-      "dateTS": 1790670091.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/794",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Пасажирські перевезення За 8м2026 р. пасажирським транспортом скористалося 1374,1 млн осіб. (-4.8...",
-      "excerpt": "",
-      "date": "28 вересня 2026",
-      "dateTS": 1790609773.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/792",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ДУМКА ЩОДО КУРСУ ДОЛАРУ Все має свої переваги й вади. Авжеж девальвація це фактор соціального нег...",
-      "excerpt": "",
-      "date": "28 вересня 2026",
-      "dateTS": 1790606120.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/791",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1412,6 +1412,32 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
+      "tagLabel": "MY.UA",
+      "title": "Курс долара в жовтні: економісти назвали, скільки може коштувати валюта - MY.UA",
+      "excerpt": "Згадка у виданні MY.UA",
+      "date": "1 жовтня 2026",
+      "dateTS": 1790838000.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOGE4Y25rbHUtUVhyWjhGUF9fWkI0dGdUelJYeUFqVUppTUx0UUlMRU5zb0hfaGVXYzQxNWJqYXZmZG9OMXNRbUFJLVo4UkZSZFB0N1VfT21vd1lSQ3Jpa3JEVVdKWGtYWFJaeXVWWnRUTVVveUF0Zmw5Q2hZSlhGSnktVU0wNjhlLU1Ra2dOeHlVVW4zSGdKVWlWMWx6NWs3TXhKU0gzdThWZmdyY0R5V0RPSdIBtAFBVV95cUxQTHlKTC1iVEZtamU4N2J5SU9PWlBRc2d1WEtEUm9JS1o2WThtMDVlbElyV0NicDZlRlF5TnBrOHhMQ3dETzZYV01hdUtpaWpTWU5lX2lPU1Q5VkdyR3U0Rkg5T0V3Nk1mekVzT0xYR3BheDVWV2U2RDRVUVFKZ3ltX3VKVDJlblVpY2dGQ0U5a19SYkdLbC1vamNXa25obEdOczNHWW1DQ0FfRm5YWUxHejN5M1Y?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Politeka",
+      "title": "Курс долара до кінця 2026 року: аналітик назвав, скільки коштуватиме валюта - Politeka",
+      "excerpt": "Згадка у виданні Politeka",
+      "date": "30 вересня 2026",
+      "dateTS": 1790751600.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGRiNGEwcHFXQ0ZDNXUyTW93Ul8zWWQzVHV2SjNFYnQxTnRpQnEwVzdqQS1uaHVqWDM3UmwwSUxwVHpmOXR0aGVnSlQ2UTNjSVNXWnlIbDNZVzRfRFB2RXVxb25Zbi16cXktWG1OUFk0eHhMNHZiMXZNY1lBci0tYVAzQnZjMlRTMDVISVdtTm1KWG5QbVRiODBRMWZaZjROMkxtZFhsQml6ZGF00gGyAUFVX3lxTFByQUxXbmRrTWxDOUp6QnlnMkNFZk5zZUZkYngzd3ZfWXBheS1mU1ZLRXA1NXV5MDBjMGRHbVlrejRTbGFuU1F1bVhzWExLNU83ODlYZ0d0clE1cnRGcFNsbmhXc19LYl9JUE1UOE1xNHRKVVJQOVgxOVotVllfTWprakFCSzVqSzlleHZhOC1NbU5uOVN3cDRkR3FOQ0NCVGRSdEFKY1RtRXR4Q0h6Wk5WbXc?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
       "tagLabel": "ТСН",
       "title": "Долар здорожчає, а зарплати впадуть: економісти шокували прогнозом на жовтень 2026 року - ТСН",
       "excerpt": "Згадка у виданні ТСН",
@@ -1458,6 +1484,19 @@ const CONTENT = {
       "dateTS": 1790578800.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ1lDd3dETnBjd0dGeVc3ekgyc2JELTNyZmphOUhNd0s0YVRZcGNXbXdOaFlVUE9lV2k4VzlWWlRVUkUydWlHOG45dmJVVGZoQVN1STNFb3dvQTVmWUNhYXE5VnF1MExCSDdPRWdqcUh5czl3NWtUVFVBeDdzbldHOS1XRmwxVlNFRUdVWEc0LU9rRnFObmxZVEN1Q3F0SmozVS1wbFlUbUptM0RnTzdaSnVEMVPSAboBQVVfeXFMTXpfVkl4MXNURHY3WmtJcVY3aUJNTlg5SG85T25DbUJtNTcxMlBEaU14NG05VFVqOEpOSi1MbHI4Q0NZV053X0kxOXdUbDE5OUVfb1NLR1I3djFFbExWMWM4dGN6SHVuMXo1TlhST0xhczFPUkJvY1U2NWJaNEpnd1A5c2NpMVpLVWh2UTVaMVM4RzJLeWJVRVduRlNBbkJqaG45Z1NPLWpnQTFSemZ3YlNCMEVfSWlxSHZR?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "MY.UA",
+      "title": "Міжбанк показав новий курс долара: що відбувається з валютою - MY.UA",
+      "excerpt": "Згадка у виданні MY.UA",
+      "date": "28 вересня 2026",
+      "dateTS": 1790578800.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdXZiQzJyTGJUcHRWOFJfblc2VjlsVU5fOXFfcS01a1RZTFNzOFlIZXd4MG1CM2pzZE9NRkVvOF9GZkVQOFFvS2hOZG5BQW5DT2tnR0lWbkVwem1kenBmd05CWElsMnhVMThPdVdMNmJNY3paemFpd0ZGVDQ3WHVqUlhwa0o0VjR5QWpjb1BLbk5KdzRCRlN5ZGVVZEppWlFGN0VFMVZONGgyZEHSAawBQVVfeXFMUHI2aGYxSVlaaXFWN3V6dFVmRWhyZjdSb1hqRjZyZ3hKWWhxRnF1Qko5UXpaQ3JJanp0S2dqay1jdml5Yi1pUVhiV3k0TjBLSFRieE1QMkkyZ0RjVGFoTFNQYS1NUUhMOURxNWI4Z1JwT1JDTnBLbVV2b0NqTlM4czNCcjJEN3YzZm5QNGl2bnVQcWtUdkxLVzlzLW9wWWhIWU45R1dGNDJ1QXh4OQ?oc=5",
       "external": true,
       "featured": false
     },
