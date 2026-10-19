@@ -1,8 +1,47 @@
-// Автоматично оновлено: 2026-10-18 12:19 UTC
+// Автоматично оновлено: 2026-10-19 15:10 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "На поточний момент, оцінка збитків за цей рік – 7,7 мільярда доларів. Це – руйнування приміщень, ...",
+      "excerpt": "",
+      "date": "19 жовтня 2026",
+      "dateTS": 1792414853.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/930",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Долар міжбанк 45.00 - 45.03  Тим часом EURUSD відновив корекцію через повний безлад у Франції, й ...",
+      "excerpt": "",
+      "date": "19 жовтня 2026",
+      "dateTS": 1792398659.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/929",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Як швидко зростають чужі діти. Особливо французькі школяри.👺",
+      "excerpt": "",
+      "date": "18 жовтня 2026",
+      "dateTS": 1792337305.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/928",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +53,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/927",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1263,48 +1302,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/810",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "По зерновим дуже цікава картинка зараз. Ось ціни за вересень.  Йде обвал цін що по пшениці, що по...",
-      "excerpt": "",
-      "date": "30 вересня 2026",
-      "dateTS": 1790792156.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/809",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Експорт зернових, продовольчих товарів, харчів - мінімум з травня 2022 - серпень 2026: 1279 млн д...",
-      "excerpt": "",
-      "date": "30 вересня 2026",
-      "dateTS": 1790791263.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/808",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Й так дуже багато вже про це написано й сказано, навіть в цьому каналі. Тому лише факт експорту в...",
-      "excerpt": "",
-      "date": "30 вересня 2026",
-      "dateTS": 1790790755.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/807",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "ФОКУС",
+      "title": "Долар на міжбанку наблизився до 45 грн, а євро втрачає копійки — що з курсом валют в Україні - ФОКУС",
+      "excerpt": "Згадка у виданні ФОКУС",
+      "date": "19 жовтня 2026",
+      "dateTS": 1792402575.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZHdTZFp4YVgxUTlpNnlORE9CdkRhNmJEaklQNmEyZkdPZkpZYlFqdVZ1X2pZVjdFMzhGSzZYMTVPWnBjUWl3Vlg1aTFMTEdYZ3VPYl9BUTA2d0VsUlVFWk1yendSS2VPX182SGhpTnl2b3F3dkZET3JzZjF2RUpNWENtMklESjFSdm94dFBZcGN2blNuTXhqSEktSdIBoAFBVV95cUxNQVZBTWhrZ1UzQUp0R3o1dEJVYk5TZVFyWVU3a2lXR3U5c0FZc1FOV1dtbk1TUV91RVBnbjMxWkZpTFZPNlJxRl9DMVMxbjFQS3RNdzl4ekRYTUpDdnNpcjVkVnJCTjdmdDNSN1NjbnBFcmdlZFZOQVNuX2NDMENJLWNDYnk4YTFlNlRYdVU4MjQ4eGlERHA4bS1XbHRNWGNJ?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
