@@ -1,8 +1,47 @@
-// Автоматично оновлено: 2026-10-19 15:10 UTC
+// Автоматично оновлено: 2026-10-20 13:09 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Рівень приросту добробуту домогосподарств залежить від рівня доходу. Чим вищий дохід, тим більший...",
+      "excerpt": "",
+      "date": "20 жовтня 2026",
+      "dateTS": 1792501677.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/933",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Чистий готівковий попит населення зріс до 7ми місячного максимуму - середньодобово 40млн дол. При...",
+      "excerpt": "",
+      "date": "20 жовтня 2026",
+      "dateTS": 1792482700.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/932",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Таких котирувань я ще не бачив на міжбанку Рекордненько...    45.13 - 45.20",
+      "excerpt": "",
+      "date": "20 жовтня 2026",
+      "dateTS": 1792480950.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/931",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +53,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/930",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1261,45 +1300,6 @@ const CONTENT = {
       "dateTS": 1790862452.0,
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/813",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Тим часом міжбанк дочимчикував до 44.90 - 44.94 грн",
-      "excerpt": "",
-      "date": "1 жовтня 2026",
-      "dateTS": 1790853849.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/812",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "🏗 Що буде з ринком будівельного металу, якщо порти залишаться заблокованими, а комбінати зупинени...",
-      "excerpt": "",
-      "date": "1 жовтня 2026",
-      "dateTS": 1790852596.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/811",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "EURUSD вже нижче 1,13 - мінімуми з травня 2025 року.  Падіння вересня стало найбільшим за 14 міся...",
-      "excerpt": "",
-      "date": "1 жовтня 2026",
-      "dateTS": 1790845332.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/810",
       "external": true,
       "featured": false
     }
