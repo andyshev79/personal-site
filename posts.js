@@ -1,8 +1,112 @@
-// Автоматично оновлено: 2026-10-20 13:09 UTC
+// Автоматично оновлено: 2026-10-21 13:20 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "❗️НБУ офіційно спростовує чутки про нібито відставку Голови Національного банку Андрія Пишного.",
+      "excerpt": "",
+      "date": "21 жовтня 2026",
+      "dateTS": 1792587243.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/943",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "🤷‍♂️🤦‍♂️ чекаємо на офіційну інформацію",
+      "excerpt": "",
+      "date": "21 жовтня 2026",
+      "dateTS": 1792585337.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/942",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Котирування цін ф'ючерсів кукурудзи та пшениці продовжують падати до рівнів першої декади серпня ...",
+      "excerpt": "",
+      "date": "21 жовтня 2026",
+      "dateTS": 1792574052.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/941",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Мінфін на передодні розмістив чергову стандартну порцію військових ОВДП, й ще більше знизив доход...",
+      "excerpt": "",
+      "date": "21 жовтня 2026",
+      "dateTS": 1792571174.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/940",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Скоромовки нового часу:  👻Набувачі з НАБУ в НБУ набутки набували, набували, та не винабували, бо ...",
+      "excerpt": "",
+      "date": "21 жовтня 2026",
+      "dateTS": 1792570502.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/939",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "НБУ підтверджує інформацію про проведення слідчих дій НАБУ в приміщенні Національного банку.  Дод...",
+      "excerpt": "",
+      "date": "21 жовтня 2026",
+      "dateTS": 1792568811.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/938",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Міжбанк майже не реагує на новину про обшуки у голови НБУ (джерела Ярослава Железняка також підтв...",
+      "excerpt": "",
+      "date": "21 жовтня 2026",
+      "dateTS": 1792568627.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/937",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "За даними джерел УП у політичних колах у голови Нац банку Пишного НАБУ і САП проводять обшуки",
+      "excerpt": "",
+      "date": "21 жовтня 2026",
+      "dateTS": 1792565298.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/936",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -1198,113 +1302,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/821",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Транзит вырос до довоенного уровня",
-      "excerpt": "",
-      "date": "2 жовтня 2026",
-      "dateTS": 1790933057.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/820",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "В дробині ескалації, про яку я писав ще 5 серпня, що сторони ще не діставали ножі, можна вже дода...",
-      "excerpt": "",
-      "date": "2 жовтня 2026",
-      "dateTS": 1790930851.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/819",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжбанк долар 45.00 - 45.02  НБУ поки не поспішає відганяти курс. Принаймні, вчора в другій полов...",
-      "excerpt": "",
-      "date": "2 жовтня 2026",
-      "dateTS": 1790928959.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/818",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Якось дуже швидко сьогодні до цілі по EURUSD сходили Буде відскок, але слідкуємо за рівнем",
-      "excerpt": "",
-      "date": "1 жовтня 2026",
-      "dateTS": 1790870320.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/817",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Сподіваюсь це точно тренд. Дальність авжеж недостатня, але це початок. ———— 🔥Украина впервые прим...",
-      "excerpt": "",
-      "date": "1 жовтня 2026",
-      "dateTS": 1790869960.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/816",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Український IT експорт в серпні 554 млн дол (-2,3%м/м, +2,6%р/р).  Це мінімум за останніх 6 місяц...",
-      "excerpt": "",
-      "date": "1 жовтня 2026",
-      "dateTS": 1790868758.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/815",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Валютні інтервенції НБУ - новий історичний рекорд! я навіть його недооцінив, й писав що буде 5,4 ...",
-      "excerpt": "",
-      "date": "1 жовтня 2026",
-      "dateTS": 1790865903.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/814",
-      "external": true,
-      "featured": true
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Й знов... \"з поверненням\", а то я вже зачекався міжбанк долар 44.99 - 45.01",
-      "excerpt": "",
-      "date": "1 жовтня 2026",
-      "dateTS": 1790862452.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/813",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "MY.UA",
+      "title": "Долар на міжбанку наближається до позначки 45 грн, євро втрачає позиції: аналіз валютного курсу в Україні - MY.UA",
+      "excerpt": "Згадка у виданні MY.UA",
+      "date": "19 жовтня 2026",
+      "dateTS": 1792404765.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVDVMSDhCZnZZUDFodERhZ2loT3BnTlVrdU1ycUNFalVobFg1UjJiRDdzSFhrai1lLVRRZGo1RWtqSW1IQTNrWURfNXFkSzZHcnBXeVE0cXgxMWdmMHIxLWlTZmZUalpYTzFqcGc1OGFwT3FoTUg2ODhKRVlpdFl0bTc4UkYtU3ZlVGhldzBPVmRQVThsbUp0MjM4SFBkc1VGRVRFdkRyR3J4UGFPbmY0UUFiamoycTJ0WVBnN3VWU1F0aUFHUUJ0TzRiMkNnMjdmT2VkVHg0em83WFFGYWlJaDZJMjdUbnVnN2FoMjlUbTRmSlUxcHJRZGpRd3RPb0E3czA2aNIBigJBVV95cUxPMG5DM1N0TDJlMW5NQWlRZHlvSGNYdWFldnROaW51V3N0dVdnbWdxaTRNbFBIbmtzUDc0Z0hOVmFmdWFuQ1VXU1JiN1B3czFyaVlNVldyU1RHTUlVeG5CQWxKS1dGaHF2Y0dtSGhfZHMyajJFZ3d3bHJ1YnkxR093RktzajUxWmhVbXdjUTVyaXZHUGhacmdydnpJOGVZZWJYOTZLbVByazZNdHk3SVZCZGNXdjM1M1FwVl9BeVFobmdibW4wWjc4WERIbUFRSmVxSklKUnI2aTZycmhKTFFkWERKb0lOWS01MmdLYVNsUlR3OVJrZHJYUi1SRVVGS0VDbk16SGFETHBIZw?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -1329,7 +1342,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3lKdzhReVdUdkNMcThhSlRXeGVuS1hORGliRHN4NGM3cmx6OGdwUTRobmxRVXNoZ2NOcFBVamtieExpRGMwbVNZRzg0NE1ZU25ZVmg4dVdUZGNkd0RGRVRtQVJtS2pYQUtOb0NlOUk4ZkZZcVVEQjV0NTVBUXhmZWJXOXZidmIzdlI3M1c3bnhTdi1CQ3RMLV9WUXVrT3VOV2RWdmdDTW8yS18ybHFDTFlaUHYyemhf0gG6AUFVX3lxTE5pMWpseXROWUFqcDBkdlF2Nl9XRW1KS1B1R0ZUNUxzLVpJVXhZemszODJmS0ozSTRwZ2ZNTUlXc29YQzdfem5mNWx1aC1BdFpYZlhYMWxuNDdHdUNrTm56dlVSSVY0Njh4b1UwRUlMS1lpMFREaTRsYTJpNWJZLU5BNlhZQVhzZUlDU2VOaHZ1Y3I0eUNpYVVYTmtoNlUwdzRSVnpZdktFM053aEJRcEtERFlxSG1Na1ZNUQ?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -1490,19 +1503,6 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "Мінфін",
-      "title": "курс валют - Мінфін",
-      "excerpt": "Згадка у виданні Мінфін",
-      "date": "28 вересня 2026",
-      "dateTS": 1790578800.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFUjFyMmFGNDdMX2F1NkN1MUpQMnBfR19BbGw1aWpWU05oZUdBaGNVdEV4V056czZ4NlVOWDdpM0xCcDJpTXZaemRzUHZNejUySk9pTWhZMU03UQ?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
       "tagLabel": "Главред",
       "title": "Долар може подорожчати до 46 гривень: відомо, коли курс піде угору - Главред",
       "excerpt": "Згадка у виданні Главред",
@@ -1523,6 +1523,19 @@ const CONTENT = {
       "dateTS": 1790578800.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdXZiQzJyTGJUcHRWOFJfblc2VjlsVU5fOXFfcS01a1RZTFNzOFlIZXd4MG1CM2pzZE9NRkVvOF9GZkVQOFFvS2hOZG5BQW5DT2tnR0lWbkVwem1kenBmd05CWElsMnhVMThPdVdMNmJNY3paemFpd0ZGVDQ3WHVqUlhwa0o0VjR5QWpjb1BLbk5KdzRCRlN5ZGVVZEppWlFGN0VFMVZONGgyZEHSAawBQVVfeXFMUHI2aGYxSVlaaXFWN3V6dFVmRWhyZjdSb1hqRjZyZ3hKWWhxRnF1Qko5UXpaQ3JJanp0S2dqay1jdml5Yi1pUVhiV3k0TjBLSFRieE1QMkkyZ0RjVGFoTFNQYS1NUUhMOURxNWI4Z1JwT1JDTnBLbVV2b0NqTlM4czNCcjJEN3YzZm5QNGl2bnVQcWtUdkxLVzlzLW9wWWhIWU45R1dGNDJ1QXh4OQ?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Мінфін",
+      "title": "курс валют - Мінфін",
+      "excerpt": "Згадка у виданні Мінфін",
+      "date": "28 вересня 2026",
+      "dateTS": 1790578800.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFUjFyMmFGNDdMX2F1NkN1MUpQMnBfR19BbGw1aWpWU05oZUdBaGNVdEV4V056czZ4NlVOWDdpM0xCcDJpTXZaemRzUHZNejUySk9pTWhZMU03UQ?oc=5",
       "external": true,
       "featured": false
     },
