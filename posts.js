@@ -1,8 +1,47 @@
-// Автоматично оновлено: 2026-10-21 13:20 UTC
+// Автоматично оновлено: 2026-10-22 13:19 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Це жах 😢 Население Украины сократилось до 28,5 миллионов человек из-за массовой миграции украинце...",
+      "excerpt": "",
+      "date": "22 жовтня 2026",
+      "dateTS": 1792673410.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/946",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Міжбанк 45.17 - 45.17  долар цілий день підростає а на кінець дня майже на максимумах, що показує...",
+      "excerpt": "",
+      "date": "22 жовтня 2026",
+      "dateTS": 1792673248.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/945",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Пшениця обвалилась до 619,6 - рівнів 10 липня. Це початок операції МоЛоЧКа, яку проводили СБС ЗСУ...",
+      "excerpt": "",
+      "date": "21 жовтня 2026",
+      "dateTS": 1792590370.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/944",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +53,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/943",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1263,48 +1302,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/824",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: НБУ БОЇТЬСЯ ОФІЦІЙНОГО ДОЛАРА ПО 45 Й ЖЕРТВУЄ ЄВРО. (част...",
-      "excerpt": "",
-      "date": "3 жовтня 2026",
-      "dateTS": 1791048184.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/823",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Україна отримала 2,9 млрд євро від ЄС у межах Ukraine Facility.  Близько 800 млн євро з цієї суми...",
-      "excerpt": "",
-      "date": "2 жовтня 2026",
-      "dateTS": 1790936407.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/822",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Транзит нафти через Ормуз зріс. Шоку пропозиції (в фізичних барелях) немає.  Але зберігається шок...",
-      "excerpt": "",
-      "date": "2 жовтня 2026",
-      "dateTS": 1790934228.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/821",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Слово і Діло",
+      "title": "Можлива зміна голови НБУ: чи загрожують кадрові перестановки стабільності гривні - Слово і Діло",
+      "excerpt": "Згадка у виданні Слово і Діло",
+      "date": "22 жовтня 2026",
+      "dateTS": 1792668840.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX2EtWFd2QjQ4YlhaS25EWWJQekVhbmllNlQxSGFBRW9qY2l1ZVVtdXBrelgtNDlwRTBSako1cmtwd2Z1WWNudGRqclBOeGlTRmxQYy1HYXNtLXpRR0lFN0g3b2RZWUczRlZRbHJxUi15dmliblpwanVHeTlFVU8xbGM3cUR1QzVPYkI5TWktZDcxV1hYejdySDZyTHRmcWJsZkQtRDI4ZTlPYUM3eV9vYzhoaTdqc1VjYUFRd1cySWlIaVZXQUJvNFF6WHVpa3RiLWc?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -1316,7 +1329,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVDVMSDhCZnZZUDFodERhZ2loT3BnTlVrdU1ycUNFalVobFg1UjJiRDdzSFhrai1lLVRRZGo1RWtqSW1IQTNrWURfNXFkSzZHcnBXeVE0cXgxMWdmMHIxLWlTZmZUalpYTzFqcGc1OGFwT3FoTUg2ODhKRVlpdFl0bTc4UkYtU3ZlVGhldzBPVmRQVThsbUp0MjM4SFBkc1VGRVRFdkRyR3J4UGFPbmY0UUFiamoycTJ0WVBnN3VWU1F0aUFHUUJ0TzRiMkNnMjdmT2VkVHg0em83WFFGYWlJaDZJMjdUbnVnN2FoMjlUbTRmSlUxcHJRZGpRd3RPb0E3czA2aNIBigJBVV95cUxPMG5DM1N0TDJlMW5NQWlRZHlvSGNYdWFldnROaW51V3N0dVdnbWdxaTRNbFBIbmtzUDc0Z0hOVmFmdWFuQ1VXU1JiN1B3czFyaVlNVldyU1RHTUlVeG5CQWxKS1dGaHF2Y0dtSGhfZHMyajJFZ3d3bHJ1YnkxR093RktzajUxWmhVbXdjUTVyaXZHUGhacmdydnpJOGVZZWJYOTZLbVByazZNdHk3SVZCZGNXdjM1M1FwVl9BeVFobmdibW4wWjc4WERIbUFRSmVxSklKUnI2aTZycmhKTFFkWERKb0lOWS01MmdLYVNsUlR3OVJrZHJYUi1SRVVGS0VDbk16SGFETHBIZw?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -1416,7 +1429,7 @@ const CONTENT = {
       "title": "Варто готуватися до найгіршого: чому Україна ризикує не закрити бюджетний дефіцит - Слово і Діло",
       "excerpt": "Згадка у виданні Слово і Діло",
       "date": "2 жовтня 2026",
-      "dateTS": 1790939100.0,
+      "dateTS": 1790924400.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYXJpcHJzMldzb2p4bXBaMzh2bkVrbHlDN2l4dlNuOUxOekViUXVtNXZZeTQxY3Qtdlp4bEdoRVpmbEYtbWlWeFpRdmp3RVZYdWhnZGNzeFJpUGZOUm5lRHZRQ1l4a1Q3M293S3A4NkdMZnV2a1NmM1VRRlpHQW14NEhrQlRQWUNaNEdmakxXZUg0aTF4Q2dKamFlb0paRFVtcFBHT1U4bTRyZjBkc1BqNzY2ZWtrc2oteHVGUG1jTmZ5UVhHSVpTVDNZdlNnQjhMX1RR0gHYAUFVX3lxTE9DT0JJODZ4d0VOdjNxWDdOTFF4aXlpZ2NIX0phNE1VSWF1a0xidFhCX2RISlh0TWI2VmxNN0FnTl95R0hxZWxzUDAtYXZ2OTZSMzVuSFlKTlFSZHRKTUh2ZzNfS2RoSGF5VS14cW11anZiRmRSZ3hON3k5WTZTWkpuSlppbFNVVjJxN3ZleDFXZG5kZGtiNWxzdFVsbUlzb0ttU2hOVmxXZHJVTm13aVdmRkEweXF3NnpxYm5EaTBEU1h0T0haVzQxamYwZ1JjVHpyNHc3Wmd6YQ?oc=5",
       "external": true,
@@ -1458,6 +1471,19 @@ const CONTENT = {
       "dateTS": 1790838000.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOGE4Y25rbHUtUVhyWjhGUF9fWkI0dGdUelJYeUFqVUppTUx0UUlMRU5zb0hfaGVXYzQxNWJqYXZmZG9OMXNRbUFJLVo4UkZSZFB0N1VfT21vd1lSQ3Jpa3JEVVdKWGtYWFJaeXVWWnRUTVVveUF0Zmw5Q2hZSlhGSnktVU0wNjhlLU1Ra2dOeHlVVW4zSGdKVWlWMWx6NWs3TXhKU0gzdThWZmdyY0R5V0RPSdIBtAFBVV95cUxQTHlKTC1iVEZtamU4N2J5SU9PWlBRc2d1WEtEUm9JS1o2WThtMDVlbElyV0NicDZlRlF5TnBrOHhMQ3dETzZYV01hdUtpaWpTWU5lX2lPU1Q5VkdyR3U0Rkg5T0V3Nk1mekVzT0xYR3BheDVWV2U2RDRVUVFKZ3ltX3VKVDJlblVpY2dGQ0U5a19SYkdLbC1vamNXa25obEdOczNHWW1DQ0FfRm5YWUxHejN5M1Y?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "MY.UA",
+      "title": "Курс долара до кінця 2026 року: аналітик назвав, скільки коштуватиме валюта - MY.UA",
+      "excerpt": "Згадка у виданні MY.UA",
+      "date": "30 вересня 2026",
+      "dateTS": 1790751600.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVTkyN08zVFJiUFBaQUE5c0RUTGh3b09oSEFfbDNCQUQ5NTJvbUhEVjFRdXFCclVRWW5fdV85WHFyUUNkS3pOTDM4Wm1mbUtxWm10UERYQlZ4RVo4TVhyZ0xRRldJUXdqbEdvRWRDbWk5bnhSamlOdDVua1pySFg5VUtQSjdTdmhEY053NFlyQXRDSldfTkhuOXdMMXRvdHF1Y3phazF3MnkydmphVmlIbUNpNGZSR3BP0gG6AUFVX3lxTFBoTXZQRVlVTE95bkxUa0tUbXVNc2pyWU1OdkFNVUxWLU5ydjdwOXU4RG05Sjh6OVFfb1BvLVVNSWZ1OTFDVGR5WVY3NW1WLTlSamxvV0c1dU4zLTJTemdJOC1LTWl5dDNqeHNkQVVTVWpzS0RGSTNHNXo4bWEwTUVqREVmM0RuVTNUbW9PZWlDZ0xEOEVoMEJWWFdqaFlyY1dtazRZQ05EMjJlQ3VWWWlsUW85VEM0WUs1UQ?oc=5",
       "external": true,
       "featured": false
     },
@@ -1575,6 +1601,32 @@ const CONTENT = {
       "dateTS": 1790502540.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlbTNpMVNoZXUzMnkzcF94NU9jOVRjd3FtZkhOemhqRWFsWlZlQ1MwSE5CaFhFZ0pnTFVIYlR2LVhnUlN3OHhpeXhta2Z4bm44TmNkenpGLUNIdGR2XzA00gFfQVVfeXFMUGVtM2kxU2hldTMyeTNwX3g1T2M5VGN3cW1mSE56aGpFYWxaVmVDUzBITkJoWEVnSmdMVUhiVHYtWGdSU3c4eGl5eG1rZnhubjhOY2R6ekYtQ0h0ZHZfMDQ?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "MY.UA",
+      "title": "Долар готує новий ривок: Шевчишин назвав курс, який побачимо у жовтні - MY.UA",
+      "excerpt": "Згадка у виданні MY.UA",
+      "date": "27 вересня 2026",
+      "dateTS": 1790492400.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVWU5cHRLWGMxLXZQbE1CVXBWczlrcWZUZm45cWlISXNaTU1qWjZpRXZYVXNfdHVwdm0yejdTWDRiMElSMW5zZjlXVVdkeERGZnVvZGpfZzA0SFRiZzBfR2RZY3NUbjdiVkxvcE9XMW02SVNMTnczTXJpWlhwOWVLUU9fZWJTTFdDNC1KSjA1LUZ5WjNmMnFuWnd0VkFXWlIwV1pkYXg1OFBITG1tR0dSLTVBa0FyZ9IBtwFBVV95cUxOcFNjVEJtVkFNSWI4WTNOY0tuOGpHdlZoZHFkOXBtVjcxcFI3OU9pSjRKVjRpalFpU3VYbmNZYXVpQ2paYWh3MXQtakpPTWpxLWUzSDF1c2JGRGM2aVlVazBzX2tMR0ZTRS10U0hlOHpOS2V4R0JBaVZVbVVxems3aUkyWFJMUkwxbzVTdlBLMW4zQTIxeFZMOWhOaDNQUnBRcC1UYXZIRTNhNjh3R3d1NVFoaWVGeXM?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Мінфін",
+      "title": "Долар може зрости до 46 грн: три сценарії для валютного ринку - Мінфін",
+      "excerpt": "Згадка у виданні Мінфін",
+      "date": "27 вересня 2026",
+      "dateTS": 1790492400.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBENGt0UlV5QmxxRk1keXA4ZFJVSDQ2VG90b1RYLVBRS1RfWTNKRGxnaU16SXB5ajNibU5CT1A1V1EwcUduXzlpTzA5SkR6NHZaZURFbWpidk96UdIBX0FVX3lxTFBlbTNpMVNoZXUzMnkzcF94NU9jOVRjd3FtZkhOemhqRWFsWlZlQ1MwSE5CaFhFZ0pnTFVIYlR2LVhnUlN3OHhpeXhta2Z4bm44TmNkenpGLUNIdGR2XzA0?oc=5",
       "external": true,
       "featured": false
     },
