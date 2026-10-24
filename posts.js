@@ -1,8 +1,73 @@
-// Автоматично оновлено: 2026-10-23 12:58 UTC
+// Автоматично оновлено: 2026-10-24 12:21 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Черговий валютний огляд вже на каналі Все що ви тут прочитали, можна подивитись на YouTube https:...",
+      "excerpt": "",
+      "date": "24 жовтня 2026",
+      "dateTS": 1792839117.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/964",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: 19–24 ЖОВТНЯ 2026: КЕРОВАНА ДЕВАЛЬВАЦІЯ ЖОВТНЯ (графіки т...",
+      "excerpt": "",
+      "date": "24 жовтня 2026",
+      "dateTS": 1792837677.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/959",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: 19–24 ЖОВТНЯ 2026: КЕРОВАНА ДЕВАЛЬВАЦІЯ ЖОВТНЯ (частина 3...",
+      "excerpt": "",
+      "date": "24 жовтня 2026",
+      "dateTS": 1792837554.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/958",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: 19–24 ЖОВТНЯ 2026: КЕРОВАНА ДЕВАЛЬВАЦІЯ ЖОВТНЯ (частина 2...",
+      "excerpt": "",
+      "date": "24 жовтня 2026",
+      "dateTS": 1792837483.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/957",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: 19–24 ЖОВТНЯ 2026: КЕРОВАНА ДЕВАЛЬВАЦІЯ ЖОВТНЯ (частина 1...",
+      "excerpt": "",
+      "date": "24 жовтня 2026",
+      "dateTS": 1792837457.0,
+      "readTime": "3 хв",
+      "url": "https://t.me/shevchyshyn_trends/956",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +79,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/955",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1237,74 +1302,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/844",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжбанк долар 44.87- 44.96 Я писав в тижневому огляді - почекайте хоча б два дні, щоб зрозуміти ч...",
-      "excerpt": "",
-      "date": "6 жовтня 2026",
-      "dateTS": 1791286874.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/843",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Ціни пшениці та кукурудзи повернулись до зростання через відсутність деескалації в Чорному морі. ...",
-      "excerpt": "",
-      "date": "6 жовтня 2026",
-      "dateTS": 1791281565.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/842",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "КРЕДИТУВАННЯ БАНКАМИ ЗА 8М2026: бізнес +20%, населення +25%, а роздріб тримають двоє  📈Лідери зро...",
-      "excerpt": "",
-      "date": "5 жовтня 2026",
-      "dateTS": 1791222702.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/837",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Строкові депозити населення за 8міс2026: 504 млрд грн, +8%, і майже весь приріст дала гривня  📈Лі...",
-      "excerpt": "",
-      "date": "5 жовтня 2026",
-      "dateTS": 1791222427.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/836",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ПРИБУТКИ УКРАЇНСЬКИХ БАНКІВ ЗА 8м2026.  📈 Серед топових банків за 8 місяців 2026 майже всі показа...",
-      "excerpt": "",
-      "date": "5 жовтня 2026",
-      "dateTS": 1791220339.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/835",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "MY.UA",
+      "title": "Українські агрохолдинги втратили п’яту частину вартості акцій за день - MY.UA",
+      "excerpt": "Згадка у виданні MY.UA",
+      "date": "23 жовтня 2026",
+      "dateTS": 1792753866.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaTdYcUZaN3NPb3U0NHpucXZRblV1WEEwN0RzZTRIajlxcE5COTNXQmNtdjkybnNJaS0tTndXTHdZd2xyYlJNQnljNWpJRWE4NEhGcnNxRFZ5cUV5Z0ZFLXpfMmU0d0pKRFA1T3BuVDhDa1Z3bnBUN010UmFPM01FbzlGSmdOV1hqRWcwUk5UQ19VWHY0RkcyYS11aE1hdDdFaHlWTHdZVDFOMUlhaEx2b0FB0gGzAUFVX3lxTE9IUXZ0SVQwQzlTdUNNcW1mSW1HcUFORkdUVm02YkIyNmNjMXh0X1c5cm1aVTYyTWdhSjJ6VktsYUtseFRLTVlLbjVUX0NzOXpMNXBrVFpfSDFMSHJhSHdneGpHTFItekstS2xOMDZSQUxqYkEyR2x0MkxjU1M3T3l4MFBBcGlodXQ0MUdoVGpNZmxDYXc5MW5BU0Y5NTR3N2xSRHNWQi14cXVIalBGUnRUcEY0?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -1316,7 +1329,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOVJUbGhsQjI4cmR0NjMwYzZPeVhGZzRKOGlGY3hmZ3ZkUnJnSWptSFJZX19Rc0xyaENQbEFTZWJLS0RaUFZOMGJqR1BHTEVYSGtBcVhXNkk0Nk5tWnY4THU3bWxUUlBnMDJ3Z3RWWUN3UDcyLVFSVWREV3Q1UkxJUHBsUXJINTFRem1seXc2NWRYd2E2OS1VWlUzVU5fc2l2M1RmaC1LcjdNT1NXcEFHbHJ2QVBfbkgxcS1GbVZzWdIB8gFBVV95cUxOekJHN1FDZjM1cTN6ZHhMTjV6a1dOVnVqa1d4aW9zRy1fRy1zWmNyU2ZQeC1BUXBxd0NhOTFvaEl5dUx3MXkzYzI5ajJBaDBJMFotQldwVkZsSndwajRTdUhoRXdMNU5nNkRaVkppSDVqODctNmZSdnFxRW11SkFBR1hLMkphTG52U2lXVmlJN0xpVzE4MnJNcmVsbWxXUGdUU0VWTnU4dmFTTFhBZUk2dmZ3eUlEb2hKNVRFZmhoT0ZyWEZfWDFLemZoWG81c3IyN2phanlYTVdkd2pzLTlrU19wbnZ6QXZLcEtyanQxTGtmUQ?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -1368,7 +1381,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZHdTZFp4YVgxUTlpNnlORE9CdkRhNmJEaklQNmEyZkdPZkpZYlFqdVZ1X2pZVjdFMzhGSzZYMTVPWnBjUWl3Vlg1aTFMTEdYZ3VPYl9BUTA2d0VsUlVFWk1yendSS2VPX182SGhpTnl2b3F3dkZET3JzZjF2RUpNWENtMklESjFSdm94dFBZcGN2blNuTXhqSEktSdIBoAFBVV95cUxNQVZBTWhrZ1UzQUp0R3o1dEJVYk5TZVFyWVU3a2lXR3U5c0FZc1FOV1dtbk1TUV91RVBnbjMxWkZpTFZPNlJxRl9DMVMxbjFQS3RNdzl4ekRYTUpDdnNpcjVkVnJCTjdmdDNSN1NjbnBFcmdlZFZOQVNuX2NDMENJLWNDYnk4YTFlNlRYdVU4MjQ4eGlERHA4bS1XbHRNWGNJ?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -2598,6 +2611,19 @@ const CONTENT = {
       "source": "youtube",
       "tag": "youtube",
       "tagLabel": "YouTube",
+      "title": "КЕРОВАНА ДЕВАЛЬВАЦІЯ ЖОВТНЯ 2026",
+      "excerpt": "00:00 Вступ\n00:41 Огляд тижня - контрольована девальвація\n03:33 Чому девальвація зараз?\n06:42 Міжбанк - попит, пропозиція дефіцит \n08:28 Готівковий - попит, пропозиція дефіцит \n09:33 Загальний баланс",
+      "date": "24 жовтня 2026",
+      "dateTS": 1792838737.0,
+      "readTime": "відео",
+      "url": "https://www.youtube.com/watch?v=vPjOiEfgYHQ",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "youtube",
+      "tag": "youtube",
+      "tagLabel": "YouTube",
       "title": "ТОРГОВИЙ Й ВАЛЮТНИЙ ДЕФІЦИТ ЗРОСТАЄ, ГРИВНЯ ТРИМАЄТЬСЯ ЛИШЕ В ЦИФРАХ, А В ГОЛОВАХ ВЖЕ ВПАЛА",
       "excerpt": "00:00 Вступ\n00:24 Валютний ринок 12-17 жовтня 2026\n04:24 Міжбанк баланс\n05:29 Готівковий ринок баланс\n06:49 Загальний дефіцит\n07:45 Психологічні фактори впливу на курс гривні\n11:58 Очікування по курсу",
       "date": "17 жовтня 2026",
@@ -2605,7 +2631,7 @@ const CONTENT = {
       "readTime": "відео",
       "url": "https://www.youtube.com/watch?v=CfODTJKurCg",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "youtube",
