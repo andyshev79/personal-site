@@ -1,8 +1,60 @@
-// Автоматично оновлено: 2026-10-25 12:52 UTC
+// Автоматично оновлено: 2026-10-26 14:42 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Може у когось палець залипнув? )) Міжбанк долар 45.65 - 45.69  Це все ще відбувається під наглядо...",
+      "excerpt": "",
+      "date": "26 жовтня 2026",
+      "dateTS": 1793015678.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/968",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Хм... був впевнений, що НБУ стопорне курс,  але бачу що дає пойорзати долару й банкам 45.57 - 45.60",
+      "excerpt": "",
+      "date": "26 жовтня 2026",
+      "dateTS": 1793012044.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/967",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Міжбанк відкрився красиво долар 45.45- 45.55",
+      "excerpt": "",
+      "date": "26 жовтня 2026",
+      "dateTS": 1793003316.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/966",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Я й не знав. 4 найбільші банки світу за розміром активів це китайські банки.   В ТОП20 китайські ...",
+      "excerpt": "",
+      "date": "25 жовтня 2026",
+      "dateTS": 1792943122.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/965",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +66,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/964",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1248,58 +1300,6 @@ const CONTENT = {
       "dateTS": 1791368636.0,
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/848",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Грошей (ліквідності) в системі значно менше - мінімум з лютого.  Економія уряду, роздовбаний бізн...",
-      "excerpt": "",
-      "date": "7 жовтня 2026",
-      "dateTS": 1791361434.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/847",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Повертайте долар на 45, бо EUR/USD знов валиться )))  Міжбанк долар до гривні 44.87 - 44.91",
-      "excerpt": "",
-      "date": "7 жовтня 2026",
-      "dateTS": 1791360897.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/846",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "У межах оптимізації та підвищення ефективності державного апарату в центральних органах виконавчо...",
-      "excerpt": "",
-      "date": "6 жовтня 2026",
-      "dateTS": 1791295102.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/845",
-      "external": true,
-      "featured": true
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "44.85 - 44.89 Це гривня - бейбі🤪  P.S. Чи це відміняє девал й перехід долару вище 45? Ні. Просто ...",
-      "excerpt": "",
-      "date": "6 жовтня 2026",
-      "dateTS": 1791289979.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/844",
       "external": true,
       "featured": false
     }
