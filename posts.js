@@ -1,8 +1,86 @@
-// Автоматично оновлено: 2026-10-26 14:42 UTC
+// Автоматично оновлено: 2026-10-27 13:48 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Новий рекорд на міжбанку по долару 45.69 - 45.75 ...й знов після обіду...",
+      "excerpt": "",
+      "date": "27 жовтня 2026",
+      "dateTS": 1793106544.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/974",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Золото знову в тренді безпоставочних операцій, а срібло продовжують скидати  У вересні попит укра...",
+      "excerpt": "",
+      "date": "27 жовтня 2026",
+      "dateTS": 1793099085.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/973",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "На міжбанку зранку відкат від вчорашнього закриття (закриття було на 45,65, максимум 45,70).  дол...",
+      "excerpt": "",
+      "date": "27 жовтня 2026",
+      "dateTS": 1793090117.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/972",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "У вересні 2026 року банки завезли рекордні в цьому році об'єми готівкової валюти - 1'122'643 дол ...",
+      "excerpt": "",
+      "date": "26 жовтня 2026",
+      "dateTS": 1793041219.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/971",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Роздрібні продажі за 9м2026 сповільнились до 8%.",
+      "excerpt": "",
+      "date": "26 жовтня 2026",
+      "dateTS": 1793032438.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/970",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Роздрібні продажі за 9м2026 сповільнились до 8%.  Було 8,8%, сповільнились до 8%, ну начебто не т...",
+      "excerpt": "",
+      "date": "26 жовтня 2026",
+      "dateTS": 1793032422.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/969",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +92,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/968",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1224,87 +1302,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/855",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Дохідність 10-річних казначейських облігацій США зросла до 5,32% у середу, повернувшись до рівнів...",
-      "excerpt": "",
-      "date": "7 жовтня 2026",
-      "dateTS": 1791381566.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/854",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "🚢 Експорт агропродукції у вересні склав 46% від потенційного обсягу.  Найнижчим відносно потенцій...",
-      "excerpt": "",
-      "date": "7 жовтня 2026",
-      "dateTS": 1791379839.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/853",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ЗОЛОТО-ВАЛЮТНІ РЕЗЕРВИ ЗНИЗИЛИСЬ НА 3,2% ДО $47,1 МЛРД   В цьому році - це другий найменший показ...",
-      "excerpt": "",
-      "date": "7 жовтня 2026",
-      "dateTS": 1791377862.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/851",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжбанк долар: 44.76 -  44.90 Подивіться на спред. Для міжбанку це нереально широкий спред.  Грав...",
-      "excerpt": "",
-      "date": "7 жовтня 2026",
-      "dateTS": 1791373086.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/850",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Україна отримала ще 1,2 млрд євро від ЄС в межах Ukraine Support Loan.  Кошти спрямуємо на першоч...",
-      "excerpt": "",
-      "date": "7 жовтня 2026",
-      "dateTS": 1791372234.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/849",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ЧИСТИЙ ПОПИТ НА ГОТІВКОВУ ВАЛЮТУ У ВЕРЕСНІ ВИРІС ДО 6-МІСЯЧНОГО МАКСИМУМУ  Всього за вересень укр...",
-      "excerpt": "",
-      "date": "7 жовтня 2026",
-      "dateTS": 1791368636.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/848",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Слово і Діло",
+      "title": "Чи гальмує жорстка монетарна політика економіку під час війни - Слово і Діло",
+      "excerpt": "Згадка у виданні Слово і Діло",
+      "date": "26 жовтня 2026",
+      "dateTS": 1793002080.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLU51Nlo4aWNJUXlmQ0sxbGROWW1MeDkzM2dXeENwY3NpMXctdTFQUUVJUXZBZlFOR09xeGlCVXJRaVZoaUpLNU9GM1hlZUxmUU1EeFdwS252bEpSUWZUVndUM1h1VEZDSXBuQmZsSUJZUGRObnZGNWdKaDYtUWxHRTRvWC1nUDJJRnBlVG1TWGVwMHFWczlLaWJ6T3dwQjZfNkJ5YzZJYXd5U0l5a2ww0gG0AUFVX3lxTE5yc2ZOdUNvTmFlSS02Qk9NamVZZGtGemYyaGd0ZWlWQUg2S0pjMm9MMEg5LWJNcGpVck1KOEU2SUNoYzZnRGZsWlFmRzJkZlJial9VNnFua2g0NmR3aVpXUlFMVWNiNC1QMk9jd3g5YTNWeHpzM2thb3VmdXY2amRnb1FRX0NJNTh2WGo3WEJXWC1nbDlZUFBJOFFnQnU1VEdDdUtDanhCNm9YOEdLODExaU9faA?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -1316,7 +1329,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaTdYcUZaN3NPb3U0NHpucXZRblV1WEEwN0RzZTRIajlxcE5COTNXQmNtdjkybnNJaS0tTndXTHdZd2xyYlJNQnljNWpJRWE4NEhGcnNxRFZ5cUV5Z0ZFLXpfMmU0d0pKRFA1T3BuVDhDa1Z3bnBUN010UmFPM01FbzlGSmdOV1hqRWcwUk5UQ19VWHY0RkcyYS11aE1hdDdFaHlWTHdZVDFOMUlhaEx2b0FB0gGzAUFVX3lxTE9IUXZ0SVQwQzlTdUNNcW1mSW1HcUFORkdUVm02YkIyNmNjMXh0X1c5cm1aVTYyTWdhSjJ6VktsYUtseFRLTVlLbjVUX0NzOXpMNXBrVFpfSDFMSHJhSHdneGpHTFItekstS2xOMDZSQUxqYkEyR2x0MkxjU1M3T3l4MFBBcGlodXQ0MUdoVGpNZmxDYXc5MW5BU0Y5NTR3N2xSRHNWQi14cXVIalBGUnRUcEY0?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -2589,19 +2602,6 @@ const CONTENT = {
       "dateTS": 1781852400.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMHN6U3pScGVsQUwwanBkWWF0Y19keGstUlBybGRHa3diRGtBcjduS0YyQU9mSmlCUk4tckczb2RiVy16X0dJYlNHdzhFVjF4VnFtVkd5Wks0dGpxc1hSZFEyUDR3UmdyQWdVODBmczV4UTlYckFxdVlzelZ0ZDFQSW1VMjBaam9maS1YT0thcWJ3UkJycHBDMFlvR2xIQ01ZNlV2ZnNUdGY4aFRBZEVDSE5DRVYxVk1yclZTNG94bEPSAcYBQVVfeXFMTVhYdTV4OWlZVkd4LWt0UXY5RUpheDZkWHJUWU1hNHRDRWx6MHMyUTN3U25RcVlSZkUxcG1fWFBSYTJyM3JvLUxtbk0tUlRyeFlIZ2c4eTM1aUFOWE40a0xqOFRTNWMxMlpETHRKaWFIMWRtTk54WmJCN25DcWN5M0FXR0JZbGE5N3hpNXRUVXhJeDRyMjl0eXFrMWpjZVBTeDJpUUM3YU1BZGM0UFNwMWNyc3ZsNEV2aWRFME02aGtsUm5fQUhR?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "focus.ua",
-      "title": "Долар шокував ринок, курс валют пробив психологічну межу — фінаналітик зробив прогноз на тиждень - focus.ua",
-      "excerpt": "Згадка у виданні focus.ua",
-      "date": "15 червня 2026",
-      "dateTS": 1781506800.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLUhBbjVXZm95VnVNM3JuYVhOcE42d0p2SkhwRG9FWk1VenhELTBka2ZzMjZEeTlWVkl0XzJEbmU1OFRUYWdOS2k4UGlxdERDUGo2anlqUl9sSlE2VzBfVV9OTmQxSkxoZjRFNklYNUxVMWlTMjByZnJVaTlIWWlOTmY3Y0duLTlPYzhBcVNZclRrRzBUdjBWMU90d3BZdEx5STlwRjZwTHFsdGd1eExPRVJtVUdfMUhE0gG-AUFVX3lxTFB5SkZBVkVpZTBJaTVaeGJneFdEYUp4NUpReXJERFpReU1mQXozZTZ6V0xVenBUT2dpcUduZHo4V04tR2djQVE4QXVjYkEyNHNEYzA3NkpvbWZHTzhNaW1ZMHNTT2FVczMtM1pyUnBoX2FkRFdkdGk5SWVVTG51Q3d1UUtUaWVURk9Vcms1aDRvSlVybWVSaVN3VUhZQUFNSjJPcF94ZUt0N001SmVIendLQ25JbEZsRkg1dFlWUmc?oc=5",
       "external": true,
       "featured": false
     }
