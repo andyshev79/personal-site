@@ -1,8 +1,99 @@
-// Автоматично оновлено: 2026-10-27 13:48 UTC
+// Автоматично оновлено: 2026-10-28 14:43 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Міжбанк закрився на мінімумах дня та майже на мінімумах тижня 45.50 -  45.55 Сьогодні рекордні об...",
+      "excerpt": "",
+      "date": "28 жовтня 2026",
+      "dateTS": 1793196506.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/981",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Україна залучила ще $404,5 млн від Японії та Світового банку в межах проєкту THRIVE на розвиток с...",
+      "excerpt": "",
+      "date": "28 жовтня 2026",
+      "dateTS": 1793188415.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/980",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Бюджет 2027 прийнято в 1му читанні. Друге читання 23-26 листопада 2026.",
+      "excerpt": "",
+      "date": "28 жовтня 2026",
+      "dateTS": 1793184309.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/979",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Міжбанк сьогодні відкрився з пониженням  долар 45.58 - 45.63 (закриття вчора було на 45,70)  Готі...",
+      "excerpt": "",
+      "date": "28 жовтня 2026",
+      "dateTS": 1793177040.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/978",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Мінфін зовсім очмінів. Дуже жадібний ) Сьогодні дорозмістив військові ОВДП (річні, погашення в ве...",
+      "excerpt": "",
+      "date": "27 жовтня 2026",
+      "dateTS": 1793128209.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/977",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Фонд Гарантування Вкладів Фізичних Осіб опублікував свіжу статистику щодо коштів українців  Голов...",
+      "excerpt": "",
+      "date": "27 жовтня 2026",
+      "dateTS": 1793116729.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/976",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "❗Депутати знову хочуть обмежити журналістські розслідування.  У порядку денному Верховної Ради з’...",
+      "excerpt": "",
+      "date": "27 жовтня 2026",
+      "dateTS": 1793112589.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/975",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +105,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/974",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1211,97 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/864",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Сьогодні 14:00 чекаємо на публікацію Інфляції за вересень 2026",
-      "excerpt": "",
-      "date": "9 жовтня 2026",
-      "dateTS": 1791538049.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/863",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "🏗 Будівництво в Україні за 8м2026: -9,9%  У серпні 2026: +12,9%м/м, -3,7%р/р.  Найбільше провалля...",
-      "excerpt": "",
-      "date": "9 жовтня 2026",
-      "dateTS": 1791537486.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/862",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "О... трохи відліпло міжбанк долар 44.92 - 44.96",
-      "excerpt": "",
-      "date": "8 жовтня 2026",
-      "dateTS": 1791458186.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/859",
-      "external": true,
-      "featured": true
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "🚢 Вп’ятеро зросла вартість страхування суден у Чорному морі за останні два тижні на тлі російськи...",
-      "excerpt": "",
-      "date": "8 жовтня 2026",
-      "dateTS": 1791454015.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/858",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "🚢  Сьогодні рейс супертанкера з нафтою зі США до Азії коштує  77 млн ​​дол. Торік середня вартіст...",
-      "excerpt": "",
-      "date": "8 жовтня 2026",
-      "dateTS": 1791451293.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/857",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжбанк долар/гривня: 44.83 - 44.86🤦‍♂️  P.S. Євро падає, й торгується нижче 1,12, щоб мало підтр...",
-      "excerpt": "",
-      "date": "8 жовтня 2026",
-      "dateTS": 1791450286.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/856",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "🛢Brent вище 104+ дол за бар - двотижневий максимум. Трамп спекулює.  Все через:  - Повідомлення п...",
-      "excerpt": "",
-      "date": "8 жовтня 2026",
-      "dateTS": 1791449325.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/855",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1445,6 +1445,19 @@ const CONTENT = {
       "dateTS": 1791785868.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmdMdlUweUFmcDFPQ3lNaEk2c3hSdUptcmkzMFozdE93d2o0UFVnNk5ZTlEyR1BFT01MUlJJeUd4NFg1LWFDa3ZnNFBrM0RmYjctNHNyNll3Y0gtUkttbWszQjJqX2RONUM2dTVNOC1IblNhcEw5SzZhM0NOd0szNE9ham16emtxc1NZMzl1ZW94V0xLaXZZaGwxNklXQnJVUGxfbUZJa2xtVTTSAbABQVVfeXFMTTk1U04tX2NURWRlZ2o4YjdQeGhuYlV1RVBiMWJBSXFsZGpXNVFoak0tMnFROEY2OG5zd09lUWpiY1I1UW1RWUZUNjlpdmljcURoYVFYbFdoTXZpaXk2ZU5LaHZZUjhkUkFka2I5cUNfdjk0cFVvT1NSUUxEZERXUGsteFo2UVh5WnY4Sy00UzluT1BJbF9Od09qTGFsSVEwTHZjcTRUSHZJZFY5Umc3WHk?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "ФОКУС",
+      "title": "Угода Трампа з Путіним щодо дизеля: експерти пояснили, що отримає Росія і чим це загрожує Україні - ФОКУС",
+      "excerpt": "Згадка у виданні ФОКУС",
+      "date": "10 жовтня 2026",
+      "dateTS": 1791615600.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdnZ0bDJhckxTbkwxUE1lQzdZbVFralJZdzFNTHhXWWhRU3dodzVJbGhRMFg3Qm1sSGY1RFBtUTJRc2otWEtSdjVEUzBjSkZCaEljZFNFTFJscjNLbkluMW8yV0hlbEZUajlKaG1sRUdkNzhPbjlncVQ2WmQ4R3J1cHNtXy1MQWZCRWdnZmo0ZEljZ1JDenR0THp6V0N3UHhKSXdkVG1oeWHSAa4BQVVfeXFMTUxtR2ZLNGczVlJJdkN0SHhmTUg1My1aMVA0SnNoeTlBVTY3ZHZIT0Jab1pTNktZNi1IbHhhSWVIb2RMZS0yWG91d2VyaWEtdWdiNmhRTlNqRXJFOU9Cem5NU292SGV0MWs4MFdYLURtYTE4TG9sendtOE9FeTdNUV9adHBtTVBfc0hOcWlDUmRNLS10TnpEajNTNVpaYTFLbWpwb1NlTklyOHVFTVd3?oc=5",
       "external": true,
       "featured": false
     },
@@ -1659,19 +1672,6 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "Мінфін",
-      "title": "Долар може зрости до 46 грн: три сценарії для валютного ринку - Мінфін",
-      "excerpt": "Згадка у виданні Мінфін",
-      "date": "27 вересня 2026",
-      "dateTS": 1790492400.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBENGt0UlV5QmxxRk1keXA4ZFJVSDQ2VG90b1RYLVBRS1RfWTNKRGxnaU16SXB5ajNibU5CT1A1V1EwcUduXzlpTzA5SkR6NHZaZURFbWpidk96UdIBX0FVX3lxTFBlbTNpMVNoZXUzMnkzcF94NU9jOVRjd3FtZkhOemhqRWFsWlZlQ1MwSE5CaFhFZ0pnTFVIYlR2LVhnUlN3OHhpeXhta2Z4bm44TmNkenpGLUNIdGR2XzA0?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
       "tagLabel": "MY.UA",
       "title": "Долар готує новий ривок: Шевчишин назвав курс, який побачимо у жовтні - MY.UA",
       "excerpt": "Згадка у виданні MY.UA",
@@ -1679,6 +1679,19 @@ const CONTENT = {
       "dateTS": 1790492400.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVWU5cHRLWGMxLXZQbE1CVXBWczlrcWZUZm45cWlISXNaTU1qWjZpRXZYVXNfdHVwdm0yejdTWDRiMElSMW5zZjlXVVdkeERGZnVvZGpfZzA0SFRiZzBfR2RZY3NUbjdiVkxvcE9XMW02SVNMTnczTXJpWlhwOWVLUU9fZWJTTFdDNC1KSjA1LUZ5WjNmMnFuWnd0VkFXWlIwV1pkYXg1OFBITG1tR0dSLTVBa0FyZ9IBtwFBVV95cUxOcFNjVEJtVkFNSWI4WTNOY0tuOGpHdlZoZHFkOXBtVjcxcFI3OU9pSjRKVjRpalFpU3VYbmNZYXVpQ2paYWh3MXQtakpPTWpxLWUzSDF1c2JGRGM2aVlVazBzX2tMR0ZTRS10U0hlOHpOS2V4R0JBaVZVbVVxems3aUkyWFJMUkwxbzVTdlBLMW4zQTIxeFZMOWhOaDNQUnBRcC1UYXZIRTNhNjh3R3d1NVFoaWVGeXM?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Мінфін",
+      "title": "Долар може зрости до 46 грн: три сценарії для валютного ринку - Мінфін",
+      "excerpt": "Згадка у виданні Мінфін",
+      "date": "27 вересня 2026",
+      "dateTS": 1790492400.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBENGt0UlV5QmxxRk1keXA4ZFJVSDQ2VG90b1RYLVBRS1RfWTNKRGxnaU16SXB5ajNibU5CT1A1V1EwcUduXzlpTzA5SkR6NHZaZURFbWpidk96UdIBX0FVX3lxTFBlbTNpMVNoZXUzMnkzcF94NU9jOVRjd3FtZkhOemhqRWFsWlZlQ1MwSE5CaFhFZ0pnTFVIYlR2LVhnUlN3OHhpeXhta2Z4bm44TmNkenpGLUNIdGR2XzA0?oc=5",
       "external": true,
       "featured": false
     },
@@ -2589,19 +2602,6 @@ const CONTENT = {
       "dateTS": 1782630000.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM0o5UlUtcEZPSkgtaWtrTFBoMUdRN09LR2FpMXJnSkRGTHVSb3lsTHNjZm1lQ3pEamRKUDF1Z2hNX1M5UmNJQkltMGZkZTNPMWJ3cVB3X0M2S1hPZUZmc3A5TXo2VHdWOFFLaXY2X0tEaE1LNWt3Q1BBMGw2TmQtSDNjdUhBeWxLS0k5WTR0TG1Ua1RNX3o3S1JTa1BQSmEyejBr0gGoAUFVX3lxTE41VlI5dTBLZjVSaGV1YmRvOW9LRndjZDJPMFJfM3RERmpmLThnRkxQaHhkblQyNk44MkVUaUZqRTN3U1FfWF9fMGw2Mmg2UWpXLVdMTVpkbThvbDRzY0h1TjBxSFVEczdkaEFjREZvN09xRklOR3R6NGRMUmxLU2Z4dE5iMmVvOUFOWUNsVHU0d2FraXJWQXAwTVJhdElhUkNxTnVqWWNKQQ?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "focus.ua",
-      "title": "Сценарій миру вже у НБУ: експерт звернув увагу на важливий сигнал після рішення про ставку 15% - focus.ua",
-      "excerpt": "Згадка у виданні focus.ua",
-      "date": "19 червня 2026",
-      "dateTS": 1781852400.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMHN6U3pScGVsQUwwanBkWWF0Y19keGstUlBybGRHa3diRGtBcjduS0YyQU9mSmlCUk4tckczb2RiVy16X0dJYlNHdzhFVjF4VnFtVkd5Wks0dGpxc1hSZFEyUDR3UmdyQWdVODBmczV4UTlYckFxdVlzelZ0ZDFQSW1VMjBaam9maS1YT0thcWJ3UkJycHBDMFlvR2xIQ01ZNlV2ZnNUdGY4aFRBZEVDSE5DRVYxVk1yclZTNG94bEPSAcYBQVVfeXFMTVhYdTV4OWlZVkd4LWt0UXY5RUpheDZkWHJUWU1hNHRDRWx6MHMyUTN3U25RcVlSZkUxcG1fWFBSYTJyM3JvLUxtbk0tUlRyeFlIZ2c4eTM1aUFOWE40a0xqOFRTNWMxMlpETHRKaWFIMWRtTk54WmJCN25DcWN5M0FXR0JZbGE5N3hpNXRUVXhJeDRyMjl0eXFrMWpjZVBTeDJpUUM3YU1BZGM0UFNwMWNyc3ZsNEV2aWRFME02aGtsUm5fQUhR?oc=5",
       "external": true,
       "featured": false
     }
