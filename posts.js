@@ -1,8 +1,86 @@
-// Автоматично оновлено: 2026-10-28 14:43 UTC
+// Автоматично оновлено: 2026-10-29 14:49 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Міжбанк 45.35 - 45.45 😂 Тур Хеердал, Тур Хеервзял )))  UPD: 45.32 - 45.37 на 15:45",
+      "excerpt": "",
+      "date": "29 жовтня 2026",
+      "dateTS": 1793280705.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/988",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Міжбанк 45.46 - 45.52 Не скажу, що це прям точно реакція на ставку, бо очікували її підвищення як...",
+      "excerpt": "",
+      "date": "29 жовтня 2026",
+      "dateTS": 1793279567.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/987",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Облікова ставка 16,5% (+0,5п.п.) - як й очікувалось.  НБУ знову підкреслив (прямо в першому абзац...",
+      "excerpt": "",
+      "date": "29 жовтня 2026",
+      "dateTS": 1793275993.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/985",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "СЕРЕДНЯ НОМІНАЛЬНА ЗАРПЛАТА (ДО ВИПЛАТИ ПОДАТКІВ) В УКРАЇНІ У ВЕРЕСНІ СТРИМБНУЛА ДО 33153 грн (+4...",
+      "excerpt": "",
+      "date": "29 жовтня 2026",
+      "dateTS": 1793269420.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/984",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Чиста купівля готівкової валюти населенням у вівторок 27 жовтня становила рекордні 71,08 млн дол....",
+      "excerpt": "",
+      "date": "29 жовтня 2026",
+      "dateTS": 1793262374.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/983",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "За 9міс2026р чиста купівля готівкової валюти фіз.особами становила 5,12 млрд дол (+10,8%).  В рег...",
+      "excerpt": "",
+      "date": "28 жовтня 2026",
+      "dateTS": 1793200446.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/982",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +92,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/981",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1224,87 +1302,35 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/870",
       "external": true,
       "featured": false
-    },
+    }
+  ],
+  "news": [
     {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "писав 2 жовтня про нестандартні рішення... 🎈??? ріллі ???   Ну тобто приходе бухгалтерія/аудит/па...",
-      "excerpt": "",
-      "date": "9 жовтня 2026",
-      "dateTS": 1791556990.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/869",
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "1plus1.ua",
+      "title": "Долар, євро чи гривня: експерти пояснили, у чому краще тримати заощадження - 1plus1.ua",
+      "excerpt": "Згадка у виданні 1plus1.ua",
+      "date": "27 жовтня 2026",
+      "dateTS": 1793131799.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMERxMXoyUHFVR1lBc0huWkVqZUg5dW90WFUtcmwyanRycFhGaDRFRUNzdFJjaXg5WjgyWE5uSTlXWE1LZlhhbUJtRlRPbkNQRWRnREIydDF1bDJseTNQTElKdDZfdXJMZC1VYklVSnlqUUtrTHg5VE1OR1puYUVOOFBVMEdQTUF6cUpMUmw4TW5WX2hobG1qemtaTlFNRTdpb0thcHlCaXczaFI4a080dWU0a9IBswFBVV95cUxNMERxMXoyUHFVR1lBc0huWkVqZUg5dW90WFUtcmwyanRycFhGaDRFRUNzdFJjaXg5WjgyWE5uSTlXWE1LZlhhbUJtRlRPbkNQRWRnREIydDF1bDJseTNQTElKdDZfdXJMZC1VYklVSnlqUUtrTHg5VE1OR1puYUVOOFBVMEdQTUF6cUpMUmw4TW5WX2hobG1qemtaTlFNRTdpb0thcHlCaXczaFI4a080dWU0aw?oc=5",
       "external": true,
       "featured": true
     },
     {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Металургійні підприємства України у вересні 2026 року виробили усього 131 тис. т сталі (52,7% м/м...",
-      "excerpt": "",
-      "date": "9 жовтня 2026",
-      "dateTS": 1791554379.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/868",
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Слово і Діло",
+      "title": "Чи гальмує жорстка монетарна політика економіку під час війни - Слово і Діло",
+      "excerpt": "Згадка у виданні Слово і Діло",
+      "date": "26 жовтня 2026",
+      "dateTS": 1793002080.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLU51Nlo4aWNJUXlmQ0sxbGROWW1MeDkzM2dXeENwY3NpMXctdTFQUUVJUXZBZlFOR09xeGlCVXJRaVZoaUpLNU9GM1hlZUxmUU1EeFdwS252bEpSUWZUVndUM1h1VEZDSXBuQmZsSUJZUGRObnZGNWdKaDYtUWxHRTRvWC1nUDJJRnBlVG1TWGVwMHFWczlLaWJ6T3dwQjZfNkJ5YzZJYXd5U0l5a2ww?oc=5",
       "external": true,
       "featured": false
     },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ІНФЛЯЦІЯ ВЕРЕСЕНЬ 2026: ПЕРЕТНУЛИ 10%  Вересень дав +2,1% м/м і річну 10,0% - перший двозначний п...",
-      "excerpt": "",
-      "date": "9 жовтня 2026",
-      "dateTS": 1791550771.0,
-      "readTime": "3 хв",
-      "url": "https://t.me/shevchyshyn_trends/866",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Опалювальний сезон і нові удари по енергетиці - витрати бізнесу на резервне живлення знову йдуть ...",
-      "excerpt": "",
-      "date": "9 жовтня 2026",
-      "dateTS": 1791550771.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/867",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Інфляція в Україні  +2,1%м/м (максимум 27міс) та 10%р/р (максимум 11міс)  Продуктова інфляція: +1...",
-      "excerpt": "",
-      "date": "9 жовтня 2026",
-      "dateTS": 1791543895.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/865",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Я в валютних оглядах зазвичай обхожу сегмент безготівкових валютних операцій  населення, але...  ...",
-      "excerpt": "",
-      "date": "9 жовтня 2026",
-      "dateTS": 1791539392.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/864",
-      "external": true,
-      "featured": false
-    }
-  ],
-  "news": [
     {
       "source": "news",
       "tag": "news",
@@ -1369,6 +1395,19 @@ const CONTENT = {
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX2EtWFd2QjQ4YlhaS25EWWJQekVhbmllNlQxSGFBRW9qY2l1ZVVtdXBrelgtNDlwRTBSako1cmtwd2Z1WWNudGRqclBOeGlTRmxQYy1HYXNtLXpRR0lFN0g3b2RZWUczRlZRbHJxUi15dmliblpwanVHeTlFVU8xbGM3cUR1QzVPYkI5TWktZDcxV1hYejdySDZyTHRmcWJsZkQtRDI4ZTlPYUM3eV9vYzhoaTdqc1VjYUFRd1cySWlIaVZXQUJvNFF6WHVpa3RiLWc?oc=5",
       "external": true,
       "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "MY.UA",
+      "title": "Долар на міжбанку наближається до позначки 45 грн, євро втрачає позиції: аналіз валютного курсу в Україні - MY.UA",
+      "excerpt": "Згадка у виданні MY.UA",
+      "date": "19 жовтня 2026",
+      "dateTS": 1792404765.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTmlXRmctQVlDdGVRZHVGZFpNRjJSSWlNMi1RQWlwRWdVZW45cUVJSTB2VmZndzdCd2NhVk9FcWE1WHEzRHhuUllkYXVCLWxOYjRTY0gzMkJleTVBZlliWXhtWjRveWZ3c3Z0UGZmd3RqZkhaU0hBMnJpbUxUazJDM25fZEhlSmJxT29xR19KZ0J5a2JiUU4ta29oS2d4amZ1MzRUR0p4a2Z2bFJUWFJRcks2NnYtVkc4aXRkXzlFQ1QwRnllbDhncnhMQmdaaldERlFEb1FfVi1HdmdsTFdvd0pDa2VoMGpkeFR3UGtVYXVBYnd0VXVPTWtNVzlMOFJucndhbWJYbC3SAYoCQVVfeXFMTzBuQzNTdEwyZTFuTUFpUWR5b0hjWHVhZXZ0TmludVdzdHVXZ21ncWk0TWxQSG5rc1A3NGdITlZhZnVhbkNVV1NSYjdQd3MxcmlZTVZXclNUR01JVXhuQkFsSktXRmhxdmNHbUhoX2RzMmoyRWd3d2xydWJ5MUdPd0ZLc2o1MVpoVW13Y1E1cml2R1BoWnJncnZ6SThlWWViWDk2S21Qcms2TXR5N0lWQmRjV3YzNTNRcFZfQXlRaG5nYm1uMFo3OFhESG1BUUplcUpJSlJyNmk2cnJoSkxRZFhESm9JTlktNTJnS2FTbFJUdzlSa2RyWFItUkVVRktFQ25NekhhRExwSGc?oc=5",
+      "external": true,
+      "featured": false
     },
     {
       "source": "news",
@@ -2563,45 +2602,6 @@ const CONTENT = {
       "dateTS": 1783450266.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3S0o4UDdYUlNDSTUzVDR5NkIzbTV3T3RaY1ZkbE1QbkdiYzNJSFhLcHNwcG5hNnFmYW4zMG9tZnpZbGVoa21aSDE2R3c3a21GdWdXV1BNQnI1SW1VUV9rd2NlSlM3dUJl?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "my.ua",
-      "title": "Кому підвищать зарплати і пенсії у липні: експерти ошелешили прогнозом - my.ua",
-      "excerpt": "Згадка у виданні my.ua",
-      "date": "30 червня 2026",
-      "dateTS": 1782802800.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPekc0M2pINnlzeGxZbkYyMEx4MUdBYklVUWhJcndyTllOOUdrMGQwd0dmNnN6UGFiNU1FLXVIdjR3WHZ5eUN4RDlEeVNxazRBb2dZNm5rbkRKZ1lpckdkeWdGRDFxYWxvejQwWm4zMmdHcWlZTXAtU0Y4UXFnelZRcDVoNXNlM2V6M1hCOXQ4SGNRa0NDLVNiY2dyak5HZVBsaGNpX2hKUnJIaVh2NGZDa1NRZnMtZU9iQndxa3MxS18xdlU3ZnJ5MjNBUHBFVGtIZ2Uwa1RwMFFHZ1RkN0t3cjdmMUJtTHo50gHqAUFVX3lxTE5KMUtrcHNtTEJCdHlpNzcxUFZJUDlTVkNTUmdCVUhMeDlTbVdNN0dsczlSZjVuckQ3SFNNdUpuWks3eHRZMVhPOElhWnphMkl0RFVNQlpJd0NCNXp2M28tXzFIeFdVOHF3QUxoZkJlWkFSeHhRVnR6TkdUY1RIX1BHcGhqV3plQ3NqalNVcmZNSVRhYWZUdnNJeFZrMVBhLWFUelRyRS04SnNDSkk0SkdnLWhfZUxXNmRuaUM2eDEyTFRVcW1oY2VkMEpQWkdqczVITlZ3YTFoYlpreTFCWFI3QVVRSnpxcVJvZw?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "Minfin.com.ua",
-      "title": "У травні українці масово продавали золоті злитки, але скуповували безготівкове золото - Minfin.com.ua",
-      "excerpt": "Згадка у виданні Minfin.com.ua",
-      "date": "28 червня 2026",
-      "dateTS": 1782630000.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTbnVVdXc4VUR5ZGEyNFBub2ZacnJLalZlLUptRElKQ0hOSXJBZWlfQmhXcG8xazBESGl5VVZNZE1iUGlwaTdnWUxwQUUwa3d0NkRmLVJNSHpGUQ?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "focus.ua",
-      "title": "\"Утримувати 45 грн нескінченно неможливо\": яким буде курс долара у липні — прогноз експерта - focus.ua",
-      "excerpt": "Згадка у виданні focus.ua",
-      "date": "28 червня 2026",
-      "dateTS": 1782630000.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM0o5UlUtcEZPSkgtaWtrTFBoMUdRN09LR2FpMXJnSkRGTHVSb3lsTHNjZm1lQ3pEamRKUDF1Z2hNX1M5UmNJQkltMGZkZTNPMWJ3cVB3X0M2S1hPZUZmc3A5TXo2VHdWOFFLaXY2X0tEaE1LNWt3Q1BBMGw2TmQtSDNjdUhBeWxLS0k5WTR0TG1Ua1RNX3o3S1JTa1BQSmEyejBr0gGoAUFVX3lxTE41VlI5dTBLZjVSaGV1YmRvOW9LRndjZDJPMFJfM3RERmpmLThnRkxQaHhkblQyNk44MkVUaUZqRTN3U1FfWF9fMGw2Mmg2UWpXLVdMTVpkbThvbDRzY0h1TjBxSFVEczdkaEFjREZvN09xRklOR3R6NGRMUmxLU2Z4dE5iMmVvOUFOWUNsVHU0d2FraXJWQXAwTVJhdElhUkNxTnVqWWNKQQ?oc=5",
       "external": true,
       "featured": false
     }
