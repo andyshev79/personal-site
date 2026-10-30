@@ -1,8 +1,73 @@
-// Автоматично оновлено: 2026-10-29 14:49 UTC
+// Автоматично оновлено: 2026-10-30 14:43 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Чистий попит населення на готівкову валюту в середу 28.10.26 сягнув 78,64 млн дол - другий істори...",
+      "excerpt": "",
+      "date": "30 жовтня 2026",
+      "dateTS": 1793367246.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/997",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "#ДумкиВголос Республіканці програють проміжні вибори в Конгрес (принаймні зараз це базовий сценар...",
+      "excerpt": "",
+      "date": "30 жовтня 2026",
+      "dateTS": 1793356603.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/996",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Міжбанк відкрився кволо 45.35 - 45.40  За 4 дні цього тижня оціночно інтервенції НБУ вже перевищи...",
+      "excerpt": "",
+      "date": "30 жовтня 2026",
+      "dateTS": 1793353251.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/995",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "❗️ ЭТО ПРЕВЗОШЛО ВСЁ, ЧТО КРИПТОИНДУСТРИЯ ВИДЕЛА ДО СИХ ПОР — АНАЛИТИКИ  Binance подверглась взло...",
+      "excerpt": "",
+      "date": "30 жовтня 2026",
+      "dateTS": 1793339837.0,
+      "readTime": "3 хв",
+      "url": "https://t.me/shevchyshyn_trends/994",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "❗️ КРУПНЕЙШАЯ КРИПТОБИРЖА BINANCE ПОСЛЕ ВЗЛОМА И СООТВЕТСТВУЮЩЕГО УЩЕРБА В $6,3 МЛРД ВРЕМЕННО ПРИ...",
+      "excerpt": "",
+      "date": "30 жовтня 2026",
+      "dateTS": 1793339591.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/989",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +79,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/988",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1235,71 +1300,6 @@ const CONTENT = {
       "dateTS": 1791631776.0,
       "readTime": "2 хв",
       "url": "https://t.me/shevchyshyn_trends/875",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: 5–10 ЖОВТНЯ 2026 НАСИЧЕНИЙ ТИЖДЕНЬ ПОПЕРЕДУ. МОЖЛИВІСТЬ У...",
-      "excerpt": "",
-      "date": "10 жовтня 2026",
-      "dateTS": 1791631751.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/874",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Інтервенції НБУ за тиждень - 1248,8 млн дол. 13 тижнів поспіль НБУ вливає в ринок більше 1млрд до...",
-      "excerpt": "",
-      "date": "10 жовтня 2026",
-      "dateTS": 1791625046.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/873",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Ціни пшениці та кукурудзи обвалились в п'ятницю до рівнів середини серпня.   З одного боку це бул...",
-      "excerpt": "",
-      "date": "10 жовтня 2026",
-      "dateTS": 1791624613.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/872",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "До 18 жовтня Трамп має ввести пекельні санкції, або пояснити Конгресу чому не запровадив.  А зара...",
-      "excerpt": "",
-      "date": "9 жовтня 2026",
-      "dateTS": 1791573689.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/871",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Крипта. Цікава новина з цікавими наслідками  ——————— Бессент: США конфискуют связанную с Ираном к...",
-      "excerpt": "",
-      "date": "9 жовтня 2026",
-      "dateTS": 1791561144.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/870",
       "external": true,
       "featured": false
     }
