@@ -1,8 +1,112 @@
-// Автоматично оновлено: 2026-10-30 14:43 UTC
+// Автоматично оновлено: 2026-10-31 14:06 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Сумарні інтервенції НБУ у жовтні перевищили 6 млрд дол (моя оцінка).  Новий абсолютний рекорд.",
+      "excerpt": "",
+      "date": "31 жовтня 2026",
+      "dateTS": 1793439496.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1008",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Валютні інтервенції за тиждень 26-30 жовтня 2026 - абсолютний історичний рекорд - 🥇1'818 млн дол🥇...",
+      "excerpt": "",
+      "date": "31 жовтня 2026",
+      "dateTS": 1793432647.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1007",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "🇺🇸 67 зі 100 компаній індексу Nasdaq 100 уже перебувають у ведмежому ринку, а загальні втрати їхн...",
+      "excerpt": "",
+      "date": "30 жовтня 2026",
+      "dateTS": 1793384544.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1006",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "IT експорт України за 9м2026 зріс на 3,2% до 5 млрд дол.  Ця складова забезпечує 40,8% всього укр...",
+      "excerpt": "",
+      "date": "30 жовтня 2026",
+      "dateTS": 1793383662.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1005",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЗОВНІШНЯ ТОРГІВЛЯ УКРАЇНИ - АНТИРЕКОРДИ  Закорковані порти Одеси, зупинена металургія, обстріляни...",
+      "excerpt": "",
+      "date": "30 жовтня 2026",
+      "dateTS": 1793383118.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1003",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Сальдо платіжного балансу України за 9м2026р - мінус $10,28 млрд через рекордний дефіцит торговог...",
+      "excerpt": "",
+      "date": "30 жовтня 2026",
+      "dateTS": 1793378697.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1002",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ПРИВАТНІ ГРОШОВІ ПЕРЕКАЗИ В УКРАЇНУ ЗА 9М2026: ПАДІННЯ СТАБІЛІЗУВАЛОСЬ НА РІВНІ -7%",
+      "excerpt": "",
+      "date": "30 жовтня 2026",
+      "dateTS": 1793377909.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1001",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ПРИВАТНІ ГРОШОВІ ПЕРЕКАЗИ В УКРАЇНУ ЗА 9М2026: ПАДІННЯ СТАБІЛІЗУВАЛОСЬ НА РІВНІ -7%  Приватні пер...",
+      "excerpt": "",
+      "date": "30 жовтня 2026",
+      "dateTS": 1793377827.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1000",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -1198,110 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/886",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Ціни в Штатах зросли на 30% з початку пандемії. Читай - долар втратив 30% купівельної спроможност...",
-      "excerpt": "",
-      "date": "12 жовтня 2026",
-      "dateTS": 1791800979.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/885",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжбанк, новий накат на 45 долар 44.97 - 45.00 і щось мені здається, що він буде більш вдалим.",
-      "excerpt": "",
-      "date": "12 жовтня 2026",
-      "dateTS": 1791798803.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/884",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Республіканці по жовтневим прогнозам програють й Санат й Конгрес",
-      "excerpt": "",
-      "date": "12 жовтня 2026",
-      "dateTS": 1791792253.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/883",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Щось суне...  Як ви вважаєте, їх цікавить Україна в моменті? Як ви вважаєте, чи легка вони ціль д...",
-      "excerpt": "",
-      "date": "10 жовтня 2026",
-      "dateTS": 1791649283.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/882",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Подивитись валютний огляд запрошую до мого ютуб каналу https://youtu.be/SHD3NTXnaGE  0:00 Вступ 0...",
-      "excerpt": "",
-      "date": "10 жовтня 2026",
-      "dateTS": 1791646568.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/881",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "НБУ окреслив коридор і поки тримає його з обох боків. Міжбанк на тиждень: 44,80–45,15 грн. Пробій...",
-      "excerpt": "",
-      "date": "10 жовтня 2026",
-      "dateTS": 1791631966.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/879",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: 5–10 ЖОВТНЯ 2026 НАСИЧЕНИЙ ТИЖДЕНЬ ПОПЕРЕДУ. МОЖЛИВІСТЬ У...",
-      "excerpt": "",
-      "date": "10 жовтня 2026",
-      "dateTS": 1791631930.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/878",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: 5–10 ЖОВТНЯ 2026 НАСИЧЕНИЙ ТИЖДЕНЬ ПОПЕРЕДУ. МОЖЛИВІСТЬ У...",
-      "excerpt": "",
-      "date": "10 жовтня 2026",
-      "dateTS": 1791631776.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/875",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1379,9 +1379,9 @@ const CONTENT = {
       "date": "22 жовтня 2026",
       "dateTS": 1792668840.0,
       "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX2EtWFd2QjQ4YlhaS25EWWJQekVhbmllNlQxSGFBRW9qY2l1ZVVtdXBrelgtNDlwRTBSako1cmtwd2Z1WWNudGRqclBOeGlTRmxQYy1HYXNtLXpRR0lFN0g3b2RZWUczRlZRbHJxUi15dmliblpwanVHeTlFVU8xbGM3cUR1QzVPYkI5TWktZDcxV1hYejdySDZyTHRmcWJsZkQtRDI4ZTlPYUM3eV9vYzhoaTdqc1VjYUFRd1cySWlIaVZXQUJvNFF6WHVpa3RiLWfSAdcBQVVfeXFMTnhrM3BHR1g5bm1icGtmR3FDYnE5dkpFWEwyTTJwYXJobmZhRW43X09zalNrMEE0VjBzVWxvc3BJZ0EwZHpmNk1YV3UzZ1ZKZkM1MDE2TmZGdzZnSDA2cXdSZ0hYSm05cDBYa1llcE1RX2stamdBazBwczk2b05ieDNwZm1DeURkQldvNGdiNjEzc1R2SmRPMjBtZ3BlZ1JRUFBxRWlQd091TGZ2VEUyRFRKZTY4aTdaeGN4TnUyQldsV0VjWnpEXzFpTFE1alhVRm04ZVFzNjQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX2EtWFd2QjQ4YlhaS25EWWJQekVhbmllNlQxSGFBRW9qY2l1ZVVtdXBrelgtNDlwRTBSako1cmtwd2Z1WWNudGRqclBOeGlTRmxQYy1HYXNtLXpRR0lFN0g3b2RZWUczRlZRbHJxUi15dmliblpwanVHeTlFVU8xbGM3cUR1QzVPYkI5TWktZDcxV1hYejdySDZyTHRmcWJsZkQtRDI4ZTlPYUM3eV9vYzhoaTdqc1VjYUFRd1cySWlIaVZXQUJvNFF6WHVpa3RiLWc?oc=5",
       "external": true,
-      "featured": false
+      "featured": true
     },
     {
       "source": "news",
@@ -1390,11 +1390,11 @@ const CONTENT = {
       "title": "Можлива зміна голови НБУ: чи загрожують кадрові перестановки стабільності гривні - Слово і Діло",
       "excerpt": "Згадка у виданні Слово і Діло",
       "date": "22 жовтня 2026",
-      "dateTS": 1792668840.0,
+      "dateTS": 1792652400.0,
       "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX2EtWFd2QjQ4YlhaS25EWWJQekVhbmllNlQxSGFBRW9qY2l1ZVVtdXBrelgtNDlwRTBSako1cmtwd2Z1WWNudGRqclBOeGlTRmxQYy1HYXNtLXpRR0lFN0g3b2RZWUczRlZRbHJxUi15dmliblpwanVHeTlFVU8xbGM3cUR1QzVPYkI5TWktZDcxV1hYejdySDZyTHRmcWJsZkQtRDI4ZTlPYUM3eV9vYzhoaTdqc1VjYUFRd1cySWlIaVZXQUJvNFF6WHVpa3RiLWc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX2EtWFd2QjQ4YlhaS25EWWJQekVhbmllNlQxSGFBRW9qY2l1ZVVtdXBrelgtNDlwRTBSako1cmtwd2Z1WWNudGRqclBOeGlTRmxQYy1HYXNtLXpRR0lFN0g3b2RZWUczRlZRbHJxUi15dmliblpwanVHeTlFVU8xbGM3cUR1QzVPYkI5TWktZDcxV1hYejdySDZyTHRmcWJsZkQtRDI4ZTlPYUM3eV9vYzhoaTdqc1VjYUFRd1cySWlIaVZXQUJvNFF6WHVpa3RiLWfSAdcBQVVfeXFMTnhrM3BHR1g5bm1icGtmR3FDYnE5dkpFWEwyTTJwYXJobmZhRW43X09zalNrMEE0VjBzVWxvc3BJZ0EwZHpmNk1YV3UzZ1ZKZkM1MDE2TmZGdzZnSDA2cXdSZ0hYSm05cDBYa1llcE1RX2stamdBazBwczk2b05ieDNwZm1DeURkQldvNGdiNjEzc1R2SmRPMjBtZ3BlZ1JRUFBxRWlQd091TGZ2VEUyRFRKZTY4aTdaeGN4TnUyQldsV0VjWnpEXzFpTFE1alhVRm04ZVFzNjQ?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -1594,19 +1594,6 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "Politeka",
-      "title": "Курс долара до кінця 2026 року: аналітик назвав, скільки коштуватиме валюта - Politeka",
-      "excerpt": "Згадка у виданні Politeka",
-      "date": "30 вересня 2026",
-      "dateTS": 1790751600.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGRiNGEwcHFXQ0ZDNXUyTW93Ul8zWWQzVHV2SjNFYnQxTnRpQnEwVzdqQS1uaHVqWDM3UmwwSUxwVHpmOXR0aGVnSlQ2UTNjSVNXWnlIbDNZVzRfRFB2RXVxb25Zbi16cXktWG1OUFk0eHhMNHZiMXZNY1lBci0tYVAzQnZjMlRTMDVISVdtTm1KWG5QbVRiODBRMWZaZjROMkxtZFhsQml6ZGF00gGyAUFVX3lxTFByQUxXbmRrTWxDOUp6QnlnMkNFZk5zZUZkYngzd3ZfWXBheS1mU1ZLRXA1NXV5MDBjMGRHbVlrejRTbGFuU1F1bVhzWExLNU83ODlYZ0d0clE1cnRGcFNsbmhXc19LYl9JUE1UOE1xNHRKVVJQOVgxOVotVllfTWprakFCSzVqSzlleHZhOC1NbU5uOVN3cDRkR3FOQ0NCVGRSdEFKY1RtRXR4Q0h6Wk5WbXc?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
       "tagLabel": "ТСН",
       "title": "Долар здорожчає, а зарплати впадуть: економісти шокували прогнозом на жовтень 2026 року - ТСН",
       "excerpt": "Згадка у виданні ТСН",
@@ -1614,6 +1601,19 @@ const CONTENT = {
       "dateTS": 1790751600.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObThiZHdIRjNPZHlXRVlwb0dhWDRpS18xUzA4anc0NldMRUpJWmpPMGhNRENOeWhWU3ZWX1ZTdk00QnNiTGNKZzRlS3pvZUtaY05wVlZiWTcwek93ck9kcDVjbTMxRUctSFBBcnN1azZpYUZOejRSRzN4TkswUzRPYXRPZy1PNUdlQkQwTU1HZ3lFc1pTaElwelBmSTV0SF9NdE85MFZYLXRhcF84UzJ2TXFCVUJTaFduZ3hDTE84UVRrd9IBxwFBVV95cUxNOXhqX1F5RVI3MENKdm9tU1ZXRk9Wd2dWUEcwZDViQXBpWXphMF9yQ3BFMHhPYVl6YTJEb1djZVluTHhPSTA0NGl4SC1YWHB4NThZZVlvOVYzd1p4R3hRMlR3U090d0E2aHdWZ1l6X2g1LWlCQlBEalY5b1VYSlh5Z093eTI5dGFwTTd1WDMtWnp5UDNtZGxDbGphdU51V0tOa0FncmM4elpCYzl4bGFDQVV2THdGTjFRT1J2OTdnbkZ1U0Zjcko0?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Politeka",
+      "title": "Курс долара до кінця 2026 року: аналітик назвав, скільки коштуватиме валюта - Politeka",
+      "excerpt": "Згадка у виданні Politeka",
+      "date": "30 вересня 2026",
+      "dateTS": 1790751600.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGRiNGEwcHFXQ0ZDNXUyTW93Ul8zWWQzVHV2SjNFYnQxTnRpQnEwVzdqQS1uaHVqWDM3UmwwSUxwVHpmOXR0aGVnSlQ2UTNjSVNXWnlIbDNZVzRfRFB2RXVxb25Zbi16cXktWG1OUFk0eHhMNHZiMXZNY1lBci0tYVAzQnZjMlRTMDVISVdtTm1KWG5QbVRiODBRMWZaZjROMkxtZFhsQml6ZGF00gGyAUFVX3lxTFByQUxXbmRrTWxDOUp6QnlnMkNFZk5zZUZkYngzd3ZfWXBheS1mU1ZLRXA1NXV5MDBjMGRHbVlrejRTbGFuU1F1bVhzWExLNU83ODlYZ0d0clE1cnRGcFNsbmhXc19LYl9JUE1UOE1xNHRKVVJQOVgxOVotVllfTWprakFCSzVqSzlleHZhOC1NbU5uOVN3cDRkR3FOQ0NCVGRSdEFKY1RtRXR4Q0h6Wk5WbXc?oc=5",
       "external": true,
       "featured": false
     },
