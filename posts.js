@@ -1,8 +1,86 @@
-// Автоматично оновлено: 2026-10-31 14:06 UTC
+// Автоматично оновлено: 2026-11-01 14:37 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "https://youtu.be/BGpwk5S_KJ8 00:00 Вступ 00:37 Жовтень - місяць керованої девальвації 03:13 Курс ...",
+      "excerpt": "",
+      "date": "31 жовтня 2026",
+      "dateTS": 1793479883.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1018",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ЖОВТЕНЬ – МІСЯЦЬ 4-х РЕКОРДІВ, ЛИСТОПАД – ІМПУЛЬС ЗБЕРІГАЄТЬСЯ (графіки)",
+      "excerpt": "",
+      "date": "31 жовтня 2026",
+      "dateTS": 1793466739.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1013",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ЖОВТЕНЬ – МІСЯЦЬ 4-х РЕКОРДІВ, ЛИСТОПАД – ІМПУЛЬС ЗБЕРІГАЄТЬСЯ. (Частина ...",
+      "excerpt": "",
+      "date": "31 жовтня 2026",
+      "dateTS": 1793466471.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1012",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ЖОВТЕНЬ – МІСЯЦЬ 4-х РЕКОРДІВ, ЛИСТОПАД – ІМПУЛЬС ЗБЕРІГАЄТЬСЯ. (Частина ...",
+      "excerpt": "",
+      "date": "31 жовтня 2026",
+      "dateTS": 1793466470.0,
+      "readTime": "3 хв",
+      "url": "https://t.me/shevchyshyn_trends/1011",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ЖОВТЕНЬ – МІСЯЦЬ 4-х РЕКОРДІВ, ЛИСТОПАД – ІМПУЛЬС ЗБЕРІГАЄТЬСЯ. (Частина ...",
+      "excerpt": "",
+      "date": "31 жовтня 2026",
+      "dateTS": 1793466376.0,
+      "readTime": "3 хв",
+      "url": "https://t.me/shevchyshyn_trends/1010",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ЖОВТЕНЬ – МІСЯЦЬ 4-х РЕКОРДІВ, ЛИСТОПАД – ІМПУЛЬС ЗБЕРІГАЄТЬСЯ. (Частина ...",
+      "excerpt": "",
+      "date": "31 жовтня 2026",
+      "dateTS": 1793466258.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/1009",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +92,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/1008",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1224,87 +1302,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/893",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Долар міжбанк 45.08 - 45.11 Рухаємось, без відкатів. Цілять в історичний максимум. Побоюються що ...",
-      "excerpt": "",
-      "date": "13 жовтня 2026",
-      "dateTS": 1791879628.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/892",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "На готівкові купюри більше 500грн приходиться 90,4% всіх готівкових коштів. 🥇На купюру 1000грн пр...",
-      "excerpt": "",
-      "date": "13 жовтня 2026",
-      "dateTS": 1791879189.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/890",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Долар на міжбанку закрився на максимумах дня 45.06 - 45.07 НБУ не заважав руху, а отже... вітаю н...",
-      "excerpt": "",
-      "date": "12 жовтня 2026",
-      "dateTS": 1791816228.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/889",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "🛢Нафта тим часом вже вже на 106,5+. Й поглядає й зазіхає вона на 116+, як було в березні.  Незваж...",
-      "excerpt": "",
-      "date": "12 жовтня 2026",
-      "dateTS": 1791812121.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/888",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Ціни в будівництві у серпні зросли на 1,7%м/м та 25,4%р/р.  Це лише серпень.   Ситуація значно по...",
-      "excerpt": "",
-      "date": "12 жовтня 2026",
-      "dateTS": 1791808545.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/887",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжбанк долар 45.02 - 45.05",
-      "excerpt": "",
-      "date": "12 жовтня 2026",
-      "dateTS": 1791804373.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/886",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "ТСН",
+      "title": "Ціни в Україні і долар готують сюрприз: економісти ошелешили, чого очікувати у листопаді 2026 - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
+      "date": "1 листопада 2026",
+      "dateTS": 1793509200.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVXhZa2tCNjFHWkxVNEFaUGVUYUtlMlF0cFZ5MWxMRm0yMDhZUFltLUpOWmdiSHBZVlZvNUVwYlRQVXIySTVCSzhSamZMOHB2eDFzMko0cXZ3aWJ2VDY1a29xUmxhLW51eVk1bUNVMkUxbTdRY09HaE5IUXpheUIxNnp5MWdPYl85dTVPN09Tb0xycnpDbVVmZVM3NDFMaENsTU5KNnhwcy1VXzBpSkVZWTBzbGJSbi1OYTVqWUdLZmgyQTRPdkFibzFmYWtNY2ZyNVHSAdcBQVVfeXFMUHloazVvVE9ZM0FpNVdVcVZ6T0RBRjkxMlZkS0s4UFpsN1VnVU1DQkZyUkI0SU96SURHbmpFLU40aEZGTzRCUXpmRGlHWEV2aEdVZjF5V0lVcXBRMVMwSnJZTnpfV1VkNUJjWU1ZYlYzOHlNdVBZeGJjVkNteTdLcDVfdGgwRGhNN3Vob3dEM21VYmEzajRrY19UeTFrSVNrX1U2RXBpM19qeGRueWxINmh4dHlOaXBVN0tldzNIcG5MQWFzTkItVGRHNWpVdGlfLTVFM3dWbTQ?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -2591,22 +2604,22 @@ const CONTENT = {
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNck5FZkRTSm5RSEFIaTN1TW5ucGoxSTZRTGRfaDdkdy12dmljVV9PWmpQd05wSTJvQnlEOFlvSWM0TWUwTk5pRHdrWWl6eS1YcUZyNDJZSGdKM1RERThuTUR5bUdIX0Z4OXdGRll2U0dScWpwQnMydzRIWWZwWXhkQ1gtQlY1SHFJVDZEMlI0RUlaYmVFX0hYM2ZIT05DNHp1M3lxck5yd2FydEtWNl9YTGtmY2RRc3Y4OWVzZVhWYWpZbE9KNFpGdjNDMFZZMjdiSFHSAdMBQVVfeXFMUGdSbGUzYjQ2RjBQSF9aRndjTEFEbDJiT3ZBVEJSRUhxZGV0X2F4TF9ucnlwLVpRZWxjb2djYVdoQlpCT0JMMC1nMHNnaERsdEltR0VtMzNWSnZXZUZMODNSWl9CX0ZFZUJZc3lFaXdxV0ppbDg0UExIUmFJTUh2RVA5U0lUV0Q2emFNQWVVU2VYbnFTOVRIQU90ZzB1M0lSRHNFdWxBTmVlOXNjaF94Q2JrcGdGNTNpZ3MwaG9wYzBmUmJ6WWswcTh4RlZSXzhOUFc4UQ?oc=5",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "UKR.NET",
-      "title": "Попит на євро серед українців побив історичний рекорд - UKR.NET",
-      "excerpt": "Згадка у виданні UKR.NET",
-      "date": "7 липня 2026",
-      "dateTS": 1783450266.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3S0o4UDdYUlNDSTUzVDR5NkIzbTV3T3RaY1ZkbE1QbkdiYzNJSFhLcHNwcG5hNnFmYW4zMG9tZnpZbGVoa21aSDE2R3c3a21GdWdXV1BNQnI1SW1VUV9rd2NlSlM3dUJl?oc=5",
-      "external": true,
-      "featured": false
     }
   ],
   "youtube": [
+    {
+      "source": "youtube",
+      "tag": "youtube",
+      "tagLabel": "YouTube",
+      "title": "ЖОВТЕНЬ – МІСЯЦЬ 4-х РЕКОРДІВ, ЛИСТОПАД – ІМПУЛЬС ЗБЕРІГАЄТЬСЯ",
+      "excerpt": "00:00 Вступ\n00:37 Жовтень - місяць керованої девальвації\n03:13 Курс закриття місяця\n05:37 Баланс ринку міжбанк\n07:47 Баланс готівкового ринку\n09:27 Загальний баланс\n11:04 На що звернув увагу в жовтні",
+      "date": "31 жовтня 2026",
+      "dateTS": 1793479613.0,
+      "readTime": "відео",
+      "url": "https://www.youtube.com/watch?v=BGpwk5S_KJ8",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "youtube",
       "tag": "youtube",
@@ -2618,7 +2631,7 @@ const CONTENT = {
       "readTime": "відео",
       "url": "https://www.youtube.com/watch?v=vPjOiEfgYHQ",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "youtube",
