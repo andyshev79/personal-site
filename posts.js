@@ -1,8 +1,47 @@
-// Автоматично оновлено: 2026-11-01 14:37 UTC
+// Автоматично оновлено: 2026-11-02 17:36 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Оцінки Forbes Ukraine відносно чисельності населення.",
+      "excerpt": "",
+      "date": "2 листопада 2026",
+      "dateTS": 1793637759.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1021",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Brent вже -7% Слідкуємо за поточними рівнями. Якщо все ж таки закриємось нижче поточних позначок,...",
+      "excerpt": "",
+      "date": "2 листопада 2026",
+      "dateTS": 1793637605.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1020",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Міжбанк долар стабілізувався на рівнях 45.65 - 45.69   Нагадаю, що максимум минулого тижня був 45,75",
+      "excerpt": "",
+      "date": "2 листопада 2026",
+      "dateTS": 1793622090.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1019",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +53,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/1018",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1263,45 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/896",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Підприємства, які не мають укриттів, повинні до 4 грудня 2026 року підготувати рішення для захист...",
-      "excerpt": "",
-      "date": "13 жовтня 2026",
-      "dateTS": 1791902560.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/895",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Мінфін залучає на військових облігаціях з серпня приблизно по 1 млрд грн (так, щоб по місяцю як р...",
-      "excerpt": "",
-      "date": "13 жовтня 2026",
-      "dateTS": 1791900995.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/894",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Минулого тижня всі писали про історичний максимум долару, а я мовчав. А сьогодні я вам напишу про...",
-      "excerpt": "",
-      "date": "13 жовтня 2026",
-      "dateTS": 1791897584.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/893",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1340,7 +1340,7 @@ const CONTENT = {
       "date": "26 жовтня 2026",
       "dateTS": 1793002080.0,
       "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLU51Nlo4aWNJUXlmQ0sxbGROWW1MeDkzM2dXeENwY3NpMXctdTFQUUVJUXZBZlFOR09xeGlCVXJRaVZoaUpLNU9GM1hlZUxmUU1EeFdwS252bEpSUWZUVndUM1h1VEZDSXBuQmZsSUJZUGRObnZGNWdKaDYtUWxHRTRvWC1nUDJJRnBlVG1TWGVwMHFWczlLaWJ6T3dwQjZfNkJ5YzZJYXd5U0l5a2ww?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLU51Nlo4aWNJUXlmQ0sxbGROWW1MeDkzM2dXeENwY3NpMXctdTFQUUVJUXZBZlFOR09xeGlCVXJRaVZoaUpLNU9GM1hlZUxmUU1EeFdwS252bEpSUWZUVndUM1h1VEZDSXBuQmZsSUJZUGRObnZGNWdKaDYtUWxHRTRvWC1nUDJJRnBlVG1TWGVwMHFWczlLaWJ6T3dwQjZfNkJ5YzZJYXd5U0l5a2ww0gG0AUFVX3lxTE5yc2ZOdUNvTmFlSS02Qk9NamVZZGtGemYyaGd0ZWlWQUg2S0pjMm9MMEg5LWJNcGpVck1KOEU2SUNoYzZnRGZsWlFmRzJkZlJial9VNnFua2g0NmR3aVpXUlFMVWNiNC1QMk9jd3g5YTNWeHpzM2thb3VmdXY2amRnb1FRX0NJNTh2WGo3WEJXWC1nbDlZUFBJOFFnQnU1VEdDdUtDanhCNm9YOEdLODExaU9faA?oc=5",
       "external": true,
       "featured": false
     },
@@ -1353,9 +1353,9 @@ const CONTENT = {
       "date": "26 жовтня 2026",
       "dateTS": 1793002080.0,
       "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLU51Nlo4aWNJUXlmQ0sxbGROWW1MeDkzM2dXeENwY3NpMXctdTFQUUVJUXZBZlFOR09xeGlCVXJRaVZoaUpLNU9GM1hlZUxmUU1EeFdwS252bEpSUWZUVndUM1h1VEZDSXBuQmZsSUJZUGRObnZGNWdKaDYtUWxHRTRvWC1nUDJJRnBlVG1TWGVwMHFWczlLaWJ6T3dwQjZfNkJ5YzZJYXd5U0l5a2ww0gG0AUFVX3lxTE5yc2ZOdUNvTmFlSS02Qk9NamVZZGtGemYyaGd0ZWlWQUg2S0pjMm9MMEg5LWJNcGpVck1KOEU2SUNoYzZnRGZsWlFmRzJkZlJial9VNnFua2g0NmR3aVpXUlFMVWNiNC1QMk9jd3g5YTNWeHpzM2thb3VmdXY2amRnb1FRX0NJNTh2WGo3WEJXWC1nbDlZUFBJOFFnQnU1VEdDdUtDanhCNm9YOEdLODExaU9faA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLU51Nlo4aWNJUXlmQ0sxbGROWW1MeDkzM2dXeENwY3NpMXctdTFQUUVJUXZBZlFOR09xeGlCVXJRaVZoaUpLNU9GM1hlZUxmUU1EeFdwS252bEpSUWZUVndUM1h1VEZDSXBuQmZsSUJZUGRObnZGNWdKaDYtUWxHRTRvWC1nUDJJRnBlVG1TWGVwMHFWczlLaWJ6T3dwQjZfNkJ5YzZJYXd5U0l5a2ww?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -1529,6 +1529,19 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
+      "tagLabel": "БЛІК",
+      "title": "Яйця подорожчали на 43,6 відсотка: економісти озвучили шокуючий прогноз інфляції до кінця року - БЛІК",
+      "excerpt": "Згадка у виданні БЛІК",
+      "date": "9 жовтня 2026",
+      "dateTS": 1791529200.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQckdPNEdiSmc5ZmR4MEdPU19FYlZPaGxWbUdzTzhUQmJPUl83bHZzMGo1d0Y4SFR0cGF0dDRCd0MyZ3lEU2oyWDFFcnpJZ2s0cHlCaGVrTVVPeF9Pd2wwMW44dk5PUk1ia2V3NmMwV0x0WkZVT2RGOVVsbjBVYjZOeVZTVUVVZXJlLWJFczBqdnZFbG0tSXNFMGdZU2ViaDlZN2FUanBHMTgtNlZOaDNONEhiNFJOemE3eDhKalIzcUJTUmliZFFaLTAwc0hETlHSAdQBQVVfeXFMTnhFZTR1eEZ1eXlJR3FpOEE3cWtGV0JOSjFPNVZYYTdwSG91ai03QlpPTmUzZktDUm01ZnpCQ2JfQUJEWEtlYnh5TjIzcTREek4tZHBWdThrWTU5MDNCcVMzZzB3YUhJdzFtX0tqbUJod0NQTE8wVjBvaU42UHd6Z0Y0MWxhd2NvNjcxUjY1QnlFUktnS2JGRzA5dHR6MzNFeTBvOFhHM1dOTjNKZXFkVWJtVnZaM3ZuSkpSelZEdmV0VG9IR1JRSlpsTUNHcHFFRzBwbVg?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
       "tagLabel": "MY.UA",
       "title": "Українцям хочуть урізати зарплати: хто отримуватиме менше грошей - MY.UA",
       "excerpt": "Згадка у виданні MY.UA",
@@ -1594,19 +1607,6 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "MY.UA",
-      "title": "Курс долара до кінця 2026 року: аналітик назвав, скільки коштуватиме валюта - MY.UA",
-      "excerpt": "Згадка у виданні MY.UA",
-      "date": "30 вересня 2026",
-      "dateTS": 1790751600.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVTkyN08zVFJiUFBaQUE5c0RUTGh3b09oSEFfbDNCQUQ5NTJvbUhEVjFRdXFCclVRWW5fdV85WHFyUUNkS3pOTDM4Wm1mbUtxWm10UERYQlZ4RVo4TVhyZ0xRRldJUXdqbEdvRWRDbWk5bnhSamlOdDVua1pySFg5VUtQSjdTdmhEY053NFlyQXRDSldfTkhuOXdMMXRvdHF1Y3phazF3MnkydmphVmlIbUNpNGZSR3BP0gG6AUFVX3lxTFBoTXZQRVlVTE95bkxUa0tUbXVNc2pyWU1OdkFNVUxWLU5ydjdwOXU4RG05Sjh6OVFfb1BvLVVNSWZ1OTFDVGR5WVY3NW1WLTlSamxvV0c1dU4zLTJTemdJOC1LTWl5dDNqeHNkQVVTVWpzS0RGSTNHNXo4bWEwTUVqREVmM0RuVTNUbW9PZWlDZ0xEOEVoMEJWWFdqaFlyY1dtazRZQ05EMjJlQ3VWWWlsUW85VEM0WUs1UQ?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
       "tagLabel": "ТСН",
       "title": "Долар здорожчає, а зарплати впадуть: економісти шокували прогнозом на жовтень 2026 року - ТСН",
       "excerpt": "Згадка у виданні ТСН",
@@ -1614,6 +1614,19 @@ const CONTENT = {
       "dateTS": 1790751600.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObThiZHdIRjNPZHlXRVlwb0dhWDRpS18xUzA4anc0NldMRUpJWmpPMGhNRENOeWhWU3ZWX1ZTdk00QnNiTGNKZzRlS3pvZUtaY05wVlZiWTcwek93ck9kcDVjbTMxRUctSFBBcnN1azZpYUZOejRSRzN4TkswUzRPYXRPZy1PNUdlQkQwTU1HZ3lFc1pTaElwelBmSTV0SF9NdE85MFZYLXRhcF84UzJ2TXFCVUJTaFduZ3hDTE84UVRrd9IBxwFBVV95cUxNOXhqX1F5RVI3MENKdm9tU1ZXRk9Wd2dWUEcwZDViQXBpWXphMF9yQ3BFMHhPYVl6YTJEb1djZVluTHhPSTA0NGl4SC1YWHB4NThZZVlvOVYzd1p4R3hRMlR3U090d0E2aHdWZ1l6X2g1LWlCQlBEalY5b1VYSlh5Z093eTI5dGFwTTd1WDMtWnp5UDNtZGxDbGphdU51V0tOa0FncmM4elpCYzl4bGFDQVV2THdGTjFRT1J2OTdnbkZ1U0Zjcko0?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "MY.UA",
+      "title": "Курс долара до кінця 2026 року: аналітик назвав, скільки коштуватиме валюта - MY.UA",
+      "excerpt": "Згадка у виданні MY.UA",
+      "date": "30 вересня 2026",
+      "dateTS": 1790751600.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVTkyN08zVFJiUFBaQUE5c0RUTGh3b09oSEFfbDNCQUQ5NTJvbUhEVjFRdXFCclVRWW5fdV85WHFyUUNkS3pOTDM4Wm1mbUtxWm10UERYQlZ4RVo4TVhyZ0xRRldJUXdqbEdvRWRDbWk5bnhSamlOdDVua1pySFg5VUtQSjdTdmhEY053NFlyQXRDSldfTkhuOXdMMXRvdHF1Y3phazF3MnkydmphVmlIbUNpNGZSR3BP0gG6AUFVX3lxTFBoTXZQRVlVTE95bkxUa0tUbXVNc2pyWU1OdkFNVUxWLU5ydjdwOXU4RG05Sjh6OVFfb1BvLVVNSWZ1OTFDVGR5WVY3NW1WLTlSamxvV0c1dU4zLTJTemdJOC1LTWl5dDNqeHNkQVVTVWpzS0RGSTNHNXo4bWEwTUVqREVmM0RuVTNUbW9PZWlDZ0xEOEVoMEJWWFdqaFlyY1dtazRZQ05EMjJlQ3VWWWlsUW85VEM0WUs1UQ?oc=5",
       "external": true,
       "featured": false
     },
@@ -2589,19 +2602,6 @@ const CONTENT = {
       "dateTS": 1783580400.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX1BqS0NQNTVBUnRGaHV5VHhlZEg3UExrUUxpcVdyZi0td1ZNdTFBZTl5R3ZodjFDdW02YnZqZWNpbldzSXZjTFJDaHdaV0pFclhTV0hwS3hUNEpzU1l4Tm91QkxuYm9nT2ExVWhMQS1ZaDBKbUVJSW5VU3dqem1GbTF5U2s5V0tBbWdsckZkcVVQekQwZ01WYVh4Q05FR1pzLUF4TjduS2tYQ0lHWldxcG9ub9IBuAFBVV95cUxQZ0x1Ty1NZEw0U1RlcElzWEV6WGx2c1BCOHA1RmxIQjRjaWpncmlCMl9vczQ0bkNIcGxpRFAyakpJampvbDVZeThLNTJuZWcwXzdyVDZzXzhKRzRWSmc5NWZvNWlTNzN1b1ZxZXV6Njl3djl5VWl0NnRrRE50SUZHY3Rrc0JDZVd5YkNUTDNpdGc5VDdtRXpIM2gxRTFYY3BCR2g3NnhJVXRPX01wVTdtMmZaZlhvQzJk?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "my.ua",
-      "title": "Курс валют на 9 липня: скільки коштують долар, євро та злотий - my.ua",
-      "excerpt": "Згадка у виданні my.ua",
-      "date": "9 липня 2026",
-      "dateTS": 1783569976.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNck5FZkRTSm5RSEFIaTN1TW5ucGoxSTZRTGRfaDdkdy12dmljVV9PWmpQd05wSTJvQnlEOFlvSWM0TWUwTk5pRHdrWWl6eS1YcUZyNDJZSGdKM1RERThuTUR5bUdIX0Z4OXdGRll2U0dScWpwQnMydzRIWWZwWXhkQ1gtQlY1SHFJVDZEMlI0RUlaYmVFX0hYM2ZIT05DNHp1M3lxck5yd2FydEtWNl9YTGtmY2RRc3Y4OWVzZVhWYWpZbE9KNFpGdjNDMFZZMjdiSFHSAdMBQVVfeXFMUGdSbGUzYjQ2RjBQSF9aRndjTEFEbDJiT3ZBVEJSRUhxZGV0X2F4TF9ucnlwLVpRZWxjb2djYVdoQlpCT0JMMC1nMHNnaERsdEltR0VtMzNWSnZXZUZMODNSWl9CX0ZFZUJZc3lFaXdxV0ppbDg0UExIUmFJTUh2RVA5U0lUV0Q2emFNQWVVU2VYbnFTOVRIQU90ZzB1M0lSRHNFdWxBTmVlOXNjaF94Q2JrcGdGNTNpZ3MwaG9wYzBmUmJ6WWswcTh4RlZSXzhOUFc4UQ?oc=5",
       "external": true,
       "featured": false
     }
