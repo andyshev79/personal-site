@@ -1,8 +1,112 @@
-// Автоматично оновлено: 2026-11-02 17:36 UTC
+// Автоматично оновлено: 2026-11-03 15:39 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "В жовтні Мінфін залучив через ОВДП найменший об'єм за 5 місяців  - 27,16 млрд грн (й якщо не брат...",
+      "excerpt": "",
+      "date": "3 листопада 2026",
+      "dateTS": 1793718911.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1034",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ПРОМИСЛОВІСТЬ. А ЩО ДАЛІ? Продовжимо падати?  В річному вимірі так, хоча в місячному важко сказат...",
+      "excerpt": "",
+      "date": "3 листопада 2026",
+      "dateTS": 1793718087.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1033",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ПРОМИСЛОВІСТЬ У ВЕРЕСНІ: +2,7% М/М, АЛЕ −9,2% Р/Р  1. Річні темпи падіння прискорились з -6,1% до...",
+      "excerpt": "",
+      "date": "3 листопада 2026",
+      "dateTS": 1793715452.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1029",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Щодо готівкового ринку й 47 грн вчора: - я пока не розумію, чи була фізична нестача готівки, щоб ...",
+      "excerpt": "",
+      "date": "3 листопада 2026",
+      "dateTS": 1793713167.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1028",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Вчора була якась спекулятивна херобора на готівковому ринку. Різко курс повели на 47 грн за дол. ...",
+      "excerpt": "",
+      "date": "3 листопада 2026",
+      "dateTS": 1793708749.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1027",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Помісячна структура інтервенцій - міжбанк - готівковий ринок  - позаринкові інтервенції (інтервен...",
+      "excerpt": "",
+      "date": "3 листопада 2026",
+      "dateTS": 1793708307.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1026",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ВАЛЮТНІ ОПЕРАЦІЇ НАСЕЛЕННЯ У ЖОВТНІ 2026:  БЕЗГОТІВКОВИЙ РИНОК: 🔺Купівля: 700 млн дол (+19,8%м/м)...",
+      "excerpt": "",
+      "date": "3 листопада 2026",
+      "dateTS": 1793702530.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1024",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Тепер офіційно,  інтервенції НБУ у жовтні 2026 сягнули історичного максимуму - 5'997 млн дол   (я...",
+      "excerpt": "",
+      "date": "3 листопада 2026",
+      "dateTS": 1793700816.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1023",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -1198,113 +1302,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/907",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "❗️Рада поддержала законопроект о налогообложении посылок до 150 евро  Документ предусматривает 20...",
-      "excerpt": "",
-      "date": "15 жовтня 2026",
-      "dateTS": 1792052893.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/906",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "По євро долару відскок, бо кілька представників ФРС заявили, що бажають побачити більш чітку карт...",
-      "excerpt": "",
-      "date": "15 жовтня 2026",
-      "dateTS": 1792051584.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/905",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Ймовірність підвищення ставки ФРС США в жовтні підскочила в 2 рази з 20 до 40%.  Реакцію ринків в...",
-      "excerpt": "",
-      "date": "14 жовтня 2026",
-      "dateTS": 1791992187.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/904",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Демократи у Палаті представників готують програму дій на перші 100 днів на випадок перемоги на пр...",
-      "excerpt": "",
-      "date": "14 жовтня 2026",
-      "dateTS": 1791991870.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/902",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжабанк й гривня не встигли відреагувати на цю тенденцію, тому завтра логічно очікувати винос до...",
-      "excerpt": "",
-      "date": "14 жовтня 2026",
-      "dateTS": 1791983784.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/901",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Річна інфляція в США прискорилася до 3,7%  Інфляція в США зросла до 3,7%р/р у вересні, що є найви...",
-      "excerpt": "",
-      "date": "14 жовтня 2026",
-      "dateTS": 1791983514.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/899",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "УКРАЇНСЬКИЙ ЕКСПОРТ У ВЕРЕСНІ ВІДСКОЧИВ ВІД МІНІМУМІВ, АЛЕ ІМПОРТ Б'Є РЕКОРДИ (розбираємо операти...",
-      "excerpt": "",
-      "date": "14 жовтня 2026",
-      "dateTS": 1791966662.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/897",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "УКРАЇНСЬКИЙ ЕКСПОРТ У ВЕРЕСНІ ВІДСКОЧИВ ВІД МІНІМУМІВ, АЛЕ ІМПОРТ Б'Є РЕКОРДИ (розбираємо операти...",
-      "excerpt": "",
-      "date": "14 жовтня 2026",
-      "dateTS": 1791966616.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/896",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "MY.UA",
+      "title": "\"Гаманці спорожніють ще швидше\": аналітики назвали продукти, які стрімко здорожчають у листопаді - MY.UA",
+      "excerpt": "Згадка у виданні MY.UA",
+      "date": "2 листопада 2026",
+      "dateTS": 1793627289.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQm9EYU1xRVA4VTlDWnN3TjVnY2d0M1JfaThsN0dKc0UtU3JmR0VtNUZ3VzJaM3EtSE04LVcyYUI2ZWQ1c2pZUlFDUzlKcUR1dkQ0cnE0QzZpZWg0eUdPOTdTX01rYjlKRWtwZnBqZnVRTDQ5WkxHckxoN1hkVk1WRGJ0ZHB5cWF0cndySjV0TndRVkQ1alBMOXNoWlRMb3k3bjF0NHBiTWl3Vm93OUZ4QUFPMTFsSTMyQm1zUUt2SldJbHZLcktNbkU1YnNnWFp1Yy1jUEFn0gGIAkFVX3lxTE50amtXQmRlWm8xdmhnektDWkVfdmQyR1Z5S3ZjdW5aRUJEMzhkZlhJbXhIaU5fOXNTaWZsYVNacGViVFplamRhUDhUeVdDeTRwcC10a1ZVZXhKUTVHaGI3VXgzQW1HaFNfSjc5QlY1dm5Hd0VNUUpFV2JHYm5wY2hheUVmVkh3RzBFa3dmM0c1YkJBMWsxeFlkQk1LeldIaUxzMW90LWc4dkFCSTBnLThUbUhORVkwb3lqY2pySUc4VmEtcWh2a0FJOElCMjZ4ZlF2cEFNd2pXU2Z1UllhY2FLc0pxQXB1SnVya3JoRlhKbGctaHItdjlXM3UySkc2TXFTQ3BEMG56RA?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -1316,7 +1329,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVXhZa2tCNjFHWkxVNEFaUGVUYUtlMlF0cFZ5MWxMRm0yMDhZUFltLUpOWmdiSHBZVlZvNUVwYlRQVXIySTVCSzhSamZMOHB2eDFzMko0cXZ3aWJ2VDY1a29xUmxhLW51eVk1bUNVMkUxbTdRY09HaE5IUXpheUIxNnp5MWdPYl85dTVPN09Tb0xycnpDbVVmZVM3NDFMaENsTU5KNnhwcy1VXzBpSkVZWTBzbGJSbi1OYTVqWUdLZmgyQTRPdkFibzFmYWtNY2ZyNVHSAdcBQVVfeXFMUHloazVvVE9ZM0FpNVdVcVZ6T0RBRjkxMlZkS0s4UFpsN1VnVU1DQkZyUkI0SU96SURHbmpFLU40aEZGTzRCUXpmRGlHWEV2aEdVZjF5V0lVcXBRMVMwSnJZTnpfV1VkNUJjWU1ZYlYzOHlNdVBZeGJjVkNteTdLcDVfdGgwRGhNN3Vob3dEM21VYmEzajRrY19UeTFrSVNrX1U2RXBpM19qeGRueWxINmh4dHlOaXBVN0tldzNIcG5MQWFzTkItVGRHNWpVdGlfLTVFM3dWbTQ?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -1330,6 +1343,19 @@ const CONTENT = {
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMERxMXoyUHFVR1lBc0huWkVqZUg5dW90WFUtcmwyanRycFhGaDRFRUNzdFJjaXg5WjgyWE5uSTlXWE1LZlhhbUJtRlRPbkNQRWRnREIydDF1bDJseTNQTElKdDZfdXJMZC1VYklVSnlqUUtrTHg5VE1OR1puYUVOOFBVMEdQTUF6cUpMUmw4TW5WX2hobG1qemtaTlFNRTdpb0thcHlCaXczaFI4a080dWU0a9IBswFBVV95cUxNMERxMXoyUHFVR1lBc0huWkVqZUg5dW90WFUtcmwyanRycFhGaDRFRUNzdFJjaXg5WjgyWE5uSTlXWE1LZlhhbUJtRlRPbkNQRWRnREIydDF1bDJseTNQTElKdDZfdXJMZC1VYklVSnlqUUtrTHg5VE1OR1puYUVOOFBVMEdQTUF6cUpMUmw4TW5WX2hobG1qemtaTlFNRTdpb0thcHlCaXczaFI4a080dWU0aw?oc=5",
       "external": true,
       "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "MY.UA",
+      "title": "Українці активніше купують валюту: банки збільшили її ввезення на 52% - MY.UA",
+      "excerpt": "Згадка у виданні MY.UA",
+      "date": "27 жовтня 2026",
+      "dateTS": 1793092015.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU2RsbGNNSzZ3aFpLNWZsS1hua1NFTk9IdVZndGQ5WW5fYjVET0JQclBVUWtVcUNaQzZhZ3g2dXg1T0ZuMlZxbDV5MWlZV19zR3prTzBxZTkwbG9FdEpiQkRYWmV5V1dsZHFrdDJ5ZW9GZy1IU0MzYzRmMjNhU0FURGowdzNCVmkydWw5STdza0UzZTM3VERKd2NMb2RRQm1YamhaQVU4VWlETlRDZnQxbnBFLUQwQdIBtwFBVV95cUxQNEZGVm9VSDE0dVJITy1rRHNJZGE5V1l0cnJENTJ6aERhTmNUaTJZYUFpWlVBck5UTXA5eTVYZi1EU3hHNjVmWkdHaXhCMzFTRkJsMlZGcGdEbGw4Ukppb2tiSi1LeHBTZFRRemtPRHZ4Nzd3X2VZZUo2eW5xbVRuNFJPaUp4ZDFGUTJscE5uaU1MMk8zX3VhMkRNdC13VlJWTktKOV8zRm1nYnhXcUphMnBmdTlEM1U?oc=5",
+      "external": true,
+      "featured": false
     },
     {
       "source": "news",
@@ -1607,19 +1633,6 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
-      "tagLabel": "ТСН",
-      "title": "Долар здорожчає, а зарплати впадуть: економісти шокували прогнозом на жовтень 2026 року - ТСН",
-      "excerpt": "Згадка у виданні ТСН",
-      "date": "30 вересня 2026",
-      "dateTS": 1790751600.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObThiZHdIRjNPZHlXRVlwb0dhWDRpS18xUzA4anc0NldMRUpJWmpPMGhNRENOeWhWU3ZWX1ZTdk00QnNiTGNKZzRlS3pvZUtaY05wVlZiWTcwek93ck9kcDVjbTMxRUctSFBBcnN1azZpYUZOejRSRzN4TkswUzRPYXRPZy1PNUdlQkQwTU1HZ3lFc1pTaElwelBmSTV0SF9NdE85MFZYLXRhcF84UzJ2TXFCVUJTaFduZ3hDTE84UVRrd9IBxwFBVV95cUxNOXhqX1F5RVI3MENKdm9tU1ZXRk9Wd2dWUEcwZDViQXBpWXphMF9yQ3BFMHhPYVl6YTJEb1djZVluTHhPSTA0NGl4SC1YWHB4NThZZVlvOVYzd1p4R3hRMlR3U090d0E2aHdWZ1l6X2g1LWlCQlBEalY5b1VYSlh5Z093eTI5dGFwTTd1WDMtWnp5UDNtZGxDbGphdU51V0tOa0FncmM4elpCYzl4bGFDQVV2THdGTjFRT1J2OTdnbkZ1U0Zjcko0?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
       "tagLabel": "MY.UA",
       "title": "Курс долара до кінця 2026 року: аналітик назвав, скільки коштуватиме валюта - MY.UA",
       "excerpt": "Згадка у виданні MY.UA",
@@ -1627,6 +1640,19 @@ const CONTENT = {
       "dateTS": 1790751600.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVTkyN08zVFJiUFBaQUE5c0RUTGh3b09oSEFfbDNCQUQ5NTJvbUhEVjFRdXFCclVRWW5fdV85WHFyUUNkS3pOTDM4Wm1mbUtxWm10UERYQlZ4RVo4TVhyZ0xRRldJUXdqbEdvRWRDbWk5bnhSamlOdDVua1pySFg5VUtQSjdTdmhEY053NFlyQXRDSldfTkhuOXdMMXRvdHF1Y3phazF3MnkydmphVmlIbUNpNGZSR3BP0gG6AUFVX3lxTFBoTXZQRVlVTE95bkxUa0tUbXVNc2pyWU1OdkFNVUxWLU5ydjdwOXU4RG05Sjh6OVFfb1BvLVVNSWZ1OTFDVGR5WVY3NW1WLTlSamxvV0c1dU4zLTJTemdJOC1LTWl5dDNqeHNkQVVTVWpzS0RGSTNHNXo4bWEwTUVqREVmM0RuVTNUbW9PZWlDZ0xEOEVoMEJWWFdqaFlyY1dtazRZQ05EMjJlQ3VWWWlsUW85VEM0WUs1UQ?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "ТСН",
+      "title": "Долар здорожчає, а зарплати впадуть: економісти шокували прогнозом на жовтень 2026 року - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
+      "date": "30 вересня 2026",
+      "dateTS": 1790751600.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObThiZHdIRjNPZHlXRVlwb0dhWDRpS18xUzA4anc0NldMRUpJWmpPMGhNRENOeWhWU3ZWX1ZTdk00QnNiTGNKZzRlS3pvZUtaY05wVlZiWTcwek93ck9kcDVjbTMxRUctSFBBcnN1azZpYUZOejRSRzN4TkswUzRPYXRPZy1PNUdlQkQwTU1HZ3lFc1pTaElwelBmSTV0SF9NdE85MFZYLXRhcF84UzJ2TXFCVUJTaFduZ3hDTE84UVRrd9IBxwFBVV95cUxNOXhqX1F5RVI3MENKdm9tU1ZXRk9Wd2dWUEcwZDViQXBpWXphMF9yQ3BFMHhPYVl6YTJEb1djZVluTHhPSTA0NGl4SC1YWHB4NThZZVlvOVYzd1p4R3hRMlR3U090d0E2aHdWZ1l6X2g1LWlCQlBEalY5b1VYSlh5Z093eTI5dGFwTTd1WDMtWnp5UDNtZGxDbGphdU51V0tOa0FncmM4elpCYzl4bGFDQVV2THdGTjFRT1J2OTdnbkZ1U0Zjcko0?oc=5",
       "external": true,
       "featured": false
     },
@@ -2576,32 +2602,6 @@ const CONTENT = {
       "dateTS": 1784012400.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNHZ6SkExSXBxaEZ2ckZuOXU5alJvMkZtdU1xNFRhTU5lcGRUd3lHQTJOMkFuZXZkRWlfaUxsUThLVUpCekZOYmNsbHd3dVlvT0pEOUFGR3JidFpTMEJWQlpuYTlKb3R0c2ltbFhjS1FIYnI3Z3BONXJJaFIwcHR3Y3pXaUN2enNKWlVUa2Q0X0hLa1JISFg0VjBBRHVuanUwZ1hwRmc5SmxHZ2VRcktOM3hvcmMzMHhNNE9DZmNIWWFVRTQ5TG1oYjBiVjFjdDEwSlBfdWFB0gHbAUFVX3lxTE9rSjdBXzhKdHNhdXZjMHdaeHJfa3ZNUkZQaE95QmdPaWl3NEdKUkFrdjZtaG91d2h0ZmgwOEtlQnNLczJ5dUpZTnRXdWdrYTZBNnFJeUhwaWdsbUhBbmhyU2VyZ3FJa24welE0U25QMGg3TlJWVjZROG9UR1dXUVhRckN5MTJvX1dGdUJnbDREekRkdDB6anhPN0g3SEJMUFBVVzAtYjJaWGtEQktKOTJESWVrOUMzSElEVEZ3OWNHd3lGY2FPbmFnRzZ0Szg1VHRfZlF4YThfSW5zNA?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "my.ua",
-      "title": "НБУ почав не лише продавати, а й купувати валюту: що буде з курсом долара - my.ua",
-      "excerpt": "Згадка у виданні my.ua",
-      "date": "13 липня 2026",
-      "dateTS": 1783931237.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUwxanl3U0xMN2p2ZVZJVlN4X3FkaTNRV2lrOVZWbVF1bDBkeDVXZVdpZHhKU3BlbHNxZHpJNVA2SEtiNXM3LUhTbkF2S1drYTN6YnVWeXdNOTJncTlpUTAxSjQyeHVfT2RYcS1sazNpRmdhQ2lubk9CQy1odFR5M3BsNnRKZ0t6TmhDZVoyYVMtTnBjZnVnbllxQTB1S3ExaHBoNFJYTTYzUkUxS19nMEtFSVA2ZmdMcXfSAbsBQVVfeXFMTy14Y09CVFZRQmtvdFZ1aWx4V3NlUTJnOVdpZFVTekZDTkxkWHdqTDVZQkVSOFd5WkpzZXRHcTB1aTlRVUJCOVZjWXlZYWJtU0R4SU53Ni1JZDFSY1hOclBTS0MxRHc0QnFiZGJMSlhUWTk1NUI2UThpRUVPQXJjZUMyNFA2MWl2ejl6NHlJX2Y0RklGUUkyaHVuQXM2SkgtR1lTY0g0cDNVb3dnRFBUZ0U5YmtIdmhrTHpicw?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "focus.ua",
-      "title": "Це історичний рекорд: митниця показала, звідки Україна найбільше завозить техніку і транспорт - focus.ua",
-      "excerpt": "Згадка у виданні focus.ua",
-      "date": "9 липня 2026",
-      "dateTS": 1783580400.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX1BqS0NQNTVBUnRGaHV5VHhlZEg3UExrUUxpcVdyZi0td1ZNdTFBZTl5R3ZodjFDdW02YnZqZWNpbldzSXZjTFJDaHdaV0pFclhTV0hwS3hUNEpzU1l4Tm91QkxuYm9nT2ExVWhMQS1ZaDBKbUVJSW5VU3dqem1GbTF5U2s5V0tBbWdsckZkcVVQekQwZ01WYVh4Q05FR1pzLUF4TjduS2tYQ0lHWldxcG9ub9IBuAFBVV95cUxQZ0x1Ty1NZEw0U1RlcElzWEV6WGx2c1BCOHA1RmxIQjRjaWpncmlCMl9vczQ0bkNIcGxpRFAyakpJampvbDVZeThLNTJuZWcwXzdyVDZzXzhKRzRWSmc5NWZvNWlTNzN1b1ZxZXV6Njl3djl5VWl0NnRrRE50SUZHY3Rrc0JDZVd5YkNUTDNpdGc5VDdtRXpIM2gxRTFYY3BCR2g3NnhJVXRPX01wVTdtMmZaZlhvQzJk?oc=5",
       "external": true,
       "featured": false
     }
