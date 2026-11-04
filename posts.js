@@ -1,8 +1,112 @@
-// Автоматично оновлено: 2026-11-03 15:39 UTC
+// Автоматично оновлено: 2026-11-04 15:52 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Динаміка деяких секторів у 3кв26: 🟢 Аграрка +1,3% р/р 🔴 Промисловість -5,7%р/р 🔴 Будівництво* -10...",
+      "excerpt": "",
+      "date": "4 листопада 2026",
+      "dateTS": 1793805160.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1048",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ВВП України в 3кв2026 падіння на 0,7% до 3кв2025. Падіння до попереднього кварталу 0,5%.  Таким ч...",
+      "excerpt": "",
+      "date": "4 листопада 2026",
+      "dateTS": 1793797681.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1047",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Прикольно Законопроект залишає декілька податкових ям. Тож норм.   Головне зафіксувати ціни купів...",
+      "excerpt": "",
+      "date": "4 листопада 2026",
+      "dateTS": 1793797220.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1046",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЕURUSD, USDX до попереднього посту.",
+      "excerpt": "",
+      "date": "4 листопада 2026",
+      "dateTS": 1793787873.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1044",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "💵 Долар під тиском, а 💶 євро отримує шанс   Підсумки проміжних виборів у США, хоч й були очікуван...",
+      "excerpt": "",
+      "date": "4 листопада 2026",
+      "dateTS": 1793787809.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1043",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "По міжбанку не рекорди, але майже... По середньодобовим рівням друге місце рейтингу.  От й роби л...",
+      "excerpt": "",
+      "date": "4 листопада 2026",
+      "dateTS": 1793781554.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1042",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Сальдо готівкових валютних операцій населення 02.11.26 - 78,80 млн дол (тепер це 2 місце в антире...",
+      "excerpt": "",
+      "date": "4 листопада 2026",
+      "dateTS": 1793780772.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1041",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Сальдо безготівкових валютних операцій населення 02.11.26 - 106,15 млн дол.  Я ніколи не бачив та...",
+      "excerpt": "",
+      "date": "4 листопада 2026",
+      "dateTS": 1793780610.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1040",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -1198,110 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/916",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Уряд поступово відновлює фінансування тимчасово призупинених видатків, зокрема для регіонів С.Кор...",
-      "excerpt": "",
-      "date": "16 жовтня 2026",
-      "dateTS": 1792154579.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/915",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Долар коректується, крипта та фонда зростають.  Ринок переварив статистику з рекордним зростанням...",
-      "excerpt": "",
-      "date": "16 жовтня 2026",
-      "dateTS": 1792141169.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/913",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжбанк долар 44.88 - 44.91  НБУ черговими інтервенціями тримає гривню  Лише за перші 4 дні тижня...",
-      "excerpt": "",
-      "date": "16 жовтня 2026",
-      "dateTS": 1792137916.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/912",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Приріст чистих кредитів бізнесу у вересні був найменший за доступну історію, якщо не брати до ува...",
-      "excerpt": "",
-      "date": "15 жовтня 2026",
-      "dateTS": 1792075602.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/911",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Кредитування фізосіб в гривні в вересні зростає рекордними темпами з грудня 2018 року.  Річний пр...",
-      "excerpt": "",
-      "date": "15 жовтня 2026",
-      "dateTS": 1792073453.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/910",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Частка строкових депозитів фізичних осіб в структурі коштів населення в банках у вересні 2026 впа...",
-      "excerpt": "",
-      "date": "15 жовтня 2026",
-      "dateTS": 1792071897.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/909",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Відпустки завершились, населення перейшло до накопичень  Приріст строкових депозитів фізосіб в ба...",
-      "excerpt": "",
-      "date": "15 жовтня 2026",
-      "dateTS": 1792071022.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/908",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжбанк долар 44.85 - 44.90 НБУ на ринку, продають валюту",
-      "excerpt": "",
-      "date": "15 жовтня 2026",
-      "dateTS": 1792060480.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/907",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1317,6 +1317,19 @@ const CONTENT = {
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQm9EYU1xRVA4VTlDWnN3TjVnY2d0M1JfaThsN0dKc0UtU3JmR0VtNUZ3VzJaM3EtSE04LVcyYUI2ZWQ1c2pZUlFDUzlKcUR1dkQ0cnE0QzZpZWg0eUdPOTdTX01rYjlKRWtwZnBqZnVRTDQ5WkxHckxoN1hkVk1WRGJ0ZHB5cWF0cndySjV0TndRVkQ1alBMOXNoWlRMb3k3bjF0NHBiTWl3Vm93OUZ4QUFPMTFsSTMyQm1zUUt2SldJbHZLcktNbkU1YnNnWFp1Yy1jUEFn0gGIAkFVX3lxTE50amtXQmRlWm8xdmhnektDWkVfdmQyR1Z5S3ZjdW5aRUJEMzhkZlhJbXhIaU5fOXNTaWZsYVNacGViVFplamRhUDhUeVdDeTRwcC10a1ZVZXhKUTVHaGI3VXgzQW1HaFNfSjc5QlY1dm5Hd0VNUUpFV2JHYm5wY2hheUVmVkh3RzBFa3dmM0c1YkJBMWsxeFlkQk1LeldIaUxzMW90LWc4dkFCSTBnLThUbUhORVkwb3lqY2pySUc4VmEtcWh2a0FJOElCMjZ4ZlF2cEFNd2pXU2Z1UllhY2FLc0pxQXB1SnVya3JoRlhKbGctaHItdjlXM3UySkc2TXFTQ3BEMG56RA?oc=5",
       "external": true,
       "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "ТСН",
+      "title": "Чи буде долар по 50 гривень: економісти ошелешили прогнозом про курс валют в Україні - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
+      "date": "2 листопада 2026",
+      "dateTS": 1793622831.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFduOEZCcnJEZlNkbVd6d3BkWTFkbjNkbnRWTTg1cTBPb2JiS0kwNnRESnExSTd1VVlRbll1ZHFZS3ExblQ1bzgtSFZ2NWpqWHRNZGhyTi1oQU56dVZCcVdkdXE3czZzSGwyRjRJV3Q5eEdjTmltanIybXJUTTd1YXZlazQ5T2RuNzl4SXVLN3VYSEI1Q2NsanJzd2I3QkdiSFp3Qy1Fb2d2OUI0Ymw0RExUTkY5bzhNS1hmbEF6TFZNa03SAcgBQVVfeXFMTXdYUFlOZ3kwOVlJbHl0QWFBcmYyTzF5TUNyZ0JzQWpnNHdVc1M4NHRtbnBWSFg5VklTVmtGeEl1bmI0S0d4WTZSemZwYlh1VFpmWjhnWEVSRHRnQ0dzTFRUem5IU1RqOGFFMExyZkU3NlFjVlhWZi1GNkhaNTFQWmx1ZVFrRzUyNTFwOE9zVGowX1dmT1lHYmZ6cDNlRlBkdTNYN1NDUEowMDYxZ3dtcWRkSXBPcmR3aXRTV2xOeWtvRU1maXlDc0k?oc=5",
+      "external": true,
+      "featured": false
     },
     {
       "source": "news",
@@ -2589,19 +2602,6 @@ const CONTENT = {
       "dateTS": 1784050572.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWUhneEQ2Y2d4ZExqeTZiWndhbGk0YUhNWF9uQ2prdjZVM2tMeEtueFNrZGNvQm9rYUpJNkgzQVpNR2lMZTI1MGJtY2ZqVHBLTTJrR1VLeHNzcDhYRWN6MndiZGZpeldnak5yZkdxOTN4VHlqSE9RUDRVanhiWXZSYnlfLW5BMmVnX2VXN2k2RGZFdC1NVmdaNTMtb1B6VGExWUhkZFpNc1VHenl4UUFTMmRzendBdllVU2lXdkttTEhDdEJMUDJvQm15ZTVncEtHdHM1emJlUk5fRm_SAY4CQVVfeXFMTW1XT0FvWDlFYmxKRUUzMkI4LWFoS3pQZFVRSEFlMEd6cDJ2LWhiaFlkNjZDZE9RYzBabEo2Wk5hZGFUb1N4M2ZYdXhJdy1vNmFfZjc4MkpELThaNk9USHVXZmdsRnhOSVgzM3NwQmV6ZWE4NGNNVC15TlBxb3JEMFpFM2VuUXc2U29BczY3dU8xNlRXUHRCT3VYdTZYanNYeFhPVWZDelJYdmNsbEJ2cWo3WG1sRm0zT2hPYnZnb0hsRDFQb0JKSzVPeXBpWVZDcjZ0cUpzRkk1Mll6bmdXREZ0SGZzbWZlbWNrT190V2M1VUYydFR6WlJvWEtqdDBOMEhmbmtuU1BwSDdCaFNn?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "УНІАН",
-      "title": "Усе стане дорожчим: аналітик попередив про неочевидні наслідки підняття цін на проїзд у Києві - УНІАН",
-      "excerpt": "Згадка у виданні УНІАН",
-      "date": "14 липня 2026",
-      "dateTS": 1784012400.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNHZ6SkExSXBxaEZ2ckZuOXU5alJvMkZtdU1xNFRhTU5lcGRUd3lHQTJOMkFuZXZkRWlfaUxsUThLVUpCekZOYmNsbHd3dVlvT0pEOUFGR3JidFpTMEJWQlpuYTlKb3R0c2ltbFhjS1FIYnI3Z3BONXJJaFIwcHR3Y3pXaUN2enNKWlVUa2Q0X0hLa1JISFg0VjBBRHVuanUwZ1hwRmc5SmxHZ2VRcktOM3hvcmMzMHhNNE9DZmNIWWFVRTQ5TG1oYjBiVjFjdDEwSlBfdWFB0gHbAUFVX3lxTE9rSjdBXzhKdHNhdXZjMHdaeHJfa3ZNUkZQaE95QmdPaWl3NEdKUkFrdjZtaG91d2h0ZmgwOEtlQnNLczJ5dUpZTnRXdWdrYTZBNnFJeUhwaWdsbUhBbmhyU2VyZ3FJa24welE0U25QMGg3TlJWVjZROG9UR1dXUVhRckN5MTJvX1dGdUJnbDREekRkdDB6anhPN0g3SEJMUFBVVzAtYjJaWGtEQktKOTJESWVrOUMzSElEVEZ3OWNHd3lGY2FPbmFnRzZ0Szg1VHRfZlF4YThfSW5zNA?oc=5",
       "external": true,
       "featured": false
     }
