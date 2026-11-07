@@ -1,8 +1,99 @@
-// Автоматично оновлено: 2026-11-06 15:29 UTC
+// Автоматично оновлено: 2026-11-07 14:32 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: ГРИВНЯ ПІСЛЯ КЕРОВАНОЇ ДЕВАЛЬВАЦІЇ (частина 4 - графіки)",
+      "excerpt": "",
+      "date": "7 листопада 2026",
+      "dateTS": 1794050845.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1077",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: ГРИВНЯ ПІСЛЯ КЕРОВАНОЇ ДЕВАЛЬВАЦІЇ (частина 3)  ОЧІКУВАНН...",
+      "excerpt": "",
+      "date": "7 листопада 2026",
+      "dateTS": 1794050578.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1076",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: ГРИВНЯ ПІСЛЯ КЕРОВАНОЇ ДЕВАЛЬВАЦІЇ (частина 2)  РИНОК В Ц...",
+      "excerpt": "",
+      "date": "7 листопада 2026",
+      "dateTS": 1794050508.0,
+      "readTime": "3 хв",
+      "url": "https://t.me/shevchyshyn_trends/1075",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: ГРИВНЯ ПІСЛЯ КЕРОВАНОЇ ДЕВАЛЬВАЦІЇ (частина 1)   Те, що я...",
+      "excerpt": "",
+      "date": "7 листопада 2026",
+      "dateTS": 1794050486.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1074",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ПРОГНОЗ НБУ ДО 2028 РОКУ: ПРИПУЩЕННЯ Й ГОЛОВНІ МОМЕНТИ  Базовий сценарій НБУ (Інфляційний звіт НБ...",
+      "excerpt": "",
+      "date": "6 листопада 2026",
+      "dateTS": 1793985317.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/1073",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Наслідки посилення атак на бізнес та інфраструктуру (Інфляційний звіт НБУ)  🔻Вплив на ВВП 2026 ро...",
+      "excerpt": "",
+      "date": "6 листопада 2026",
+      "dateTS": 1793984437.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1071",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Ринок праці: кількість нових вакансій у жовтні −10,5% р/р (у роздрібній торгівлі −27,7%)  Руйнува...",
+      "excerpt": "",
+      "date": "6 листопада 2026",
+      "dateTS": 1793983804.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1070",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +105,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/1069",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1211,97 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/944",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "❗️НБУ офіційно спростовує чутки про нібито відставку Голови Національного банку Андрія Пишного.",
-      "excerpt": "",
-      "date": "21 жовтня 2026",
-      "dateTS": 1792587243.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/943",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "🤷‍♂️🤦‍♂️ чекаємо на офіційну інформацію",
-      "excerpt": "",
-      "date": "21 жовтня 2026",
-      "dateTS": 1792585337.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/942",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Котирування цін ф'ючерсів кукурудзи та пшениці продовжують падати до рівнів першої декади серпня ...",
-      "excerpt": "",
-      "date": "21 жовтня 2026",
-      "dateTS": 1792574052.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/941",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Мінфін на передодні розмістив чергову стандартну порцію військових ОВДП, й ще більше знизив доход...",
-      "excerpt": "",
-      "date": "21 жовтня 2026",
-      "dateTS": 1792571174.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/940",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Скоромовки нового часу:  👻Набувачі з НАБУ в НБУ набутки набували, набували, та не винабували, бо ...",
-      "excerpt": "",
-      "date": "21 жовтня 2026",
-      "dateTS": 1792570502.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/939",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "НБУ підтверджує інформацію про проведення слідчих дій НАБУ в приміщенні Національного банку.  Дод...",
-      "excerpt": "",
-      "date": "21 жовтня 2026",
-      "dateTS": 1792568811.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/938",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжбанк майже не реагує на новину про обшуки у голови НБУ (джерела Ярослава Железняка також підтв...",
-      "excerpt": "",
-      "date": "21 жовтня 2026",
-      "dateTS": 1792568627.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/937",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1328,6 +1328,19 @@ const CONTENT = {
       "dateTS": 1793952660.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVlJhZ3RsT1paeUZ5cTRyQjdRSzhSaFdQZGNIOVVzU1BGQ3FEczFmY3V0RWpGTHVMNXNRLTNubThzb1ZpVWFNTUlfZjlXRThzb3Jzd0FKdHFZZEtlLWRsdUkyZ1FJb3pOZWJuOFllVTdOMFlrZGV0aDZxVDlZZTZfVFpQUWQtdVJoZE9oa0VEU005eHozVlBXMlpZR2lHYVVFM0FJV0hXZHR4M3VxN2w1cE40dXZpQV92T2FFWVRJQ01CRXFSc1HSAcsBQVVfeXFMTm02VWRSRnBLUVNqVFRDX054anpTdExBZHluZGw2M2lZTnJONGo0bEJiZzFFNUVnZ3QtbzRKMzRSc1M4YjktVDFCaWtmRTd3TUdJazFWYWlYQ0xwZmdFTVdqXzdWMlZSZ3FkSmRDbXpjUFBvaXhVU001aDZmMThTZDdwUTdSX0dnOUlVYXpMekRRSldqaFJLTzhHTHZ3a21uLWFyOWFPSW4tLU40LXNZTUQzTUlaemNSMWY1ampyVFBEQVk1Sk5UZ1VudUE?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "MY.UA",
+      "title": "Курс долара в Україні: вибори в США можуть послабити валюту, аналітик розповів, що буде з гривнею - MY.UA",
+      "excerpt": "Згадка у виданні MY.UA",
+      "date": "5 листопада 2026",
+      "dateTS": 1793909566.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM2FHWW1uRnRQTXA2S0Z3bGlvdWRYYmdwMVNWM2NBZFFJdE5xSFFPcmd5Z1UyLXIwMmxVY2hUZno0V0NXdGlZR3FIeUFYZzI1azFPLUl2NEJtMnVGMi1sd1dwMTJhMnp1RkE2bzNhVFFfMGJadzR1Tnd1RHVJSF9oR1ByZnJGVWxMQ29QWi1TWkE2aVZJUkJRendVaE9WQWhXUXpiQ1VYS2VueDJJWjF4RnozV2FTVzNwTTF0RDh5ZW1lUTRkYWdjX1htT3VZQmhOVGR3NHpIVDVHQdIB2wFBVV95cUxQRWt3eHpLM21Na1JEdFM5MjZfZ2U3LUNuaklIQWU3WFJfckVoTXZ0UElNY21vaG85aFdLXzVEeFdxNnBpcE9TMjFzT3hfZUZyeW4yNDRudElnRWQ3MEFvMHRqOUN3SWQ4VDhtOTVRX25NREZiTjk1YlVlSk5xeXpQOHl2Q2pibjNDaDRXNGsxaFE0ei1GNE41eFdFamhyU0J3Yks2eTZBT1dVd3h3cEdlQ3NfSlhILXV3ZkYxdkNSelBrYmlJNGRYV1RDS0IzZEYzUU54Z0VJek8wU1U?oc=5",
       "external": true,
       "featured": false
     },
@@ -2589,19 +2602,6 @@ const CONTENT = {
       "dateTS": 1784542739.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM3lieGx2ci04QXl6VzVaSEtaTVdBb0NVOWRKcE9ScDdyZmh4VkstQmY0dlJWVDEtVkU5Ty1tM0lldkctV0RuUzBIMl9VSkdlYjlNY2hMVnJEZGh4aXptLUR4Mm5Md05hS25pdXhWTXZqeFFLbmgyQV9ueXVpcTZES1hwWmZKbWptUFlMY0t0cU5ScWhjc0ctNDIwWktmZzhwY1M0OFlEN0tpOG5mQXV2N2R1Z1RQaU1MZzZfUThYWk1vdGp6VHBRZTBlbm5rSm1vcWdYQkJLMTdtWHFC0gHiAUFVX3lxTE9ac0hYb2NfUW0xS0VrVW1ZTllUQU9mbDkwcV9oaDRKcFBNb0UyUXFYTUZIN0V5ZkhVS21VUU9zUUhfUTRRNWZhRXAzU2oxcVFURnZPLXdFaE5lOUVPUEk2c01vcklpS0xjRzJhLVBUdExGU1NVeFFDTVJxVkRGdFhYZnhMcVl6VHRIYTNSTWFzcVpoeXFINDluS3V2Vlp4MlFBMkQ3NEhDVWp6QzRIUFQwV0p3ZklOam5wU0lmaUl4M0xBTDdKU3hxR0ItNzJ5UEdkZDYxTTgwRUR6Slk5OV9tUXc?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "my.ua",
-      "title": "Курс долара готує несподіванки: економісти ошелешили, що чекає на гривню найближчим часом - my.ua",
-      "excerpt": "Згадка у виданні my.ua",
-      "date": "17 липня 2026",
-      "dateTS": 1784257572.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOUmNoWDNva2Rvdnl6X3BGbFFXWFNaR3lpZVpxZm51Z19CdkpSaklFUl94bVVwdEtmUUthd2ZCZ1A1c2hzMXBjVFF5MlJpVzZWd0pwekFWU0J2VzFNQUVIYlNFY1h2RlBMZTI4WEhENjBJdHgwOExEWWVrV25UdkZ5VjZNY193NnB5WW9CVVBTcGVoRm1tZlJ5OGF4bkFjWU5KSktXeE40SzYtbEd0WlJHQXZzdW9CcGhWalFoeURROUFtSEozZUR0R1FuOFVTWjNUcy1ITGo2SE93a0Q4NE40SzFGMUFodERsTWdoM0JmNjZkbGU1djBycUh1dllEd2tKNS01UGRQTXpySHBwQU1DWtIBkgJBVV95cUxPYkdCNVIxbUVfTWdvRlhJdWNzY2NJQXBLUDAtYklfZ2RmUXpfQWJlMVk4VUpfNEg3Tm1NWG5sb0F4aDRlYU1IUHZRajVwbnpIVklJeHVZVEJhSi10SXJnbUV2cTNScW9fU09RTURIMWNrUWU1SXNoMXg0dVNGT1ZWZ1hmR1dlMU5fTTE2RlViZ1lycl9FeG1oQlBtWk5ZN0tUUWxvS2lnVXVPMjRjZ1hfUzQ1eXV2ODBEX2xYdEtlMVU2RENZdjVBVTBNS0R2ZWFFMjU5RkNzN1BSWkpDV3hCX0xlOF85aXdIQ0s0bW5uczlablZiZ3d3UzV6RlR1bjRQRjFkejVtZUc0b1p6SDM1NXVn?oc=5",
       "external": true,
       "featured": false
     }
