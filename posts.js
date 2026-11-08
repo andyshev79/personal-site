@@ -1,8 +1,34 @@
-// Автоматично оновлено: 2026-11-07 14:32 UTC
+// Автоматично оновлено: 2026-11-08 14:39 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЩОДО ВІДЕО: Всі ці відео такі затратні по часу. Може кинути всі ці відео-огляди? Дайте знати, чи ...",
+      "excerpt": "",
+      "date": "7 листопада 2026",
+      "dateTS": 1794074945.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1082",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Подивитись огляд можна у мене в каналі  https://youtu.be/tiXJL4fkHaY   00:00 Вступ 00:47 Огляд ти...",
+      "excerpt": "",
+      "date": "7 листопада 2026",
+      "dateTS": 1794073558.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1081",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +40,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/1077",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1276,32 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/946",
       "external": true,
       "featured": true
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжбанк 45.17 - 45.17  долар цілий день підростає а на кінець дня майже на максимумах, що показує...",
-      "excerpt": "",
-      "date": "22 жовтня 2026",
-      "dateTS": 1792673248.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/945",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Пшениця обвалилась до 619,6 - рівнів 10 липня. Це початок операції МоЛоЧКа, яку проводили СБС ЗСУ...",
-      "excerpt": "",
-      "date": "21 жовтня 2026",
-      "dateTS": 1792590370.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/944",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -2611,6 +2611,19 @@ const CONTENT = {
       "source": "youtube",
       "tag": "youtube",
       "tagLabel": "YouTube",
+      "title": "ГРИВНЯ ПІСЛЯ КЕРОВАНОЇ ДЕВАЛЬВАЦІЇ",
+      "excerpt": "00:00 Вступ\n00:47 Огляд тижня 2-7 листопада 2026. Ажіотаж й НБУ\n03:30 Баланс Міжбанку\n05:31 Баланс готівкового ринку\n09:20 Загальний дефіцит ринку й інтервенції НБУ\n14:10 Прогноз на 9-15 листопада 202",
+      "date": "7 листопада 2026",
+      "dateTS": 1794073317.0,
+      "readTime": "відео",
+      "url": "https://www.youtube.com/watch?v=tiXJL4fkHaY",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "youtube",
+      "tag": "youtube",
+      "tagLabel": "YouTube",
       "title": "ЖОВТЕНЬ – МІСЯЦЬ 4-х РЕКОРДІВ, ЛИСТОПАД – ІМПУЛЬС ЗБЕРІГАЄТЬСЯ",
       "excerpt": "00:00 Вступ\n00:37 Жовтень - місяць керованої девальвації\n03:13 Курс закриття місяця\n05:37 Баланс ринку міжбанк\n07:47 Баланс готівкового ринку\n09:27 Загальний баланс\n11:04 На що звернув увагу в жовтні",
       "date": "31 жовтня 2026",
@@ -2618,7 +2631,7 @@ const CONTENT = {
       "readTime": "відео",
       "url": "https://www.youtube.com/watch?v=BGpwk5S_KJ8",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "youtube",
