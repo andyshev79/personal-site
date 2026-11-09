@@ -1,8 +1,99 @@
-// Автоматично оновлено: 2026-11-08 14:39 UTC
+// Автоматично оновлено: 2026-11-09 18:03 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ШІ ЦЕ КРУТО, АЛЕ ПОКИ НЕ ДОЦІЛЬНО ДЛЯ ШІ КОМПАНІЙ  Витрати зростають набагато швидше, ніж приріст...",
+      "excerpt": "",
+      "date": "9 листопада 2026",
+      "dateTS": 1794240580.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1089",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Я бачу силу-силену людей, хто встановив сонячні панелі з інверторами для персонального використан...",
+      "excerpt": "",
+      "date": "9 листопада 2026",
+      "dateTS": 1794237973.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1088",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Китайська система транскордонних міжбанківських платежів CIPS здійснила з початку року до жовтня ...",
+      "excerpt": "",
+      "date": "9 листопада 2026",
+      "dateTS": 1794233740.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1087",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Міжбанк долар 45.60 - 45.65 майже +40коп до закриття п'ятниці  Готівковий ринок стабільний біля 4...",
+      "excerpt": "",
+      "date": "9 листопада 2026",
+      "dateTS": 1794232450.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1086",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Будівництво в Україні у вересні 2026 зросло на 37,9% до серпня та на 23,2% до вересня 2025 року. ...",
+      "excerpt": "",
+      "date": "9 листопада 2026",
+      "dateTS": 1794229079.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1085",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Група Метінвест, з урахуванням асоційованих компаній та спільних підприємств, у січні-вересні 202...",
+      "excerpt": "",
+      "date": "9 листопада 2026",
+      "dateTS": 1794223186.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1084",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "🌐 Місія МВФ розпочала роботу щодо другого та третього переглядів програми розширеного фінансуванн...",
+      "excerpt": "",
+      "date": "9 листопада 2026",
+      "dateTS": 1794214221.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1083",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +105,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/1082",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1211,97 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/954",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "А такий курс як вам? Міжбанк 45.25 -  45.29 Й це п'ятниця. Обід. Ну тобто, майже всі ринкові заяв...",
-      "excerpt": "",
-      "date": "23 жовтня 2026",
-      "dateTS": 1792752668.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/953",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "А це вже обід п'ятниці долар на міжбанку 45.23 - 45.26 Ми на нових історичних максимумах",
-      "excerpt": "",
-      "date": "23 жовтня 2026",
-      "dateTS": 1792750604.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/952",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Минулої п'ятниці як раз писав про нафту й ціль 118. Як раз до неї й йдемо. Й фон новин лише погір...",
-      "excerpt": "",
-      "date": "23 жовтня 2026",
-      "dateTS": 1792740586.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/951",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Відкриття міжбанк  Долар 45.15 - 45.25 Це новий цінник продажу, але спред неринково широкий. Тож ...",
-      "excerpt": "",
-      "date": "23 жовтня 2026",
-      "dateTS": 1792740067.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/950",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "🏭 У вересні 2026 р. ціни виробників промислової продукції: -2,8% до попереднього місяця; +38,4% у...",
-      "excerpt": "",
-      "date": "22 жовтня 2026",
-      "dateTS": 1792685983.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/949",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Індекс сільгосп продукції за 9м2026 зріс на 0,9% пер/пер  У вересні 2026 маємо +61,4%м/м, та -9,1...",
-      "excerpt": "",
-      "date": "22 жовтня 2026",
-      "dateTS": 1792684180.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/948",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Це жах 😢 Население Украины сократилось до 28,5 миллионов человек из-за массовой миграции украинце...",
-      "excerpt": "",
-      "date": "22 жовтня 2026",
-      "dateTS": 1792673410.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/946",
-      "external": true,
-      "featured": true
     }
   ],
   "news": [
