@@ -1,8 +1,60 @@
-// Автоматично оновлено: 2026-11-10 15:57 UTC
+// Автоматично оновлено: 2026-11-11 15:43 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Й про гарне: ціни бензина й дизеля падають - від пікових значень 0,3грн по дизелю, до 1,8 грн по ...",
+      "excerpt": "",
+      "date": "11 листопада 2026",
+      "dateTS": 1794411415.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1104",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "EURUSD оновив мінімум з березня 2025 року - нижче за 1,1105, який виступав сильним рівнем підтрим...",
+      "excerpt": "",
+      "date": "11 листопада 2026",
+      "dateTS": 1794407796.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1102",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Оперативні дані митниці за 10м2026: - Імпорт 84,2 млрд дол (+24,2% пер/пер) - Експорт 32,4 млрд д...",
+      "excerpt": "",
+      "date": "11 листопада 2026",
+      "dateTS": 1794406442.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1100",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Відкриття міжбанку  45.35 - 45.38  PS. Ви ж пом'ятаєте що сьогодні вихідний в Штатах?",
+      "excerpt": "",
+      "date": "11 листопада 2026",
+      "dateTS": 1794387919.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1099",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +66,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/1097",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1248,58 +1300,6 @@ const CONTENT = {
       "dateTS": 1793032438.0,
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/970",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Роздрібні продажі за 9м2026 сповільнились до 8%.  Було 8,8%, сповільнились до 8%, ну начебто не т...",
-      "excerpt": "",
-      "date": "26 жовтня 2026",
-      "dateTS": 1793032422.0,
-      "readTime": "2 хв",
-      "url": "https://t.me/shevchyshyn_trends/969",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Може у когось палець залипнув? )) Міжбанк долар 45.65 - 45.69  Це все ще відбувається під наглядо...",
-      "excerpt": "",
-      "date": "26 жовтня 2026",
-      "dateTS": 1793015678.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/968",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Хм... був впевнений, що НБУ стопорне курс,  але бачу що дає пойорзати долару й банкам 45.57 - 45.60",
-      "excerpt": "",
-      "date": "26 жовтня 2026",
-      "dateTS": 1793012044.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/967",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжбанк відкрився красиво долар 45.45- 45.55",
-      "excerpt": "",
-      "date": "26 жовтня 2026",
-      "dateTS": 1793003316.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/966",
       "external": true,
       "featured": false
     }
