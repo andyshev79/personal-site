@@ -1,4 +1,4 @@
-// Автоматично оновлено: 2026-11-11 15:43 UTC
+// Автоматично оновлено: 2026-11-12 16:27 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
@@ -1308,6 +1308,19 @@ const CONTENT = {
     {
       "source": "news",
       "tag": "news",
+      "tagLabel": "Слово і Діло",
+      "title": "Перекази в євро можуть подешевшати: що зміниться для українців після приєднання до SEPA - Слово і Діло",
+      "excerpt": "Згадка у виданні Слово і Діло",
+      "date": "12 листопада 2026",
+      "dateTS": 1794474240.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQN0JSdmJ3T0dDeXRscW51Um5ESnpDWFp4WlRTaXRscEJhSVR0ZXZvTmphVm1WZVhmYmJRdVV1cHFtZDNWU2hPbDNBbzZUNFNkU3Q3Q09hTFEyTHNUeDJtMkdBMFdMeldoUUVlbm1VWDN2UEZVYWY0WkxveDhIN3M5aHJQSmhhSk5uMEhPMUNWNWlvNnBIUk9DREFkZlRhNkg4VS1FVVJnQ2NiRWV0cGktZ1B4dkwwLUdvR2JDamdQeDExVXVxZllCRjJoTjRzeDZHa2Rv0gHYAUFVX3lxTE9mbExveW1uWEpqRThtdVBLbW4xd001bU43M3dQcnFwdUZwRC1SLW5WOGpZVklpZUsycEhSd3lucWtMYW9lZUwxWkthRmJUM0lidzU3TTlQY2c1VTRJSUVJb2tCZ0FIZnpwRGxxdnNsenpYWDh0MGJaNGIwX1Z4d3JIVTc5NGVEV2NFbmNqaTZWVnhCaFhQSHJGSmRQS2JETFBvclZScXNOb1VTWDZGOHh6Wm5yS2Zib1V4eU4yanJxSXlCQXVVZHBWdUE0NWVkNDBzSUJ1c3Iybw?oc=5",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
       "tagLabel": "Ukr.net",
       "title": "Багаті українці накопичують гроші значно швидше: що показала статистика банківських заощаджень - Ukr.net",
       "excerpt": "Згадка у виданні Ukr.net",
@@ -1316,7 +1329,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fUTNQUHNlNk5FVFltQlFOM25PWkNRa2EzbDM4cWMzbnQwc0I2eDJWaXpxQldMM3AwQXV3YW9mdXVDd3kyZHphTzN3Mk5GLWtoNFUzM3FKQmNxNWg1bVBJeDhzRVRaYUlHdXR0YQ?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -2589,19 +2602,6 @@ const CONTENT = {
       "dateTS": 1784820480.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb0VHcWs2OUc4bHJjTTJNSkhNVWFld0toNUJRUHp4ZkdpbmJBak9ZVlY2bGgwcl9ZaWlCLTNGeE5TMnZnV2hiRklWVHVjRTBUVm5qZl9STGxSeEtESkJLaFJFUW1WUERZMDEyQjV3MXY5RldyRVRETl9rd19SNlpxOXMtWDE3cVE2TkVPbjNlWGh1V3ktWHVkQnh4QnJsWHFaM2swek4xTUI5Y3RITUFna2t0RWstZ9IB0AFBVV95cUxQRGJnWWxDQVhNbkFYaGdpY29Bam9VcW9vTnNEYXBjMTRIbFZ3VDcwRnN6NmMtdzQwZWVHZkhrNlV6VVlHNWIxdzBiSlllS1hTVm9VTXRRdllXZ2oxR3MzWmNRTmZlRDFuclhEWG16eHhfMmdQTzdid01vTmhFRC1LZzJQdUN5ZW1XdXJoNlVzR3hNQXA5WGtxaWpqQm95c0xYRS05MTFYNXBGdWtiM1dyZlUtN3lxZWpVZnJDRUFoMzY5RGE2am01aUszOW1mY3Nn?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "Главред",
-      "title": "Ціни на товари та продукти підскочать: розкрито, що подорожчає в першу чергу - Главред",
-      "excerpt": "Згадка у виданні Главред",
-      "date": "23 липня 2026",
-      "dateTS": 1784790000.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaGNxalgtT2ZpRVpNTi1ZVmcybm05ei1CSHY1azBDbGlFQnpPUGEzMzZpRXVURHR2c1FDcnVEZUE1dHlwc1NHVUoxdGY4bFZkZWRpaHRNRVI3TUlUdmJuczJCWnlPYUllLUVhMEVfcS1Ma2hmN2xSQmM3RFJtYUZFaDloRjVZV1U2UE5KX09kYzVOUFNzLVJaS0QzYnJySjc0YmdOZXVQMjRhb3R3NE5BdXFFbUdTX0g1OUlVaTFmVXpTQdIBxwFBVV95cUxQLXdJRm5xRElGSkY1dzc1X0hIR0JLLUJPODVnLUkxTnBudDc0M3p6RV9meVU3WEd2UDdrTzFYaUpZUGhtOUdhM0R0d2hpMFBPN3hUbnd1MmNTWGlfcVJEaVpxMWc3eWl5b1VnMmRMc3VSYl9VM051V0ZBTC1mSUQ5S0paZ25pWF9Wekd0elFiUEhCWGZIMV8tNlVSWWhHeDNQa09WNjU0RjU4Ynk2NEVQcDdDVkEyMFY5OUdDTGxtRjdiSTZGcDJF?oc=5",
       "external": true,
       "featured": false
     }
