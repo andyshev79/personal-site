@@ -1,8 +1,47 @@
-// Автоматично оновлено: 2026-11-12 16:27 UTC
+// Автоматично оновлено: 2026-11-13 15:48 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Cсуко...🤬😢  «Дельта Вілмар Україна» 12 листопада зупинила всі виробничі потужності, зокрема олійн...",
+      "excerpt": "",
+      "date": "13 листопада 2026",
+      "dateTS": 1794561709.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1107",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "В аграріїв станом на 1 жовтня залишалося близько $2 млрд власних коштів, а до початку 2027 року, ...",
+      "excerpt": "",
+      "date": "13 листопада 2026",
+      "dateTS": 1794559169.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1106",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "рф цільово вибиває олійну переробку 🤬  12.11.26 Кернел зупинив свої олійно-екстракційні заводи че...",
+      "excerpt": "",
+      "date": "13 листопада 2026",
+      "dateTS": 1794558777.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1105",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +53,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/1104",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1263,48 +1302,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/973",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "На міжбанку зранку відкат від вчорашнього закриття (закриття було на 45,65, максимум 45,70).  дол...",
-      "excerpt": "",
-      "date": "27 жовтня 2026",
-      "dateTS": 1793090117.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/972",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "У вересні 2026 року банки завезли рекордні в цьому році об'єми готівкової валюти - 1'122'643 дол ...",
-      "excerpt": "",
-      "date": "26 жовтня 2026",
-      "dateTS": 1793041219.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/971",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Роздрібні продажі за 9м2026 сповільнились до 8%.",
-      "excerpt": "",
-      "date": "26 жовтня 2026",
-      "dateTS": 1793032438.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/970",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "OBOZ.UA",
+      "title": "В Україні \"нокаутовано\" найбільших виробників олії: названо наслідки зупинки заводів - OBOZ.UA",
+      "excerpt": "Згадка у виданні OBOZ.UA",
+      "date": "13 листопада 2026",
+      "dateTS": 1794570540.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSVptR0xZLS1UMjc2QW5sQ3I1NGNpQ3VrOW1qOElKcWlUemFUcXp5T003ZVBMTWpTRFRLXzF5OTRzVm9nZW1LNUh5amJnZ0E4TmpLV0FLUlRfRi1BazFzRXNaNURLcjlfbklJdWNOZkw3Z3VaSjZEbzJialR3YlJMcmxRcTVrSVFkRUl3S2ZHSkZiUDQ5c194UUQ1dy1XQkd1RWdQSUdiZ0U0NFNvb3BqM3NSNmNFU2tEdHIxTTA0anFjZWZxd0l5V3R0SEYzY1pndEdKRDBVbmZFTU50TndibkM0UE1qVW9lRDRDNm92TF9JQzhkYV90NlVPZDExM18zcnfSAYYCQVVfeXFMTl9hM3BVeVBMbkxvN0FmLVNDeGpUTk1vaWhVMjhwbHdnVHJDamxTVG9LcVBFSmxrRDhLT216c3FSQllRby1vaVowMW96ZTlyVzdscDdCcWVwNEp0UnRQcHpKaFcwSW92ejlQX2toNGM5ZHg0cU14M1kxMkxHQ2haLXB6WkE4aTVIeGpXcGt4MG5TUUtPdlliMEdxRmpXVDJrbFpZQ1dEUEtkQko5b1dTd1RYREtaLW8tQVN0WC0zTW40R3hKdHVReGI5RmlKcDdYUmZLbTJlT2Y3TThfWFh1c3JEek1BZkx1WTN4SXl4RWY0TllvNEM3a29henFuaVdtS3VWMDVadw?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -1316,7 +1329,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQN0JSdmJ3T0dDeXRscW51Um5ESnpDWFp4WlRTaXRscEJhSVR0ZXZvTmphVm1WZVhmYmJRdVV1cHFtZDNWU2hPbDNBbzZUNFNkU3Q3Q09hTFEyTHNUeDJtMkdBMFdMeldoUUVlbm1VWDN2UEZVYWY0WkxveDhIN3M5aHJQSmhhSk5uMEhPMUNWNWlvNnBIUk9DREFkZlRhNkg4VS1FVVJnQ2NiRWV0cGktZ1B4dkwwLUdvR2JDamdQeDExVXVxZllCRjJoTjRzeDZHa2Rv0gHYAUFVX3lxTE9mbExveW1uWEpqRThtdVBLbW4xd001bU43M3dQcnFwdUZwRC1SLW5WOGpZVklpZUsycEhSd3lucWtMYW9lZUwxWkthRmJUM0lidzU3TTlQY2c1VTRJSUVJb2tCZ0FIZnpwRGxxdnNsenpYWDh0MGJaNGIwX1Z4d3JIVTc5NGVEV2NFbmNqaTZWVnhCaFhQSHJGSmRQS2JETFBvclZScXNOb1VTWDZGOHh6Wm5yS2Zib1V4eU4yanJxSXlCQXVVZHBWdUE0NWVkNDBzSUJ1c3Iybw?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -1382,6 +1395,19 @@ const CONTENT = {
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQm9EYU1xRVA4VTlDWnN3TjVnY2d0M1JfaThsN0dKc0UtU3JmR0VtNUZ3VzJaM3EtSE04LVcyYUI2ZWQ1c2pZUlFDUzlKcUR1dkQ0cnE0QzZpZWg0eUdPOTdTX01rYjlKRWtwZnBqZnVRTDQ5WkxHckxoN1hkVk1WRGJ0ZHB5cWF0cndySjV0TndRVkQ1alBMOXNoWlRMb3k3bjF0NHBiTWl3Vm93OUZ4QUFPMTFsSTMyQm1zUUt2SldJbHZLcktNbkU1YnNnWFp1Yy1jUEFn0gGIAkFVX3lxTE50amtXQmRlWm8xdmhnektDWkVfdmQyR1Z5S3ZjdW5aRUJEMzhkZlhJbXhIaU5fOXNTaWZsYVNacGViVFplamRhUDhUeVdDeTRwcC10a1ZVZXhKUTVHaGI3VXgzQW1HaFNfSjc5QlY1dm5Hd0VNUUpFV2JHYm5wY2hheUVmVkh3RzBFa3dmM0c1YkJBMWsxeFlkQk1LeldIaUxzMW90LWc4dkFCSTBnLThUbUhORVkwb3lqY2pySUc4VmEtcWh2a0FJOElCMjZ4ZlF2cEFNd2pXU2Z1UllhY2FLc0pxQXB1SnVya3JoRlhKbGctaHItdjlXM3UySkc2TXFTQ3BEMG56RA?oc=5",
       "external": true,
       "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "ТСН",
+      "title": "Чи буде долар по 50 гривень: економісти ошелешили прогнозом про курс валют в Україні - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
+      "date": "2 листопада 2026",
+      "dateTS": 1793606400.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFduOEZCcnJEZlNkbVd6d3BkWTFkbjNkbnRWTTg1cTBPb2JiS0kwNnRESnExSTd1VVlRbll1ZHFZS3ExblQ1bzgtSFZ2NWpqWHRNZGhyTi1oQU56dVZCcVdkdXE3czZzSGwyRjRJV3Q5eEdjTmltanIybXJUTTd1YXZlazQ5T2RuNzl4SXVLN3VYSEI1Q2NsanJzd2I3QkdiSFp3Qy1Fb2d2OUI0Ymw0RExUTkY5bzhNS1hmbEF6TFZNa00?oc=5",
+      "external": true,
+      "featured": false
     },
     {
       "source": "news",
@@ -2576,32 +2602,6 @@ const CONTENT = {
       "dateTS": 1785308400.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORW1CWVFVMmkyTzd5NUc4VUZDY3FBWWZWMmRNMXBVMWNLbXdWd0lRTV85MEtDSlk1WHVvak1WRVBHQm1La2NxM2FnUWUwUEV5UkZRcjNwRk1JSThWTE5DbEZMdUU2ZGN0NUJoR2s0ZTlRME5SZjlPUGFXRml1Y2tsancycThyN2ZuMnRodzl4Um00Wk9C0gGaAUFVX3lxTFBHY3BUaExjRk9vRTRFeDNFdXBsaGdvbktrZi1KYzdRaHNRcHFSODFyQjh5d18wSEhxZTYwM1d4VTR6d1hSZFVySm5BOVo2aW04eGV5NmhQU3daSlFEVEJwRzRTb0lJT285VUNRTkpiNFZ2UnVlS2kybVZlVjBDZkVPbE1fLVdwNDZfdHlBblVXT2tZXzU5QktRWFE?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "focus.ua",
-      "title": "Блокування українських портів: що буде з гривнею, паливом і цінами - focus.ua",
-      "excerpt": "Згадка у виданні focus.ua",
-      "date": "24 липня 2026",
-      "dateTS": 1784876400.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUGVGcGdpZVBMUGkzV05DUG1hNHhGamMxclpFaTlKUHZxcXE1SVhnSTA4aldCYUtzYzlxckJiQ0FKNV9tWDZZNnV3VlpxTzJWZnNDbk5zR3dtNktKUUdtdnY2eEVJa3dNZG4zazNLRVZCcWhkQ051UGUxUUFGR0lvUk0yRXVKTG1jLUE3STNXUm5sVm05RGQ4SW8zOGZ5b3ZFaEI4MzBXUlQyX1lUcDFzUU9ZZmJXWjB3TTlQNNIBwgFBVV95cUxORVJ1YTFRUV9aeTdrRmd6NUItT1J4SDVTcksyZVcyVDZQOThDY0o2YlBoaERJUXJJc2hXalFPZG1iT0s3OHROdUF3SEtnYkE4dk55NFYwYzFOQjdwSFJxdlZNLS1CaDlLdlYxNy12bFBXUFBuMVpuQzlfb2dWSE1FRENIVGtSMnVVMlpkazVkUFprdDlqU3R1OHZVN2hpdFdBQ3NHeG1aRXJvYlRuMW9kUlpHRGpaTWZtc0pvZkdJeHBQZw?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "УНІАН",
-      "title": "Зростання долара та подорожчання низки товарів: аналітик про наслідки закриття портів - УНІАН",
-      "excerpt": "Згадка у виданні УНІАН",
-      "date": "23 липня 2026",
-      "dateTS": 1784820480.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb0VHcWs2OUc4bHJjTTJNSkhNVWFld0toNUJRUHp4ZkdpbmJBak9ZVlY2bGgwcl9ZaWlCLTNGeE5TMnZnV2hiRklWVHVjRTBUVm5qZl9STGxSeEtESkJLaFJFUW1WUERZMDEyQjV3MXY5RldyRVRETl9rd19SNlpxOXMtWDE3cVE2TkVPbjNlWGh1V3ktWHVkQnh4QnJsWHFaM2swek4xTUI5Y3RITUFna2t0RWstZ9IB0AFBVV95cUxQRGJnWWxDQVhNbkFYaGdpY29Bam9VcW9vTnNEYXBjMTRIbFZ3VDcwRnN6NmMtdzQwZWVHZkhrNlV6VVlHNWIxdzBiSlllS1hTVm9VTXRRdllXZ2oxR3MzWmNRTmZlRDFuclhEWG16eHhfMmdQTzdid01vTmhFRC1LZzJQdUN5ZW1XdXJoNlVzR3hNQXA5WGtxaWpqQm95c0xYRS05MTFYNXBGdWtiM1dyZlUtN3lxZWpVZnJDRUFoMzY5RGE2am01aUszOW1mY3Nn?oc=5",
       "external": true,
       "featured": false
     }
