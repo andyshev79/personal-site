@@ -1,8 +1,60 @@
-// Автоматично оновлено: 2026-11-13 15:48 UTC
+// Автоматично оновлено: 2026-11-14 14:40 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: ПАНІКА ВИДИХАЄТЬСЯ? (частина 3 - графіки)",
+      "excerpt": "",
+      "date": "14 листопада 2026",
+      "dateTS": 1794656771.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1112",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: ПАНІКА ВИДИХАЄТЬСЯ? (частина 2)  РИНОК В ЦИФРАХ: Примітка...",
+      "excerpt": "",
+      "date": "14 листопада 2026",
+      "dateTS": 1794656408.0,
+      "readTime": "3 хв",
+      "url": "https://t.me/shevchyshyn_trends/1110",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: ПАНІКА ВИДИХАЄТЬСЯ? (частина 1)   Тиждень пройшов очікува...",
+      "excerpt": "",
+      "date": "14 листопада 2026",
+      "dateTS": 1794656303.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/1109",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Вже завтра у тижневому валютному огляді ЯК ДОВГО НБУ БУДЕ ТРИМАТИ КУРС ДОЛАРУ? ЧОМУ Й ДО ЯКИХ РІВ...",
+      "excerpt": "",
+      "date": "13 листопада 2026",
+      "dateTS": 1794592663.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1108",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +66,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/1107",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1250,58 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/977",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Фонд Гарантування Вкладів Фізичних Осіб опублікував свіжу статистику щодо коштів українців  Голов...",
-      "excerpt": "",
-      "date": "27 жовтня 2026",
-      "dateTS": 1793116729.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/976",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "❗Депутати знову хочуть обмежити журналістські розслідування.  У порядку денному Верховної Ради з’...",
-      "excerpt": "",
-      "date": "27 жовтня 2026",
-      "dateTS": 1793112589.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/975",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Новий рекорд на міжбанку по долару 45.69 - 45.75 ...й знов після обіду...",
-      "excerpt": "",
-      "date": "27 жовтня 2026",
-      "dateTS": 1793106544.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/974",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Золото знову в тренді безпоставочних операцій, а срібло продовжують скидати  У вересні попит укра...",
-      "excerpt": "",
-      "date": "27 жовтня 2026",
-      "dateTS": 1793099085.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/973",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1364,7 +1364,7 @@ const CONTENT = {
       "title": "Долар чи гривня: як українцям захистити заощадження від девальвації - Слово і Діло",
       "excerpt": "Згадка у виданні Слово і Діло",
       "date": "6 листопада 2026",
-      "dateTS": 1793952660.0,
+      "dateTS": 1793952000.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVlJhZ3RsT1paeUZ5cTRyQjdRSzhSaFdQZGNIOVVzU1BGQ3FEczFmY3V0RWpGTHVMNXNRLTNubThzb1ZpVWFNTUlfZjlXRThzb3Jzd0FKdHFZZEtlLWRsdUkyZ1FJb3pOZWJuOFllVTdOMFlrZGV0aDZxVDlZZTZfVFpQUWQtdVJoZE9oa0VEU005eHozVlBXMlpZR2lHYVVFM0FJV0hXZHR4M3VxN2w1cE40dXZpQV92T2FFWVRJQ01CRXFSc1HSAcsBQVVfeXFMTm02VWRSRnBLUVNqVFRDX054anpTdExBZHluZGw2M2lZTnJONGo0bEJiZzFFNUVnZ3QtbzRKMzRSc1M4YjktVDFCaWtmRTd3TUdJazFWYWlYQ0xwZmdFTVdqXzdWMlZSZ3FkSmRDbXpjUFBvaXhVU001aDZmMThTZDdwUTdSX0dnOUlVYXpMekRRSldqaFJLTzhHTHZ3a21uLWFyOWFPSW4tLU40LXNZTUQzTUlaemNSMWY1ampyVFBEQVk1Sk5UZ1VudUE?oc=5",
       "external": true,
@@ -1405,7 +1405,7 @@ const CONTENT = {
       "date": "2 листопада 2026",
       "dateTS": 1793606400.0,
       "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFduOEZCcnJEZlNkbVd6d3BkWTFkbjNkbnRWTTg1cTBPb2JiS0kwNnRESnExSTd1VVlRbll1ZHFZS3ExblQ1bzgtSFZ2NWpqWHRNZGhyTi1oQU56dVZCcVdkdXE3czZzSGwyRjRJV3Q5eEdjTmltanIybXJUTTd1YXZlazQ5T2RuNzl4SXVLN3VYSEI1Q2NsanJzd2I3QkdiSFp3Qy1Fb2d2OUI0Ymw0RExUTkY5bzhNS1hmbEF6TFZNa00?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFduOEZCcnJEZlNkbVd6d3BkWTFkbjNkbnRWTTg1cTBPb2JiS0kwNnRESnExSTd1VVlRbll1ZHFZS3ExblQ1bzgtSFZ2NWpqWHRNZGhyTi1oQU56dVZCcVdkdXE3czZzSGwyRjRJV3Q5eEdjTmltanIybXJUTTd1YXZlazQ5T2RuNzl4SXVLN3VYSEI1Q2NsanJzd2I3QkdiSFp3Qy1Fb2d2OUI0Ymw0RExUTkY5bzhNS1hmbEF6TFZNa03SAcgBQVVfeXFMTXdYUFlOZ3kwOVlJbHl0QWFBcmYyTzF5TUNyZ0JzQWpnNHdVc1M4NHRtbnBWSFg5VklTVmtGeEl1bmI0S0d4WTZSemZwYlh1VFpmWjhnWEVSRHRnQ0dzTFRUem5IU1RqOGFFMExyZkU3NlFjVlhWZi1GNkhaNTFQWmx1ZVFrRzUyNTFwOE9zVGowX1dmT1lHYmZ6cDNlRlBkdTNYN1NDUEowMDYxZ3dtcWRkSXBPcmR3aXRTV2xOeWtvRU1maXlDc0k?oc=5",
       "external": true,
       "featured": false
     },
@@ -1418,7 +1418,7 @@ const CONTENT = {
       "date": "2 листопада 2026",
       "dateTS": 1793606400.0,
       "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFduOEZCcnJEZlNkbVd6d3BkWTFkbjNkbnRWTTg1cTBPb2JiS0kwNnRESnExSTd1VVlRbll1ZHFZS3ExblQ1bzgtSFZ2NWpqWHRNZGhyTi1oQU56dVZCcVdkdXE3czZzSGwyRjRJV3Q5eEdjTmltanIybXJUTTd1YXZlazQ5T2RuNzl4SXVLN3VYSEI1Q2NsanJzd2I3QkdiSFp3Qy1Fb2d2OUI0Ymw0RExUTkY5bzhNS1hmbEF6TFZNa03SAcgBQVVfeXFMTXdYUFlOZ3kwOVlJbHl0QWFBcmYyTzF5TUNyZ0JzQWpnNHdVc1M4NHRtbnBWSFg5VklTVmtGeEl1bmI0S0d4WTZSemZwYlh1VFpmWjhnWEVSRHRnQ0dzTFRUem5IU1RqOGFFMExyZkU3NlFjVlhWZi1GNkhaNTFQWmx1ZVFrRzUyNTFwOE9zVGowX1dmT1lHYmZ6cDNlRlBkdTNYN1NDUEowMDYxZ3dtcWRkSXBPcmR3aXRTV2xOeWtvRU1maXlDc0k?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFduOEZCcnJEZlNkbVd6d3BkWTFkbjNkbnRWTTg1cTBPb2JiS0kwNnRESnExSTd1VVlRbll1ZHFZS3ExblQ1bzgtSFZ2NWpqWHRNZGhyTi1oQU56dVZCcVdkdXE3czZzSGwyRjRJV3Q5eEdjTmltanIybXJUTTd1YXZlazQ5T2RuNzl4SXVLN3VYSEI1Q2NsanJzd2I3QkdiSFp3Qy1Fb2d2OUI0Ymw0RExUTkY5bzhNS1hmbEF6TFZNa00?oc=5",
       "external": true,
       "featured": false
     },
