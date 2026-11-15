@@ -1,8 +1,21 @@
-// Автоматично оновлено: 2026-11-14 14:40 UTC
+// Автоматично оновлено: 2026-11-15 15:08 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "https://youtu.be/Wt0GhgKkSK8  00:00 головні інсайди цього відео 00:32 Тенденції тижня 9-14.11.26 ...",
+      "excerpt": "",
+      "date": "14 листопада 2026",
+      "dateTS": 1794686711.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1117",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +27,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/1112",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1287,19 +1300,6 @@ const CONTENT = {
       "dateTS": 1793177040.0,
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/978",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Мінфін зовсім очмінів. Дуже жадібний ) Сьогодні дорозмістив військові ОВДП (річні, погашення в ве...",
-      "excerpt": "",
-      "date": "27 жовтня 2026",
-      "dateTS": 1793128209.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/977",
       "external": true,
       "featured": false
     }
@@ -2611,6 +2611,19 @@ const CONTENT = {
       "source": "youtube",
       "tag": "youtube",
       "tagLabel": "YouTube",
+      "title": "ВАЛЮТНА ПАНІКА ВИДИХАЄТЬСЯ?  ТИЖНЕВИЙ ОГЛЯД",
+      "excerpt": "ЯК ДОВГО НБУ БУДЕ ТРИМАТИ КУРС ДОЛАРУ?\nЧОМУ Й ДО ЯКИХ РІВНІВ ОПУСТИТЬСЯ ЄВРО ДО ГРИВНІ?\nЯК ГРИВНЯ РЕАГУЄ НА СЕЗОН РОЗПРОДАЖІВ?\nЙ бонус, чому операція НАБУ й САП \"Карфаген\" вплинула на готівкову валюту",
+      "date": "14 листопада 2026",
+      "dateTS": 1794686415.0,
+      "readTime": "відео",
+      "url": "https://www.youtube.com/watch?v=Wt0GhgKkSK8",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "youtube",
+      "tag": "youtube",
+      "tagLabel": "YouTube",
       "title": "ГРИВНЯ ПІСЛЯ КЕРОВАНОЇ ДЕВАЛЬВАЦІЇ",
       "excerpt": "00:00 Вступ\n00:47 Огляд тижня 2-7 листопада 2026. Ажіотаж й НБУ\n03:30 Баланс Міжбанку\n05:31 Баланс готівкового ринку\n09:20 Загальний дефіцит ринку й інтервенції НБУ\n14:10 Прогноз на 9-15 листопада 202",
       "date": "7 листопада 2026",
@@ -2618,7 +2631,7 @@ const CONTENT = {
       "readTime": "відео",
       "url": "https://www.youtube.com/watch?v=tiXJL4fkHaY",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "youtube",
