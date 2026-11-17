@@ -1,8 +1,112 @@
-// Автоматично оновлено: 2026-11-16 17:42 UTC
+// Автоматично оновлено: 2026-11-17 17:14 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Як НБУ гривню тримав..., чи ринок шатав (потрібне підкреслити) Міжбанк долар 45.20 - 45.28 Й це н...",
+      "excerpt": "",
+      "date": "17 листопада 2026",
+      "dateTS": 1794921982.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1140",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "БАНКИ ЛІДЕРИ КРЕДИТУВАННЯ 9М2026 (млрд грн)  Лідери кредитування юридичних осіб.  Всього за 9м202...",
+      "excerpt": "",
+      "date": "17 листопада 2026",
+      "dateTS": 1794916155.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1139",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "СТРОКОВІ ДЕПОЗИТИ У ВЕРЕСНІ 2026  ПО БАНКАМ   Строкові депозити в гривні зросли на +₴3,12 млрд у ...",
+      "excerpt": "",
+      "date": "17 листопада 2026",
+      "dateTS": 1794915237.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1138",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "СТРОКОВІ ДЕПОЗИТИ НАСЕЛЕННЯ ЗА 9М2026 ПО БАНКАМ (млрд грн)  ГРИВНЯ:  Всього по банківському секто...",
+      "excerpt": "",
+      "date": "17 листопада 2026",
+      "dateTS": 1794914756.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1137",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Темпи скорочення чистого прибутку банків за 9м2026 прискорились до 33,3%",
+      "excerpt": "",
+      "date": "17 листопада 2026",
+      "dateTS": 1794911182.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1135",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЗА 9м2026 БАНКИ ВТРАТИЛИ ТРЕТИНУ ПРИБУТКІВ   Скорочення чистого прибутку банків за 9м2026 прискор...",
+      "excerpt": "",
+      "date": "17 листопада 2026",
+      "dateTS": 1794911061.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1134",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Строкові вклади: +4,9 млрд грн (+1,0%), але їхня частка лише 32,8%.",
+      "excerpt": "",
+      "date": "17 листопада 2026",
+      "dateTS": 1794905980.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1131",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ДЕПОЗИТИ НАСЕЛЕННЯ: ГРИВНЯ ЗУПИНИЛАСЬ, А ВАЛЮТА ДОГНАЛА (ЖОВТЕНЬ 2026)  Кошти населення в банках ...",
+      "excerpt": "",
+      "date": "17 листопада 2026",
+      "dateTS": 1794905766.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/1130",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -1198,113 +1302,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/1001",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ПРИВАТНІ ГРОШОВІ ПЕРЕКАЗИ В УКРАЇНУ ЗА 9М2026: ПАДІННЯ СТАБІЛІЗУВАЛОСЬ НА РІВНІ -7%  Приватні пер...",
-      "excerpt": "",
-      "date": "30 жовтня 2026",
-      "dateTS": 1793377827.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1000",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Чистий попит населення на готівкову валюту в середу 28.10.26 сягнув 78,64 млн дол - другий істори...",
-      "excerpt": "",
-      "date": "30 жовтня 2026",
-      "dateTS": 1793367246.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/997",
-      "external": true,
-      "featured": true
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "#ДумкиВголос Республіканці програють проміжні вибори в Конгрес (принаймні зараз це базовий сценар...",
-      "excerpt": "",
-      "date": "30 жовтня 2026",
-      "dateTS": 1793356603.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/996",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжбанк відкрився кволо 45.35 - 45.40  За 4 дні цього тижня оціночно інтервенції НБУ вже перевищи...",
-      "excerpt": "",
-      "date": "30 жовтня 2026",
-      "dateTS": 1793353251.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/995",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "❗️ ЭТО ПРЕВЗОШЛО ВСЁ, ЧТО КРИПТОИНДУСТРИЯ ВИДЕЛА ДО СИХ ПОР — АНАЛИТИКИ  Binance подверглась взло...",
-      "excerpt": "",
-      "date": "30 жовтня 2026",
-      "dateTS": 1793339837.0,
-      "readTime": "3 хв",
-      "url": "https://t.me/shevchyshyn_trends/994",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "❗️ КРУПНЕЙШАЯ КРИПТОБИРЖА BINANCE ПОСЛЕ ВЗЛОМА И СООТВЕТСТВУЮЩЕГО УЩЕРБА В $6,3 МЛРД ВРЕМЕННО ПРИ...",
-      "excerpt": "",
-      "date": "30 жовтня 2026",
-      "dateTS": 1793339591.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/989",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжбанк 45.35 - 45.45 😂 Тур Хеердал, Тур Хеервзял )))  UPD: 45.32 - 45.37 на 15:45",
-      "excerpt": "",
-      "date": "29 жовтня 2026",
-      "dateTS": 1793280705.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/988",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжбанк 45.46 - 45.52 Не скажу, що це прям точно реакція на ставку, бо очікували її підвищення як...",
-      "excerpt": "",
-      "date": "29 жовтня 2026",
-      "dateTS": 1793279567.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/987",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "ТСН",
+      "title": "Чому євро падає, а долар зростає: економісти ошелешили прогнозом про курс валют в Україні - ТСН",
+      "excerpt": "Згадка у виданні ТСН",
+      "date": "16 листопада 2026",
+      "dateTS": 1794849766.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSWd1Mmc3MXlzdUxCeXc2NXhlNXZ5QzhHOHBxYl9hX2VXSklZNUVJRy1qQUVHS1FRX1JmbTVhcTFjWXIyUFRWNENaN1lhRjhuVXFUbV9laktNUC1ZWjVNajd4Qkkzdks2TDRNcU1ZWndJcDIyVUEyWGhXMFVZNERlSFBFY202d2h5S1BpNGNaNHBiQm5lUmFBVUtUTFZLZmpHMkVacEJ3WGdwSXppS3pfV2JsY3l2c3dHWi1QYzI0M1VScUhHUm1N0gHMAUFVX3lxTE81cmczd0R5TURLSlNWTmlod2JWUFlsMl9IRVpyWkhMM0ZwTTdvUnZUOUVUNjIyaGVVOWxyT3BNR1NoaEhwd0lXWXhseGlhaVFsUlhuaUpCZGN5TU0zNWt4TF9wRVgtalo5WHNlZnNiYTAyYkxKXzBMQVBTc3VVNzEyaVpLMXJkamJrLWZ3d2lQbWFhX0tiTXd2NGxXUnNEZm9XRFEyaWVEMW5vUGh2cW1qUUNrMFRJakNsMlRnYXhFcEtDUWppTjdPWjZmUA?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -1316,7 +1329,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSVptR0xZLS1UMjc2QW5sQ3I1NGNpQ3VrOW1qOElKcWlUemFUcXp5T003ZVBMTWpTRFRLXzF5OTRzVm9nZW1LNUh5amJnZ0E4TmpLV0FLUlRfRi1BazFzRXNaNURLcjlfbklJdWNOZkw3Z3VaSjZEbzJialR3YlJMcmxRcTVrSVFkRUl3S2ZHSkZiUDQ5c194UUQ1dy1XQkd1RWdQSUdiZ0U0NFNvb3BqM3NSNmNFU2tEdHIxTTA0anFjZWZxd0l5V3R0SEYzY1pndEdKRDBVbmZFTU50TndibkM0UE1qVW9lRDRDNm92TF9JQzhkYV90NlVPZDExM18zcnfSAYYCQVVfeXFMTl9hM3BVeVBMbkxvN0FmLVNDeGpUTk1vaWhVMjhwbHdnVHJDamxTVG9LcVBFSmxrRDhLT216c3FSQllRby1vaVowMW96ZTlyVzdscDdCcWVwNEp0UnRQcHpKaFcwSW92ejlQX2toNGM5ZHg0cU14M1kxMkxHQ2haLXB6WkE4aTVIeGpXcGt4MG5TUUtPdlliMEdxRmpXVDJrbFpZQ1dEUEtkQko5b1dTd1RYREtaLW8tQVN0WC0zTW40R3hKdHVReGI5RmlKcDdYUmZLbTJlT2Y3TThfWFh1c3JEek1BZkx1WTN4SXl4RWY0TllvNEM3a29henFuaVdtS3VWMDVadw?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -2589,19 +2602,6 @@ const CONTENT = {
       "dateTS": 1785308400.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORW1CWVFVMmkyTzd5NUc4VUZDY3FBWWZWMmRNMXBVMWNLbXdWd0lRTV85MEtDSlk1WHVvak1WRVBHQm1La2NxM2FnUWUwUEV5UkZRcjNwRk1JSThWTE5DbEZMdUU2ZGN0NUJoR2s0ZTlRME5SZjlPUGFXRml1Y2tsancycThyN2ZuMnRodzl4Um00Wk9C?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "РБК-Україна",
-      "title": "Удари по Wildberries можуть вартувати продавцям РФ до 1,3 млрд доларів, – аналітик - РБК-Україна",
-      "excerpt": "Згадка у виданні РБК-Україна",
-      "date": "29 липня 2026",
-      "dateTS": 1785308400.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORW1CWVFVMmkyTzd5NUc4VUZDY3FBWWZWMmRNMXBVMWNLbXdWd0lRTV85MEtDSlk1WHVvak1WRVBHQm1La2NxM2FnUWUwUEV5UkZRcjNwRk1JSThWTE5DbEZMdUU2ZGN0NUJoR2s0ZTlRME5SZjlPUGFXRml1Y2tsancycThyN2ZuMnRodzl4Um00Wk9C0gGaAUFVX3lxTFBHY3BUaExjRk9vRTRFeDNFdXBsaGdvbktrZi1KYzdRaHNRcHFSODFyQjh5d18wSEhxZTYwM1d4VTR6d1hSZFVySm5BOVo2aW04eGV5NmhQU3daSlFEVEJwRzRTb0lJT285VUNRTkpiNFZ2UnVlS2kybVZlVjBDZkVPbE1fLVdwNDZfdHlBblVXT2tZXzU5QktRWFE?oc=5",
       "external": true,
       "featured": false
     }
