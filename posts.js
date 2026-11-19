@@ -1,8 +1,73 @@
-// Автоматично оновлено: 2026-11-18 16:50 UTC
+// Автоматично оновлено: 2026-11-19 16:57 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Суко до слез 44.90 - 45.02",
+      "excerpt": "",
+      "date": "19 листопада 2026",
+      "dateTS": 1795096507.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1154",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Зустріч в Шенчжені Трампа-Сі-путіна була реперною точкою  за якою я слідкував, бо було зрозуміло,...",
+      "excerpt": "",
+      "date": "19 листопада 2026",
+      "dateTS": 1795096477.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1153",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Гривня на міжбанку 45.00 - 45.05  Будь я якимось пропогандистом, написав би щось на кшталт: гривн...",
+      "excerpt": "",
+      "date": "19 листопада 2026",
+      "dateTS": 1795094924.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1152",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Долар на міжбанку дійшов до ручки )) 45.04 - 45.08",
+      "excerpt": "",
+      "date": "19 листопада 2026",
+      "dateTS": 1795087518.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1151",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Міжбанк долар зранку  45.10 - 45.16  Все для імпортерів.  Я більше скажу, на ринку Казначейство п...",
+      "excerpt": "",
+      "date": "19 листопада 2026",
+      "dateTS": 1795080777.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1150",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +79,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/1148",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1235,71 +1300,6 @@ const CONTENT = {
       "dateTS": 1793622090.0,
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/1019",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "https://youtu.be/BGpwk5S_KJ8 00:00 Вступ 00:37 Жовтень - місяць керованої девальвації 03:13 Курс ...",
-      "excerpt": "",
-      "date": "31 жовтня 2026",
-      "dateTS": 1793479883.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1018",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ЖОВТЕНЬ – МІСЯЦЬ 4-х РЕКОРДІВ, ЛИСТОПАД – ІМПУЛЬС ЗБЕРІГАЄТЬСЯ (графіки)",
-      "excerpt": "",
-      "date": "31 жовтня 2026",
-      "dateTS": 1793466739.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1013",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ЖОВТЕНЬ – МІСЯЦЬ 4-х РЕКОРДІВ, ЛИСТОПАД – ІМПУЛЬС ЗБЕРІГАЄТЬСЯ. (Частина ...",
-      "excerpt": "",
-      "date": "31 жовтня 2026",
-      "dateTS": 1793466471.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1012",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ЖОВТЕНЬ – МІСЯЦЬ 4-х РЕКОРДІВ, ЛИСТОПАД – ІМПУЛЬС ЗБЕРІГАЄТЬСЯ. (Частина ...",
-      "excerpt": "",
-      "date": "31 жовтня 2026",
-      "dateTS": 1793466470.0,
-      "readTime": "3 хв",
-      "url": "https://t.me/shevchyshyn_trends/1011",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ЖОВТЕНЬ – МІСЯЦЬ 4-х РЕКОРДІВ, ЛИСТОПАД – ІМПУЛЬС ЗБЕРІГАЄТЬСЯ. (Частина ...",
-      "excerpt": "",
-      "date": "31 жовтня 2026",
-      "dateTS": 1793466376.0,
-      "readTime": "3 хв",
-      "url": "https://t.me/shevchyshyn_trends/1010",
       "external": true,
       "featured": false
     }
