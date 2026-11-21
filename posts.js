@@ -1,8 +1,34 @@
-// Автоматично оновлено: 2026-11-20 16:31 UTC
+// Автоматично оновлено: 2026-11-21 15:49 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "А ви знаєте, що гривня на цьому тижні лідер укріплення до долару серед, як мінімум, європейських ...",
+      "excerpt": "",
+      "date": "21 листопада 2026",
+      "dateTS": 1795265995.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1166",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Загальний обсяг транскордонних переказів стейблкоїнів між гаманцями в Україну за 12 місяців (лип2...",
+      "excerpt": "",
+      "date": "20 листопада 2026",
+      "dateTS": 1795195007.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1165",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +40,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/1164",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1276,32 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/1034",
       "external": true,
       "featured": true
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ПРОМИСЛОВІСТЬ. А ЩО ДАЛІ? Продовжимо падати?  В річному вимірі так, хоча в місячному важко сказат...",
-      "excerpt": "",
-      "date": "3 листопада 2026",
-      "dateTS": 1793718087.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1033",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ПРОМИСЛОВІСТЬ У ВЕРЕСНІ: +2,7% М/М, АЛЕ −9,2% Р/Р  1. Річні темпи падіння прискорились з -6,1% до...",
-      "excerpt": "",
-      "date": "3 листопада 2026",
-      "dateTS": 1793715452.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1029",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
