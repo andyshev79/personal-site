@@ -1,8 +1,73 @@
-// Автоматично оновлено: 2026-11-21 15:49 UTC
+// Автоматично оновлено: 2026-11-22 15:48 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "https://youtu.be/WjJfhcJEWpo  00:00 Про що цей огляд 00:34 Гривня лідер Європи, що відбулось на р...",
+      "excerpt": "",
+      "date": "21 листопада 2026",
+      "dateTS": 1795280765.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1177",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: ГРИВНЯ ЄВРОПЕЙСЬКИЙ ЛІДЕР УКРІПЛЕННЯ. ЧИ НА ДОВГО? (графіки)",
+      "excerpt": "",
+      "date": "21 листопада 2026",
+      "dateTS": 1795277652.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1171",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: ГРИВНЯ ЄВРОПЕЙСЬКИЙ ЛІДЕР УКРІПЛЕННЯ. ЧИ НА ДОВГО? (части...",
+      "excerpt": "",
+      "date": "21 листопада 2026",
+      "dateTS": 1795277150.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1168",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: ГРИВНЯ ЄВРОПЕЙСЬКИЙ ЛІДЕР УКРІПЛЕННЯ. ЧИ НА ДОВГО? (части...",
+      "excerpt": "",
+      "date": "21 листопада 2026",
+      "dateTS": 1795277150.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/1169",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ТИЖНЕВИЙ ОГЛЯД ВАЛЮТНОГО РИНКУ УКРАЇНИ: ГРИВНЯ ЄВРОПЕЙСЬКИЙ ЛІДЕР УКРІПЛЕННЯ. ЧИ НА ДОВГО? (части...",
+      "excerpt": "",
+      "date": "21 листопада 2026",
+      "dateTS": 1795277100.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/1167",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +79,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/1166",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1237,74 +1302,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/1044",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "💵 Долар під тиском, а 💶 євро отримує шанс   Підсумки проміжних виборів у США, хоч й були очікуван...",
-      "excerpt": "",
-      "date": "4 листопада 2026",
-      "dateTS": 1793787809.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1043",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "По міжбанку не рекорди, але майже... По середньодобовим рівням друге місце рейтингу.  От й роби л...",
-      "excerpt": "",
-      "date": "4 листопада 2026",
-      "dateTS": 1793781554.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1042",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Сальдо готівкових валютних операцій населення 02.11.26 - 78,80 млн дол (тепер це 2 місце в антире...",
-      "excerpt": "",
-      "date": "4 листопада 2026",
-      "dateTS": 1793780772.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1041",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Сальдо безготівкових валютних операцій населення 02.11.26 - 106,15 млн дол.  Я ніколи не бачив та...",
-      "excerpt": "",
-      "date": "4 листопада 2026",
-      "dateTS": 1793780610.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1040",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "В жовтні Мінфін залучив через ОВДП найменший об'єм за 5 місяців  - 27,16 млрд грн (й якщо не брат...",
-      "excerpt": "",
-      "date": "3 листопада 2026",
-      "dateTS": 1793718911.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1034",
-      "external": true,
-      "featured": true
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Мінфін",
+      "title": "Гривня стала лідером укріплення до долара серед європейських валют: експерт пояснив чи довго триватиме цей тренд - Мінфін",
+      "excerpt": "Згадка у виданні Мінфін",
+      "date": "22 листопада 2026",
+      "dateTS": 1795331280.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43NVdab2dKZ0REdVhwZTNIX3A3ZXR4TWFDdmNVWnVBOUtUZ1VONlAtQmtSZVFRU1E4NjdjOEhxSS1XZERiSzVoS3BHd0VVSmsxUnoyRkhLYmZvd2JrTmQ00gFfQVVfeXFMTjc1V1pvZ0pnRER1WHBlM0hfcDdldHhNYUN2Y1VadUE5S1RnVU42UC1Ca1JlUVFTUTg2N2M4SHFJLVdkRGJLNWhLcEd3RVVKazFSejJGSEtiZm93YmtOZDQ?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -1316,7 +1329,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSWd1Mmc3MXlzdUxCeXc2NXhlNXZ5QzhHOHBxYl9hX2VXSklZNUVJRy1qQUVHS1FRX1JmbTVhcTFjWXIyUFRWNENaN1lhRjhuVXFUbV9laktNUC1ZWjVNajd4Qkkzdks2TDRNcU1ZWndJcDIyVUEyWGhXMFVZNERlSFBFY202d2h5S1BpNGNaNHBiQm5lUmFBVUtUTFZLZmpHMkVacEJ3WGdwSXppS3pfV2JsY3l2c3dHWi1QYzI0M1VScUhHUm1N0gHMAUFVX3lxTE81cmczd0R5TURLSlNWTmlod2JWUFlsMl9IRVpyWkhMM0ZwTTdvUnZUOUVUNjIyaGVVOWxyT3BNR1NoaEhwd0lXWXhseGlhaVFsUlhuaUpCZGN5TU0zNWt4TF9wRVgtalo5WHNlZnNiYTAyYkxKXzBMQVBTc3VVNzEyaVpLMXJkamJrLWZ3d2lQbWFhX0tiTXd2NGxXUnNEZm9XRFEyaWVEMW5vUGh2cW1qUUNrMFRJakNsMlRnYXhFcEtDUWppTjdPWjZmUA?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -2591,22 +2604,22 @@ const CONTENT = {
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM1RwLTNFVUZYODlVOWlrRE1maGEzR2JLX3pKdU5lWDVyNjNXZUZ3UHZ4eEJSWVhRbERvUmo5eFd0V3JJZ0Q5X2JGYlJHME9qYUJWQ05sWVNhOEl5Q3E4T1BxdHlnMVBlN09HWDJOeHpiVE5sYklYSUNsTm1nNnFTYnFzcE1sdDBJbWRoWlV6U3hENGo2RHhGMmMyUnBYSEl6dmZRUzJaSzJHZ1pHdmdfZU9kRmEzN3pO?oc=5",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "РБК-Україна",
-      "title": "Удари по Wildberries можуть вартувати продавцям РФ до 1,3 млрд доларів, – аналітик - РБК-Україна",
-      "excerpt": "Згадка у виданні РБК-Україна",
-      "date": "29 липня 2026",
-      "dateTS": 1785308400.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORW1CWVFVMmkyTzd5NUc4VUZDY3FBWWZWMmRNMXBVMWNLbXdWd0lRTV85MEtDSlk1WHVvak1WRVBHQm1La2NxM2FnUWUwUEV5UkZRcjNwRk1JSThWTE5DbEZMdUU2ZGN0NUJoR2s0ZTlRME5SZjlPUGFXRml1Y2tsancycThyN2ZuMnRodzl4Um00Wk9C?oc=5",
-      "external": true,
-      "featured": false
     }
   ],
   "youtube": [
+    {
+      "source": "youtube",
+      "tag": "youtube",
+      "tagLabel": "YouTube",
+      "title": "ГРИВНЯ ЄВРОПЕЙСЬКИЙ ЛІДЕР УКРІПЛЕННЯ. ЧИ НА ДОВГО?",
+      "excerpt": "Такого розвитку подій на валютному ринку важко було собі уявити. Гривня стала лідером зростання європейських валют до долару за тиждень. У той час, як індекс долару на світовому ринку зріс 0,4%, курс",
+      "date": "21 листопада 2026",
+      "dateTS": 1795280663.0,
+      "readTime": "відео",
+      "url": "https://www.youtube.com/watch?v=WjJfhcJEWpo",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "youtube",
       "tag": "youtube",
@@ -2618,7 +2631,7 @@ const CONTENT = {
       "readTime": "відео",
       "url": "https://www.youtube.com/watch?v=Wt0GhgKkSK8",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "youtube",
