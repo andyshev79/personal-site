@@ -1,8 +1,60 @@
-// Автоматично оновлено: 2026-11-22 15:48 UTC
+// Автоматично оновлено: 2026-11-23 19:41 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "EURUSD падає нижче за 1,09  Падіння цін нафти не стримує євро, й це досить дивно. Корекція нафти ...",
+      "excerpt": "",
+      "date": "23 листопада 2026",
+      "dateTS": 1795449694.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1181",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Хуанг повертається на місце голови NVIDIA...  ... ймовірно завдяки рішенню Шевченківського суду п...",
+      "excerpt": "",
+      "date": "23 листопада 2026",
+      "dateTS": 1795443705.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1180",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Ціни виробників незначне прискорення до вересня  Місячні темпи цін виробників не суттєво вищі за ...",
+      "excerpt": "",
+      "date": "23 листопада 2026",
+      "dateTS": 1795440648.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1179",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Міжбанк  очікуваний відскок долару після обвалу п'ятниці  45.13  - 45.17 (відкриття було на 45,15...",
+      "excerpt": "",
+      "date": "23 листопада 2026",
+      "dateTS": 1795430041.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1178",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +66,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/1177",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1250,61 +1302,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/1053",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Динаміка деяких секторів у 3кв26: 🟢 Аграрка +1,3% р/р 🔴 Промисловість -5,7%р/р 🔴 Будівництво* -10...",
-      "excerpt": "",
-      "date": "4 листопада 2026",
-      "dateTS": 1793805160.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1048",
-      "external": true,
-      "featured": true
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ВВП України в 3кв2026 падіння на 0,7% до 3кв2025. Падіння до попереднього кварталу 0,5%.  Таким ч...",
-      "excerpt": "",
-      "date": "4 листопада 2026",
-      "dateTS": 1793797681.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1047",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Прикольно Законопроект залишає декілька податкових ям. Тож норм.   Головне зафіксувати ціни купів...",
-      "excerpt": "",
-      "date": "4 листопада 2026",
-      "dateTS": 1793797220.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1046",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "ЕURUSD, USDX до попереднього посту.",
-      "excerpt": "",
-      "date": "4 листопада 2026",
-      "dateTS": 1793787873.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1044",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "finway.com.ua",
+      "title": "Шевчишин: поточний курс гривні привабливий для купівлі валюти - finway.com.ua",
+      "excerpt": "Згадка у виданні finway.com.ua",
+      "date": "23 листопада 2026",
+      "dateTS": 1795436818.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YeXEtMXU0dmx1Y3NhNURPQXB1VlBpOTZWVFp4WE1tV0F1ZTZBNjBLZGtnc2EweTU3QjlFaWpibkFaMXRBYzktVE9jalU2cGVaQ09rQlhVTGhzRWhSajd0b3VoZFU4SVFJZU1LckZRQXktU0thYzdF?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -1316,7 +1329,7 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43NVdab2dKZ0REdVhwZTNIX3A3ZXR4TWFDdmNVWnVBOUtUZ1VONlAtQmtSZVFRU1E4NjdjOEhxSS1XZERiSzVoS3BHd0VVSmsxUnoyRkhLYmZvd2JrTmQ00gFfQVVfeXFMTjc1V1pvZ0pnRER1WHBlM0hfcDdldHhNYUN2Y1VadUE5S1RnVU42UC1Ca1JlUVFTUTg2N2M4SHFJLVdkRGJLNWhLcEd3RVVKazFSejJGSEtiZm93YmtOZDQ?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "news",
@@ -1382,6 +1395,19 @@ const CONTENT = {
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LQ09PbXVJUEF1MFBKRHR2Znd0bm1ocUJiZi0yS2p3X2ZOdV8tbzlRQWxqdXlvU1ZtbVVrZUFOMV9oNmVONmtfZU01MnZpeUZuTmVZdFBEaWNfQnJYX2NZNU9yU3M1dGYz?oc=5",
       "external": true,
       "featured": true
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "БЛІК",
+      "title": "Багаті українці накопичують гроші значно швидше: що показала статистика банківських заощаджень - БЛІК",
+      "excerpt": "Згадка у виданні БЛІК",
+      "date": "6 листопада 2026",
+      "dateTS": 1793952256.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNblMyVV9HaFUyd2g3M0d1TEoxUDZfX0d1THlKdFpUWFp2UUJHYVFOZ1NnWkM5d3ZzRkEyU29VVkRhd2ZzTngtNDIwWmROSDZnSnNuSDZsUWhUQ3pXTVpKakpPZGV4M0g4YVN2OThoYVFMbGlmd1RpUGstS3dSTDFUcDFXMktfNElhb1hKWGdtMmRBbENBNDNUV2xKTGRJcHZBWk4yTFpTTUVPeTJjeERUcjhCVzZrMWMwUjFka0JfSXctM3JlSFpSN1l4b9IB0AFBVV95cUxObnA3YjRJbUdla0dWTzhNbkJndW8wTVVrT2V3OEJ4N3l3RFRFYXZmMld5TGF0ekZ3Zlk4YXBYR2FxRGtYcDZTMS00cmhmcGwxbUZfUWoyM3dKdzlkSXhtalNVMlZDSWJ4REtrbzBQRFZWTFdIRjMxamV1OXR0eVNwaVl2VDNjNzQwMkUzbk0yR1dJbjk1RHJOdnBiY2RGY0pmRXB4VXF4UmJhSEFUM1M5ckNYNGRFWFhrMURBOGhMUUNYZmtPYjN6Y0hWZWE5WE5D?oc=5",
+      "external": true,
+      "featured": false
     },
     {
       "source": "news",
@@ -2576,32 +2602,6 @@ const CONTENT = {
       "dateTS": 1785567600.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb1dYejlrOUpYaDdnMjZCSWJ0b2Q0UFRJeXhiSXFWbXJBY0hQbFJpaDUyTThGMlJJWFd0QU9rdzBfTWpZeDVYOW5Xbk5UbXZWOElUUXFndzJ6cS1acExoaUpFTVdiNEJ5Znl6U1RLNF9tQ2YwQ3Nfb3F5c0tTU1A3TXpHbVNFcmI3WjZHX1FkVnFVRFA3TUktcWhsRi1EbTVMenl2QUZsN2dDZGpEQ3pHelc0bG1SSTB6cUHSAb8BQVVfeXFMUDBXSkdkWkxncE96c25vdmtMTnlEN3JBRmNLNnZUY1ZnVmxDbzhIZ01UamVfME5yaGtaaF9GWWN5dFNtT2poVnBtQzloLVl5UUJCTU5DZ2loUng5dUZBcUwwNnRNS1VwdEhWcDBUWUE5NnhuSldhUmxydDB3Z2tDcHA4alQ1ckk3d2ZDRlhSVm1yeUZYTnczY2FGaXM3RVN2SUg5eDhac090ZWRVd3hZb016TXkxTUFDa2NJVnV0LUk?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "ТСН",
-      "title": "Катастрофа з бензином, дорогий долар і висока інфляція: експерти ошелешили екопрогнозом на серпень 2026 - ТСН",
-      "excerpt": "Згадка у виданні ТСН",
-      "date": "31 липня 2026",
-      "dateTS": 1785481200.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLTB0N0pWZVNsQWh0aVNWa1FqRXFBSHlWbkVScVVMLWx4d2p2NWhSUExwS2xjc0tSbXRTYk55YUJlZkdIT1VMQmV3X3gzcE1FalplbmVkalBMZzRIOGl1R18tYW8xNHVnMnEya1R4ZE5RM3hvVnFqV3NLN1hKS1Bmbno2MG1Db3ZwWkVrNDRLWjNwYlhrOThCV2JONTExSFBhMERkdlVwQXZUVjFRTExrTnZGVzJRdDQ0RDIzM3IwZWl4dmFZdjJieUdpTdIB0AFBVV95cUxQbUUzaGx5WHMzWmNTcXYyQVhOWGpMVjNpaUkxTlBkdG1uWldoQzhOMjF3TXRnVnRUdWV3a21xMFNHUDRNam9mY3RFRXJVcHFDeVdyaVd0Q2RnN0lyV1BsWVhuX3ZubzVST3YxbWxESGpfbDdSMUlodktlamxaaDJ2Q1JWZ2J1MDU4NnFPemVYT0l6dnFzalY1dmdDdlVja2VTNWJxZllZcjBNaTVUOURpVTQ3YUt0ZEZrdXBUUnhkajcwQVdhamRqbHBHNkdtdURI?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "Minfin.com.ua",
-      "title": "Чи може підвищення Нацбанком облікової ставки стримати ослаблення гривні - Minfin.com.ua",
-      "excerpt": "Згадка у виданні Minfin.com.ua",
-      "date": "30 липня 2026",
-      "dateTS": 1785394800.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM1RwLTNFVUZYODlVOWlrRE1maGEzR2JLX3pKdU5lWDVyNjNXZUZ3UHZ4eEJSWVhRbERvUmo5eFd0V3JJZ0Q5X2JGYlJHME9qYUJWQ05sWVNhOEl5Q3E4T1BxdHlnMVBlN09HWDJOeHpiVE5sYklYSUNsTm1nNnFTYnFzcE1sdDBJbWRoWlV6U3hENGo2RHhGMmMyUnBYSEl6dmZRUzJaSzJHZ1pHdmdfZU9kRmEzN3pO?oc=5",
       "external": true,
       "featured": false
     }
