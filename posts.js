@@ -1,8 +1,86 @@
-// Автоматично оновлено: 2026-11-23 19:41 UTC
+// Автоматично оновлено: 2026-11-24 19:14 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "БАНКИ ОТРИМАЛИ У ЖОВТНІ НАЙБІЛЬШИЙ ПРИБУТОК З ЛИСТОПАДА 2025  За 10м2026 українські банки знизили...",
+      "excerpt": "",
+      "date": "24 листопада 2026",
+      "dateTS": 1795531401.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1189",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Ціни бензину та дизелю йдуть нижче й нижче. З пікових рівнів вже -7-9 грн відійшли. Існує перспек...",
+      "excerpt": "",
+      "date": "24 листопада 2026",
+      "dateTS": 1795526165.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1188",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "У січні-жовтні 2026 р. обсяг виробництва сільськогосподарської продукції +5,4% порівняно із січне...",
+      "excerpt": "",
+      "date": "24 листопада 2026",
+      "dateTS": 1795522716.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1187",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "🛢Нафта падає. Находження нижче 90 дол, відкриває шлях на 70 дол за бар - й це потенційно дуже сил...",
+      "excerpt": "",
+      "date": "24 листопада 2026",
+      "dateTS": 1795516225.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1186",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Традиційні вимоги МВФ - приведення тарифів до ринкових рівнів.  💡Електрика підвищення з діючих 4,...",
+      "excerpt": "",
+      "date": "24 листопада 2026",
+      "dateTS": 1795511018.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1184",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Долар на міжбанку відновлюється дуже швидко 45.38 - 45.45  Очікувано. Але все це не дає відповіді...",
+      "excerpt": "",
+      "date": "24 листопада 2026",
+      "dateTS": 1795509800.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1183",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +92,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/1181",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1224,84 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/1060",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжбанк долар 45.39 - 45.46 Наказують спекулянтів та панікерів )",
-      "excerpt": "",
-      "date": "5 листопада 2026",
-      "dateTS": 1793881245.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1059",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Золото-валютні резерви на 1 листопада 2026 зросли на $1,97 млрд до $49,07 млрд  У листопаді надхо...",
-      "excerpt": "",
-      "date": "5 листопада 2026",
-      "dateTS": 1793878166.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1057",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Україна отримала ще 4,36 млрд євро від Європейського Союзу в межах Ukraine Support Loan. Із них 3...",
-      "excerpt": "",
-      "date": "5 листопада 2026",
-      "dateTS": 1793876083.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1056",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "На підтримку курсу за перші 2 дні тижня НБУ використав майже 810+ млн дол (моя оцінка)  Долар від...",
-      "excerpt": "",
-      "date": "5 листопада 2026",
-      "dateTS": 1793872256.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1055",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжбанк відкриття 45.47 - 45.52 Жорстке утримання курсу",
-      "excerpt": "",
-      "date": "5 листопада 2026",
-      "dateTS": 1793868743.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1054",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "🚀🇺🇸 С 1942 года индекс S&P 500 рос в течение 12 месяцев после каждых промежуточных выборов в США,...",
-      "excerpt": "",
-      "date": "4 листопада 2026",
-      "dateTS": 1793822123.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1053",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
@@ -1338,7 +1338,7 @@ const CONTENT = {
       "title": "Чому євро падає, а долар зростає: економісти ошелешили прогнозом про курс валют в Україні - ТСН",
       "excerpt": "Згадка у виданні ТСН",
       "date": "16 листопада 2026",
-      "dateTS": 1794849766.0,
+      "dateTS": 1794816000.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSWd1Mmc3MXlzdUxCeXc2NXhlNXZ5QzhHOHBxYl9hX2VXSklZNUVJRy1qQUVHS1FRX1JmbTVhcTFjWXIyUFRWNENaN1lhRjhuVXFUbV9laktNUC1ZWjVNajd4Qkkzdks2TDRNcU1ZWndJcDIyVUEyWGhXMFVZNERlSFBFY202d2h5S1BpNGNaNHBiQm5lUmFBVUtUTFZLZmpHMkVacEJ3WGdwSXppS3pfV2JsY3l2c3dHWi1QYzI0M1VScUhHUm1N0gHMAUFVX3lxTE81cmczd0R5TURLSlNWTmlod2JWUFlsMl9IRVpyWkhMM0ZwTTdvUnZUOUVUNjIyaGVVOWxyT3BNR1NoaEhwd0lXWXhseGlhaVFsUlhuaUpCZGN5TU0zNWt4TF9wRVgtalo5WHNlZnNiYTAyYkxKXzBMQVBTc3VVNzEyaVpLMXJkamJrLWZ3d2lQbWFhX0tiTXd2NGxXUnNEZm9XRFEyaWVEMW5vUGh2cW1qUUNrMFRJakNsMlRnYXhFcEtDUWppTjdPWjZmUA?oc=5",
       "external": true,
@@ -2611,6 +2611,19 @@ const CONTENT = {
       "source": "youtube",
       "tag": "youtube",
       "tagLabel": "YouTube",
+      "title": "BlackFriday й курс гривні. Чи буде падіння курсу #usduah #uah",
+      "excerpt": "Вплив сезону розпродажу на попит та пропозицію валюти, та динаміку курсу.",
+      "date": "24 листопада 2026",
+      "dateTS": 1795529771.0,
+      "readTime": "відео",
+      "url": "https://www.youtube.com/shorts/aAYYyqIO_KY",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "youtube",
+      "tag": "youtube",
+      "tagLabel": "YouTube",
       "title": "ГРИВНЯ ЄВРОПЕЙСЬКИЙ ЛІДЕР УКРІПЛЕННЯ. ЧИ НА ДОВГО?",
       "excerpt": "Такого розвитку подій на валютному ринку важко було собі уявити. Гривня стала лідером зростання європейських валют до долару за тиждень. У той час, як індекс долару на світовому ринку зріс 0,4%, курс",
       "date": "21 листопада 2026",
@@ -2618,7 +2631,7 @@ const CONTENT = {
       "readTime": "відео",
       "url": "https://www.youtube.com/watch?v=WjJfhcJEWpo",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "youtube",
