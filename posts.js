@@ -1,8 +1,47 @@
-// Автоматично оновлено: 2026-11-24 19:14 UTC
+// Автоматично оновлено: 2026-11-25 18:18 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЛЕГАЛІЗАЦІЯ КРИПТОВАЛЮТ. ДУМКИ  Головна зараз проблема для ринку в тому, що для багатьох просто н...",
+      "excerpt": "",
+      "date": "25 листопада 2026",
+      "dateTS": 1795626088.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/1194",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Роздрібні продажі за 10м2026 сповільнились до 7.4%.  Було 9,2% за 5 місяців до 7,4% за 10 місяців...",
+      "excerpt": "",
+      "date": "25 листопада 2026",
+      "dateTS": 1795621569.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1192",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "⚡️Рада приняла закон о легализации и налогообложении рынка криптовалют в Украине  Если Президент ...",
+      "excerpt": "",
+      "date": "25 листопада 2026",
+      "dateTS": 1795599468.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1191",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +53,7 @@ const CONTENT = {
       "readTime": "1 хв",
       "url": "https://t.me/shevchyshyn_trends/1189",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1263,48 +1302,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/1063",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Й втретє закинув старий невід... НБУ провів обмін безготівкової валюти на готівкову для задовільн...",
-      "excerpt": "",
-      "date": "5 листопада 2026",
-      "dateTS": 1793894268.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1062",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Американський ринок в жорсткому розпродажу на тлі розвороту ринку напівпровідникових технологій п...",
-      "excerpt": "",
-      "date": "5 листопада 2026",
-      "dateTS": 1793893810.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1061",
-      "external": true,
-      "featured": true
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Бізнес очікування в Україні найнижчі за останні 2 роки",
-      "excerpt": "",
-      "date": "5 листопада 2026",
-      "dateTS": 1793885211.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1060",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "112.ua",
+      "title": "Власники криптовалют без підтверджень ризикують великими податками при продажу - 112.ua",
+      "excerpt": "Згадка у виданні 112.ua",
+      "date": "25 листопада 2026",
+      "dateTS": 1795630371.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRkh1ZmpISmtmUkQycWVNWnBLaXhzOUxUVjFfR0JJNHFpR2xYZjZCYU42YW1ETGNTd0lDYXhSUDgxUFVvSTZ0YllQYUhxLVdwT2pOcldmeTZzOGhLa2ZSeUtDdWo5VmFGaDN3Y3ROSFhhSEdSSmlnY0s3VlVFUmVpdnpCSGs3d0NyVjRjZ0NYejhkb0hNTUZJRl9HMVJReXljWVpyRXNkOTFNaTg5SmxNV1hDX0t2anh0aEhoVHd6Um8?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -1316,7 +1329,33 @@ const CONTENT = {
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YeXEtMXU0dmx1Y3NhNURPQXB1VlBpOTZWVFp4WE1tV0F1ZTZBNjBLZGtnc2EweTU3QjlFaWpibkFaMXRBYzktVE9jalU2cGVaQ09rQlhVTGhzRWhSajd0b3VoZFU4SVFJZU1LckZRQXktU0thYzdF?oc=5",
       "external": true,
-      "featured": true
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "MY.UA",
+      "title": "Не поспішайте купувати валюту: експерти пояснили, як зберегти заощадження - MY.UA",
+      "excerpt": "Згадка у виданні MY.UA",
+      "date": "23 листопада 2026",
+      "dateTS": 1795424238.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQS0wwWExpcFFjRHk1NmpoaUMtZTNEZWw3ZEVVY3BsUGZJNENSdnoyM1k3VDJBOTNSWGEzWWh0a01mcjRWZ0V1NjI0aVM2NEpKRHZWOVBnUFR5WWhSUTJ6RkpCemN3dDBRNThjT1VvdUdBdGJDRDdMNjZ0c1pmS0M1WEl6Ty1UUkNiUkk4aUlHRzVnal9Ra05iVjlLX2lHeE9oM1A0NEN5eWpVb09RcVZEY2M2S2xqdVp5NnptZUVMajdhQmZGczRMZVpaYVZOSU5mZThLSlFOYjNOOUZhaVAtU0RLWEYzQdIB5wFBVV95cUxOQS1jUVBxdmdVdTB4YUNUVFU3Z19adV9NQndYV0dmWjZhakpwQVk1emlUZjBYQmdxSWFoTHIwbXVNTUhmUUczdVliMFNZdFBSNEVfMTlzVlgwanZTLXNmeDBrNVJySGh6U19HZEtEOWdCUm1OSFRhMEl3ZjJLcTBLcm9YcS1qSnd4R2pDQ0xHOFBuRjFzOWc0aXNSNERmZXdPTXNteV9CMFFfSmVZSVQ3SklSUUNKR25tYmR5bzgtQWF3WXJJVTFuMW1kd3JteWVocGxnRGotNkktc2UwTXdpTjJHdTRWWXM?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Delo.ua",
+      "title": "Гривня стала лідером зміцнення щодо долара серед європейських валют: чи довго це триватиме - Delo.ua",
+      "excerpt": "Згадка у виданні Delo.ua",
+      "date": "23 листопада 2026",
+      "dateTS": 1795420804.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLXNwaUx5M0FldUxOanZYUzRaM09DWmlrNXFXVG1yVVBDVHdNa0pHLVRudm5oS1VIaEU2RmFKRmJhaV9NVUFfQzEzNEJzMlhMTFRpV25fNDRoQ3c3dXhwQjh2bm1yM0ltcm9seDBaVkRiR0xWVUFvUWN1RTFJOC16VXBUOGRTNUNUV1pYemZHYkxscTFDMFlIdmpfdDh0MzZRMmUtVXRZRzVISlJBcUpEZ29nRWtYdUxoSExqMGdmT3Q?oc=5",
+      "external": true,
+      "featured": false
     },
     {
       "source": "news",
@@ -1328,6 +1367,19 @@ const CONTENT = {
       "dateTS": 1795331280.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43NVdab2dKZ0REdVhwZTNIX3A3ZXR4TWFDdmNVWnVBOUtUZ1VONlAtQmtSZVFRU1E4NjdjOEhxSS1XZERiSzVoS3BHd0VVSmsxUnoyRkhLYmZvd2JrTmQ00gFfQVVfeXFMTjc1V1pvZ0pnRER1WHBlM0hfcDdldHhNYUN2Y1VadUE5S1RnVU42UC1Ca1JlUVFTUTg2N2M4SHFJLVdkRGJLNWhLcEd3RVVKazFSejJGSEtiZm93YmtOZDQ?oc=5",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Запорізькі Вісті",
+      "title": "Долар на міжбанку впав до 45 гривень: чому в обмінниках курс значно вищий - Запорізькі Вісті",
+      "excerpt": "Згадка у виданні Запорізькі Вісті",
+      "date": "20 листопада 2026",
+      "dateTS": 1795144928.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTTNialZNd3VXbmlkdlZMZHVhRER3Vm9EcktHXzBuVzUzWFZUalZ0ZXZrTV9HVGNkTzItcE12UTlqbnZjdnRpU2tDSE9jQkY4Um5UY1VpMnBobFotQlJLVTNkVHJfdVRaSTJoZDhxdFJHWHBnOUxyWG9ZRlE1VWRxRzAyamxrMkZucnlMUXloV1E5T1l6SDMyYVZaSWo?oc=5",
       "external": true,
       "featured": false
     },
@@ -2550,58 +2602,6 @@ const CONTENT = {
       "dateTS": 1785567600.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbzRVR1ROTEhyR0R5SXFWcmt5MkxQdGJpWUE4eWMteDUzNkJMSVNWQzktaGpXaHc5QmZoLXpHcUgwRnp1Q2o2elBqYUxtWVV0N1NZTWVqOWdva2QzM1c5d2JCQXFaTk5weWtidWt4LTZJRDdzZHBnZy1YN0hoOTRjTmQzTHI4R0FycDVSWEpVVU5IcnRNTWptNzBNMXF3TnFOb0V5RmNzcllUWUVVbjUw0gGuAUFVX3lxTE5FYmh5TEZVVFA0NnlXWkl5dHB1SVZVVGx1Z2JWSFZiUjhvWFpBR3lfc0l6N2hBZlJkd1ZVSFJ3MFJJMlpOZTI2RThfbUduUXRuUER6T3FabmQ4UWhla3Raa1J2NVFDbGNRcm9DeHBkQS1YWjFhcVZuTUFXelNoSHBEUGRUaVZwVmxNc2I3TVBIaDA2cS1GZDJnZTEzYy1zWjlUaklLRWduRW94bG9PQQ?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "ТСН",
-      "title": "Дизель може здорожчати до 100 грн за літр: фінансовий аналітик пояснив причини - ТСН",
-      "excerpt": "Згадка у виданні ТСН",
-      "date": "1 серпня 2026",
-      "dateTS": 1785567600.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUEdpUUk5cE5XT3RzbXlBSFhKc1loYmpmZDdrM1AxNDlRdGJyVGJhVXFuZ0plNmJfR1hibmxDOUtaeFlCOWJkVXdWZXlYNVFLOXl5dVhZWHdSemJJdVgxeWJ0eVVSOXM5b2sxemExOFlWbEp3Uk9HT014N0hnYm0zYTgxbnhRTFVCRC1uMFVsYlNXMmxJdUhhQ2FfaWNxNkJsd3FVSTM4elNmalR4Qnh0ZlF1ckcxd3li0gG-AUFVX3lxTE4tQXR6TF90UFBsNm1vb055clpKU3o3TVEwR2V6SUhzS3lIazVqank0NTlWT2xaQmN6QTdOU3pVVU1PaWNsNGdiV1Z3OFRXRVJTVVQwazVlX1NBNTRoSHYtamVqbS1xNjRRYXA3YVRJY3VNY2Z6UVhMNmNFNEZRQzVFWERnXzNhTWpaRzhKNzB2bi1JOG5vQkNiNXE3QTJERnlJVTNhMUdTVUxDdThkSlFvX2ZiV3p4WmV0RUZmVnc?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "Новини.Live",
-      "title": "Найближчими днями ціни на дизель можуть сягнути 100 грн за літр: експерт назвав причину - Новини.Live",
-      "excerpt": "Згадка у виданні Новини.Live",
-      "date": "1 серпня 2026",
-      "dateTS": 1785567600.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS2JhOE05M3pjYU5WejkxelRiMW1lZGJhNS1RNEFMOGEzRjJfRUs4MDNUTGpKYjA2UkpHTlVHS1d0MDcyOWNwdk0xOENKalFzWHdtVS1sTnF5UlB0b1Y5X2xETUF6NXpCY19Ya1M1M3J5QjJzYnkySUFydlBOMC0ybWZ6TXF5dFoxYmxSVlg1YWRkWWFGN1hOZHNtN0YxS0ZFYUZ2YU5pSVVFdWxGd0FsSnFpNmV3cTNfM1hnNlI4eVotX29jdUpz0gHMAUFVX3lxTE02UWsybEJSMW0yWG1pMHdWbThOa3hQdGxrU3pzS2pUb3JoTTVUT0liZnZQVDZfZlIyQmRGZkRhVGZ6cHQzSWl5eGJkVDFfOHlGOWxzRjRzbVhBaTNsTGllek5WdUR1NUw4VEZ0YUhVU1lmQWNDR2Y1ZERKWFp4UlJGb0N5OUF1bUpDMURqX0JxLTVGNUZpMkdCZ3RUSjAtcEx1eVJKWl9YTXpnTmFSaVBDdlJmRDFNNXdsaDNYY0R4RnR1N2ZHOXFMRjU4WA?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "Главред",
-      "title": "Водіїв попередили про новий стрибок цін на пальне: названо точні терміни - Главред",
-      "excerpt": "Згадка у виданні Главред",
-      "date": "1 серпня 2026",
-      "dateTS": 1785567600.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEEwU1FXdEd4VDhlUmRQME5TaFRjWGFBcmRBa1E0MUF4RTFncjZDUDVCNlJBSWRCNVUxeUZndnM3MHdDaWJKTURZNl93c28xNm42LWc1MkZ1WjNEMjFNZFJLWGQzOU9nSzFxSmllck5tLVdUY2tyTEQwaVJJbUFsYVdoa2lGVi1IbXRmZVBmYU5DWDUxbVlfU1lYMzIzWDQ2MmdRRk9TQW5mUdIBrwFBVV95cUxOS0doR2k0Y1dxMUpaTHpXbXVySzcwTkpwRVdjTXJvWmdlbDhOUjg0N1NQMFg5NVlWeE9qcW91UFgwNFhGaDh4dkVxWlpoY0NXamg3a1NEU0dxTVNsUnY4ZGhhZTFpdDc5cDF2Z3pkQTFKcG0zRmpWTms3VGRlc2ZXV2xkaVgzS1Z3YmZFdXZRSkVsMGd6eU1jV1JqYm1xeHY1c0pmTGxVMXBXQlo4ZV9B?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "ТСН",
-      "title": "Долар може зрости до 46 гривень: економісти пояснили, що буде з курсом у серпні - ТСН",
-      "excerpt": "Згадка у виданні ТСН",
-      "date": "1 серпня 2026",
-      "dateTS": 1785567600.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb1dYejlrOUpYaDdnMjZCSWJ0b2Q0UFRJeXhiSXFWbXJBY0hQbFJpaDUyTThGMlJJWFd0QU9rdzBfTWpZeDVYOW5Xbk5UbXZWOElUUXFndzJ6cS1acExoaUpFTVdiNEJ5Znl6U1RLNF9tQ2YwQ3Nfb3F5c0tTU1A3TXpHbVNFcmI3WjZHX1FkVnFVRFA3TUktcWhsRi1EbTVMenl2QUZsN2dDZGpEQ3pHelc0bG1SSTB6cUHSAb8BQVVfeXFMUDBXSkdkWkxncE96c25vdmtMTnlEN3JBRmNLNnZUY1ZnVmxDbzhIZ01UamVfME5yaGtaaF9GWWN5dFNtT2poVnBtQzloLVl5UUJCTU5DZ2loUng5dUZBcUwwNnRNS1VwdEhWcDBUWUE5NnhuSldhUmxydDB3Z2tDcHA4alQ1ckk3d2ZDRlhSVm1yeUZYTnczY2FGaXM3RVN2SUg5eDhac090ZWRVd3hZb016TXkxTUFDa2NJVnV0LUk?oc=5",
       "external": true,
       "featured": false
     }
