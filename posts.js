@@ -1,8 +1,112 @@
-// Автоматично оновлено: 2026-11-25 18:18 UTC
+// Автоматично оновлено: 2026-11-26 17:59 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ЄЦБ оголосив ім'я наступного голови  Пабло Ернандес де Кос змінить Крістін Лагард, яка залишить с...",
+      "excerpt": "",
+      "date": "26 листопада 2026",
+      "dateTS": 1795705848.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1203",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ПАЛИВО БІЗНЕСУ: ДИЗЕЛЮ БІЛЬШЕ, ГАЗУ ТА ВУГІЛЛЯ МЕНШЕ  Використання палива, згідно даним Держстату...",
+      "excerpt": "",
+      "date": "26 листопада 2026",
+      "dateTS": 1795704731.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/1202",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ПАЛИВО БІЗНЕСУ: ДИЗЕЛЮ БІЛЬШЕ, ГАЗУ ТА ВУГІЛЛЯ МЕНШЕ  Держстат нарешті надав дані по використанню...",
+      "excerpt": "",
+      "date": "26 листопада 2026",
+      "dateTS": 1795703069.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1201",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Україна отримала від Світового банку та під гарантії уряду Японії 450 млн доларів за двома програ...",
+      "excerpt": "",
+      "date": "26 листопада 2026",
+      "dateTS": 1795701141.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1200",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "У вівторок 24 листопада на міжбанку вперше дефіцит клієнтських операцій впав нижче 100 млн дол (м...",
+      "excerpt": "",
+      "date": "26 листопада 2026",
+      "dateTS": 1795695676.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1199",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "В Мінагро прогнозують, що до кінця маркетингового року, через скорочення експорту та зростання ви...",
+      "excerpt": "",
+      "date": "26 листопада 2026",
+      "dateTS": 1795695077.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1197",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Українці продовжують нарощувати купівлю безпоставочного золота, а фізичне срібло скидають  У жовт...",
+      "excerpt": "",
+      "date": "26 листопада 2026",
+      "dateTS": 1795694678.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1196",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "У ЖОВТНІ 2026 БАНКИ ЗНИЗИЛИ ЗАВЕЗЕННЯ ГОТІВКОВОЇ ВАЛЮТИ   У жовтні банки завезли готівкової валют...",
+      "excerpt": "",
+      "date": "26 листопада 2026",
+      "dateTS": 1795690432.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1195",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -1198,113 +1302,22 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/1071",
       "external": true,
       "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Ринок праці: кількість нових вакансій у жовтні −10,5% р/р (у роздрібній торгівлі −27,7%)  Руйнува...",
-      "excerpt": "",
-      "date": "6 листопада 2026",
-      "dateTS": 1793983804.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1070",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "В жовтні українці скоротили об'єм валютних готівкових операцій через обмінки:  Купують 57,4% готі...",
-      "excerpt": "",
-      "date": "6 листопада 2026",
-      "dateTS": 1793978125.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1069",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Готівкові валютні операції населення, в розрізі валют.  В жовтні 2026 українці купили готівкової ...",
-      "excerpt": "",
-      "date": "6 листопада 2026",
-      "dateTS": 1793977701.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1068",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Долар повертається до зростання через сильну статистику США по ринку праці.  Кількість нових робо...",
-      "excerpt": "",
-      "date": "6 листопада 2026",
-      "dateTS": 1793975103.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1067",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "На міжбанку курс докатив до 45.27 -  45.34 НБУ показує, що гроші на інтервенції є, що тримати кур...",
-      "excerpt": "",
-      "date": "6 листопада 2026",
-      "dateTS": 1793971853.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1066",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Уф... оказывается, с марта Пентагон прекратил поставлять Украине вооружения по программе USAI - э...",
-      "excerpt": "",
-      "date": "6 листопада 2026",
-      "dateTS": 1793963196.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1065",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжбанк 45.33 - 45.37 Й це на фоні падіння євро до долару сьогодні на світовому ринку  Операції н...",
-      "excerpt": "",
-      "date": "6 листопада 2026",
-      "dateTS": 1793959358.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1064",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Залишки коштів населення та ФОП у банках за результатами вересня 2026: - для 97,9% вкладників з з...",
-      "excerpt": "",
-      "date": "5 листопада 2026",
-      "dateTS": 1793896182.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1063",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
+    {
+      "source": "news",
+      "tag": "news",
+      "tagLabel": "Слово і Діло",
+      "title": "15 млрд гривень від крипторинку: чи реальні очікування держави від легалізації - Слово і Діло",
+      "excerpt": "Згадка у виданні Слово і Діло",
+      "date": "26 листопада 2026",
+      "dateTS": 1795685040.0,
+      "readTime": "2 хв",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcGw5X291V18wVEZ1djJDekV2Z1JibFRpM1I1SXo2VjkwUHNwYWdkZ3dQM1ZJQm1jbm5ydldUX0hVbEdvUnQ4dnQ1Q2x1R1dJMXZVTjNLSmlFellqdGRINC1qdXpZQ3pzN2gtWUJtRVNjMTdiMmJrNUx2bkpiTTAycEZjME1OOVlrMXNLQ0RxOXVVYkpFTFNVM3dyNnBJUnhrLWJ2TURtanVidWdNUVJ2RnFFcHgwMFp2c2RXWC1fZVAybmJCd1Nv0gHMAUFVX3lxTE9SMGJ3TElZeVhpSGtJTkhKdG9OMThWczFJWkRxcUZ6ZjRDSkdSVWNVZDJxaUd4cW0xV0dNLVl5MTU2dFZjaGhyM1RHQzZhdnBEdVN5OW9wNGNJUWtXVmpBdXYxWTY4UF8tYzVialVNVExzOWUwN1VnM203N3MwdjBSZ28wbHFxY1FpTjRPVXoxZ0NHbU1WV0x0ZV9Dc2txTE1mREd2djg2Tm1BYjFJcXdITl9MblhPQ3RBd0NOU1BNU1NIdng3LVpiaTNabw?oc=5",
+      "external": true,
+      "featured": true
+    },
     {
       "source": "news",
       "tag": "news",
@@ -2589,19 +2602,6 @@ const CONTENT = {
       "dateTS": 1785567971.0,
       "readTime": "2 хв",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRmdiUHdtalcxdUVUOGkwLUVNV1V2RWVuZV90Ukh5U25qYUFvM3RvNW94Sl80SEtKamdvdmRvRW81RHlnU0UwN2tVRXprR1JKemt6YnUzUGNheVZWT3lxMnFqWjVDb2djelBxM01HbGt6UXRyTWJSMDdLbzhDOHpnM0lOQzVqYWlzWWRkRHFWa0R5eFBFRllQVWJkZnF1clZWR1FuUWVVWC1WQ0lqUm5rQV9QdmRGa05jV3FzalRWbUFmTl82SXpJYXB5aG9vUXVjV1o4emVKLXQxaHRzVnJQc1Q0NENoZHJSWHROUEZJMmlfbDg3NkHSAfcBQVVfeXFMT01rSjFyQkdKUkhCaUJGNDU4TW82aGo2VS1KMEtCMmNZTEE2cnlWWjFZU191UFNYSF9UaHcybDE2Tjlkd0hmODh5RzVTRU5LLVM4TmlfaWdCTHBlUGhEcFdoTUgyX2hncnJ5R25VcnBRaWhYZTVlVThzM0RBTzhEYmNpZFotbWpOcnFIT2tYcERURk5wOHdmRng2RFhuRDE2MjdfVm1vMU1PdFNINFlQeDZuZlNjNDk5SDhZWUxnSlpuZS1vV1ItSnZYWW9MS2F5M0RobzExSkNxc291UWN3UDVCMEoxYnUtUmFHU2dTeUtrdGhEQkhTNA?oc=5",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "news",
-      "tag": "news",
-      "tagLabel": "Радіо ТРЕК",
-      "title": "Долар може сягнути 46 гривень: економісти озвучили прогноз на серпень - Радіо ТРЕК",
-      "excerpt": "Згадка у виданні Радіо ТРЕК",
-      "date": "1 серпня 2026",
-      "dateTS": 1785567600.0,
-      "readTime": "2 хв",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbzRVR1ROTEhyR0R5SXFWcmt5MkxQdGJpWUE4eWMteDUzNkJMSVNWQzktaGpXaHc5QmZoLXpHcUgwRnp1Q2o2elBqYUxtWVV0N1NZTWVqOWdva2QzM1c5d2JCQXFaTk5weWtidWt4LTZJRDdzZHBnZy1YN0hoOTRjTmQzTHI4R0FycDVSWEpVVU5IcnRNTWptNzBNMXF3TnFOb0V5RmNzcllUWUVVbjUw0gGuAUFVX3lxTE5FYmh5TEZVVFA0NnlXWkl5dHB1SVZVVGx1Z2JWSFZiUjhvWFpBR3lfc0l6N2hBZlJkd1ZVSFJ3MFJJMlpOZTI2RThfbUduUXRuUER6T3FabmQ4UWhla3Raa1J2NVFDbGNRcm9DeHBkQS1YWjFhcVZuTUFXelNoSHBEUGRUaVZwVmxNc2I3TVBIaDA2cS1GZDJnZTEzYy1zWjlUaklLRWduRW94bG9PQQ?oc=5",
       "external": true,
       "featured": false
     }
