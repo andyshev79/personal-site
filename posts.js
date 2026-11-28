@@ -1,8 +1,86 @@
-// Автоматично оновлено: 2026-11-27 17:44 UTC
+// Автоматично оновлено: 2026-11-28 16:30 UTC
 // НЕ редагуй вручну — файл перезаписується GitHub Actions щодня
 
 const CONTENT = {
   "telegram": [
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ЛИСТОПАД 2026 – ГРИВНЯ В ДЕСЯТЦІ ЛІДЕРІВ УКРІПЛЕННЯ У СВІТІ. РЕКОРД ІНТЕР...",
+      "excerpt": "",
+      "date": "28 листопада 2026",
+      "dateTS": 1795882858.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1222",
+      "external": true,
+      "featured": true
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ЛИСТОПАД 2026 – ГРИВНЯ В ДЕСЯТЦІ ЛІДЕРІВ УКРІПЛЕННЯ У СВІТІ. РЕКОРД ІНТЕР...",
+      "excerpt": "",
+      "date": "28 листопада 2026",
+      "dateTS": 1795882592.0,
+      "readTime": "3 хв",
+      "url": "https://t.me/shevchyshyn_trends/1221",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ЛИСТОПАД 2026 – ГРИВНЯ В ДЕСЯТЦІ ЛІДЕРІВ УКРІПЛЕННЯ У СВІТІ. РЕКОРД ІНТЕР...",
+      "excerpt": "",
+      "date": "28 листопада 2026",
+      "dateTS": 1795882513.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1220",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ЛИСТОПАД 2026 – ГРИВНЯ В ДЕСЯТЦІ ЛІДЕРІВ УКРІПЛЕННЯ У СВІТІ. РЕКОРД ІНТЕР...",
+      "excerpt": "",
+      "date": "28 листопада 2026",
+      "dateTS": 1795882394.0,
+      "readTime": "3 хв",
+      "url": "https://t.me/shevchyshyn_trends/1219",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "ВАЛЮТНИЙ РИНОК УКРАЇНИ: ЛИСТОПАД 2026 – ГРИВНЯ В ДЕСЯТЦІ ЛІДЕРІВ УКРІПЛЕННЯ У СВІТІ. РЕКОРД ІНТЕР...",
+      "excerpt": "",
+      "date": "28 листопада 2026",
+      "dateTS": 1795882331.0,
+      "readTime": "2 хв",
+      "url": "https://t.me/shevchyshyn_trends/1218",
+      "external": true,
+      "featured": false
+    },
+    {
+      "source": "telegram",
+      "tag": "telegram",
+      "tagLabel": "Telegram",
+      "title": "Готую місячний валютний огляд за листопад 2026. Ось декілька інсайдів:  1. З початку листопада (п...",
+      "excerpt": "",
+      "date": "28 листопада 2026",
+      "dateTS": 1795861971.0,
+      "readTime": "1 хв",
+      "url": "https://t.me/shevchyshyn_trends/1216",
+      "external": true,
+      "featured": false
+    },
     {
       "source": "telegram",
       "tag": "telegram",
@@ -14,7 +92,7 @@ const CONTENT = {
       "readTime": "3 хв",
       "url": "https://t.me/shevchyshyn_trends/1215",
       "external": true,
-      "featured": true
+      "featured": false
     },
     {
       "source": "telegram",
@@ -1224,84 +1302,6 @@ const CONTENT = {
       "url": "https://t.me/shevchyshyn_trends/1089",
       "external": true,
       "featured": true
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Я бачу силу-силену людей, хто встановив сонячні панелі з інверторами для персонального використан...",
-      "excerpt": "",
-      "date": "9 листопада 2026",
-      "dateTS": 1794237973.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1088",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Китайська система транскордонних міжбанківських платежів CIPS здійснила з початку року до жовтня ...",
-      "excerpt": "",
-      "date": "9 листопада 2026",
-      "dateTS": 1794233740.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1087",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Міжбанк долар 45.60 - 45.65 майже +40коп до закриття п'ятниці  Готівковий ринок стабільний біля 4...",
-      "excerpt": "",
-      "date": "9 листопада 2026",
-      "dateTS": 1794232450.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1086",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Будівництво в Україні у вересні 2026 зросло на 37,9% до серпня та на 23,2% до вересня 2025 року. ...",
-      "excerpt": "",
-      "date": "9 листопада 2026",
-      "dateTS": 1794229079.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1085",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "Група Метінвест, з урахуванням асоційованих компаній та спільних підприємств, у січні-вересні 202...",
-      "excerpt": "",
-      "date": "9 листопада 2026",
-      "dateTS": 1794223186.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1084",
-      "external": true,
-      "featured": false
-    },
-    {
-      "source": "telegram",
-      "tag": "telegram",
-      "tagLabel": "Telegram",
-      "title": "🌐 Місія МВФ розпочала роботу щодо другого та третього переглядів програми розширеного фінансуванн...",
-      "excerpt": "",
-      "date": "9 листопада 2026",
-      "dateTS": 1794214221.0,
-      "readTime": "1 хв",
-      "url": "https://t.me/shevchyshyn_trends/1083",
-      "external": true,
-      "featured": false
     }
   ],
   "news": [
